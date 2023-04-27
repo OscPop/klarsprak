@@ -17,7 +17,7 @@ txt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ",
 
 
 completion = openai.ChatCompletion.create(
-  model="gpt-3.5-turbo",
+  model="gpt-4-0314",
   messages=[
     {"role": "user", "content": txt}
   ]
