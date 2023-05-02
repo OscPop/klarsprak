@@ -10,10 +10,6 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-st.title("Klarspråksmaskineriet")
-
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok")
-
 
 def prompt_template(prompt):
 
@@ -30,12 +26,28 @@ def prompt_template(prompt):
     return full_prompt
 
 
+st.title("Klarspråksmaskineriet")
+
+# Välja modell
+model = st.selectbox("Välj modell", ["gpt-3.5-turbo", "gpt-4-0314"], index=0)
+
+st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet.")
+
+
+# Skriva in prompt
+prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok")
+
 completion = openai.ChatCompletion.create(
-  model="gpt-4-0314",
+  model=model,
   messages=[
     {"role": "user", "content": prompt_template(prompt)}
   ]
 )
 
-
 st.write(completion.choices[0].message["content"])
+
+
+
+
+
+
