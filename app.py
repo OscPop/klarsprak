@@ -38,4 +38,4 @@ completion = openai.ChatCompletion.create(
 )
 
 
-st.write(completion.choices[0].message)
+st.write(completion.choices[0].message["content"])
