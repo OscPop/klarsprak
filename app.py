@@ -12,8 +12,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 st.title("Klarspråksmaskineriet")
 
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ",
-             placeholder="den her teksten er int klearsprok")
+prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok")
 
 
 def prompt_template(prompt):
