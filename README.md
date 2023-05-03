@@ -11,7 +11,7 @@ Running the following code gives us a list of models available through the OpenA
 # Available models
 for model in openai.Model.list()["data"]:
     print(model.id)
----------------------
+------------------------------------------
 babbage
 davinci
 text-davinci-edit-001
