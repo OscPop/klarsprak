@@ -33,6 +33,15 @@ def prompt_template(prompt):
 
     return messages
 
+st.session_state.completion_message = ""
+def proc():
+    completion = openai.ChatCompletion.create(
+      model=model,
+      messages=prompt_template(st.session_state.prompt)
+    )
+    completion_message = completion.choices[0].message["content"]
+    st.session_state.completion_message = completion_message
+
 
 st.title("Klarspråksmaskineriet")
 st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet. \
@@ -45,16 +54,15 @@ model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", [
 
 
 # Skriva in prompt
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
+st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
                       placeholder="den her teksten er int klearsprok", 
-                      height=600)
+                      height=600,
+                      on_change=proc,
+                      key="prompt")
 
-completion = openai.ChatCompletion.create(
-  model=model,
-  messages=prompt_template(prompt)
-)
 
-st.write(completion.choices[0].message["content"])
+
+st.write(st.session_state.completion_message)
 
 
 
