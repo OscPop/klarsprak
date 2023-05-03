@@ -46,15 +46,16 @@ model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", [
 
 # Skriva in prompt
 prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
-                      placeholder="den her teksten er int klearsprok", 
+                      placeholder="", 
                       height=600)
 
-completion = openai.ChatCompletion.create(
-  model=model,
-  messages=prompt_template(prompt)
-)
+if len(prompt) > 0:
+  completion = openai.ChatCompletion.create(
+    model=model,
+    messages=prompt_template(prompt)
+  )
 
-st.write(completion.choices[0].message["content"])
+  st.write(completion.choices[0].message["content"])
 
 
 
