@@ -13,17 +13,25 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def prompt_template(prompt):
 
-    full_prompt = f"""
+    messages = []
+
+    system_prompt = f"""
     Du är en hjälpsam AI-assistent som ska hjälpa användaren att skriva om text till klarspråk.
     Språknivån ska vara relevant till kontexten klarspråk för myndighetssvenska. 
     Du får under inga omständigheter ändra informationen eller lägga till information.
     Svara endast med den omskrivna texten.
-    
+    """
+
+    messages.append({"role": "system", "content": system_prompt})
+
+    user_prompt = f"""
     Här kommer meddelandet som ska skrivas om till klarspråk:
     '{prompt}'
     """
 
-    return full_prompt
+    messages.append({"role": "user", "content": user_prompt})
+
+    return messages
 
 
 st.title("Klarspråksmaskineriet")
@@ -35,13 +43,11 @@ st.write("Det här är en prototyp för att skriva om text till klarspråk. Det 
 
 
 # Skriva in prompt
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok")
+prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok", height=600)
 
 completion = openai.ChatCompletion.create(
   model=model,
-  messages=[
-    {"role": "user", "content": prompt_template(prompt)}
-  ]
+  messages=prompt_template(prompt)
 )
 
 st.write(completion.choices[0].message["content"])
