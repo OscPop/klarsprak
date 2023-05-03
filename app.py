@@ -11,6 +11,13 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
+# Initiera session state
+if "completion_message" not in st.session_state:
+   st.session_state.completion_message = ""
+if "prompt" not in st.session_state:
+    st.session_state.prompt = ""
+
+
 def prompt_template(prompt):
 
     messages = []
@@ -34,28 +41,39 @@ def prompt_template(prompt):
     return messages
 
 
+
+def proc():
+    if st.session_state.prompt != "":
+      completion = openai.ChatCompletion.create(
+        model=model,
+        messages=prompt_template(st.session_state.prompt)
+      )
+      completion_message = completion.choices[0].message["content"]
+      st.session_state.completion_message = completion_message
+
+
 st.title("Klarspråksmaskineriet")
 st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet. \
          All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan.")
 
 
 # Välja modell
-model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"], index=0)
+model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"],
+                     index=0,
+                     on_change=proc)
 
 
 
 # Skriva in prompt
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
-                      placeholder="", 
-                      height=600)
+st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
+                      placeholder="den her teksten er int klearsprok", 
+                      height=600,
+                      on_change=proc,
+                      key="prompt")
 
-if len(prompt) > 0:
-  completion = openai.ChatCompletion.create(
-    model=model,
-    messages=prompt_template(prompt)
-  )
 
-  st.write(completion.choices[0].message["content"])
+
+st.write(st.session_state.completion_message)
 
 
 
