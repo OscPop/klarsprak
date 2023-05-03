@@ -4,8 +4,8 @@ This repo is made in the purpose of exploring ChatGPT's ability to convert Swedi
 The project is made as an app using streamlit, where the user can type some text which will be sent to OpenAI via their API. 
 
 
-# Available models
-Running the following code gives us a list of available models:
+# Available OpenAI models
+Running the following code gives us a list of models available through the OpenAI API:
 
 ```python
 # Available models
