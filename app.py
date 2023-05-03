@@ -35,15 +35,19 @@ def prompt_template(prompt):
 
 
 st.title("Klarspråksmaskineriet")
+st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet. \
+         All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan.")
+
 
 # Välja modell
-model = st.selectbox("Välj modell", ["gpt-3.5-turbo", "gpt-4-0314"], index=0)
+model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"], index=0)
 
-st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet.")
 
 
 # Skriva in prompt
-prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", placeholder="den her teksten er int klearsprok", height=600)
+prompt = st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
+                      placeholder="den her teksten er int klearsprok", 
+                      height=600)
 
 completion = openai.ChatCompletion.create(
   model=model,
