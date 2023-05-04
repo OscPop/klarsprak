@@ -51,34 +51,31 @@ def proc():
       st.session_state.completion_message = completion_message
 
 
-def app():
-
-  st.title("Klarspråksmaskineriet")
-  st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet. \
-          All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan.")
 
 
-  # Välja modell
-  model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"],
-                      index=0,
-                      on_change=proc)
+st.title("Klarspråksmaskineriet")
+st.write("Det här är en prototyp för att skriva om text till klarspråk. Det är en del av projektet Klarspråksmaskineriet. \
+        All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan.")
 
 
-
-  # Skriva in prompt
-  st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
-                        placeholder="den her teksten er int klearsprok", 
-                        height=600,
-                        on_change=proc,
-                        key="prompt")
+# Välja modell
+model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"],
+                    index=0,
+                    on_change=proc)
 
 
 
-  st.write(st.session_state.completion_message)
+# Skriva in prompt
+st.text_area("Klistra in text som ska skrivas om till klarspråk: ", 
+                      placeholder="den her teksten er int klearsprok", 
+                      height=600,
+                      on_change=proc,
+                      key="prompt")
 
 
-if __name__ == "__main__":
-    app()
+
+st.write(st.session_state.completion_message)
+
 
 
 
