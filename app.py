@@ -54,19 +54,18 @@ def proc():
 
 
 st.title("Klarspråksmaskineriet")
-st.write("Det här är en prototyp för att skriva om text till klarspråk med hjälp av chatboten GPT från OpenAI. All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan.")
-st.write("Det finns många olika AI-modeller att välja på från OpenAI, här kan 2 olika användas: GPT-3.5-turbo och GPT-4. GPT-3.5-turbo är lite snabbare men GPT-4 ska vara lite bättre. \
-         Det går att läsa mer om GPT-4 här: https://openai.com/product/gpt-4. Mer teknisk information angående modeller går att erhålla här: https://platform.openai.com/docs/models/overview")
+st.write("Det här är en prototyp för att skriva om text till klarspråk med hjälp av chatboten GPT från OpenAI. All information går i nuläget via amerikanska molntjänster, så klistra INTE in känslig information i fältet nedan. \
+         Detta är en tidig testversion av en sorts klarspråksassistent som är under utveckling, det är alltså inte garanterat att appen fungerar konstant. Den kan endast lämna förbättringsförslag på ren text och inte på layout eller bilder.\
+         Det primära användningsområdet bedöms vara de som vill få inspiration på hur man kan skriva om text till klarspråk. Läs alltid igenom texten som genereras med kritiska ögon och använd sunt förnuft. Det kan hända att AI\:n använder en omformulering som ändrar innebörden av texten.")
 
-st.write("Detta är en tidig testversion av en sorts klarspråksassistent som är under utveckling, det är alltså inte garanterat att appen fungerar konstant. Den kan endast lämna förbättringsförslag på ren text och inte på layout eller bilder.")
-st.write("Det primära användningsområdet bedöms vara de som vill få inspiration på hur man kan skriva om text till klarspråk. Läs alltid igenom texten som genereras med kritiska ögon och använd sunt förnuft. Det kan hända att AI\:n använder en omformulering som ändrar innebörden av texten.")
-
-st.write("Med det sagt, välkommen att testa! Lämna gärna feedback/tankar på om det är användbart och hur man skulle kunna utveckla det vidare.")
+st.write("Med det sagt, välkommen att testa! Lämna gärna feedback/tankar på om det är användbart och hur man skulle kunna utveckla det vidare. Skriv gärna till mig (Oscar) på teams/mail om ni har frågor eller funderingar.")
 
 with st.expander("Hur funkar det?"):
     st.write("Appen använder sig av en AI-modell som heter GPT från OpenAI. Det är en sorts chatbot som kan skriva text baserat på en prompt (en kort beskrivning av vad som ska skrivas). \
-            AI\:n har tränats på en stor mängd text från internet och kan därför skriva text som liknar mänsklig text. Det finns många olika AI-modeller att välja på från OpenAI, här kan 2 olika användas: GPT-3.5-turbo och GPT-4. \
-            För att underlätta för användaren har jag redan lagt in en prompt som berättar lite för AI\:n vad den ska göra. Det fullständiga meddelandet till AI\:n blir alltså \
+            AI\:n har tränats på en stor mängd text från internet och kan därför skriva text som liknar mänsklig text. Det finns många olika AI-modeller att välja på från OpenAI, här kan 2 olika användas: GPT-3.5-turbo och GPT-4. GPT-3.5-turbo är lite snabbare men GPT-4 ska vara lite bättre. \
+            Det går att läsa mer om GPT-4 här: https://openai.com/product/gpt-4. Mer teknisk information angående modeller går att erhålla här: https://platform.openai.com/docs/models/overview.")
+            
+    st.write("För att underlätta för användaren har jag redan lagt in en prompt som berättar lite för AI\:n vad den ska göra. Det fullständiga meddelandet till AI\:n blir alltså \
             mina instruktioner, följt utav meddelandet som ska skrivas om till klarspråk. ")
    
     st.markdown("## Mina instruktioner till AI\:n är:")
