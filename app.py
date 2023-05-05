@@ -84,7 +84,7 @@ model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", [
 
 
 # Skriva in prompt
-st.text_area("Klistra in text som ska skrivas om till klarspråk och tryck (CTRL + ENTER): ", 
+st.text_area("Klistra in text som ska skrivas om till klarspråk (och tryck CTRL + ENTER): ", 
             placeholder="den her teksten er int klearsprok", 
             height=600,
             on_change=proc,
