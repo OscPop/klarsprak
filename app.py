@@ -76,6 +76,9 @@ with st.expander("Hur funkar det?"):
     st.markdown("*Här kommer meddelandet som ska skrivas om till klarspråk:*")
     st.markdown("[meddelandet som ska skrivas om]")
 
+    st.markdown("## Bygga vidare på appen")
+    st.markdown("Det går naturligtvis att justera prompten som man skickar in. En tanke vi haft är att lägga in instruktioner från Riksrevisionens klarspråksguide som prompt.")
+
 # Välja modell
 model = st.selectbox("Här kan du välja vilken AI-modell som ska användas:", ["gpt-3.5-turbo", "gpt-4-0314"],
                     index=0,
