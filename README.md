@@ -86,3 +86,5 @@ text-babbage:001
 1. You will need an openai api key to access the openai models. Add it to your environment variables.
 2. You will need to install the python library dependencies.
 3. To run the app, type ```streamlit run app.py``` in the command line.
+
+If you get something along the lines of `... command not found: streamlit`, try prefixing the command with "python". I.e., `python -m streamlit run app.py`. Another thing you could try is to make sure the virtual environment is active. 
