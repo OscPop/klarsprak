@@ -1,3 +1,12 @@
+- [Introduction](#introduction)
+  * [Example](#example)
+  * [Available OpenAI models](#available-openai-models)
+  * [Requirements](#requirements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 # Introduction
 This repo is made in the purpose of exploring ChatGPT's ability to convert Swedish text into 'klarspråk'.
 
