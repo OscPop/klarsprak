@@ -1,7 +1,7 @@
-# Intro
+# Introduction
 This repo is made in the purpose of exploring ChatGPT's ability to convert Swedish text into 'klarspråk'.
 
-The project is made as an app using streamlit, where the user can type some text which will be sent to OpenAI via their API. 
+The project is made as an app using streamlit, where the user can type some text which will be sent to OpenAI via their API. There are two branches - the main branch is for trying out the app locally, while the other branch is what is being deployed using Streamlit. The main difference is the way environment variables are stored, i.e., in a `.env`file or encrypted in Streamlit.
 
 
 # Available OpenAI models
