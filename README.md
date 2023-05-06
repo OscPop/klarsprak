@@ -1,3 +1,4 @@
+# Table of Contents
 - [Introduction](#introduction)
   * [Example](#example)
   * [Available OpenAI models](#available-openai-models)
