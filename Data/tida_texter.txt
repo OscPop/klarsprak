@@ -1,0 +1,37 @@
+
+-------------------- DEL 1 --------------------
+
+Teknik, innovation och data
+I en omvärld som förändras snabbt behöver vi kunna anpassa oss och ta till oss nya metoder, tekniker, verktyg och arbetssätt för att vara relevanta. I dag handlar det till stor del om att kunna använda data på ett effektivt sätt.
+
+Staten producerar enorma mängder data och organisationer som vi granskar blir alltmer beroende av artificiell intelligens och andra digitala tekniker för att processa data och utföra sina uppdrag. Det påverkar oss, som ska granska dem.
+
+Betydelsen av data i vår verksamhet är inte ny, men med dagens teknik har vi fått betydligt bättre möjligheter att utvinna värde och kunskap ur dem. Med nya verktyg och metoder kan vi förstå omvärlden och fatta beslut baserat på mycket stora datamängder. Med ett datadrivet arbetssätt kommer vi att kunna effektivisera granskningen, effektivisera interna processer, lösa problem på nya sätt, svara på andra typer av frågor, med mera.
+
+Men vi behöver lära oss att använda de data vi har mer effektivt. Vi måste förstå datakällorna och de konstruktioner, metoder och tekniker som tillämpas. För att göra det behöver vi testa och implementera nya tekniker, metoder och arbetssätt och öka vår kompetens, både genom att attrahera relevant kompetens och genom kompetensutveckling av befintliga medarbetare.
+
+En viktig pusselbit i Riksrevisionens utveckling mot att bli en datakompetent och datadriven verksamhet är den nybildade funktionen för teknik, innovation, och data, Tida. I granskningsverksamheten och inom avdelningarna finns begränsade möjligheter att testa och utveckla nya metoder och arbetssätt, bland annat på grund av hög leveranstakt. Men den centrala stödfunktionen Tida kan utforska området och bygga och sprida kompetens inom Riksrevisionen.
+
+
+-------------------- DEL 2 --------------------
+
+Funktionen för teknik, innovation och data (Tida)
+Funktionen för teknik, innovation och data är placerad vid avdelningen för ledningsstöd. Funktionen ska fungera som en katalysator i Riksrevisionens digitala transformation mot en datadriven verksamhet.
+
+Tida ska samla expertkompetens från olika delar av verksamheten för att kunna föda fram nya idéer och verktyg som bygger ett Riksrevisionen i framkant och skapar långsiktig verksamhetsnytta. Det kan till exempel handla om att ta fram prototyper som testas och utvecklas i tätt samarbete med verksamheten för att sedan kunna användas bredare i Riksrevisionen.
+
+Tidas tre huvudsakliga uppgifter
+Vara navet i utvecklingen av dataanalys, till exempel implementera nya metoder som tillämpad maskininlärning. Inom Tida ska det finnas expertis som tillsammans med verksamheten löser revisionsproblem med maskininlärning.
+Bistå verksamheten med expertkunskap inom digitala tekniker och bidra till att lyfta datamognaden och kunskapen om den digitala arbetsplatsen.
+Forma och kommunicera den strategiska inriktningen för Riksrevisionens digitala transformation. data- och tekniska miljö.
+Som en röd tråd genom allt som Tida gör löper behovet av att blicka mot horisonten och analysera hur omvärlden förändras och vilka behov och krav det skapar för Riksrevisionen.
+
+Tre hubbar i funktionen
+Funktionens uppgifter omfattar, grovt sett, tre områden, så kallade hubbar. Genom samtliga områden löper en process för omvärldsanalys, som ska föda verksamheten med idéer. Fokus ligger på hur den tekniska utvecklingen påverkar individer, organisationer och samhällen.
+
+Data- och analyshubben
+Här ska vi bygga upp bred och djup kompetens inom dataanalys och artificiell intelligens, AI. Hubben utvecklar datadrivna metoder och modeller som implementeras i verksamheten, ger stöd och vägledning i data- och analysfrågor till EFF- och ÅR-projekt samt utvecklar Riksrevisionens analytiska förmåga bland annat genom att tillhandahålla utbildningar, kurser och seminarier inom relevanta områden. I hubben bygger vi upp kunskap som används för att granska andra myndigheters användning av olika AI-baserade tekniker.
+Strategi- och arkitekturhubben
+Här tar vi fram ramar, riktlinjer och mål för strategier inom digitalisering, data och arkitektur.
+Hubben för utveckling av arbetssätt, arbetsplats och medarbetarnära teknik
+Här stöttar ambassadörerna verksamheten med metoder och tekniker för effektivare arbetssätt, möten och hantering av digitala redskap. I hubben testar vi dessutom ny teknik och hur den kan skapa nytta i verksamheten.
