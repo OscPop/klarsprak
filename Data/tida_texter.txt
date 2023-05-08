@@ -10,6 +10,7 @@ Betydelsen av data i vår verksamhet är inte ny, men med dagens teknik har vi f
 Men vi behöver lära oss att använda de data vi har mer effektivt. Vi måste förstå datakällorna och de konstruktioner, metoder och tekniker som tillämpas. För att göra det behöver vi testa och implementera nya tekniker, metoder och arbetssätt och öka vår kompetens, både genom att attrahera relevant kompetens och genom kompetensutveckling av befintliga medarbetare.
 
 En viktig pusselbit i Riksrevisionens utveckling mot att bli en datakompetent och datadriven verksamhet är den nybildade funktionen för teknik, innovation, och data, Tida. I granskningsverksamheten och inom avdelningarna finns begränsade möjligheter att testa och utveckla nya metoder och arbetssätt, bland annat på grund av hög leveranstakt. Men den centrala stödfunktionen Tida kan utforska området och bygga och sprida kompetens inom Riksrevisionen.
+
 -------------------- DEL 1 INPUT --------------------
 
 
@@ -38,8 +39,38 @@ En ny viktig funktion som kan hjälpa oss i vår strävan att bli en datadriven 
 -------------------- DEL 1 OUTPUT GPT-4-0314 --------------------
 
 
+-------------------- DEL 1 OUTPUT ChatGPT-4 --------------------
+**Teknik, innovation och data på Riksrevisionen**
 
+I en snabbt föränderlig värld behöver Riksrevisionen anpassa sig och ta till sig nya metoder, tekniker och verktyg för att förbli relevant. En stor del av detta handlar om att effektivt använda data.
 
+**Statens data och Riksrevisionens granskning:**
+
+- Stora mängder data produceras av staten och organisationer vi granskar
+- Ökat beroende av artificiell intelligens och digitala tekniker för att processa data och utföra uppdrag
+- Det påverkar Riksrevisionen som granskar dessa organisationer
+
+**Nya möjligheter med dagens teknik:**
+
+- Bättre möjligheter att utvinna värde och kunskap ur data
+- Datadrivet arbetssätt för effektivare granskning, interna processer och nya problemlösningar
+
+**Utmaningar för Riksrevisionen:**
+
+- Lära sig att använda data mer effektivt
+- Förstå datakällor, metoder och tekniker
+- Testa och implementera nya tekniker och arbetssätt
+- Öka kompetensen genom att attrahera relevant kompetens och utveckla befintliga medarbetare
+
+**Funktionen för teknik, innovation och data (Tida):**
+
+- En viktig del i Riksrevisionens utveckling mot en datakompetent och datadriven verksamhet
+- Ger stöd för att utforska och utveckla nya metoder och arbetssätt
+- Bygger och sprider kompetens inom Riksrevisionen
+
+För mer information om hur Riksrevisionen arbetar med teknik, innovation och data, besök vår hemsida.
+
+-------------------- DEL 1 OUTPUT ChatGPT-4 --------------------
 
 
 -------------------- DEL 2 INPUT --------------------
@@ -74,6 +105,22 @@ Funktionen har tre huvudsakliga områden de jobbar med. För det första ska de 
 
 Funktionen består av tre "hubbar" som jobbar med olika områden. Det första området handlar om data- och analyshantering där de utvecklar datadrivna metoder och modeller som implementeras i verksamheten samt ger stöd och vägledning till projekt som arbetar med data och analys. Det andra området fokuserar på strategier inom digitalisering, data- och teknisk arkitektur. Och det tredje området handlar om utveckling av nya arbetssätt och tekniker som kan hjälpa verksamheten att bli mer effektiv.
 
+-----------------------------------------------------------------
+Teknik-, innovations- och datagruppen (Tida) finns vid avdelningen för ledningsstöd. Tidas uppgift är att bidra till Riksrevisionens digitala utveckling mot en datadriven verksamhet. Tida samlar experter från olika delar av verksamheten för att tillsammans utveckla nya idéer och verktyg som hjälper Riksrevisionen att ligga i framkant och skapa långsiktiga fördelar. Det innefattar till exempel att skapa prototyper som testas och utvecklas tillsammans med verksamheten för att sedan kunna användas av hela Riksrevisionen.
+
+Tida har tre huvudsakliga uppgifter:
+
+Fungera som hjärtat av dataanalysutvecklingen, till exempel genom att införa nya metoder som praktisk maskininlärning. Tida innefattar experter som tillsammans med verksamheten löser revisionsproblem med hjälp av maskininlärning.
+Stödja verksamheten med expertkunskap om digitala tekniker och bidra till ökad datamognad och kunskap om den digitala arbetsplatsen.
+Formulera och kommunicera Riksrevisionens strategiska inriktning för den digitala omvandlingen samt dess data- och teknikmiljö.
+Tida har också ansvar för att följa och analysera hur omvärlden förändras och vilka behov och krav dessa förändringar skapar för Riksrevisionen.
+
+Tida innefattar tre huvudsakliga fokusområden, kallade "hubbar":
+
+Data- och analyshubben: Här byggs bred och djup expertis inom dataanalys och konstgjord intelligens (AI). Hubben utvecklar datadrivna metoder och modeller för verksamheten och erbjuder stöd och vägledning i data- och analysfrågor för projekten EFF och ÅR. Hubben ökar också Riksrevisionens analytiska kapabilitet genom att erbjuda utbildning, kurser och seminarier inom relevanta områden. Dessutom samlas kunskap om andra myndigheters användning av AI-baserade tekniker.
+Strategi- och arkitekturhubben: Här arbetar vi med att skapa ramar, riktlinjer och mål för strategier inom digitalisering, data och arkitektur.
+Hubben för utveckling av arbetssätt, arbetsplats och teknik nära medarbetarna: Här hjälper ambassadörerna verksamheten med metoder och tekniker för effektivare arbetsprocesser, möten och hantering av digitala verktyg. I denna hubb testas även ny teknik och hur den kan skapa fördelar för verksamheten.
+
 -------------------- DEL 2 OUTPUT GPT-3.5-turbo --------------------
 
 
@@ -96,4 +143,56 @@ Data- och analys-hubben: Här bygger vi upp djupgående kunskaper inom dataanaly
 Strategi- och arkitektur-hubben: Här utformar vi riktlinjer och mål för digitaliserings- och datastrategier samt arkitektur.
 Hubben för utveckling av arbetssätt, arbetsplats och teknik nära medarbetaren: Här ger ambassadörerna stöd i effektiva metoder, möten och hantering av digitala verktyg. Vi testar också ny teknik för att se hur den ger nytta i verksamheten.
 
+
+-----------------------------------------------------------------
+Teknik, innovation och data-enhet (Tida) Teknik, innovation och data-enheten finns inom avdelningen för ledningsstöd. Enhetens uppdrag är att hjälpa Riksrevisionen att bli mer digital och datadriven.
+
+Tida samlar experter från olika delar av verksamheten för att tillsammans skapa nya idéer och verktyg. Målet är att ha en modern och effektiv Riksrevision som drar nytta av digitaliseringen. En del i det arbetet är att skapa testversioner av nya verktyg som sedan kan användas av alla på Riksrevisionen.
+
+Tída har tre huvuduppgifter:
+
+Stödja utvecklingen av dataanalys, till exempel genom att använda maskininlärning. Experter inom Tida hjälper verksamheten att lösa problem med hjälp av maskininlärning.
+Ge expertkunskap inom digitala tekniker och hjälpa verksamheten att bli bättre på att använda digitala verktyg.
+Skapa och berätta om vilken riktning Riksrevisionens digitala omvandling ska ta.
+En viktig del av Tidas arbete är att följa med i vad som händer i omvärlden och förstå hur det påverkar Riksrevisionen.
+
+Tida har tre huvudområden, eller hubbar:
+
+Data- och analyshubben - Här bygger vi upp kunskap inom dataanalys och artificiell intelligens (AI) för att använda och granska AI-teknik hos andra myndigheter. Vi utvecklar datadrivna metoder, ger stöd i datafrågor och erbjuder utbildningar inom relevanta områden.
+Strategi- och arkitekturhubben - Här tar vi fram riktlinjer och mål för strategier inom digitalisering, data och arkitektur.
+Hubben för utveckling av arbetssätt, arbetsplats och närliggande teknik - Här hjälper ambassadörerna andra inom verksamheten att använda teknik och metoder för effektivare arbete och möten. Vi testar också ny teknik för att se hur den kan göra nytta i verksamheten.
+
 -------------------- DEL 2 OUTPUT GPT-4-0314 --------------------
+
+
+
+
+
+
+-------------------- DEL 2 OUTPUT ChatGPT-4 --------------------
+Teknik, innovation och data på Riksrevisionen
+
+Riksrevisionen har en avdelning som fokuserar på teknik, innovation och data. Deras mål är att göra Riksrevisionen mer modern och datadriven.
+
+Avdelningens huvuduppgifter:
+
+Samla kunskap från hela organisationen för att komma på nya idéer och skapa användbara verktyg
+Skapa och testa prototyper tillsammans med resten av verksamheten innan de sprids vidare
+De tre huvudområdena som avdelningen fokuserar på:
+
+Dataanalys
+Använda maskininlärning för att lösa problem inom revision
+Expertis inom digital teknik
+Hjälpa verksamheten med digitala verktyg och öka medarbetarnas kunskap om digitala arbetsplatser
+Planering och kommunikation av Riksrevisionens digitala förändring
+Avdelningens tre grupper och deras ansvarsområden:
+
+Data- och analysgruppen
+Skapa metoder och modeller för datadriven revision
+Ge stöd och vägledning till projekt som jobbar med data och analys
+Digitaliseringsstrategier och arkitekturgruppen
+Fokusera på strategier för digitalisering samt data- och teknikarkitektur
+Nya arbetssätt och teknikgruppen
+Utveckla nya arbetssätt och tekniker för att göra verksamheten mer effektiv
+Besök vår hemsida för mer information om hur Riksrevisionen arbetar med teknik, innovation och data.
+-------------------- DEL 2 OUTPUT ChatGPT-4 --------------------
