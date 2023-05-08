@@ -1,6 +1,5 @@
 
--------------------- DEL 1 --------------------
-
+-------------------- DEL 1 INPUT --------------------
 Teknik, innovation och data
 I en omvärld som förändras snabbt behöver vi kunna anpassa oss och ta till oss nya metoder, tekniker, verktyg och arbetssätt för att vara relevanta. I dag handlar det till stor del om att kunna använda data på ett effektivt sätt.
 
@@ -11,10 +10,39 @@ Betydelsen av data i vår verksamhet är inte ny, men med dagens teknik har vi f
 Men vi behöver lära oss att använda de data vi har mer effektivt. Vi måste förstå datakällorna och de konstruktioner, metoder och tekniker som tillämpas. För att göra det behöver vi testa och implementera nya tekniker, metoder och arbetssätt och öka vår kompetens, både genom att attrahera relevant kompetens och genom kompetensutveckling av befintliga medarbetare.
 
 En viktig pusselbit i Riksrevisionens utveckling mot att bli en datakompetent och datadriven verksamhet är den nybildade funktionen för teknik, innovation, och data, Tida. I granskningsverksamheten och inom avdelningarna finns begränsade möjligheter att testa och utveckla nya metoder och arbetssätt, bland annat på grund av hög leveranstakt. Men den centrala stödfunktionen Tida kan utforska området och bygga och sprida kompetens inom Riksrevisionen.
+-------------------- DEL 1 INPUT --------------------
 
 
--------------------- DEL 2 --------------------
+-------------------- DEL 1 OUTPUT GPT-3.5-turbo --------------------
+I en värld där förändring sker snabbt behöver vi anpassa oss och använda nya metoder, tekniker, verktyg och arbetssätt för att vara relevanta. Inom staten produceras enorma mängder data och artificiell intelligens och andra digitala tekniker blir allt viktigare för att bearbeta data och utföra uppdrag. Detta påverkar oss som granskar dem.
 
+Data har alltid varit viktigt i vår verksamhet, men med dagens teknik kan vi utvinna mera värde och kunskap ur dem. Med datadrivna arbetssätt kan vi effektivisera granskningen, interna processer, lösa problem på nya sätt och besvara andra typer av frågor. Men för att göra detta behöver vi lära oss att använda våra data mer effektivt. Vi behöver öka vår kompetens genom att testa och implementera nya tekniker, metoder och arbetssätt samt attrahera relevant kompetens och utveckla vår befintliga personal.
+
+En viktig del i Riksrevisionens utveckling mot att bli en mer datakompetent och datadriven verksamhet är den nybildade funktionen för teknik, innovation och data (Tida). Denna funktion kan utforska området och bygga och sprida kompetens inom Riksrevisionen.
+
+-------------------- DEL 1 OUTPUT GPT-3.5-turbo --------------------
+
+
+
+-------------------- DEL 1 OUTPUT GPT-4-0314 --------------------
+I en värld som förändras snabbt behöver vi anpassa oss och ta till oss nya arbetssätt, tekniker, verktyg och metoder för att vara relevanta. Att kunna använda data effektivt är avgörande i dag.
+
+Staten producerar stora mängder data och organisationer blir alltmer beroende av artificiell intelligens och andra digitala tekniker för att behandla data och utföra sina uppdrag, vilket påverkar oss som granskar dem.
+
+Data har alltid varit viktigt för oss, men med dagens teknik kan vi utvinna betydligt mer kunskap och värde från dem. Med nya verktyg och metoder kan vi förstå omvärlden och fatta beslut baserat på mycket stora datamängder. Genom att använda datadrivna arbetssätt kan vi effektivisera vår granskning, interna processer och lösa problem på nya sätt.
+
+För att använda våra data mer effektivt behöver vi förstå datakällorna och de tekniker som tillämpas. Vi behöver implementera nya tekniker, metoder och arbetssätt samt öka vår kompetens genom att attrahera relevant kompetens och erbjuda kompetensutveckling till befintliga medarbetare.
+
+En ny viktig funktion som kan hjälpa oss i vår strävan att bli en datadriven organisation är Tida, som ansvarar för teknik, innovation och data. Tida kan utforska området och bygga och sprida kompetens inom Riksrevisionen, vilket är avgörande eftersom granskningsverksamheten och avdelningarna har begränsade möjligheter att testa och utveckla nya arbetssätt på grund av hög leveranstakt.
+
+-------------------- DEL 1 OUTPUT GPT-4-0314 --------------------
+
+
+
+
+
+
+-------------------- DEL 2 INPUT --------------------
 Funktionen för teknik, innovation och data (Tida)
 Funktionen för teknik, innovation och data är placerad vid avdelningen för ledningsstöd. Funktionen ska fungera som en katalysator i Riksrevisionens digitala transformation mot en datadriven verksamhet.
 
@@ -35,3 +63,37 @@ Strategi- och arkitekturhubben
 Här tar vi fram ramar, riktlinjer och mål för strategier inom digitalisering, data och arkitektur.
 Hubben för utveckling av arbetssätt, arbetsplats och medarbetarnära teknik
 Här stöttar ambassadörerna verksamheten med metoder och tekniker för effektivare arbetssätt, möten och hantering av digitala redskap. I hubben testar vi dessutom ny teknik och hur den kan skapa nytta i verksamheten.
+
+-------------------- DEL 2 INPUT --------------------
+
+
+-------------------- DEL 2 OUTPUT GPT-3.5-turbo --------------------
+En avdelning inom Riksrevisionen, Funktionen för teknik, innovation och data, jobbar för att göra verksamheten mer datadriven och modern. Deras främsta uppgift är att samla kompetens från alla delar av verksamheten för att ta fram nya idéer och verktyg som kan vara till nytta för Riksrevisionen. De utvecklar till exempel prototyper som testas och anpassas i samarbete med verksamheten för att sedan spridas.
+
+Funktionen har tre huvudsakliga områden de jobbar med. För det första ska de leda utvecklingen av dataanalys, till exempel genom att använda maskininlärning för att lösa revisionsproblem. För det andra ska de hjälpa verksamheten med expertkunskap inom digitala tekniker och höja kunskapen om den digitala arbetsplatsen. Och för det tredje ska de forma och kommunicera den strategiska inriktningen för Riksrevisionens digitala omvandling.
+
+Funktionen består av tre "hubbar" som jobbar med olika områden. Det första området handlar om data- och analyshantering där de utvecklar datadrivna metoder och modeller som implementeras i verksamheten samt ger stöd och vägledning till projekt som arbetar med data och analys. Det andra området fokuserar på strategier inom digitalisering, data- och teknisk arkitektur. Och det tredje området handlar om utveckling av nya arbetssätt och tekniker som kan hjälpa verksamheten att bli mer effektiv.
+
+-------------------- DEL 2 OUTPUT GPT-3.5-turbo --------------------
+
+
+
+-------------------- DEL 2 OUTPUT GPT-4-0314 --------------------
+Teknik-, innovations- och datafunktionen (Tida) hittar du på ledningsstödsavdelningen. Tidas mål är att hjälpa Riksrevisionen att bli mer digital och datadriven.
+
+Tida samlar experter från olika delar av verksamheten för att hitta nya idéer och verktyg som gör att Riksrevisionen håller sig uppdaterad och skapar långsiktiga fördelar. Det kan handla om att skapa prototyper som vi testar och utvecklar nära verksamheten för att sedan använda dem i hela Riksrevisionen.
+
+Tidas tre huvuduppgifter:
+
+Vara centralpunkt i utvecklingen av dataanalys, som att använda maskininlärning. Tida har experter som arbetar med verksamheten för att lösa problem i revisioner med hjälp av maskininlärning.
+Ge verksamheten stöd med teknisk expertis och hjälpa till att öka kunskapen om den digitala arbetsplats.
+Formulera och berätta om den strategiska riktningen för Riksrevisionens digitala förvandling, datahantering och tekniska miljö.
+Tida ska också följa hur världen förändras och vad det innebär för Riksrevisionen.
+
+Funktionen består av tre huvuddelar, eller hubbar:
+
+Data- och analys-hubben: Här bygger vi upp djupgående kunskaper inom dataanalys och AI. Hubben utvecklar datadrivna metoder och modeller för verksamheten, ger stöd i data- och analysfrågor samt förbättrar Riksrevisionens analytiska förmåga genom utbildningar och seminarier. Vi lär oss också om hur andra myndigheter använder AI-baserade tekniker för att undersöka dem.
+Strategi- och arkitektur-hubben: Här utformar vi riktlinjer och mål för digitaliserings- och datastrategier samt arkitektur.
+Hubben för utveckling av arbetssätt, arbetsplats och teknik nära medarbetaren: Här ger ambassadörerna stöd i effektiva metoder, möten och hantering av digitala verktyg. Vi testar också ny teknik för att se hur den ger nytta i verksamheten.
+
+-------------------- DEL 2 OUTPUT GPT-4-0314 --------------------
