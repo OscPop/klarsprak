@@ -1,0 +1,2007 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RiR 2009:06
+Energideklarationer – 
+få råd för pengarna
+
+ISBN 978 91 7086 180 2
+RiR 2009:06
+Tryck: Riksdagstryckeriet, Stockholm 2009
+
+Till regeringen Datum: 2009-05-07
+Dnr: 31-2008-1486
+Energideklarationer – få råd för pengarna
+Riksrevisionen har granskat statens införande av energideklarationer. Resultatet av granskningen redovisas i denna granskningsrapport.
+ Företrädare för Regeringskansliet, Boverket, Styrelsen för ackreditering 
+och teknisk kontroll samt Statens energimyndighet har fått tillfälle att faktagranska och i övrigt lämna synpunkter på utkast till rapport.
+ Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse.
+ Rapporten innehåller slutsatser och rekommendationer som avser 
+regeringen och Boverket. Riksrevisionen kommer att följa upp granskningen.
+ Riksrevisor Claes Norgren har beslutat i detta ärende. Revisionsledare 
+Adam Sandebring har varit föredragande. Biträdande granskningsenhetschef 
+Hans Folkesson och revisionsdirektör Fredrik Engström har medverkat vid den 
+slutliga handläggningen.
+Claes Norgren Adam Sandebring
+För kännedom:
+Näringsdepartementet 
+Miljödepartementet
+Utrikesdepartementet
+Boverket
+Statens energimyndighet 
+Styrelsen för ackreditering och 
+teknisk kontroll
+
+
+Innehåll
+Sammanfattning 7
+1 Granskningens bakgrund och inriktning 13 
+1.1 Motiv till granskning 14 
+1.2 Syfte och revisionsfrågor 14 
+1.3 Bedömningsgrunder 15 
+1.4 Metod och avgränsningar 16 
+1.5 Granskningsobjekt 17 
+1.6 Rapportens disposition 17
+2 Lagstiftningens syfte och ansvarsfördelning 19 
+2.1 Övergripande syfte och mål 19 
+2.2 Ansvarsfördelning 20
+3 Genomförandeprocessen 23 
+3.1 En långdragen genomförandeprocess 23 
+3.2 Bristande tillgång på experter 25 
+3.3 Få byggnader har energideklarerats i tid 26 
+3.4 Utgifter för fastighetsägarna 26 
+3.5 Energibesparingspotential 27
+4 Besiktningar och åtgärdsförslag 29 
+4.1 Utfallet av energideklarationerna 29 
+4.2 Otydligheter i lagstiftningen 33
+5 Styrning och uppföljning 37 
+5.1 Otydliga mål 37 
+5.2 Bristande systemöversikt och styrning 38 
+5.3 Bristande uppföljning 39 
+5.4 Uppdrag och utredningar 40
+6 Kontroll och tillsyn 43 
+6.1 Kvalitetssäkring av deklarationerna 43 
+6.2 Tillsyn av om deklaration upprättats 45
+7 Slutsatser och rekommendationer 47 
+7.1 Regeringen och myndigheterna har inte gett goda förutsättningar  
+ för att uppnå syftet med lagstiftningen om energideklarationer 48 
+7.2 Väsentliga problem i myndigheternas tillämpning av lagstiftningen  
+ om energideklarationer 51 
+7.3 Planerad förändring av EG-direktivet 52 
+7.4 Rekommendationer 53
+Käll- och litteraturförteckning 55 
+Bilaga 1 Vilka byggnader ska energideklareras? 59 
+Bilaga 2 EG-lagstiftning med anknytning till energiaspekter i bebyggelsen 61 
+Bilaga 3 Otydligheter i lagstiftningen 63 
+Bilaga 4 Certifiering och ackreditering 69 
+Bilaga 5 Utdrag ur Sveriges Kommuner och Landstings cirkulär 08:62 71
+
+
+7 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ Sammanfattning
+Från och med årsskiftet 2008/09 ska de flesta större byggnader och alla 
+enfamiljshus som säljs vara energideklarerade. Kravet på energi deklarationer 
+i Sverige är en del av genomförandet av Europa parlamentets och rådets 
+direktiv 2002/91/EG om byggnaders energiprestanda. Målet med direktivet 
+om byggnaders energiprestanda är att främja en förbättring av byggnaders 
+energiprestanda. Samtidigt ska hänsyn tas till utomhusklimat, lokala förhållanden samt till krav på inomhusklimat och kostnads effektivitet.
+ Riksdagen antog 2006 ett nytt mål för energieffektivisering i bebyggelsen: Den totala energi användningen per uppvärmd areaenhet i bostäder och 
+lokaler ska minska. Minskningen bör vara 20 procent till år 2020 och  
+50 procent till år 2050.
+ Energieffektiviseringsutredningen anger att energi användningen i  
+bostäder och lokaler utgör en tredjedel av Sveriges slutliga energianvändning. Den framhåller vidare att det finns en stor potential för energieffektiviseringar i befintliga byggnader, cirka 13 TWh fjärrvärme och bränslen 
+respektive cirka 11 TWh el i slutlig energi till 2016. Enligt utredningen finns 
+det också indikationer på att endast i genomsnitt cirka 15 procent av de för 
+fastighetsägarna lönsamma åtgärderna faktiskt genomförs.
+ Energi deklarationen är ett styrmedel som ska främja en minskning 
+av byggnaders energi användning. Om det behövs för att upprätta energideklarationen ska byggnaden först besiktigas av en oberoende expert. I de 
+fall byggnaden har energibesparingspotential ska experten sedan lämna 
+förslag på kostnadseffektiva energi effektiviserings åtgärder. Genom att få 
+sådana förslag ska fastighetsägaren bli mer benägen att genomföra dessa 
+investeringar. 
+ För vissa byggnadskategorier, till exempel flerbostadshus, ska energideklarationen hållas tillgänglig för allmänheten på en väl synlig plats i byggnaden. Att hyresgästerna blir informerade om byggnadens energi användning 
+i förhållande till liknande byggnader ska få dem att ställa krav på fastighetsägaren att genomföra möjliga energi effektiviseringar.
+ Riksrevisionen har granskat om regeringen och ansvariga myndigheter 
+har gett goda förutsättningar för att systemet med energideklarationer ska 
+kunna främja energieffektiviseringar. Riksrevisionen har även bedömt om 
+myndigheternas tillämpning av regelverket styr mot de övergripande målen 
+på området.
+
+8RIKSREVISIONEN Energideklarationer – få råd för pengarna
+Riksrevisionens granskning visar att regeringen och ansvariga myndigheter inte 
+har gett tillräckligt goda förutsättningar för att syftet med energi deklarationerna 
+ska uppnås. Väsentliga problem med myndigheternas tillämpning av lagstiftningen har också framkommit i granskningen.
+ Få råd för pengarna
+Det främsta syftet med energideklarationerna är att främja fastighetsägarnas 
+investeringar i energi effektiviserande åtgärder. En stor andel, 48 procent, av 
+alla deklarationer innehåller dock inte några rekommendationer om åtgärder. 
+Det är alltså få råd som fastighetsägarna får för sina pengar.
+ I 25 procent av deklarationerna har byggnaderna dessutom besiktigats 
+utan att åtgärdsförslag har lämnats. Och i 7 procent av deklarationerna har 
+rekommendationer om energieffektiviserande åtgärder lämnats utan att 
+byggnaden har besiktigats. Den senare gruppen av deklarationer ska inte få 
+finnas enligt lagstiftningen. I båda dessa fall, vilka sammanlagt uppgår till 32 
+procent av deklarationerna, kan fastighetsägarnas nytta av deklarationerna i 
+förhållande till det pris som de har betalat för dem ifrågasättas.
+ Förseningar i genomförande och tillämpning
+Det svenska genomförandet av EG-direktivet och tillämpningen av regelverket är kraftigt försenat. Den långdragna lagstiftnings processen har medfört 
+att det har varit ont om tid för att bygga upp ett system för energideklarationerna och för att deklarera alla de byggnader som omfattas av bestämmelserna. Dessutom uppskattar Boverket att fastighetsägarnas utgifter för 
+energi deklarationerna är betydande – cirka 700 miljoner kronor per år. 
+ Förseningarna i direktivets genomförande har lett till att otydligheter i 
+regelverket inte uppmärksammas och åtgärdas. Otydligheterna har medfört problem med tillämpningen, till exempel att få deklarationer innehåller 
+rekommendationer. Att sådana problem inte uppmärksammas i tid kan få 
+konsekvensen att tillämpningen inte styr mot de övergripande målen på 
+området. Detta kan i sin tur leda till att systemets effektivitet och legitimitet 
+försämras.
+
+9 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ Otydligheter kring besiktning och rekommendationer
+I dag finns det oklarheter i den svenska lagstiftningen om såväl besiktningsbegreppet som när en byggnad behöver besiktigas. Det är också oklart när 
+energiexperterna ska lämna åtgärdsförslag. Oklarheterna avser såväl lagen 
+och förordningen som Boverkets föreskrifter om energideklarationer. 
+ Frågan om byggnaderna ska besiktigas eller inte påverkar både deklarationernas kvalitet och priset för att upprätta en deklaration. Å ena sidan 
+kan en besiktning vara nödvändig för att en energiexpert ska kunna kontrollera fastighetsägarens uppgifter om byggnadens energiförbrukning och för 
+att kunna bedöma vilka specifika åtgärdsförslag som är kostnadseffektiva. 
+Å andra sidan kan en deklaration med besiktning antas vara dyrare än en 
+deklaration utan besiktning. 
+ Drygt två tredjedelar av deklarationerna har föregåtts av besiktning, och 
+endast hälften innehåller åtgärdsförslag.
+ För en tredjedel av deklarationerna kan fastighetsägarnas nytta ifrågasättas. Denna kategori består främst av deklarationer där byggnaden har 
+besiktigats men ingen rekommendation har lämnats. I vissa fall kan detta 
+vara motiverat, om experten behöver kontrollera fastighetsägarens inlämnade uppgifter om byggnadens energiprestanda. Men om dessa uppgifter 
+inte behöver kontrolleras har fastighetsägaren betalat mer än nödvändigt 
+för att upprätta deklarationen. Kategorin består också till en mindre del av 
+deklarationer där ingen besiktning genomförts men rekommendationer ändå 
+har lämnats, vilket direkt strider mot regelverket. 
+ Problemen som uppstått till följd av otydligheterna i lagstiftningen har 
+varit kända under en längre tid. Trots det har vare sig regeringen eller Bo-
+verket agerat för att förtydliga regelverket.
+ Regeringens styrning är inte kopplad till de  
+ övergripande målen
+Riksdagen har beslutat om övergripande mål för energieffektiviseringen i 
+byggnadsbeståndet. Regeringen har inte brutit ned riksdagens övergripande 
+mål för energieffektivisering i byggnader till uppföljningsbara delmål för 
+energi deklarationerna. Avsaknaden av uppföljningsbara delmål från regeringen försämrar möjligheten att följa om energideklarationerna bidrar till 
+uppfyllelsen av riksdagens övergripande mål på området. 
+
+10RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Bristande ansvarsfördelning
+Regeringen har inte gett någon myndighet det övergripande ansvaret för 
+systemet med energideklarationer. Ett flertal myndigheter och departement 
+har avgränsade ansvarsområden inom energideklarationssystemet. Detta 
+medför en risk för att system övergripande problem faller mellan stolarna. 
+ Det är oklart vilken myndighet som har ansvar för att stödja kommunerna i deras tillsyn. Det otydliga ansvaret medför en risk för att tillsynen blir 
+nedprioriterad av kommunerna och att det uppstår omotiverade skillnader i 
+tillsynsnivåer. 
+ Energideklarationssystemet överlappar andra styrmedel 
+Energi deklarationerna har hittills inte samordnats med andra statliga styrmedel för att öka energieffektiviseringen i det befintliga byggnads beståndet. 
+Sådana styrmedel är till exempel den delvis statligt finansierade kommunala 
+klimat- och energirådgivningen samt statliga bidrag och skattelättnader. 
+Samordnings bristerna mellan energideklarationerna och andra statliga styrmedel kan medföra suboptimering av de samlade statliga insatserna.  
+I energi propositionen våren 2009 föreslår regeringen dock samordning mellan energi deklarationerna, en föreslagen webbaserad rådgivningsportal och 
+det föreslagna ROT-avdraget. 
+ Certifierings- och ackrediteringssystemet uppfyller inte  
+ sitt syfte
+Sverige har ett, i jämförelse med andra medlemsstater inom EU, komplicerat 
+system för att säkerställa energiexperternas oberoende och kompetens. 
+Systemet bygger på att Swedac ackrediterar certifieringsorgan för experter 
+och de kontrollorgan vilka experterna är verksamma i. Den svenska lagstiftningen går längre än direktivets minimikrav genom kraven på certifiering och 
+ackreditering. 
+ Riksrevisionens bearbetning av data från Boverket indikerar att det, trots 
+kraven på certifiering och ackreditering, finns problem med deklarationernas 
+kvalitet och experternas oberoende. Ingen myndighet genomför systematiska kontroller av innehållet i energi deklarationerna. Det finns även indikationer på brister i vissa experters oberoende gentemot fastighetsägarna 
+och på att vissa experter säljer andra produkter som en del av deklarationsupprättandet.
+
+11 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ Systemet med certifiering och ackreditering har inget eget syfte, utan 
+finns till för att säkerställa kvaliteten på energideklarationerna och experternas oberoende. Det finns indikationer på att det svenska systemet i dess 
+nuvarande form inte säkerställer deklarationernas kvalitet. 
+ Bristande uppföljning
+Det sker ingen återkommande uppföljning av energideklarationernas innehåll och systemets funktionssätt. Det sker inte heller någon regel bunden 
+uppföljning av vilka investeringar som kommer till stånd efter att en energideklaration har genomförts. Vidare följer ingen statlig aktör fastighetsägarnas utgifter för att upprätta energi deklarationer och deras utgifter för att 
+genomföra de energibesparande investeringarna.
+ Det har bidragit till att varken regeringen eller någon myndighet har överblick av hur systemet med energideklarationer har utvecklats. Regeringen 
+saknar därmed information för att analysera energi deklarationernas nytta.
+ Avsaknaden av återkommande uppföljning och utvärdering av fastighetsägarnas utgifter för att upprätta energideklarationer och för att genomföra 
+energibesparande investeringar, samt vilka besparingar som investeringarna 
+lett till, omöjliggör en utvärdering av energi deklarationernas nuvarande och 
+framtida effektivitet. Utan denna information går det inte att följa om energideklarationerna bidrar till att uppfylla riksdagens övergripande mål.
+ Kommunerna har uppmanats att inte utöva tillsyn
+Sveriges försenade genomförande av EG-direktivet har lett till att få byggnader har deklarerats inom EU:s tidsgräns. Detta har bland annat inneburit att 
+Sveriges Kommuner och Landsting med regeringens goda minne uppmanat 
+kommunerna att inte utöva den lagstadgade tillsynen av energideklarationerna. Regeringen har alltså medverkat till att Sveriges Kommuner och Landsting uppmanar kommunerna att inte följa den lag som riksdagen beslutat. 
+Detta kan undergräva systemets legitimitet.
+
+12RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Rekommendationer till regeringen
+•	 Se	till	att	EG-direktiv	genomförs	i	tid.	Förseningar	i	genomförandet	kan	 
+ medföra att regelverket tillämpas på ett förhastat och ogenomtänkt sätt. 
+ Detta kan leda till bristande legitimitet och effektivitet i tillämpningen.
+•	 Förtydliga	och	förenkla	regelverket	i	alla	led	(lagen,	förordningen	och	 
+ föreskrifterna) så att de blir inbördes konsekventa.
+•	 Formulera	uppföljningsbara	delmål	för	energi	deklarationerna	utifrån riksdagens mål för energieffektivisering i bebyggelsen och förtydliga 
+ ansvarsfördelningen på området. Peka ut en centralt ansvarig myndighet  
+ för energideklarationerna. Ge den myndigheten i uppgift att stödja kommunernas tillsyn så att den blir likformig över hela landet.
+•	 Se	till	att	energideklarationerna	samordnas	med	andra	insatser,	till	 
+ exempel olika stöd och statligt finansierade kommunala energi- och  
+ klimat rådgivare.
+•	 Säkerställ	deklarationernas	kvalitet	och	experternas	oberoende.	Ge	även	 
+ den centralt ansvariga myndigheten i uppdrag att regelbundet följa upp  
+ deklarationernas kvalitet och hur stora besparingar de leder till, samt  
+ fastighetsägarnas utgifter för energi deklarationer och investeringar.  
+ Använd de befintliga medel som finns för uppföljning av energianvändning.
+ Rekommendationer till Boverket
+•	 Förtydliga	föreskrifterna	och	de	allmänna	råden	vad	avser	besiktning	och	 
+ åtgärdsförslag.
+•	 Se	till	att	registret	för	energideklarationer	kan	användas	för	att	få	 
+ uppgifter och underlag för uppföljning och utvärdering av energideklarationernas effekter på energianvändning. Följ upp vilka  
+ rekommendationer som får genomslag hos fastighetsägarna. 
+
+13 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+1 Granskningens bakgrund och inriktning
+Från och med årsskiftet 2008/09 ska de flesta större byggnader och alla 
+enfamiljshus som säljs vara energideklarerade (se bilaga 1). Kravet på energideklarationer i Sverige är en del av genomförandet av Europa parlamentets 
+och rådets direktiv 2002/91/EG om byggnaders energiprestanda.
+ Energi deklarationen är ett styrmedel som ska främja en minskning av 
+byggnaders energi användning. Vid upprättandet av en energideklaration ska 
+fastighetsägaren anlita en oberoende energiexpert. Experten ska få grundläggande uppgifter om byggnaden och dess energiförbrukning av fastighetsägaren. Utifrån dessa uppgifter ska han bedöma om en besiktning bör 
+genomföras. Om experten avser att lämna förslag på energi effektiviserande 
+och kostnadseffektiva åtgärder måste byggnaden först besiktigas. Genom att 
+få förslag på kostnadseffektiva åtgärder ska fastighetsägaren bli mer benägen göra investeringar som ger energivinster. Deklarationen ska registreras i 
+Boverkets register av den oberoende experten. 
+ Ägare av bland annat flerbostadshus ska även på en väl synlig plats 
+anslå ett intyg om att deklaration upprättats. Avsikten med intyget är att 
+till exempel hyresgäster ska ställa krav på fastighetsägaren att vidta energieffektiviserande åtgärder.
+ Energieffektiviseringsutredningen anger att energi användningen i bostäder och lokaler utgör en tredjedel av Sveriges slutliga energi användning. Den 
+framhåller vidare att det finns en stor potential för energi effektiviseringar i 
+befintliga byggnader, cirka 13 TWh fjärrvärme och bränslen respektive cirka 
+11 TWh el i slutlig energi till 2016. Enligt utredningen finns det också indikationer på att endast i genomsnitt cirka 15 procent av de för fastighetsägarna 
+lönsamma åtgärderna faktiskt genomförs.1
+ Vikten av energieffektivisering uppmärksammas alltmer både i Sverige 
+och inom EU. Genom att använda energiresurserna mer effektivt skapas 
+förutsättningar för att trygga tillgången på energi till konkurrenskraftiga priser. En ökad energieffektivisering som leder till att energianvändningen kan 
+minska är också en förutsättning för att minska beroendet av fossila bränslen för att ställa om energisystemet i en mer hållbar riktning. En ökad effektivisering skapar också en god grund för Sveriges internationella agerande i 
+förhandlingar om nya åtaganden för att minska utsläppen av växthusgaser. 
+Vidare innebär en effektivare energianvändning att resurser frigörs för andra 
+ändamål.
+1 Prop. 2008/09:163 s. 119, 129, 165, jfr SOU 2008:110 s. 154.
+
+14RIKSREVISIONEN Energideklarationer – få råd för pengarna
+1.1 Motiv till granskning
+Ett direktiv föreskriver resultat som varje medlemsstat i EU ska förverkliga 
+i det egna landet inom ramen för den nationella lagstiftningen. Direktiven 
+måste genomföras (eller annorlunda uttryckt införlivas) i nationell lagstiftning. I princip överlåter direktiven till medlemsstaterna att bestämma form 
+och tillvägagångssätt för genomförandet.2
+ Senaste tidpunkt för medlemsstaterna att genomföra direktivet om byggnaders energiprestanda i nationell lagstiftning var den 4 januari 2006. Di-
+rektivet genomfördes i svensk lagstiftning genom nio svenska författningar. 
+Huvuddelen, främst lagen (2006:985) om energideklaration för byggnader, 
+genomfördes den 1 oktober 2006.3 Det var mer än ett halvår efter den av EU 
+beslutade sista genomförandetidpunkten. 
+ Medlemsstaterna får dock enligt direktivet ”på grund av bristande tillgång 
+på kvalificerade och/eller auktoriserade experter” ta ytterligare tre år på sig 
+för att fullt ut tillämpa direktivets bestämmelser om bland annat energideklarationer. Om medlemsstaterna utnyttjar denna möjlighet ska de underrätta kommissionen och tillhandahålla tillbörlig motivering tillsammans 
+med en tidsplan för det fortsatta genomförandet av direktivet.4 Sverige har 
+utnyttjat denna frist vilken gick ut den 4 januari 2009. 
+ Av cirka 350 000 deklarationspliktiga byggnader var det cirka 50 000 
+som hade deklarerats vid utgången av 2008.5 Från och med januari 2009 
+tillkommer cirka 50 000 enfamiljshus som säljs och nybyggnationer som ska 
+deklareras per år.6
+ Utöver att införandet av EU:s lagstiftning är försenat har Riksrevisionen 
+i förstudien till granskningen även uppmärksammat problem med bland 
+annat betydelsefulla otydligheter i den svenska lagstiftningen och varierande 
+kvalitet på deklarationerna.
+1.2 Syfte och revisionsfrågor
+Granskningen syftar till att bedöma om regeringen och ansvariga myndigheter har gett goda förutsättningar för att systemet med energideklarationer 
+ska kunna främja energieffektiviseringar. Den ska även bedöma om myndigheternas tillämpning av regelverket7 styr mot de övergripande målen på 
+området.
+2 Bernitz och Kjellgren, Europarättens grunder, tredje upplaga, s. 30 f. I denna rapport använder vi termen genomförande i fråga  
+ om införlivandet av direktivet i svensk rätt. Vi använder termen tillämpning för användningen av bestämmelser i direktivet eller i  
+ den svenska genomförandelagstiftningen.
+3 Se EUR-Lex Celex 72002L0091.
+4 Artikel 15.1 och 15.2 i Europaparlamentets och rådets direktiv 2002/91/EG av den 16 december 2002 om byggnaders energiprestanda.
+5 Boverket, Årsredovisning 2008, s. 106.
+6 E-post Boverket 2009-03-27.
+7 Med regelverk och lagstiftning menas här direktivet, lagen, regeringsförordningar och myndighetsföreskrifter.
+
+15 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ För att uppfylla syftet ska granskningen besvara följande två revisionsfrågor:
+•	 Har	regeringen	och	myndigheterna	gett	goda	förutsättningar	för	att	 
+ uppnå syftet med lagstiftningen om energideklarationer?
+•	 Finns	det	väsentliga	problem	i	myndigheternas	tillämpning	av	 
+ lagstiftningen om energideklarationer, och i så fall vilka?
+1.3 Bedömningsgrunder
+Granskningens bedömningsgrunder är främst EG-direktivet om byggnaders 
+energiprestanda och lagen om energideklarationer.
+ Syftet med EG-direktivet om byggnaders energi prestanda är att främja en 
+förbättring av energiprestanda i byggnader inom EU. Samtidigt ska hänsyn 
+tas till utomhusklimat, lokala förhållanden samt till krav på inomhusklimat 
+och kostnadseffektivitet.8 Direktivet fastställer bland annat krav på energicertifiering av byggnader.9 Energicertifiering har i den svenska lagstiftningen 
+benämnts som energideklaration.
+ Lagen (2006:985) om energi deklarationer för byggnader, som beslutades av riksdagen våren 2006 och trädde i kraft den 1 oktober samma år, är 
+en del av det svenska genom förandet av direktivet om byggnaders energiprestanda.10 Lagen syftar till att främja en effektiv energianvändning och en 
+god inomhusmiljö i byggnader.11
+ Lagen anger bland annat att ägaren till en byggnad ska se till att vissa 
+uppgifter om byggnadens energianvändning och inomhusmiljö deklareras 
+i en energideklaration. En sådan deklaration ska upprättas när en byggnad 
+uppförs. Vidare gäller för vissa byggnader att ägaren ska se till att det alltid 
+finns en energi deklaration som inte är äldre än tio år. Det sistnämnda kravet 
+gäller inte för en- och två bostads hus som inte hyrs ut, det vill säga flertalet 
+småhus. För dessa gäller emellertid att en deklaration ska upprättas när en 
+byggnad säljs, om det inte redan finns en deklaration som inte är äldre än tio 
+år. Energideklarationen ska upprättas av en oberoende expert och innehålla 
+särskilt angivna uppgifter. För vissa byggnadskategorier ska energideklarationen hållas tillgänglig för allmänheten på en väl synlig och framträdande 
+plats i byggnaden.12
+8 De övriga styrmedel som direktivet fastställer krav på är följande: 1. Den allmänna ramen för en beräkningsmetodik för byggnaders integrerade energiprestanda. 2. Tillämpningen av minimikrav på nya byggnaders energiprestanda. 3. Tillämpningen av  
+ minimikrav på energiprestanda i befintliga stora byggnader som genomgår större renoveringar. 4. Regelbundna kontroller av   
+ värmepannor och luftkonditioneringssystem i byggnader. Se artikel 1 i Europaparlamentets och rådets direktiv 2002/91/EG. 
+9 Medlemsstaterna ska bland annat se till att ett energicertifikat görs tillgängligt för ägaren, eller att ägaren gör ett sådant certifikat  
+ tillgängligt för den presumtive köparen eller hyresgästen, när byggnader byggs eller säljs eller hyrs ut. Energicertifikatet ska  
+ innehålla referensvärden så att konsumenter kan jämföra och bedöma byggnaders energiprestanda. Certifikatet ska följas av  
+ rekommendationer för hur energiprestanda kan förbättras kostnadseffektivt. Energicertifikatet för vissa slags byggnader ska  
+ placeras på en för allmänheten framträdande och klart synlig plats. Se artikel 7 i Europaparlamentets och rådets direktiv  
+ 2002/91/EG.
+10 Bet. 2005/06:BoU9 s. 1, rskr. 2005/06:365.
+11 Se 1 § lagen (2006:985) om energideklaration för byggnader.
+12 Se 4–13 §§ lagen (2006:985) om energideklaration för byggnader. Regeringen föreslår i prop. 2008/09:16 att lagen om energideklaration för byggnader ändras (ny föreslagen 6 a §). Ändringen innebär att en gemensam energideklaration får upprättas för  
+ tredimensionella fastigheter i ett byggnadskomplex, om detta har ett gemensamt värmesystem.
+
+16RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ En mer generell grund för Riksrevisionens bedömning är budgetlagens 
+krav på att en hög effektivitet ska eftersträvas i statens verksamhet. Med 
+detta menas att den statliga verksamheten ska bedrivas så att de mål riksdagen har satt uppnås i så hög grad som möjligt inom ramen för tillgängliga 
+resurser.13
+1.4 Metod och avgränsningar
+Granskningen har genomförts med hjälp av flera metoder. Såväl kvalitativa 
+data, i form av dokument och intervjuer, som kvantitativa sekundärdata, i 
+form av utdrag ur energideklarationsregistret, har använts för att analysera 
+energideklarationssystemet. 
+ I förstudien identifierades ett antal problem. Problemen identifierades 
+dels genom dokumentstudier, dels utifrån intervjuer med företrädare för  
+intresseorganisationerna Sveriges energirådgivare, Fastighetsägarna, Sabo 
+och Villaägarna. Utifrån dessa problem formulerades granskningens revisionsfrågor. 
+ En avgränsning i granskningen är att vi inte utvärderar vilka energieffektiviserings effekter som systemet med energideklarationer har haft. 
+Ingen av de ansvariga aktörerna har hittills sammanställt sådan information. 
+Granskningens tidsram har inte heller medgett att sådan information kunnat 
+samlas in.
+ En ytterligare avgränsning är att granskningen inte omfattar någon skattning av hur stora framtida besparingar energideklarationerna kan ge upphov 
+till. En sådan skattning är i stor utsträckning beroende av antaganden om 
+vilka åtgärder som genomförs på grund av att rekommendationer har lämnats i deklarationerna och om framtida energi priser.
+ Analysen berör dels processen kring direktivets genomförande i Sverige, 
+dels lagstiftningens tillämpning i praktiken. Den tidsperiod som berörs börjar vid direktivets tillkomst 2002 och slutar våren 2009.
+13 Lagen (1996:1059) om statsbudgeten, prop. 1995/96:220 avsnitt 5.1.
+
+17 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+1.5 Granskningsobjekt
+De huvudsakligen berörda statliga aktörerna är: 
+Departement: Näringsdepartementet 
+Ansvarigt för att genomföra och tillämpa direktivet och för att styra 
+Statens energimyndighet.
+Miljödepartementet 
+Ansvarigt för att styra Boverket.
+Myndigheter: Boverket 
+Ansvarigt för att utforma föreskrifter och upprätthålla register över 
+energideklarationer.
+Styrelsen för ackreditering och teknisk kontroll (Swedac)  
+Ansvarig för ackreditering. Ackrediterar de företag som  
+certifierar de enskilda energiexperterna och de företag som  
+utför energideklarationer.
+Statens energimyndighet 
+Ansvarig myndighet för energifrågor.
+Utöver de huvudsakligen berörda aktörerna berörs även Statsrådsberedningen såsom ansvarig för samordning inom Regeringskansliet av 
+genomförande av EG-direktiv, Justitie departementet som delaktigt i utformningen av svenska lagar och förordningar samt Utrikes departementet 
+som budgetansvarigt departement för Swedac. Eftersom dessa aktörer har 
+begränsade uppgifter i fråga om energideklarationer har granskningen inte 
+främst inriktats på dem.
+1.6 Rapportens disposition
+Rapportens disposition är som följer. Kapitel 1 innehåller information om 
+granskningens bakgrund och inriktning. Kapitel 2 behandlar syftet med och 
+ansvarsfördelningen inom energideklarationssystemet. Kapitel 3–6 innehåller Riksrevisionens iakttagelser rörande energi deklarationssystemet. Kapitel 
+3 handlar om den svenska genomförandeprocessen, kapitel 4 om besiktningar och åtgärdsförslag, kapitel 5 om styrning och uppföljning och kapitel 
+6 om kontroll och tillsyn. Kapitel 7 redogör för Riksrevisionens slutsatser och 
+rekommendationer. 
+
+18RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+19 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+2 Lagstiftningens syfte och ansvarsfördelning
+2.1 Övergripande syfte och mål
+2.1.1 EG-direktivet
+Grunden för reglerna om energideklarationer läggs i Europa parlamentets 
+och rådets direktiv 2002/91/EG om byggnaders energi prestanda.14 Direktivet 
+utgör EU:s huvudsakliga rättsliga verktyg för att åstadkomma en helhetssyn 
+i arbetet med energieffektivisering i bebyggelsen. Direktivets främsta mål 
+är att främja en förbättring av byggnaders energiprestanda. Samtidigt ska 
+hänsyn tas till utomhusklimat, lokala förhållanden samt till krav på inomhusklimat och kostnadseffektivitet.15 
+ De flesta av direktivets bestämmelser är tillämpliga på alla slags byggnader, oavsett storlek och om de används för boende eller inte. Bestämmelserna kombinerar normgivande styrmedel16 med informations baserade 
+styrmedel. Till de sistnämnda hör energideklarationer. 
+ Direktivet är ett så kallat minimidirektiv. Medlemsstaterna får besluta 
+om mer långtgående regler vid genomförandet av direktivet. Kommissionen 
+lämnade i slutet av 2008 ett förslag till medlemsstaterna till ett omarbetat 
+direktiv på området. Syftet med omarbetningen är att förtydliga och förenkla 
+vissa bestämmelser, utöka direktivets tillämpningsområde och förstärka 
+vissa bestämmelser för att öka deras effekter.17
+14 I bilaga 2 redovisar vi exempel på andra EG-direktiv med anknytning till energieffektivisering i bebyggelsen.
+15 Artikel 1 i Europaparlamentets och rådets direktiv 2002/91/EG. 
+16 Till exempel att medlemsstaterna ska fastställa krav på energiprestanda för nya byggnader och för byggnader som genomgår 
+ större ombyggnader.
+17 Europeiska kommissionen, Communication from the Commission, Explanatory Memorandum, Proposal for a directive of the 
+ European Parliament and of the Council on the energy performance of buildings (recast), SEC (2008) 2820-2821, s. 2 f. Enligt 
+ kommissionens förslag ska de nya kraven vara införda i nationell lagstiftning till den 31 december 2010 och vara fullt genomförda  
+ i nationell lagstiftning till den 31 januari 2012. Kommissionen redovisar att det har varit förseningar i genomförandet av direktivet  
+ men att 22 medlemsstater nu har förklarat att de har genomfört bestämmelserna, vilket kommer att utvärderas av kommissionen.  
+ Regeringen bedömde i januari 2009 att förhandlingen av förslaget till omarbetat direktiv kommer att påbörjas i rådet under våren  
+ och avslutas under hösten 2009. Se Regeringskansliets faktapromemoria 2008/09:FPM57 Omarbetning av direktivet om byggnaders energiprestanda, Näringsdepartementet 2009-01-09. 
+
+20RIKSREVISIONEN Energideklarationer – få råd för pengarna
+2.1.2 Riksdagens mål och lagstiftning 
+Riksdagen antog 2006 ett nytt delmål för energieffektivisering i bebyggelsen 
+under miljökvalitetsmålet God bebyggd miljö:18 
+Den totala energianvändningen per uppvärmd areaenhet i bostäder och lokaler 
+minskar. Minskningen bör vara 20 % till år 2020 och 50 % till år 2050 i förhållande till användningen 1995. Till år 2020 skall beroendet av fossila bränslen för 
+energianvändningen i bebyggelse sektorn vara brutet, samtidigt som andelen 
+förnybar energi ökar kontinuerligt.
+Parallellt med det nya delmålet för energieffektivisering i bebyggelsen, 
+beslutade riksdagen 2006 lagen om energideklaration för byggnader. 
+Lagens syfte är att främja en effektiv energianvändning och en god inomhusmiljö i byggnader.19 
+ Bostadsutskottet framhöll vid riksdagsbehandlingen att energideklarationerna skapar drivkrafter att uppfylla målen om en effektiv energianvändning och en god inomhusmiljö. Enligt utskottet borde lagförslaget 
+inte enbart ses som ett sätt att tillgodose kraven på Sverige att genomföra 
+EG-direktivet om byggnaders energiprestanda i svensk lagstiftning. Vidare 
+framhöll utskottet bland annat att en från början positiv inställning till 
+deklarationssystemet från fastighetsägare, nyttjanderätts havare och övriga 
+berörda skulle bli avgörande för om lagens syfte att främja en effektiv energianvändning och en god inomhusmiljö i Sveriges byggnader skulle kunna 
+uppnås.20
+2.2 Ansvarsfördelning
+2.2.1 Regeringskansliet
+Statsrådsberedningen ansvarar inom Regeringskansliet för samordningen 
+av genomförande och tillämpning av EG-lagstiftning. Närings departementet 
+har ansvaret inom Regeringskansliet för genomförande och tillämpning av 
+direktivet om byggnaders energiprestanda och styr Statens energimyndighet. 
+Miljödepartementet ansvarar för styrningen av Boverket och Utrikesdepartementet ansvarar för styrningen av Swedac.
+18 Bet. 2005/06:BoU9, rskr. 2005/06:365. Det nya delmålet ersatte det befintliga delmålet om energianvändning med mera i  
+ byggnader. 
+19 1 § lagen (2006:985) om energideklaration för byggnader. 
+20 Bet. 2005/06:BoU9, rskr. 2005/06:365 s. 30 f.
+
+21 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+2.2.2 Myndigheter och kommuner
+Boverket är förvaltningsmyndighet för frågor om byggd miljö och hushållning med mark- och vattenområden, för fysisk planering, byggande och 
+förvaltning av bebyggelsen och för boendefrågor. I fråga om energideklarationer ansvarar Boverket för att utfärda närmare föreskrifter om upprättande 
+av energideklarationer, undantag från deklarations skyldigheten, besiktning, 
+innehållet i och hur byggnadernas energiprestanda ska anges i energideklarationerna samt hur dessa ska göras tillgängliga för allmänheten i vissa slags 
+byggnader. Vidare får Boverket meddela närmare föreskrifter om krav på 
+bland annat energiexperternas kompetens. Myndigheten ska också föra ett 
+register över deklarationerna.21
+ Swedac ansvarar i fråga om energideklarationer för ackreditering av certifieringsorgan, som i sin tur certifierar att energiexperter har kompetens att 
+upprätta energideklarationer. Dessutom ansvarar Swedac för ackreditering 
+av de kontrollorgan som experterna är verksamma i. Vidare utövar Swedac 
+tillsyn över de ackrediterade kontrollorganen och certifierings organen.22
+ Energimyndigheten är förvaltningsmyndighet för frågor om användning 
+och tillförsel av energi. Energimyndigheten har dock inte tilldelats något 
+specifikt ansvar för energideklarationerna, med undantag för att Boverket ska 
+höra Energimyndigheten före meddelande av föreskrifter om bland annat hur 
+byggnadernas energiprestanda ska anges i deklarationerna.23
+ Kommunerna24 ska utöva tillsyn över att ägare av större specialbyggnader och byggnader som upplåts med nyttjanderätt (bland annat 
+flerbostadshus) håller intyg om att deklarationer upprättats tillgängliga 
+på en väl synlig plats. Denna tillsyn ska säkerställa att energideklarationer 
+upprättas för de aktuella byggnaderna. Kommunerna får vid behov meddela 
+förelägganden om att hålla intyg om att deklarationer upprättats tillgängliga 
+på en väl synlig plats. Sådana förelägganden får förenas med vite.25
+ Det finns inte någon tillsyn över att småhusägare upprättar deklaration 
+inför försäljning av deras fastigheter. Vid försäljning av ett småhus har det 
+bedömts att köparens efterfrågan ska vara ett tillräckligt incitament för att 
+upprätta en deklaration.
+21 16 § lagen (2006:985) om energideklaration för byggnader, 1 § förordningen (2007:1065) med instruktion för Boverket samt främst  
+ 5–9 och 11–12 §§ förordningen (2006:1592) om energideklaration för byggnader.
+22 14–18 §§ lagen (1992:1119) om teknisk kontroll. Ackrediteringen innebär en förklaring att ett organ är kompetent att utföra den  
+ verksamhet som ackrediteringen avser. 
+23 1 § förordningen (2007:1153) med instruktion för Statens energimyndighet, 7 § tredje stycket och 8 § första stycket 2 och andra  
+ stycket förordningen (2006:1592) om energideklaration för byggnader.
+24 Närmare bestämt de kommunala nämnder som fullgör kommunernas uppgifter inom plan- och byggväsendet.
+25 24–25 §§ lagen (2006:985) om energideklaration för byggnader.
+
+22RIKSREVISIONEN Energideklarationer – få råd för pengarna
+2.2.3 Förvaltningsanslag
+Boverket är den enda myndighet som har ett särskilt anslag för energideklarationerna; 2005–2008 var anslaget 15 miljoner kronor per år och 2009 
+var det 9 miljoner kronor. Det fulla anslaget har inte utnyttjats 2005–2008; 
+det har skett ett visst anslagssparande. Orsaken till de högre anslagen före 
+2009 var att regeringen bedömde att resursbehovet var större under systemets första år. Under dessa år byggde Boverket upp ett register för energideklarationer och genomförde det grundläggande arbetet med föreskrifterna.26
+ För Swedac är ackrediteringen av de organ som certifierar energiexperter och ackrediteringen av de företag som genomför energideklarationer en 
+ren uppdragsverksamhet som finansieras genom avgifter. Det innebär att 
+Swedac inte erhåller några anslag för arbetet med energi deklarationerna. 
+Myndighetens verksamhet rörande energideklarationer ska bära sina egna 
+kostnader.27
+26 Boverkets anslag för energideklarationer tilldelas via Energimyndighetens regleringsbrev på grund av att det är  
+ Näringsdepartementet som administrerar de statliga anslagen för energifrågor. Intervju Näringsdepartementet 2009-03-20.
+27 Swedac intervju 2009-03-03.
+
+23 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+3 Genomförandeprocessen
+Den svenska lagstiftningen om energideklarationer bygger på EG-direktivet 
+om byggnaders energiprestanda. Det svenska genomförandet och tillämpningen av EU:s lagstiftning har varit kraftigt försenade. Den utdragna genomförandeprocessen har lett till en initial brist på energiexperter och att få 
+byggnader har energideklarerats i tid. Fastighetsägarnas utgifter för energideklarationerna är dessutom betydande – Boverket har gjort en grov skattning 
+av att de omfattar cirka 700 miljoner kronor per år.
+3.1 En långdragen genomförandeprocess
+Bild 1: Sveriges genomförande av direktiv 2002/91/EG
+Energimyndigheten
+och Boverket
+redovisar
+regeringsuppdrag
+om direktivets
+konsekvenser
+6 mar 2003
+16 dec 2002
+EG-direktiv
+2002/91/EG om
+byggnaders
+energiprestanda
+Aug 2005
+SOU 2005:67
+Energideklarationer,
+metoder, utformning,
+register och
+expertkompetens
+16 mar 2006
+Prop. 2005/06:145
+Nationellt program för
+energieffektivisering
+och energismart
+byggande överlämnas
+tillriksdagen
+Sep 2007
+Första energideklarationen
+inkommer till
+Boverkets
+register
+1 sep 2007
+BFS 2007:14
+Boverkets föreskrifter om ändring 
+i föreskrifterna och
+de allmänna råden 
+(BFS 2007:4) om
+energideklaration
+för byggnader
+1 okt 2006
+SFS 2006:985 
+Lag om Energideklaration för
+byggnader
+SOU 2004:109
+Energideklarering
+av byggnader
+Nov 2004
+SFS 2006:1592
+Förordning om
+energideklaration
+för byggnader
+1 feb 2007
+BFS 2007:4
+Boverkets föreskrifter och 
+allmänna råd om
+energideklaration
+för byggnader BFS 
+2007:5 Boverkets
+föreskrifter och 
+råd för certifiering 
+av energiexpert
+1 mar 2007
+EU:s treåriga tidsfrist 
+för deklaration av alla 
+större byggnader går 
+ut Cirka 50000 av
+cirka 350000 större 
+fastigheter i Sverige 
+deklarerade. Cirka 
+50000 en familjshus
+och nybyggnationer
+till kommer per år
+4 jan 2009
+EU:s tidsfrist för att
+införliva direktivet
+i svensk lagstiftning
+går ut 
+4 jan 2006
+2002 2003 2004 2005 2006 2007 2008 2009
+Källa: Riksrevisionens sammanställning.
+Vid utgången av EU:s tidsfrist för den fulla tillämpningen av direktivet om 
+byggnaders energiprestanda vid årsskiftet 2008/09, hade endast cirka 
+50 000 av cirka 350 000 byggnader energideklarerats.
+ Trots att direktivet beslutades inom EU redan i december 2002, har 
+varken direktivet genomförts i svensk lagstiftning eller väsentliga bestämmelser om energideklarationer tillämpats inom tidsfristen. Den långdragna 
+lagstiftnings processen har medfört det har varit ont om tid för att bygga upp 
+
+24RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ett fungerande system för energideklarationerna och för att deklarera alla de 
+byggnader som omfattas av bestämmelserna.
+ I december 2002 beslutade Europaparlamentet och rådet om direktivet 
+om byggnaders energiprestanda. Regeringen gav i april 2002, redan innan 
+direktivet beslutats, Boverket och Energi myndigheten i uppgift att utreda hur 
+direktivet skulle kunna genomföras i Sverige.28 
+ Efter myndigheternas utredning uppdrog regeringen åt en särskild 
+utredare att lämna mer detaljerade förslag på hur direktivet skulle genomföras och tillämpas. Utredningsdirektivet beslutades vid ett regeringssammanträde den 6 november 2003.29 Utredningen om byggnaders energiprestanda hade sitt första sammanträde i februari 2004. Utredningen 
+lämnade ett delbetänkande i november 2004 och ett slutbetänkande i 
+augusti 2005.30
+ Utifrån utredningens betänkanden lämnade regeringen den 16 mars 
+2006 en proposition till riksdagen om införandet av energideklarationer i 
+Sverige.31 Förutom att propositionen behandlade energi deklarationernas 
+förväntade effekter och praktiska införande, kopplade den även ihop energideklarationerna med regeringens övergripande program för energieffektivisering och energismart byggande. Bostadsutskottet tillstyrkte i stort regeringens förslag men med vissa förändringar. 32 
+ Lagen (2006:985) om energideklaration för byggnader trädde i kraft den 
+1 oktober 2006, vilket var cirka nio månader efter den tidfrist EU bestämt 
+för genomförandet av direktivet i nationell lagstiftning.33 Förordningen 
+(2006:1592) om energi deklaration för byggnader trädde i kraft fyra månader 
+efter lagen, den 1 februari 2007.
+ Den 1 mars 2007 trädde Boverkets föreskrifter och allmänna råd för certifiering av energiexpert och om energideklaration för byggnader i kraft.34 
+ Efter att Boverkets föreskrifter och allmänna råd om certifiering av energiexperter hade trätt i kraft, påbörjade Swedac arbetet med att ackreditera 
+certifierings- och kontrollorgan. 
+ De första energiexperterna certifierades och de första kontrollorganen 
+ackrediterades i september 2007. Samma månad genomfördes också de 
+första energideklarationerna i Sverige.
+28 SOU 2004:109 Energideklarering av byggnader – För effektivare energianvändning s. 46. Uppdraget resulterade i rapporten  
+ Regeringsuppdrag om hur Europaparlamentets och rådets direktiv 2002/91/EG om byggnaders energiprestanda skall genomföras  
+ i Sverige, Energimyndigheten och Boverket, dnr 00-02-1325.
+29 Direktiv 2003:139 Kommittédirektiv – Genomförande av EG-direktivet om byggnaders energiprestanda.
+30 SOU 2004:109 Energideklarering av byggnader – För effektivare energianvändning; SOU 2005:67 Energideklarationer – Metoder,  
+ utformning, register och expertkompetens. Dessa utredningars förslag samordnades med förslagen från SOU 2004:78 Byggnadsdeklarationer – Inomhusmiljö och energi användning.
+31 Prop. 2005/06:145 Nationellt program för energieffektivisering och energismart byggande.
+32 Bet. 2005/06:BoU9, rskr. 2005/06:365 s. 2.
+33 Artikel 15.1 i Europaparlamentets och rådets direktiv 2002/91/EG. Senaste dag för ikraftträdande av de nödvändiga nationella  
+ bestämmelserna var den 4 januari 2006. 
+34 Boverkets föreskrifter och allmänna råd för certifiering av energiexpert (BFS 2007:5 CEX 1) och Boverkets föreskrifter och allmänna  
+ råd (BFS 2007:4 BED 1) om energideklaration för byggnader. Myndigheten ändrade senare också sina föreskrifter och allmänna  
+ råd (BFS 2007:4 BED 1) om energi deklaration för byggnader, vilka (BFS 2007:14 BED 2) trädde i kraft den 1 september 2007.
+
+25 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+3.2 Bristande tillgång på experter
+Den långa genomförandeprocessen och det förhållandevis komplicerade 
+svenska ackrediterings- och certifieringssystemet (se vidare kapitel 6) för 
+energiexperterna ledde till att det i ett inledningsskede uppstod en brist på 
+kvalificerade experter. 
+ Sverige har ett, i jämförelse med andra medlemsstater, komplicerat 
+system för att säkerställa energiexperternas oberoende och kompetens.35 
+Systemet bygger på att Swedac ackrediterar dels de organisationer som certifierar energiexperter, dels de företag vilka energiexperterna är verksamma i.36 
+Direktivet uppställer som minimikrav att deklarationerna utförs på ett oberoende sätt av kvalificerade och/eller auktoriserade experter.37 Den svenska 
+lagstiftningen går längre än direktivets krav genom kraven på certifiering och 
+ackreditering. 
+ I augusti 2005 redovisade Miljö- och samhällsbyggnads departementet 
+till kommissionen att det redan då var uppenbart att det i Sverige skulle 
+komma att uppstå en brist på energiexperter under det föreslagna systemets 
+inledande år.38 I december samma år meddelade departementet till kommissionen att Sverige skulle komma att i vart fall delvis utnyttja direktivets 
+möjlighet till förlängning av tillämpningen av vissa bestämmelser med tre år. 
+Som skäl angavs bristen på oberoende experter under systemets inledande 
+år.39
+ Bristen på energiexperter medförde i förlängningen även att kommunerna hösten 2008 rekommenderades att tills vidare inte utöva aktiv tillsyn 
+över att fastighetsägare fullgjort sin deklarationsskyldighet. Kommunerna 
+rekommenderades också att inte vitesförelägga fastighetsägare som hade 
+beställt en energi deklaration före den 31 december 2008. Rekommendationen lämnades av Sveriges Kommuner och Landsting (SKL) i samråd med 
+Närings departementet, Miljödepartementet och Finans departementet samt 
+Boverket och Energimyndigheten (se vidare kapitel 6).40
+ Det finns också indikationer på att det fortfarande våren 2009 råder brist 
+på energiexperter i vissa glesbygdskommuner. Till exempel på Gotland finns 
+det i dag endast ett ackrediterat företag.41
+35 Intervju Näringsdepartementet 2009-03-20.
+36 Ett företag som har en certifierad expert i en arbetsledande ställning och är ackrediterat kan även använda andra kvalificerade  
+ anställda för att göra energideklarationer. Det finns inga fasta regler för detta, men Swedac har angett en praxis på att man kan ha  
+ mellan 5 och 15 personer arbetande under en certifierad arbetsledare i ett ackrediterat företag.
+37 Artikel 10 i Europaparlamentets och rådets direktiv 2002/91/EG.
+38 Miljö- och samhällsbyggnadsdepartementet, rättsenheten, Svar på kommissionens frågor i ärende TREN/D1/KP/ic D (2005)   
+ 114824 angående genomförandet av direktiv 2002/91/EG om byggnaders energiprestanda, dnr M2005/4405/R, 2005-08-23.
+39 Miljö- och samhällsbyggnadsdepartementet, rättsenheten, Underrättelse enligt artikel 15.2 i Europaparlamentets och rådets 
+ direktiv 2002/91/EG av den 16 december 2002 om byggnaders energiprestanda, dnr M2005/6452/R, 2005-12-21.
+40 Sveriges Kommuner och Landsting, cirkulär 08:62, 2008-09-01.
+41 E-post Swedac 2009-03-16.
+
+26RIKSREVISIONEN Energideklarationer – få råd för pengarna
+3.3 Få byggnader har energideklarerats i tid 
+Till och med mitten av mars 2009 hade cirka 88 000 byggnader energideklarerats.42 Det sammanlagda antalet byggnader som skulle ha energideklarerats till och med den 4 januari 2009 var cirka 350 000. Boverket har 
+beräknat att ett så kallat normalläge inträder under 2010. Då kommer samtliga byggnader som inte utbjuds till försäljning att ha deklarerats.43
+ Fastighetsägarna har haft kort tid för att låta upprätta deklarationer. Från 
+den tidpunkt då den första energideklarationen kunde upprättas, har de haft 
+ett år och tre månader på sig att deklarera alla sina byggnader.44
+3.4 Utgifter för fastighetsägarna
+En grov skattning av Boverket visar att fastighetsägarnas utgifter för att 
+upprätta energideklarationer uppgår till cirka 700 miljoner kronor per år.45 
+Skattningen bygger på att 350 000 kommersiella och offentliga byggnader 
+ska energideklareras under en tioårsperiod och att i genomsnitt 50 000 egna 
+hem och nya byggnader ska deklareras per år.
+ Snittpriset för att upprätta en energideklaration är följande för olika byggnadstyper enligt Boverket:46
+•	 Flerbostadshus:			 7	000–15	000	kronor
+•	 Lokalbyggnader:		 10	000–20	000	kronor
+•	 Småhus:		 4	000–6	000	kronor
+För att systemet med energideklarationer ska vara effektivt krävs det att utgifterna för att upprätta energideklarationerna samt fastighetsägarnas investeringar täcks av de energibesparingar som investeringarna leder till.
+ Utgiften för att upprätta en energideklaration är avdragsgill vid inkomsttaxeringen, vanligtvis som en försäljningsutgift för privatbostadsfastighet 
+och som en löpande driftskostnad för näringsfastighet.47 Den effektiva skattesatsen för kapitalvinst på privatbostad är 22 procent.48 Inkomstskatten är 
+26,3 procent för aktiebolag, stiftelser, ekonomiska föreningar, ideella föreningar och livförsäkringsföretag.49 För fysiska personer med näringsfastighet, 
+hänförs denna till inkomst av näringsverksamhet och läggs ihop med eventuell inkomst av tjänst till förvärvsinkomst. Förvärvsinkomsten beskattas, 
+förenklat uttryckt, med kommunal inkomstskatt och eventuellt med statlig 
+inkomstskatt.50
+42 E-post från Boverket 2009-03-27.
+43 Intervju Boverket 2009-02-20.
+44 Intervju Boverket 2009-02-20, Swedac 2009-03-03.
+45 350 000 kommersiella och offentliga byggnader x 13 000 kr i snittpris för deklarationer/fördelat på 10 år + 50 000 egna hem  
+ och nybyggnationer per år x 5 000 kr i snittpris för deklarationerna = 450 000 000 kr + 250 000 000 kr = 700 000 000 kr/år.   
+ E-post Boverket 2009-03-27.
+46 E-post från Boverket 2009-03-27. 
+47 http://www.skatteverket.se/skatter/energideklaration.4.69ef368911e1304a62580002052.html. 2009-04-27.
+48 65 kap. 7 § och 45 kap. 33 § inkomstskattelagen (1999:1229). Skattesatsen är 30 procent och den skattepliktiga delen av vinsten  
+ är 22/30.
+49 Jfr 65 kap. 14 § inkomstskattelagen (1999:1229) till och med den 30 juni 2009, därefter 65 kap. 10 § samma lag. 
+50 1 kap. 5 § inkomstskattelagen (1999:1229). Den totala förvärvsinkomsten utgör summan av överskott i inkomstslagen tjänst och  
+ näringsverksamhet minskad med allmänna avdrag. Det återstående beloppet utgör i princip den taxerade förvärvsinkomsten.  
+ Från den taxerade förvärvsinkomsten görs bland annat grundavdrag. Det återstående beloppet är den beskattningsbara förvärvsinkomsten. 
+
+27 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+3.4.1 Priser i andra europeiska länder
+I Storbritannien är det uppskattade priset för en energideklaration av ett 
+småhus cirka 100 brittiska pund (cirka 1 250 kronor).51
+ I Finland anger Miljöministeriet att priset för en energideklaration uppgår till mellan 50 och 700 euro (cirka 560–7 850 kronor).52 
+ I Danmark har det enligt Energistyrelsen fastställts en övre beloppsgräns 
+för småhus. Under vissa förutsättningar kan beloppen sänkas. För övriga 
+byggnader råder fri prissättning. Priset ska överenskommas mellan experten 
+och fastighets ägaren.53 De danska energideklarationerna (energimærkning) 
+är giltiga i fem år.54 Från och med den 1 januari 2009 är den övre gränsen för 
+de danska avgifterna:
+•	 5	319	danska	kronor,	inklusive	moms,	för	en	byggnad	under	stigande	 
+ 100 m² (cirka 8 000 kronor).
+•	 5	851	danska	kronor,	inklusive	moms,	för	en	byggnad	på	100–199	m²	
+ (cirka 8 800 kronor).
+•	 6	382	danska	kronor,	inklusive	moms,	för	en	byggnad	på	200–299	m²	
+ (cirka 9 600 kronor).
+3.5 Energibesparingspotential
+Energieffektiviseringsutredningen framhåller att det finns stor potential för 
+energieffektivisering i befintliga byggnader. Utredningen bedömer att den 
+lönsamma effektiviseringspotentialen är cirka 13 TWh fjärrvärme och bränslen respektive cirka 11 TWh el i slutlig energi till 2016.55
+ Regeringen anger i propositionen En sammanhållen klimat- och energipolitik – Energi att systemet med energideklarationer är ett lång siktigt verkande styrmedel, samt att en energideklaration som utförts i enlighet med 
+gällande regler innehåller rekommendationer om kostnads effektiva åtgärder 
+för att förbättra byggnadens energiprestanda. Det finns möjligheter i det 
+enskilda fallet för fastighetsägaren att spara pengar genom att genomföra 
+åtgärderna i deklarationen. Detta sker enligt regeringen inte alltid i den takt 
+som är önskvärd ur ett energi effektiviserings perspektiv. Regeringen menar 
+att det finns en mängd orsaker till att fastighetsägare inte vidtar kostnadseffektiva åtgärder för energieffektivisering. Det kan röra sig om till exempel 
+informationsbrist, kapitalbrist, uppfattad brist på incitament att vidta åtgärderna eller andra verkliga eller uppfattade hinder.56
+51 http://www.direct.gov.uk/en/HomeAndCommunity/BuyingAndSellingYourHome/Homeinformation packs/Energyperformance 
+ certificates/DG_177137, 2009-04-23. Kursdatum 2009-04-23.
+52 http://www.environment.fi/default.asp?contentid=179130&lan=SV, 2009-04-23. Kursdatum 2009-04-23.
+53 http://www.ens.dk/sw49379.asp, 2009-04-23. Kursdatum 2009-04-23.
+54 http://www.ens.dk/sw13867.asp, 2009-03-23. Kursdatum 2009-04-23.
+55 Prop. 2008/09:163 s. 129.
+56 Prop. 2008/09:163 s. 125 f.
+
+28RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+29 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+4 Besiktningar och åtgärdsförslag
+Syftet med energideklarationerna är att främja energi effektiviseringar. Där 
+energieffektiviseringar är möjliga ska byggnaden först besiktigas, och därefter ska rekommendationer om kostnadseffektiva åtgärder lämnas.
+ Data från Boverkets register för energideklarationer visar att två tredjedelar av alla deklarationer har föregåtts av besiktning och att bara hälften av 
+alla deklarationer innehåller åtgärdsförslag. Detta kan ha flera förklaringar.
+ Cirka en tredjedel av alla deklarationer har antingen föregåtts av besiktning men innehåller inga åtgärdsförslag eller har inte föregåtts av besiktning 
+men innehåller ändå åtgärdsförslag. Nyttan av denna tredjedel av deklarationerna kan ifrågasättas. 
+ Det finns starka indikationer på att problemen med besiktningar och 
+åtgärdsförslag är orsakade av otydligheter i den svenska lagstiftningen.
+4.1 Utfallet av energideklarationerna
+Energideklarationens kostnad och nytta för fastighetsägaren påverkas av om 
+energi experten har besiktigat byggnaden och lämnat åtgärdsförslag. Tidsåtgången för att upprätta en deklaration påverkas av om besiktning genomförs, vilket även får genomslag på priset för deklarationen. Fastighets ägarens 
+nytta av deklarationen ligger i att denne får förslag på kostnadseffektiva 
+energibesparingsåtgärder.
+ Riksrevisionen har bearbetat data från Boverket om de deklarationer som 
+har registrerats till och med mitten av mars 2009. Bearbetningarna redovisas främst i diagram i detta avsnitt. Diagrammen redovisar av översiktsskäl 
+inte andelarna för byggnadskategorierna en- och tvåbostadshus, flerbostadshus samt lokal- och specialbyggnader. Dessa andelar redovisas, i förekommande fall, i löpande text.57 
+ De registeruppgifter som levererats av Boverket är inte helt tillförlitliga. 
+De kan i viss utsträckning innehålla dubbletter av energideklarationer.58 Informationen i sig kan också i viss utsträckning vara osäker. Det kan bero på att 
+energiexperterna har fyllt i deklarationerna på fel sätt, till exempel genom att 
+de har lämnat åtgärdsförslag i bilagor som inte har förts in i Boverkets  
+57 Data har erhållits från Boverket 2009-03-27. De avser uppgifter i de deklarationer som registrerats till och med 2009-03-12.
+58 Detta på grund av att de första 2 500 deklarationerna som registrerades inte innehöll uppgifter om byggnadsID. Boverket ansåg  
+ vid den tidpunkten att Lantmäteriets pris för dessa uppgifter var för högt. Dessa byggnader kan för närvarande inte identifieras i 
+ registret men Boverket kommer enligt uppgift att korrigera felet manuellt. E-post Boverket 2009-04-24. 
+
+30RIKSREVISIONEN Energideklarationer – få råd för pengarna
+register eller att de inte angett om besiktning genomförts eller ej. Det senare 
+problemet medför bland annat att totalsumman deklarationer i diagrammen 
+skiljer sig åt.59
+4.1.1 Två tredjedelar av deklarerade byggnader har besiktigats
+Riksrevisionens bearbetning av data från Boverket visar att drygt två tredjedelar (71 procent) av de deklarerade byggnaderna har besiktigats inför 
+upprättandet av energideklaration. Andelen besiktigade byggnader är lägst 
+för flerbostadshusen (69 procent). Den är dock i nivå med andelarna besiktigade en- och tvåbostadshus samt lokal- och specialbyggnader (70 respektive 
+75 procent). 
+ I de fall byggnaden inte har besiktigats kan det vara en indikation på att 
+energiexperten utifrån grundläggande uppgifter bedömt byggnaden som så 
+energieffektiv att rekommendationer om kostnadseffektiva åtgärder inte är 
+möjliga. Det kan också vara en indikation på att besiktning inte har skett, för 
+att hålla nere priset på deklarationen. Bilden nedan visar antal och andel av 
+samtliga deklarationer där byggnaderna har besiktigats respektive inte besiktigats.
+Bild 2: Antal energideklarationer där besiktning genomförts eller ej 
+Antal energideklarationer där besiktning skett
+Antal energideklarationer där besiktning inte skett
+22 797; 29 %
+56 333; 71 %
+Källa: Riksrevisionens bearbetning av data från Boverket.
+59 Telefonintervju Boverket 2009-03-31; e-post Boverket 2009-03-31.
+
+31 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+4.1.2 Endast hälften av energideklarationerna innehåller åtgärdsförslag
+Det främsta syftet med energideklarationerna är att främja fastighetsägarnas 
+investeringar i energi effektiviserande åtgärder. I deklarationerna ska det om 
+möjligt lämnas rekommendationer om kostnadseffektiva åtgärder (även  
+kallade åtgärdsförslag). En stor andel, 48 procent, av alla deklarationer innehåller dock inte några rekommendationer om åtgärder. Det kan betyda att 
+en stor del av det deklarerade byggnads beståndet redan är maximalt energieffektivt. En annan förklaring kan vara att en för liten andel byggnader har 
+besiktigats (se avsnitt 4.1.1). 
+ Även andelen deklarationer med åtgärdsförslag är mycket jämn mellan 
+de olika byggnadskategorierna. Den är lägst för en- och tvåbostadshus (50 
+procent) och något högre för flerbostadshus (53 procent) respektive lokal- 
+och specialbyggnader (52 procent). Bilden nedan visar antal och andel av de 
+registrerade deklarationerna som innehåller åtgärdsförslag.
+Bild 3: Antal energideklarationer där åtgärdsförslag lämnats eller ej
+Antal energideklarationer med åtgärdsförslag
+Antal energideklarationer utan åtgärdsförslag
+38 556; 48 %
+41 762; 52 %
+Källa: Riksrevisionens bearbetning av data från Boverket.
+4.1.3 Nyttan av en tredjedel av deklarationerna kan ifrågasättas
+En ytterligare bearbetning av deklarationernas innehåll indikerar att dagens 
+energideklarationssystem har betydande effektivitetsproblem. Innebörden av 
+regelverket är att en byggnad ska besiktigas om energiexperten bedömer att det 
+behövs för att upprätta en energideklaration. Om deklarationen ska innehålla 
+rekommendationer om åtgärder för att förbättra byggnadens energiprestanda, ska byggnaden dock först besiktigas.60
+60 8 § första stycket lagen (2006:985) om energideklarationer samt 6 § första stycket förordningen (2006:1592) om energideklarationer. 
+
+32RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Riksrevisionen har bearbetat data över deklarationer med och utan 
+rekommendationer om energieffektiviserande åtgärder, respektive deklarationer med och utan föregående besiktning av byggnaderna. 
+ Bearbetningen visar att i 25 procent av deklarationerna har byggnaderna 
+besiktigats utan att åtgärdsförslag lämnats. Denna kategori kan indikera att 
+byggnaderna redan är energieffektiva men att de ändå har besiktigats, trots 
+att det troligtvis inte har behövts. Ett annat skäl till besiktning kan vara att 
+experten bedömt det som nödvändigt att kontrollera fastighetsägarens uppgifter om byggnadens energiprestanda. 
+ I 7 procent av deklarationerna har rekommendationer om energieffektiviserande åtgärder lämnats utan att byggnaden först har besiktigats. 
+Sådana deklarationer strider direkt mot lagstiftningen.
+ I båda fallen, vilka sammanlagt uppgår till 32 procent av deklarationerna, 
+kan fastighetsägarnas nytta av de genomförda deklarationerna i förhållande 
+till det pris som de har betalat för deklarationen ifrågasättas.
+ Bilden nedan visar de fyra aktuella kategorierna av deklarationer.
+Bild 4: Antal energideklarationer där åtgärdsförslag lämnats eller ej
+Antal energideklarationer med besiktning och med åtgärdsförslag
+Antal energideklarationer med besiktning och utan åtgärdsförslag
+Antal energideklarationer utan besiktning och utan åtgärdsförslag
+Antal energideklarationer utan besiktning och med åtgärdsförslag
+36 403; 46 %
+19 930; 25 %
+17 438; 22 %
+5 359; 7 %
+Källa: Riksrevisionens bearbetning av data från Boverket 
+
+33 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+4.2 Otydligheter i lagstiftningen
+4.2.1 Otydligt vad besiktning innebär och vad som avgör besiktningsfrågan
+När energideklarationerna infördes utgick regeringen från att ett stort ansvar 
+för besiktningens omfattning och kvalitet skulle läggas på de oberoende 
+experterna.61 Frågorna om vad som faktiskt utgör en besiktning och vad det 
+är som avgör om en byggnad behöver besiktigas för att en deklaration ska 
+kunna upprättas, medför dock betydande problem för energiexperterna och 
+fastighetsägarna.62 Problemen beror främst på att lagstiftningen (lagen, förordningen och Boverkets föreskrifter om energideklarationer)63 och dess förarbeten är otydliga och delvis motstridiga. I bilaga 3 redogör vi närmare för 
+otydligheterna i lagstiftningen om energideklarationer och dess förarbeten. 
+Otydligheterna är huvudsakligen följande:
+•	 Det	är	oklart	om	vad	som	avgör	om	en	byggnad	ska	besiktigas.
+•	 Det	är	också	oklart	om	besiktning	alltid	måste	ske	på	plats	eller	om	och	i	 
+ så fall när den kan ske från annan plats än där byggnaden är belägen.
+•	 Det	är	dessutom	oklart	om	regeringens	bemyndigande	till	Boverket	att	 
+ meddela föreskrifter avser både omfattningen och formen för besiktning. 
+Mer detaljerat utgörs otydligheterna i huvudsak av följande:
+•	 Enligt	lagen	ska	byggnadens	ägare	se	till	att	byggnaden	besiktigas,	om	 
+ det behövs för att en deklaration ska kunna upprättas. Regeringen eller  
+ den myndighet som regeringen bestämmer får meddela föreskrifter om  
+ besiktning.64 
+•	 Regeringens	lagförslag	utgick	från	att	en	byggnad	ska	besiktigas	på	det	 
+ sätt som behövs för att en deklaration ska kunna upprättas. Regeringen  
+ förefaller därmed utgå från att besiktning ska vara obligatorisk. Samtidigt  
+ framhåller regeringen i propositionen att en besiktning på plats inte  
+ alltid är nödvändig.65 Det är dock otydligt om regeringen med uttrycket   
+ ”besiktning på plats” avser förtydliga att besiktning är något som alltid  
+ sker på plats, att besiktning kan ske i någon annan form eller att besiktning över huvud taget inte alltid krävs.
+•	 Otydligheterna	i	bostadsutskottets	betänkande	består	främst	i	att	utskottet anger att regeringens förslag till lagtext om besiktning riskerar att  
+ leda till missförstånd om att experten inte kan upprätta en deklaration  
+ utan att göra en besiktning på plats. Samtidigt framhåller utskottet att  
+ det inte avser att förändra innebörden i sak av regeringens förslag till  
+61 Prop. 2005/06:145 s. 77.
+62 Se till exempel Swedac, skrivelse till ackrediterade kontrollorgan inom området energideklaration av byggnader, 2009-03-18,  
+ beteckning 09-733-69.
+63 Se till exempel Boverket, Förtydligande angående besiktning 2009-04-02. Jämför Swedac, skrivelse till ackrediterade kontrollorgan 
+ inom området energideklaration av byggnader, 2009-03-18, beteckning 09-733-69, s. 1.
+64 8 § lagen (2006:985) om energideklarationer. 
+65 Prop. 2005/06:145 s. 77. 
+
+34RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ bestämmelse om besiktning. Dessutom anger utskottet att regeringen  
+ eller den myndighet regeringen bestämmer har ett relativt stort utrymme  
+ att reglera ”omfattningen av och formen för en besiktning”. 66 Det sistnämnda skulle kunna tolkas som att utskottet utvidgar begreppet besiktning till att omfatta även granskning som inte sker på plats. En alternativ tolkning är att utskottet ändå menar att en besiktning är något som  
+ per definition alltid sker på plats. 
+•	 Förordningen	anger	att	om	en	energideklaration	ska	innehålla	rekommendationer om åtgärder för att förbättra byggnadens energiprestanda,  
+ ska deklarationen föregås av en besiktning. Förordningen reglerar inte  
+ frågan om besiktning närmare, utan bemyndigar i stället Boverket att  
+ meddela föreskrifter om hur omfattande en besiktning behöver vara.   
+ Boverket får även meddela de ytterligare föreskrifter som behövs om  
+ besiktningen av befintliga byggnader.67 Om begreppet besiktning ska  
+ tolkas som att den kan ske på annan plats än den där byggnaden är belägen (jämför bostadsutskottets diskussion ovan), bemyndigar förordningen Boverket att meddela föreskrifter även om formen för besiktning.  
+ Detta ställer ytterligare krav på precisering av innebörden av begreppet  
+ besiktning i Boverkets föreskrifter. Begreppet ”besiktning” avser i ett  
+ flertal andra lagar en granskning på plats av till exempel en byggnad.68  
+ Om begreppet besiktning skulle tillämpas på samma sätt som i andra  
+ lagar skulle bemyndigandet i detta fall innebära en rätt att föreskriva  
+ exempelvis hur detaljerad en granskning på plats behöver vara.
+•	 Boverkets	föreskrifter	reglerar	enligt	ordalydelsen	besiktningens	omfattning. Föreskrifterna reglerar två olika slags besiktningar; dels besiktning enligt förordningen, dels besiktning i övrigt.69 Omfattningen av  
+ besiktning enligt förordningen ska anpassas till i vilken mån besiktningen kan leda till rekommendationer om kostnadseffektiva åtgärder utan  
+ negativa konsekvenser för bland annat inomhusmiljön. Myndigheten förtydligar inte vad besiktning i övrigt avser. Både formen för och omfattningen av en sådan besiktning är oklar. 
+•	 I	anslutning	till	Boverkets	föreskrifter	lämnar	myndigheten	ett	allmänt	 
+ råd, vilket huvudsakligen avser att i bedömningen av kostnadseffektivitet  
+ bör även kostnaden för besiktningen vägas in. Dessutom lämnar Bo- 
+ verket rådet att i de fall energiexperten bedömer att det inte finns kostnadseffektiva åtgärder i den omfattningen att det är motiverat med  
+ besiktning, kan experten i stället ge generella råd om effektivisering. 
+66 Bet. 2005/06:BoU9 s. 31 f. 
+67 6 § förordningen (2006:1592) om energideklarationer. 
+68 Se till exempel 23 § första stycket förvaltningsprocesslagen (1971:291) samt 18 kap. 8 § och 30–40 §§ fastighetstaxeringslagen  
+ (1979:1152). 
+69 4 § första och andra styckena Boverkets föreskrifter och allmänna råd om energideklaration för byggnader (BFS 2007:4 BED 1).
+
+35 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Boverket anger i april 2009 att regelverket kan vara svårt att tyda, att tillämpningen av bestämmelserna inte alltid följs och att en del registrerade energideklarationer inte följer regelverket.70 Boverket och Swedac uppger också att 
+en besiktning bör ske i så gott som alla fall. Detta om inte annat för att kontrollera att fastighetsägarnas uppgifter om byggnadens energi användning 
+är korrekta.71 Båda myndigheterna anser också att lagstiftningen behöver 
+tillämpas på ett mer stramt sätt, så att byggnader besiktigas i fler fall. 
+ Boverket har ännu inte ändrat myndighetens föreskrifter eller allmänna 
+råd. Tills vidare hänvisar Boverket i stället dels till en skrivelse från Swedac 
+till de ackrediterade kontrollorganen, dels till ett förtydligande den 2 april 
+2009 på myndighetens hemsida.72 Boverket har också tillsammans med 
+Swedac tillsatt en utredning om hur Boverket kan ge riktlinjer för besiktning 
+vid energideklaration. Enligt Boverket kan utredningen, som beräknas bli 
+klar i juni 2009, leda till förändringar av Boverkets föreskrifter eller allmänna 
+råd.73
+ Det finns såväl fastighetsägare som energiexperter som utnyttjar otydligheterna. Vissa fastighetsägare ställer redan vid upphandlingen krav på hur 
+deklarationerna ska upprättas. De experter som går med på att inte utföra en 
+besiktning kan då erbjuda ett lägre pris, vilket innebär en konkurrensfördel. 
+Det finns även energiexperter som erbjuder deklarationer utan besiktning.74 
+4.2.2 Otydligt när experterna måste lämna åtgärdsförslag
+Enligt EG-direktivet ska deklarationerna åtföljas av rekommendationer för 
+hur energiprestanda kan förbättras kostnadseffektivt.75 Lagen om energideklarationer utgår från att sådana rekommendationer ska lämnas om en 
+byggnads energiprestanda kan förbättras med beaktande av en god inomhusmiljö.76 Rekommendationerna, eller åtgärdsförslagen, är en central del 
+för att kunna uppnå syftet med energideklarationerna. Om inga rekommendationer lämnas och inga åtgärder genomförs är energi deklarationerna 
+enbart behäftade med kostnader för fastighetsägarna och samhället.77
+ Riksrevisionens bearbetning av data från Boverket (se avsnitt 4.1.2. ovan) 
+visar att 48 procent av samtliga energideklarationer inte innehåller några 
+åtgärdsförslag. Det kan finnas flera förklaringar till detta, exempelvis att 
+det är de mest energieffektiva byggnaderna som redan har deklarerats, att 
+70 Boverkets hemsida 2009-04-02: http://www.boverket.se/Bygga-forvalta/Energideklaration/Aktuellt/ Aktuellt1/.
+71 Termen besiktning avser här den allmänt vedertagna betydelsen av besiktning, nämligen att den avser en granskning på plats.  
+ Intervju Boverket 2009-02-20; intervju Swedac 2009-03-03. 
+72 Boverkets hemsida 2009-04-02: http://www.boverket.se/Bygga-forvalta/Energideklaration/Aktuellt/ Aktuellt1/.
+73 E-post från Boverket 2009-04-24. 
+74 Jfr Swedac, Ang. kravet om oberoende, dnr 08-161-69, 2008-01-22; Swedac, Kontrollorganets oberoende, dnr 08-2105-69,  
+ 2008-06-05; Swedac, Beträffande kraven på ett kontrollorgan för energideklarationer, dnr 08-2105-69, 2008-06-17; Swedac, Krav på  
+ kontrollorgan, dnr 09-733-69, 2009-03-18.
+75 Artikel 7.2 Europaparlamentets och rådets direktiv 2002/91/EG.
+76 9 § första stycket 4 lagen (2006:985) om energideklaration för byggnader. 
+77 Jfr Regeringsuppdrag om hur Europaparlamentets och rådets direktiv 2002/91/EG om byggnaders energiprestanda skall genomföras i Sverige, Energimyndigheten/Boverket, 2003-03-06, dnr 00-02-1325.
+
+36RIKSREVISIONEN Energideklarationer – få råd för pengarna
+besiktningarna inte håller tillräckligt hög kvalitet eller att det finns skillnader 
+i experternas bedömningar av vad som utgör kostnadseffektiva åtgärder. Det 
+kan också råda osäkerhet hos experterna om i vilka situationer de ska lämna 
+rekommendationer.78
+ En annan bidragande orsak till det låga antalet rekommendationer kan 
+vara utformningen av Boverkets register för deklarationerna. Energiexperterna kan göra separata beräkningar för möjliga energi besparingar, 
+men sådana beräkningar kan inte bifogas vid registreringen av deklarationerna i registret.79
+ Det finns också indikationer i registret på att vissa rekommendationer 
+används slentrianmässigt. Exempel på sådana rekommendationer är att 
+ta upp en ventil, använda snålspolande toaletter eller att sänka inomhustemperaturen med en grad.80
+ Varken Boverket eller Swedac har hittills analyserat orsakerna till det 
+låga antalet deklarationer med rekommendationer, eller analyserat  
+rekommendationernas kvalitet.81
+78 Intervju Swedac 2009-03-03.
+79 Intervju Swedac 2009-03-03.
+80 Intervju Swedac 2009-03-03.
+81 Intervju Boverket 2009-02-20. 
+
+37 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+5 Styrning och uppföljning
+Riksdagen har beslutat om ett övergripande och långsiktigt mål för energieffektivisering i byggnadsbeståndet: Den totala energi användningen per 
+uppvärmd areaenhet ska minska med 20 procent till 2020 och 50 procent till 
+2050.82 Regeringen har inte formulerat närmare hur energi deklarationerna 
+ska bidra till uppfyllelsen av detta mål.
+ Ett flertal myndigheter och departement har avgränsade ansvarsområden inom energideklarationssystemet. Detta medför en risk för att 
+system övergripande problem faller mellan stolarna. Energi deklarationerna 
+har hittills inte uttryckligen samordnats med andra statliga styrmedel för 
+att öka energi effektiviseringen i det befintliga byggnads beståndet. I energipropositionen våren 2009 föreslår regeringen dock samordning mellan 
+energi deklarationerna, en föreslagen webbaserad rådgivningsportal och det 
+föreslagna ROT-avdraget. 
+ Det har hittills inte gjorts någon återkommande uppföljning av vilka 
+energi effektiviseringar som genomförs efter att energideklarationer har upprättats. Registret för energideklarationer har svagheter som försvårar uppföljning. Ingen statlig aktör följer fastighetsägarnas utgifter för att upprätta 
+energi deklarationer. Regeringen har dock gett Boverket i uppdrag att under 
+2009 utvärdera hur de administrativa rutiner som införts i systemet med 
+energi deklarationer fungerar utifrån fastighetsägares och brukares perspektiv.
+5.1 Otydliga mål
+Det av riksdagen fastställda miljökvalitets målet God bebyggd miljö har ett 
+delmål om att den totala energianvändningen per uppvärmd areaenhet 
+ska minska med 20 procent till 2020 och 50 procent till 2050 i förhållande 
+till användningen 1995.83 Detta är det övergripande målet för energieffektiviseringen i det svenska byggnads beståndet. Ett styrmedel för att uppnå 
+detta övergripande mål är energi deklarationer.
+82 Bet. 2005/06:BoU9, rskr. 2005/06:365.
+83 Bet. 2005/06:BoU9, rskr. 2005/06:365.
+
+38RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Regeringen har inte brutit ned det av riksdagen uppställda målet för  
+energieffektivisering i byggnadsbeståndet till uppföljningsbara mål för 
+energi deklarationerna. Det saknas mål för hur stor del av energieffektiviseringen som energideklarationerna ska bidra till att uppnå. 
+ I Boverkets instruktion anges att myndigheten ansvarar för samordning, 
+utveckling, uppföljning, utvärdering, rapportering och information i fråga om 
+miljökvalitetsmålet God bebyggd miljö.84
+ Boverkets regleringsbrev för 2007–2009 innehåller dock inte några mål 
+för energideklarationerna som uttryckligen anknyter till riksdagens övergripande miljökvalitetsmål för området. Inte heller Swedacs eller Energimyndighetens regleringsbrev för samma period innehåller några sådana mål.
+5.2 Bristande systemöversikt och styrning
+5.2.1 Uppdelat ansvar
+Ett flertal myndigheter och departement har avgränsade ansvarsområden 
+inom energi deklarations systemet. Uppdelningen av ansvaret på flera aktörer 
+kan ha bidragit till att systemproblem inte har uppmärksammats.
+ Näringsdepartementet ansvarar för energifrågor inom Regeringskansliet 
+och Miljödepartementet styr Boverket. De berörda myndigheterna ansvarar 
+också för avgränsade delar av systemet med energideklarationer . Boverket 
+har ansvar för att utforma föreskrifter och föra ett register för deklarationerna. Swedac har ansvar för att säkerställa experternas oberoende och 
+kunskapsnivå.85 När Boverket överväger föreskrifter om hur en byggnads 
+energiprestanda ska anges i energi deklarationerna, ska Energimyndigheten 
+först yttra sig. Energi myndigheten är den myndighet som har över gripande 
+ansvar för energifrågor.
+ Regeringen har inte gett någon myndighet ett övergripande ansvar för 
+systemet med energideklarationer. Detta kan bland annat ha bidragit till att 
+ingen myndighet har uppmärksammat att certifierings- och ackrediteringssystemet, som Swedac ansvarar för, inte verkar säkerställa kvaliteten på 
+innehållet i deklarationerna. Det sistnämnda framgår vid en bearbetning av 
+data från Boverkets register över energideklarationer. Det finns således en 
+risk för att system övergripande problem faller mellan stolarna med dagens 
+organisation.
+84 4 § tredje stycket förordningen (2007:1065) med instruktion för Boverket. 
+85 10 § andra stycket 1a) förordningen (2006:1592) om energideklarationer, med hänvisning till 14 § lagen (1992:1119) om teknisk  
+ kontroll.
+
+39 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+5.2.2 Ingen samordning med andra styrmedel
+Energideklarationerna saknar i dag koppling till vilka statliga bidrag och  
+skattelättnader som finns att tillgå om fastighetsägarna genomför olika 
+åtgärdsförslag. De stöd och subventioner fastighetsägarna kan få för att 
+genomföra energieffektiviserande åtgärder redovisas enbart i allmänna 
+informations broschyrer från Boverket och Energimyndigheten.86
+ En fastighetsägare kan också få information om energiförbättrande 
+åtgärder från de kommunala energirådgivarna som får bidrag av staten  
+genom Energi myndigheten. Ramanslaget 2008 för denna verksamhet var 
+106 miljoner kronor. Anslaget får inte användas för besiktningsverksamhet 
+eller delaktighet vid upprättandet av energideklarationer.87
+ Regeringen har i propositionen En sammanhållen klimat- och energipolitik 
+– Energi föreslagit att en samlad informations- och rådgivnings portal inrättas 
+för att främja ett ökat genomförande av åtgärderna i energideklarationer för 
+byggnader. Regeringen föreslår att portalen införs under perioden 2010–
+2014.88 Regeringen har också aviserat att det ska införas ett system med 
+skattereduktion för utgifter för arbete i form av reparation, underhåll samt 
+om- och till byggnad (ROT-arbete). Småhusägare som vill genomföra energieffektiviseringsåtgärder ska enligt förslaget få skattereduktion för utgifter för 
+arbete vid till exempel tilläggs isolering och byte till energieffektiva fönster. 89
+5.3 Bristande uppföljning
+5.3.1 Uppföljningen av effekter
+Vid införandet av energideklarationerna gjorde Boverket två begränsade  
+undersökningar av fastighetsägarnas kunskaper och attityder rörande 
+lagstiftningen. I undersökningarna frågade myndigheten även om fastighetsägarnas avsikter att genomföra förbättringsåtgärder. Regeringen har 
+också gett Boverket i uppdrag att under 2009 utvärdera hur de administrativa rutiner som införts i systemet med energi deklarationer fungerar utifrån 
+fastighetsägares och brukares perspektiv.90
+ Ingen statlig aktör har dock regelbundet följt upp och analyserat vilka 
+investeringar som kommer till stånd efter att energideklarationer har genomförts och deras energibesparande effekter.
+86 Intervju Boverket 2009-02-20.
+87 Regleringsbrev för budgetåret 2008 för Statens energimyndighet, 2008-11-13; 2 § fjärde stycket förordningen (1997:1322) om 
+ bidrag till kommunal energi- och klimatrådgivning.
+88 Prop. 2008/09:163 s. 124.
+89 Prop. 2008/09:163 s. 126. Skattereduktionen gäller ROT-arbete som utförts från och med den 8 december 2008 och riktas till den  
+ som har det egentliga underhållsansvaret för sin bostad. I linje med detta avses med ROT-arbete reparation, underhåll samt  
+ om- och tillbyggnad av småhus, ägarlägenhet eller bostadsrätt som ägs respektive innehas av den som ansöker om eller begär  
+ skattereduktion. Hyresrätter omfattas därmed inte av reformen.
+90 Markör Marknad och Kommunikation, oktober 2006, Nollmätning ”Lagen om energideklaration” samt, november 2007,  
+ Uppföljning ”Lagen om energideklarationer”.
+
+40RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ REGISTRET FÖR ENERGIDEKLARATIONER
+Registret för energideklarationer får användas för bland annat
+- framtagande av statistik 
+- uppföljning och utvärdering av energianvändningen och inomhusmiljön  
+ i bebyggelsen samt 
+- tillsyn.91
+Bostadsutskottet har i ett av riksdagen godkänt betänkande framhållit att 
+registret över energideklarationer kan få stor betydelse inom bland annat 
+områdena ovan. Utskottet har också betonat registrets betydelse för att följa 
+upp miljökvalitets målet God bebyggd miljö.92
+ En svaghet med Boverkets register är dock att det inte går att få fram användbara grupperingar av rekommenderade åtgärdsförslag. Detta försämrar 
+registrets användbarhet för uppföljning. I systemet finns det bara en mycket 
+grov kategorisering av åtgärds förslagen i tre kategorier.
+ Denna grova kategorisering innebär att det kan bli svårt att till exempel 
+följa upp om en viss sorts åtgärdsförslag, till exempel bergvärme eller värmepump, får särskilt stort genomslag hos fastighetsägarna. 
+5.3.2 Uppföljningen av utgifterna
+Ingen statlig aktör följer fastighetsägarnas utgifter för att upprätta energideklarationer. En grov skattning av Boverket visar dock att fastighets ägarnas 
+utgifter för att upprätta energideklarationer uppgår till cirka 700 miljoner 
+kronor per år.93
+5.4 Uppdrag och utredningar
+Regeringen har gett Boverket i uppdrag att under 2009 utvärdera hur de administrativa rutiner som införts i systemet med energi deklarationer fungerar 
+utifrån fastighetsägares och brukares perspektiv. Boverket ska vid behov, 
+i samråd med Statens energi myndighet, föreslå förbättringar och vidareutveckling av rutiner och underlag för energi deklarationerna. Om Boverket 
+ser behov av författnings ändringar ska myndigheten också lämna förslag på 
+sådana. Boverket ska även följa upp hur energideklarationerna uppfattas av 
+olika fastighetsägare och i vilken utsträckning de anser sig ha fått ny kunskap om möjliga energi åtgärder samt om de har genomfört eller planerar att 
+genomföra de åtgärder som föreslagits i energi deklarationerna. Boverket  
+91 18 § lagen (2006:985) om energideklarationer.
+92 Bet. 2005/06:BoU9, rskr. 2005/06:365 s. 38 f. 
+93 E-post Boverket 2009-03-27.
+
+41 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ska även följa upp hur boende i flerbostadshus uppfattar energideklarationen och om det har ökat deras kunskap om byggnadens energianvändning, radon och ventilation.94
+ Regeringen tillsatte i september 2008 även en särskild utredare för att 
+göra en fördjupad prövning av Boverkets verksamhet. Utredaren ska bland 
+annat belysa behovet av att förändra Boverkets verksamhet när det gäller 
+inriktning, mål och prioriteringar. Vidare ska utredaren belysa möjliga  
+rationaliseringar och effektiviseringar, liksom eventuella behov av förändringar i Boverkets ansvar och regeringens styrning av verksamheten. Uppdraget 
+ska redovisas senast den 31 maj 2009.95 
+ Det är oklart om regeringen kommer att låta göra en oberoende översyn 
+av energideklarations systemet. Energieffektiviseringsutredningen föreslog att 
+en oberoende utvärdering av systemet med energideklarationer ska genomföras senast 2010. Regeringen redovisar inte i energi propositionen 2009 om 
+den kommer att följa utredningens förslag.96
+94 Boverkets regleringsbrev för 2009 avsnitt 3 uppdrag 12, 2008-12-18.
+95 Direktiv 2008:107 Fördjupad prövning av Boverkets verksamhet.
+96 SOU 2008:110, prop. 2008/09:163 s. 123.
+
+42RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+43 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+6 Kontroll och tillsyn
+Diagrammen i kapitel 4 indikerar att det svenska systemet med certifiering 
+av experter och ackreditering av företag inte säkerställer deklarationernas 
+kvalitet. Ingen myndighet genomför systematiska kontroller av innehållet i 
+energideklarationerna.
+ Enligt direktivet ska deklarationerna upprättas på ett oberoende sätt. Det 
+finns indikationer på brister i vissa experters oberoende gentemot fastighetsägare. Det finns också indikationer på att vissa experter säljer andra produkter som en del av deklarations upprättandet.
+ Vid årsskiftet 2008/09 hade 240 kommuner av 290 anmält ansvariga 
+personer som fått behörighet till Boverkets energideklarationsregister.  Det är 
+oklart vilken statlig aktör som har ansvar för att stödja kommunerna i deras 
+tillsyn.
+ Sveriges Kommuner och Landsting har med regeringens goda minne 
+uppmanat kommunerna i ett cirkulär att de under en övergångsperiod inte 
+ska förelägga fastighetsägare vite för att de inte har låtit upprätta energideklarationer. Detta under förutsättning att det råder brist på experter och att 
+fastighetsägaren har beställt en energi deklaration av en certifierad energiexpert. Cirkuläret anger ingen tidsgräns för fristen och inte heller vad som 
+utgör brist på experter.
+6.1 Kvalitetssäkring av deklarationerna
+Det finns indikationer på att det svenska systemet med ackreditering av 
+företag och certifiering av enskilda experter inte säkerställer deklarationernas 
+kvalitet (se kapitel 4).
+ Enligt direktivet om byggnaders energiprestanda ska medlemsstaterna 
+se till att byggnader energideklareras på ett oberoende sätt av kvalificerade 
+och/eller auktoriserade experter.97
+ Ett gemensamt tillvägagångssätt, genomfört av kvalificerade och/eller 
+auktoriserade experter, vars oberoende garanteras på grundval av objektiva 
+kriterier, ska bidra till att medlemsstaterna får gemensamma spelregler i 
+fråga om deras insatser för att spara energi i byggnadssektorn och ska för97 Artikel 10 i Europaparlamentets och rådets direktiv 2002/92/EG. I kommissionens förslag till ett omarbetat direktiv anges att  
+ medlemsstaterna ska säkerställa att upprättande av bland annat energideklarationer utförs på ett oberoende sätt av kvalificerade  
+ och auktoriserade experter. Auktorisationen av experter föreslås ske baserat på experternas kompetens och oberoende. Communication from the Commission, Explanatory Memorandum, Proposal for a directive of the European Parliament and of the  
+ Council on the energy performance of buildings (recast), SEC (2008) 2820-2821, art. 16. I direktivets engelska text används  
+ termen ”accredited”, vilken korresponderar med termen ”auktoriserade” i direktivets svenska text. Regeringen använde termen  
+ ”auktoriserade” i inledningen av propositionens diskussion om utformningen av det svenska systemet med oberoende experter,  
+ se prop. 2005/06:145 s. 87. Däremot använder Regeringskansliet en annan term, ackrediterade, i faktapromemoria  
+ 2008/09:FPM57 s. 3 i redogörelsen för kommissionens förslag till ny lydelse av direktivet.
+
+44RIKSREVISIONEN Energideklarationer – få råd för pengarna
+bättra insynen för presumtiva köpare och användare i fråga om energiprestanda på EG:s fastighetsmarknad.98
+6.1.1 Kontroller av deklarationerna
+Ingen myndighet gör systematiska översikter av innehållet i ett större urval 
+av energideklarationer. Swedac gör dock begränsade stickprov av deklarationerna i sina granskningar av företagens rutiner, vid den årliga kontrollen 
+av deras ackreditering.99
+ Ingen myndighet följer heller prissättningen på energideklarationerna. 
+Swedac uppger dock att priset för en deklaration kan variera i stor utsträckning, framför allt för större fastighetsbestånd. Myndigheterna anser sig inte 
+behöva följa marknadens prissättning mer ingående då fri konkurrens råder. 
+Priset kan dock vara en indikator på hur mycket tid som lagts ned på att 
+upprätta en deklaration och i förlängningen dess kvalitet.
+6.1.2 Experternas oberoende
+Direktivet utgår från att deklarationerna ska upprättas på ett oberoende sätt 
+av kvalificerade och/eller auktoriserade experter.100 Den svenska lagstiftningen utgår från att experternas oberoende ska gälla i förhållande till uppdragsgivaren (fastighetsägaren).101 
+ Direktivet specificerar inte hur medlemsstaterna ska säkerställa att experterna utför deklarationerna på ett oberoende sätt eller deras kvalifikationer. 
+Sverige har infört ett system med en certifiering av de enskilda experterna 
+och en ackreditering av de företag inom vilka experterna är verksamma.  
+Ackrediteringen ska säkerställa experternas oberoende genom att kontrollera 
+att företaget är oberoende från enheter som har hand om ett fastighetsbestånds skötsel och underhåll. Certifieringen av de enskilda experterna ska 
+säkerställa deras kunskapsnivå.102
+ Swedac har dock uppmärksammat problem med experternas oberoende. 
+Myndigheten har under 2008–2009 bedömt det som nödvändigt att skicka 
+ut fyra brev till de ackrediterade företagen om kraven på oberoende. I breven 
+anger Swedac att vissa energiexperter har anpassat sig till fastighetsägares 
+krav på att ingen besiktning ska genomföras och att enbart förutbestämda 
+rekommendationer får lämnas. Om ett företag anpassar sig till dessa krav 
+anser Swedac att det inte är förenligt med bestämmelserna om experternas 
+oberoende. Detta ska kunna leda till att företagets ackreditering återkallas av 
+Swedac.103 
+98 Preambel 10 Europaparlamentets och rådets direktiv 2002/91/EG.
+99 Intervjuer: Boverket 2009-02-22; Swedac 2009-03-03: Näringsdepartementet 2009-03-20; Miljödepartementet 2009-03-20. E-post 
+från Swedac 2009-03-16.
+100 Artikel 10 i Europaparlamentets och rådets direktiv 2002/91/EG.
+101 Se till exempel prop. 2006/06:145 s. 88. Jfr även 10 § förordningen (2006:1592) om energideklaration för byggnader.
+102 För en mer utförlig beskrivning av ackrediterings- och certifierings förfarandena se bilaga 4.
+103 Swedac, Ang. kravet om oberoende, dnr 08-161-69, 2008-01-22; Swedac, Kontrollorganets oberoende, dnr 08-2105-69, 2008-06-
+05; Swedac, Beträffande kraven på ett kontrollorgan för energideklarationer, dnr 08-2105-69, 2008-06-17; Swedac, Krav på kontrollorgan, dnr 09-733-69, 2009-03-18.
+
+45 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ Ett annat problem med experternas oberoende är att vissa ackrediterade 
+företag kan lämna åtgärdsförslag som gynnar försäljningen av egna produkter.104 Flera större konsultfirmor som upprättar energideklarationer erbjuder 
+också projektering av ombyggnader där energibesparande åtgärder ingår. 
+Det finns även exempel på avtal om utförande av energi deklarationer där 
+kontrollföretaget ska erhålla viss del av energi besparingen.105
+ Ingen expert har hittills mist sin certifiering. Swedac har hittills inte heller 
+återkallat någon ackreditering.106
+ KONSULTERNAS INVESTERING
+Det krävs en viss investering av en konsult som vill bli ackrediterad och certifierad för att utföra energideklarationer.
+ Swedacs pris för en ackreditering är cirka 30 000 kronor per år. Priset 
+varierar dock med företagets storlek.107  I mars 2009 fanns det 338 ackrediterade företag.108 
+ Priset för en certifiering är cirka 5 000 kronor och den gäller i fem år. 
+Enligt Swedac fanns det 739 certifierade experter i mars 2009. 109
+ Ett företag som har en certifierad expert i en arbetsledande ställning och 
+är ackrediterat kan även använda andra kvalificerade anställda för att göra 
+energideklarationer. Det finns inga fasta regler för detta men Swedac har 
+angett en praxis på att man kan ha mellan 5 och 15 personer arbetande under 
+en certifierad arbetsledare i ett ackrediterat företag.110
+6.2 Tillsyn av om deklaration upprättats
+6.2.1 Byggnader med nyttjanderätter samt specialbyggnader
+Kommunerna har tillsynsansvar för att intyg om upprättad energi deklaration 
+sätts upp i byggnader med nyttjanderätter samt i större specialbyggnader.
+ Vid årsskiftet 2008/09 hade enbart 240 kommuner av 290 anmält  
+ansvariga personer till Boverkets register för energideklarationer.111 
+ Det är oklart vilken statlig aktör som ska stödja kommunerna i deras 
+tillsyn och se till att den är likriktad över hela landet. Enligt Boverket har 
+inte myndigheten något formellt ansvar för detta, även om den i praktiken 
+bedriver stödjande verksamhet gentemot kommunerna. Myndigheten anger 
+i stället att det troligtvis är läns styrelserna som har den formella stödjande 
+104 Swedac, enheten för anläggningar och installationer, minnesanteckningar 2008-10-10 från möte med teknisk kommitté för energideklarationer för byggnader 2008-09-18.
+105 Swedac, Till ackrediterade kontrollorgan inom området för energideklaration av byggnader, 2008-01-22, beteckning 08-161-69.
+106 E-post Swedac 2009-03-16.
+107 Swedac bedömer att priset kommer att sjunka på sikt, beroende på att Swedac anställer personer med lämplig teknisk kompetens. I dag använder myndigheten konsulter för de tekniska bedömningarna. Utgifterna för de konsulterna återfaktureras till företagen. 
+Intervju Swedac 2009-03-03.
+108 E-post Swedac 2009-03-16.
+109 E-post Swedac 2009-03-16.
+110 Intervju Swedac 2009-03-03.
+111 Boverkets årsredovisning 2008, s. 107.
+
+46RIKSREVISIONEN Energideklarationer – få råd för pengarna
+uppgiften då de har ett generellt ansvar för att stödja kommunerna i deras 
+tillsyn av plan- och bygglagens bestämmelser.112 Näringsdepartementet anger 
+dock att det inte finns någon sådan koppling mellan plan- och bygg lagen och 
+lagen om energi deklarationer, vilket innebär att läns styrelserna inte skulle ha 
+denna uppgift.113
+ Boverket uppmärksammade under 2008 att tidsfristen för att upprätta 
+energideklarationer i samtliga byggnader inte skulle hållas. Myndigheten 
+förde därför diskussioner med Näringsdepartementet, Miljödepartementet, 
+Finansdepartementet, Energimyndigheten och Sveriges Kommuner och 
+Landsting. Samtalen resulterade i att Sveriges Kommuner och Landsting 
+skickade ut ett cirkulär till kommunerna. I cirkuläret föreslås att kommunerna under en övergångsperiod inte ska förelägga fastighetsägare vite för 
+att de inte har låtit upprätta energi deklarationer. Detta under förutsättning 
+att det råder brist på experter och att fastighetsägaren har beställt en energideklaration av en certifierad energiexpert. Cirkuläret anger ingen tidsgräns 
+för fristen och inte heller vad som utgör brist på experter. Cirkulärets formuleringar om kommunernas handläggning av tillsynen återges i bilaga 5.114
+ Samtidigt framhåller Boverket att det är viktigt att kommunerna tar sin 
+tillsyn över energideklarationerna på allvar. Boverkets tidigare erfarenheter 
+från obligatorisk ventilationskontroll (OVK) visar att det kan finnas stora 
+brister i kommunernas tillsyn.115
+6.2.2 En- och tvåfamiljshus
+Det finns ingen tillsyn av energideklarationer för en- och tvåfamiljshus. 
+Marknads krafterna ska i stället vara tillräckliga incitament för att en energideklaration ska genomföras. Säljare av småhus har skyldighet att upprätta en 
+deklaration vid försäljning. Om ingen deklaration har upprättats kan köparen 
+låta upprätta en på säljarens bekostnad. Köparna av en villa förutsätts självmant efterfråga en energideklaration, antingen för att de annars själva måste 
+låta upprätta en deklaration eller för att de inte kan avgöra fastighetens 
+driftskostnader.
+ Det förekommer att säljare och köpare kommer överens om att en 
+deklaration inte krävs och avtalar om att köparen avstår från möjligheten att 
+upprätta en deklaration i efterhand på säljarens bekostnad.116
+112 Intervju Boverket 2009-02-20.
+113 Intervju Näringsdepartementet 2009-03-20.
+114 Sveriges Kommuner och Landsting, cirkulär 08:62, 2008-09-01.
+115 Intervju Boverket 2009-02-20.
+116 Intervju Swedac 2009-03-03.
+
+47 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+7 Slutsatser och rekommendationer
+Målet med direktivet om byggnaders energiprestanda och den svenska lagstiftningen om energideklarationer är att främja en förbättring av byggnaders 
+energiprestanda. Samtidigt ska hänsyn tas till utomhusklimat, lokala förhållanden samt till krav på inomhusklimat och kostnads effektivitet.
+ Riksdagen antog 2006 ett nytt mål för energieffektivisering i bebyggelsen: Den totala energi användningen per uppvärmd areaenhet i bostäder 
+och lokaler ska minska. Minskningen bör vara 20 procent till 2020 och 50 
+procent till 2050. 
+ Energieffektiviseringsutredningen anger att energi användningen i bostäder och lokaler utgör en tredjedel av Sveriges slutliga energi användning. Den 
+framhåller vidare att det finns en stor potential för energi effektiviseringar i 
+befintliga byggnader, cirka 13 TWh fjärrvärme och bränslen respektive cirka 
+11 TWh el i slutlig energi till 2016. Enligt utredningen finns det också indikationer på att endast i genomsnitt cirka 15 procent av de för fastighetsägarna 
+lönsamma åtgärderna faktiskt genomförs.117
+ Energi deklarationen är ett styrmedel som ska främja en minskning 
+av byggnaders energi användning. Om det behövs för att upprätta energideklarationen ska byggnaden först besiktigas av en oberoende expert. I de 
+fall byggnaden har energibesparingspotential ska experten sedan lämna 
+förslag på kostnadseffektiva energi effektiviserings åtgärder. Genom att få 
+sådana förslag ska fastighetsägaren bli mer benägen att genomföra dessa 
+investeringar.
+ För vissa byggnadskategorier, till exempel flerbostadshus, ska energideklarationen hållas tillgänglig för allmänheten på en väl synlig plats i byggnaden. Att hyresgästerna blir informerade om byggnadens energi användning 
+i förhållande till liknande byggnader ska få dem att ställa krav på fastighetsägaren att genomföra möjliga energi effektiviseringar.
+ Riksrevisionen har granskat om regeringen och ansvariga myndigheter 
+har gett goda förutsättningar för att systemet med energideklarationer ska 
+kunna främja energieffektiviseringar. Riksrevisionen har även bedömt om 
+myndigheternas tillämpning av regelverket styr mot de övergripande målen 
+på området.
+117 Prop. 2008/09:163 s.119, 129, 165, jfr SOU 2008:110 s. 154.
+
+48RIKSREVISIONEN Energideklarationer – få råd för pengarna
+Riksrevisionens granskning visar att regeringen och ansvariga myndigheter inte 
+har gett tillräckligt goda förutsättningar för att syftet med energi deklarationerna 
+ska uppnås. Väsentliga problem med myndigheternas tillämpning av lagstiftningen har också framkommit i granskningen.
+7.1 Regeringen och myndigheterna har inte gett goda  
+ förutsättningar för att uppnå syftet med lagstiftningen  
+ om energideklarationer
+ FÅ RÅD FÖR PENGARNA
+Det främsta syftet med energideklarationerna är att främja fastighetsägarnas 
+investeringar i energi effektiviserande åtgärder. En stor andel, 48 procent, av 
+alla deklarationer innehåller dock inte några rekommendationer om åtgärder. 
+Det är alltså få råd som fastighetsägarna får för sina pengar.
+ I 25 procent av deklarationerna har byggnaderna dessutom besiktigats 
+utan att åtgärdsförslag har lämnats. Och i 7 procent av deklarationerna har 
+rekommendationer om energieffektiviserande åtgärder lämnats utan att 
+byggnaden har besiktigats. Den senare gruppen av deklarationer ska inte få 
+finnas enligt lagstiftningen. I båda dessa fall, vilka sammanlagt uppgår till 32 
+procent av deklarationerna, kan fastighetsägarnas nytta av deklarationerna i 
+förhållande till det pris som de har betalat för dem ifrågasättas.
+ FÖRSENINGAR I GENOMFÖRANDE OCH TILLÄMPNING
+Den svenska lagstiftningen om energideklarationer bygger på EG-direktivet 
+om byggnaders energiprestanda. Det svenska genomförandet av direktivet och tillämpningen av regelverket är kraftigt försenat. Den långdragna 
+lagstiftnings processen har medfört att det har varit ont om tid för att bygga 
+upp ett system för energideklarationerna och för att deklarera alla de byggnader som omfattas av bestämmelserna. Dessutom uppskattar Boverket att 
+fastighetsägarnas utgifter för energi deklarationerna är betydande – cirka 700 
+miljoner kronor per år.
+ Förseningarna i direktivets genomförande har lett till att otydligheter i 
+regelverket inte har uppmärksammats och åtgärdats. Otydligheterna har 
+medfört problem med tillämpningen, till exempel att få deklarationer innehåller rekommendationer. Att sådana problem inte uppmärksammas i tid 
+kan få konsekvensen att tillämpningen inte styr mot de övergripande målen 
+på området. Detta kan i sin tur leda till att systemets effektivitet och legitimitet försämras.
+
+49 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ OTYDLIGHETER KRING BESIKTNING OCH REKOMMENDATIONER
+I dag finns det oklarheter i den svenska lagstiftningen om såväl besiktningsbegreppet som när en byggnad behöver besiktigas. Det är också oklart när 
+energiexperterna ska lämna åtgärdsförslag. Oklarheterna avser såväl lagen 
+och förordningen som Boverkets föreskrifter om energideklarationer. 
+ Frågan om byggnaderna ska besiktigas eller inte påverkar både deklarationernas kvalitet och priset för att upprätta en deklaration. Å ena sidan kan 
+en besiktning vara nödvändig för att en energiexpert ska kunna kontrollera 
+fastighetsägarens uppgifter om byggnadens energiförbrukning och för att 
+kunna bedöma vilka specifika åtgärdsförslag som är kostnadseffektiva.  
+Å andra sidan kan en deklaration med besiktning antas vara dyrare än en 
+deklaration utan besiktning. 
+ Drygt två tredjedelar av deklarationerna har föregåtts av besiktning, och 
+endast hälften innehåller åtgärdsförslag.
+ För en tredjedel av deklarationerna kan fastighetsägarnas nytta ifrågasättas. Denna kategori består främst av deklarationer där byggnaden har 
+besiktigats men ingen rekommendation har lämnats. I vissa fall kan detta 
+vara motiverat, om experten behöver kontrollera fastighetsägarens inlämnade uppgifter om byggnadens energiprestanda. Men om dessa uppgifter inte 
+behöver kontrolleras har fastighetsägaren betalat mer än nödvändigt för att 
+upprätta deklarationen. Den består också till en mindre del av deklarationer 
+där ingen besiktning genomförts men rekommendationer ändå har lämnats, 
+vilket direkt strider mot regelverket. 
+ De problem som uppstått till följd av otydligheterna i lagstiftningen har 
+varit kända under en längre tid. Trots det har varken regeringen eller Bo-
+verket agerat för att förtydliga regelverket. 
+ REGERINGENS STYRNING ÄR INTE KOPPLAD TILL DE  
+ ÖVERGRIPANDE MÅLEN
+Riksdagen har beslutat om övergripande mål för energieffektiviseringen 
+i byggnadsbeståndet. Regeringen har inte brutit ned riksdagens övergripande mål för energieffektivisering i byggnader till uppföljningsbara 
+delmål för energi deklarationerna. Det saknas mål för hur stor del av energieffektiviseringen som energideklarationerna ska bidra till att uppnå. 
+ Avsaknaden av uppföljningsbara delmål från regeringen försämrar  
+möjligheten att följa om energideklarationerna bidrar till uppfyllelsen av 
+riksdagens övergripande mål på området. 
+
+50RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ BRISTANDE ANSVARSFÖRDELNING
+Regeringen har inte gett någon myndighet det övergripande ansvaret för systemet med energideklarationer. Ett flertal myndigheter och departement har 
+avgränsade ansvarsområden inom energideklarationssystemet. De i huvudsak ansvariga departementen och myndigheterna är Närings departementet, 
+Miljö departementet, Boverket, Swedac och Energi myndigheten.
+ Den splittrade ansvarsfördelningen kan bland annat ha bidragit till att 
+ingen myndighet har uppmärksammat att certifierings- och ackrediteringssystemet, som Swedac ansvarar för, inte säkerställer kvaliteten på innehållet 
+i deklarationerna. Detta framgår vid en bearbetning av data från Boverkets 
+register. Det finns således en risk för att system övergripande problem faller 
+mellan stolarna med dagens organisation. 
+ Ytterligare exempel på problem som det krävs tydlig styrning och samordning för att lösa är otydligheterna i regelverket samt vissa experters brist 
+på oberoende.
+ Det är oklart vilken myndighet som har ansvar för att stödja kommunerna i deras tillsyn. Enligt Boverket har inte myndigheten något formellt 
+ansvar för detta, även om den i praktiken bedriver viss stödjande verksamhet. Myndigheten anger i stället att det troligtvis är läns styrelserna som har 
+den formella stödjande uppgiften då de har ett generellt ansvar för att stödja 
+kommunerna i deras tillsyn av plan- och bygglagens bestämmelser. Näringsdepartementet anger att länsstyrelserna inte har denna uppgift. Eftersom 
+ingen myndighet är formellt ansvarig för att stödja kommunernas tillsyn, kan 
+detta stöd nedprioriteras av Boverket på eget bevåg. Enligt Riksrevisionen 
+finns det då en risk för att tillsynen även blir nedprioriterad av kommunerna 
+och att det uppstår omotiverade skillnader i tillsynsnivåer. 
+ ENERGIDEKLARATIONSSYSTEMET ÖVERLAPPAR ANDRA STYRMEDEL 
+Energi deklarationerna har hittills inte samordnats med andra statliga styrmedel för att öka energieffektiviseringen i det befintliga byggnads beståndet. 
+ En fastighetsägare kan också få information om energiförbättrande 
+åtgärder för sin byggnad från kommunala energirådgivare. Den kommunala 
+rådgivningen bekostas delvis med statliga medel; ramanslaget för denna 
+verksamhet i Energimyndighetens regleringsbrev för 2008 var 106 miljoner 
+kronor. Energideklarationerna saknar i dag dessutom direkt koppling till vilka 
+statliga bidrag och skattelättnader som fastighetsägarna kan beviljas om de 
+genomför olika energieffektiviserande åtgärder. Samordnings bristerna  
+mellan energideklarationerna och andra statliga styrmedel kan medföra  
+suboptimering av de samlade statliga insatserna. 
+
+51 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ I energi propositionen våren 2009 föreslår regeringen dock samordning 
+mellan energi deklarationerna, en föreslagen webbaserad rådgivningsportal 
+och det föreslagna ROT-avdraget. 
+ CERTIFIERINGS- OCH ACKREDITERINGSSYSTEMET UPPFYLLER INTE  
+ SITT SYFTE
+Sverige har ett, i jämförelse med andra medlemsstater inom EU, komplicerat 
+system för att säkerställa energiexperternas oberoende och kompetens.  
+Systemet bygger på att Swedac ackrediterar certifieringsorgan för experter 
+och de kontrollorgan vilka experterna är verksamma i.
+ Den svenska lagstiftningen går längre än direktivets minimikrav genom 
+kraven på certifiering och ackreditering. Direktivet ställer bara krav på att 
+deklarationerna ska utföras på ett oberoende sätt av kvalificerade och/eller 
+auktoriserade experter.
+ Riksrevisionens bearbetning av data från Boverket indikerar att det, trots 
+kraven på certifiering och ackreditering, finns problem med deklarationernas 
+kvalitet. Ingen myndighet genomför systematiska kontroller av innehållet i 
+energi deklarationerna. Det finns även indikationer på brister i vissa experters 
+oberoende gentemot fastighetsägarna och på att vissa experter säljer andra 
+produkter som en del av deklarations upprättandet.
+ Ingen expert har hittills mist sin certifiering. Swedac har hittills inte heller 
+återkallat någon ackreditering. 
+ Systemet med certifiering och ackreditering har inget eget syfte, utan 
+finns till för att säkerställa kvaliteten på energideklarationerna och experternas oberoende. Det finns indikationer på att systemet i dess nuvarande form 
+inte säkerställer deklarationernas kvalitet. 
+7.2 Väsentliga problem i myndigheternas tillämpning av  
+ lagstiftningen om energideklarationer
+ BRISTANDE UPPFÖLJNING
+Det sker ingen återkommande uppföljning av energideklarationernas innehåll och systemets funktionssätt. Det har bidragit till att varken regeringen 
+eller någon myndighet har överblick av hur systemet med energideklarationer 
+har utvecklats. Regeringen saknar därmed information för att analysera energideklarationernas nytta. 
+ Registret för energi deklarationer har svagheter som försvårar uppföljning 
+av vilka åtgärdsförslag som lämnas. Boverket har vid sin registerhantering 
+inte heller uppmärksammat att cirka 7 procent av deklarationerna strider 
+
+52RIKSREVISIONEN Energideklarationer – få råd för pengarna
+mot gällande lagstiftning. Det sker ingen regelbunden uppföljning av vilka 
+investeringar som kommer till stånd efter att en energideklaration har 
+genomförts. Ingen statlig aktör följer heller fastighets ägarnas utgifter för att 
+upprätta energi deklarationer och deras utgifter för att genomföra de energibesparande investeringarna. 
+ Avsaknaden av återkommande uppföljning och utvärdering av fastighetsägarnas utgifter för att upprätta energideklarationer och för att genomföra 
+energibesparande investeringar, samt vilka besparingar som investeringarna 
+lett till, omöjliggör en utvärdering av energi deklarationernas nuvarande och 
+framtida effektivitet. Utan denna information går det inte att följa om energideklarationerna bidrar till att uppfylla riksdagens övergripande mål.
+ KOMMUNERNA HAR UPPMANATS ATT INTE UTÖVA TILLSYN
+Sveriges Kommuner och Landsting har med regeringens goda minne 
+uppmanat kommunerna i ett cirkulär att de under en övergångsperiod inte 
+ska förelägga fastighetsägare vite för att de inte har låtit upprätta energideklarationer. Detta under förutsättning att det råder brist på experter och att 
+fastighetsägaren har beställt en energi deklaration av en certifierad energiexpert. Cirkuläret anger ingen tidsgräns för fristen och inte heller vad som 
+utgör brist på experter.
+ Att lagen inte kan följas har orsakats av regeringens långa 
+genomförande  process och av att den har infört ett nationellt system som 
+i vissa delar går längre än vad EU kräver. Detta har i sin tur lett till att det 
+uppstod en brist på experter. 
+ Regeringen har alltså medverkat till att Sveriges Kommuner och Landsting uppmanar kommunerna att inte följa den lag som riksdagen beslutat. 
+Detta kan undergräva systemets legitimitet.
+7.3 Planerad förändring av EG-direktivet
+Det finns förslag från kommissionen om att direktivet om byggnaders  
+energiprestanda ska omarbetas. Förhandlingarna planeras till hösten 2009. 
+ Att direktivet ska omförhandlas borde dock inte hindra regeringen och 
+myndigheterna från att börja följa upp och utvärdera energideklarationernas 
+nuvarande funktionssätt och effekter. Sådan uppföljning och utvärdering kan 
+underlätta det svenska genomförandet och tillämpningen av det omförhandlade direktivet. Informationen kan även utgöra ett underlag i förhandlingarna 
+om förändringar av direktivet.
+
+53 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+7.4 Riksrevisionens rekommendationer
+7.4.1 Rekommendationer till regeringen
+•	 Se	till	att	EG-direktiv	genomförs	i	tid.	Förseningar	i	genomförandet	kan	
+ medföra att regelverket tillämpas på ett förhastat och ogenomtänkt sätt.  
+ Detta kan leda till bristande legitimitet och effektivitet i tillämpningen.
+•	 Förtydliga	och	förenkla	regelverket	i	alla	led	(lagen,	förordningen	och	 
+ föreskrifterna) så att de blir inbördes konsekventa.
+•	 Formulera	uppföljningsbara	delmål	för	energi	deklarationerna	utifrån riksdagens mål för energieffektivisering i bebyggelsen och förtydliga  
+ ansvarsfördelningen på området. Peka ut en centralt ansvarig myndighet  
+ för energideklarationerna. Ge den myndigheten i uppgift att stödja  
+ kommunernas tillsyn så att den blir likformig över hela landet.
+•	 Se	till	att	energideklarationerna	samordnas	med	andra	insatser,	till	 
+ exempel olika stöd och statligt finansierade kommunala energi- och  
+ klimat rådgivare.
+•	 Säkerställ	deklarationernas	kvalitet	och	experternas	oberoende.	Ge	även	 
+ den centralt ansvariga myndigheten i uppdrag att regelbundet följa upp  
+ deklarationernas kvalitet och hur mycket besparingar de leder till, samt  
+ fastighetsägarnas utgifter för energi deklarationer och investeringar.  
+ Använd de befintliga medel som finns för uppföljning av energianvändning.
+7.4.2 Rekommendationer till Boverket
+•	 Förtydliga	föreskrifterna	och	de	allmänna	råden	vad	avser	besiktning	och	 
+ åtgärdsförslag.
+•	 Se	till	att	registret	för	energideklarationer	kan	användas	för	att	få	uppgifter och underlag för uppföljning och utvärdering av energideklarationernas effekter på energianvändning. Följ upp vilka rekommendationer som får genomslag hos fastighetsägarna. 
+
+54RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+55 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+ Käll- och litteraturförteckning
+ EG-lagstiftning
+ Direktiv
+Rådets direktiv 89/106/EEG av den 21 december 1988 om tillnärmning av  
+ medlemsstaternas lagar och andra författningar om byggprodukter.
+Europaparlamentets och rådets direktiv 2002/91/EG av den 16 december  
+ 2002 om byggnaders energiprestanda.
+Europaparlamentets och rådets direktiv 2004/8/EG av den 11 februari 2004  
+ om främjande av kraftvärme på grundval av efterfrågan på nyttiggjord  
+ värme på den inre marknaden för energi och om ändring av direktiv  
+ 92/42/EEG.
+Europaparlamentets och rådets direktiv 2005/32/EG av den 6 juli 2005 om  
+ upprättande av en ram för att fastställa krav på ekodesign för energianvändande produkter och om ändring av rådets direktiv 92/42/EEG och  
+ Europaparlamentets och rådets direktiv 96/57/EG och 2000/55/EG.
+Europaparlamentets och rådets direktiv 2006/32/EG av den 5 april 2006  
+ om effektiv slutanvändning av energi och om energitjänster och om  
+ upphävande av rådets direktiv 93/76/EEG.
+ Svensk lagstiftning
+Förvaltningsprocesslag (1971:291).
+Fastighetstaxeringslag (1979:1152).
+Lagen (1992:1119) om teknisk kontroll.
+Lagen (1996:1059) om statsbudgeten.
+Inkomstskattelagen (1999:1229).
+Lagen (2006:985) om energideklaration för byggnader.
+Förordningen (1997:1322) om bidrag till kommunal energi- och  
+ klimatrådgivning.
+Förordningen (2006:1592) om energideklaration för byggnader.
+
+56RIKSREVISIONEN Energideklarationer – få råd för pengarna
+Förordningen (2007:1065) med instruktion för Boverket.
+Förordningen (2007:1153) med instruktion för Statens energimyndighet.
+Boverkets föreskrifter och allmänna råd (BFS 2007:4 BED 1) om  
+ energideklaration för byggnader.
+Boverkets föreskrifter och allmänna råd för certifiering av energiexpert  
+ (BFS 2007:5 CEX 1).
+Boverkets föreskrifter (2007:14 BED 2) om ändring i föreskrifterna och de  
+ allmänna råden (BFS 2007:4) om energideklaration för byggnader.
+ Förarbeten
+ Utskottsbetänkanden
+Betänkande 2005/06:BoU9, riksdagsskrivelse 2005/06:365  
+ Nationellt program för energieffektivisering och energismart byggande.
+ Regeringens propositioner
+Proposition 1995/96:220 Lag om statsbudgeten.
+Proposition 2005/06:145 Nationellt program för energieffektivisering och  
+ energismart byggande.
+Proposition 2008/09:161 Ändring i lagen (2006:985) om energideklarationer  
+ – tredimensionella fastigheter i byggnadskomplex med gemensamma uppvärmningssystem. 
+Proposition 2008/09:163 En sammanhållen klimat- och energipolitik – Energi.
+ Faktapromemoria
+Regeringskansliet, Näringsdepartementet, faktapromemoria 2008/09:FPM57  
+ Omarbetning av direktivet om byggnaders energiprestanda.
+ Övrigt skriftligt material
+Boverkets årsredovisningar avseende verksamhetsåren 2006–2008.
+Boverket (2009) Förtydligande angående besiktning, 2009-04-02.
+Boverket och Statens energimyndighet (2002) Regeringsuppdrag om hur  
+ Europaparlamentets och rådets direktiv 2002/91/EG om byggnaders  
+ energiprestanda ska genomföras i Sverige, dnr 00-02-1325.
+
+57 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bernitz, U. och Kjellgren, A. (2007), Europarättens grunder, Tredje upplagan,  
+ Norstedts juridik.
+Direktiv 2003:139 Genomförande av EG-direktivet om byggnaders  
+ energiprestanda.
+Direktiv 2008:107 Fördjupad prövning av Boverkets verksamhet.
+Europeiska kommissionen (2008), Communication from the Commission,  
+ Explanatory Memorandum, Proposal for a directive of the European  
+ Parliament and of the Council on the energy performance of buildings  
+ (recast), SEC (2008) 2820–2821.
+Markör Marknad och Kommunikation (2006), Nollmätning ”Lagen om  
+ energideklaration”.
+Markör Marknad och Kommunikation (2007), Uppföljning ”Lagen om  
+ energideklarationer”.
+Miljö- och samhällsbyggnadsdepartementet, rättsenheten (2005), Svar på  
+ kommissionens frågor i ärende TREN/D1/KP/ic D (2005) 114824 angående  
+ genomförandet av direktiv 2002/91/EG om byggnaders energiprestanda,  
+ 2005-08-23, dnr M2005/4405/R.
+Miljö- och samhällsbyggnadsdepartementet, rättsenheten (2005),  
+ Underrättelse enligt artikel 15.2 i Europaparlamentets och rådets direktiv  
+ 2002/91/EC av den 16 december 2002 om byggnaders energiprestanda,  
+ dnr M2005/6452/R, 2005-12-21.
+Nationalencyklopedin, angående begreppet ”besiktning”. 
+Regleringsbrev för Boverket för budgetåret 2009, 2008-12-18. 
+Regleringsbrev för Statens energimyndighet för budgetåret 2008, 2008-11-13.
+Skatteverket, Förfarandehandledning i fastighetstaxering, SKV 287 utgåva 1.
+SOU 2004:109 Energideklarering av byggnader – För effektivare energianvändning.
+SOU 2005:67 Energideklarationer – Metoder, utformning, register och  
+ expertkompetens.
+SOU 2008:110 Vägen till ett energieffektivare Sverige. 
+Strömberg, H. och Lundell, B. (2008), Allmän förvaltningsrätt, 24 uppl.
+Sveriges Kommuner och Landsting, cirkulär 08:62, 2008-09-01,  
+ Energideklarationer och kommunens tillsynsansvar.
+Statens energimyndighets årsredovisningar avseende verksamhetsåren  
+ 2006–2008.
+Swedacs årsredovisningar avseende verksamhetsåren 2006–2008
+Swedac (2008), Angående kravet om oberoende, dnr 08-161-69, 2008-01-22.
+
+58RIKSREVISIONEN Energideklarationer – få råd för pengarna
+Swedac (2008), Kontrollorganets oberoende, dnr 08-2105-69, 2008-06-05.
+Swedac (2008), Beträffande kraven på ett kontrollorgan för energideklarationer,  
+ dnr 08-2105-69, 2008-06-17.
+Swedac (2009), Krav på kontrollorgan, 09-733-69.
+Swedac, enheten för anläggningar och installationer (2008), Minnesanteckningar möte teknisk kommitté energideklarationer för byggnader  
+ 2008-10-10, 2008-09-18.
+Swedac, enheten för anläggningar och installationer (2008), Minnesanteckningar möte teknisk kommitté energideklarationer för byggnader,  
+ 2008-12-04.
+ E-post
+E-post från Swedac 2009-03-16.
+E-post från Boverket 2009-03-27.
+E-post från Boverket 2009-03-31.
+E-post från Boverket 2009-04-24.
+ Internet
+Boverkets hemsida 2008-12-08.
+Boverkets hemsida 2009-04-02.
+EUR-Lex Celex 72002L0091.
+Energistyrelsens hemsida (Danmark), 2009-04-23.
+Miljöministeriets hemsida (Finland), 2009-04-23.
+Directgov.uk (Storbritannien), 2009-04-23.
+Skatteverkets hemsida 2009-04-27.
+ Intervjuer
+Intervju Boverket 2009-02-20.
+Intervju Swedac 2009-03-03.
+Intervju Miljödepartementet 2009-03-20.
+Intervju Näringsdepartementet 2009-03-20.
+Telefonintervju Boverket 2009-03-31.
+
+59 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bilaga 1 Vilka byggnader ska  
+   energideklareras?
+ Utdrag från Boverkets hemsida 2008-12-08.
+Införandet av energideklarationer är nu i uppstarten och beräknas träda 
+ikraft fullt ut under årsskiftet 2008/09. Nedan följer en beskrivning av vilka 
+byggnader som berörs och när dessa ska energideklareras.
+• Specialbyggnader över 1000 kvm, som t ex simhallar, bibliotek, skolor,  
+ vårdbyggnader ska ha en energideklaration till årsskiftet 2008/09. Det  
+ framgår av taxeringsbeviset om byggnaden är en specialbyggnad. I fastighetstaxeringslagen finns en lista över vilka byggnader som är specialbyggnader, på webben hittar man informationen på en webbsida från  
+ Rättsnätet.
+• Byggnader med nyttjanderätt, så som t ex hyresrätter, bostadsrätter och 
+ lokaler som hyrs ut ska ha en energideklaration till årsskiftet 2008/09.  
+ Under denna kategori finns även en- och tvåbostadshus som hyrs ut eller  
+ upplåts med bostadsrätt. När det gäller bostadsrätter är det bostadsrättsföreningen som ska se till att det finns en energideklaration.
+• Byggnader som säljs ska energideklareras från och med 1 jan 2009, om de  
+ inte redan har en godkänd energideklaration. Till exempel villor som  
+ säljs efter det datumet berörs.
+• Nya byggnader ska energideklareras från och med 1 jan 2009 (2 år efter  
+ bruktagandet, dock inte senare än 2 år efter slutbevis). Om bygganmälan  
+ gjorts före 1 jan 2009 behöver byggnaden inte energideklareras på grund  
+ av att det är en nybyggnad. Däremot kan byggnaden vara tvungen att  
+ deklareras för att den hyrs ut eller är en specialbyggnad.
+En energideklaration är giltig i tio år.
+ 
+
+60RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Undantag
+Följande typer av byggnader är undantagna från skyldigheten att energideklarera. Dock gäller att om byggnaden har ett i huvudsak eldrivet luftkonditioneringssystem med nominell kyleffekt större än 12 kW så skall systemet, efter 
+2008-12-31, besiktigas minst vart tionde år.
+•	 Byggnader	som	i	huvudsak	används	till	andakt	eller	religiös	verksamhet.
+•	 Industrianläggningar	och	verkstäder
+•	 Fritidshus	med	högst	två	bostäder
+•	 Tillfälliga	byggnader	som	avses	att	användas	i	högst	två	år
+•	 Ekonomibyggnader	inom	skogs-	och	jordbruksnäring
+•	 Fristående	byggnader	mindre	än	50	kvm
+•	 Hemliga	byggnader
+•	 Byggnader	som	är	byggnadsminnen	eller	är	särskilt	värdefulla	 
+ (enl. PBL 3:12) om åtgärdsförslag inte kan lämnas.
+•	 Hus	med	nyttjanderätt	där: 
+ 1. Upplåtelsen är tillfällig eller en liten del av byggnaden 
+ 2. Sker mellan företag i samma koncern 
+ 3. Sker genom arrende och byggnaden inte används som bostad åt  
+ arrendatorn.
+•	 En	och	tvåbostadshus	med	nyttjanderätt	om	upplåtelsen	sker: 
+ 1. På grund av ägarens arbete eller studier på annan ort, utlandsvistelse,  
+ sjukdom med mera. 
+ 2. Genom testamente. 
+ 3. Till närstående eller dylikt.
+•	 Vid	försäljning	av	byggnad: 
+ 1. Mellan företag inom samma koncern. 
+ 2. Expropriation eller inlösen. 
+ 3. Konkursbo eller exekutivt förfarande.  
+ 4. Närstående eller dylikt.
+
+61 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bilaga 2 EG-lagstiftning med anknytning  
+   till energiaspekter i bebyggelsen
+Rådets direktiv 89/106/EEG av den 21 december 1988 om tillnärmning av 
+medlemsstaternas lagar och andra författningar om byggprodukter.
+Europaparlamentets och rådets direktiv 2004/8/EG av den 11 februari 2004 
+om främjande av kraftvärme på grundval av efterfrågan på nyttiggjord värme 
+på den inre marknaden för energi och om ändring av direktiv 92/42/EEG.
+Europaparlamentets och rådets direktiv 2005/32/EG av den 6 juli 2005 om 
+upprättande av en ram för att fastställa krav på ekodesign för energianvändande produkter och om ändring av rådets direktiv 92/42/EEG och Europaparlamentets och rådets direktiv 96/57/EG och 2000/55/EG.
+Europaparlamentets och rådets direktiv 2006/32/EG av den 5 april 2006 om 
+effektiv slutanvändning av energi och om energitjänster och om upphävande 
+av rådets direktiv 93/76/EEG.
+
+62RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+63 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bilaga 3 Otydligheter i lagstiftningen
+I denna bilaga redogör vi mer utförligt för otydligheterna rörande besiktning 
+och rekommendationer i svensk lagstiftning och förarbeten. 
+ Lagen (2006:985) om energideklaration för byggnader 
+8 § Innan en energideklaration upprättas för en befintlig byggnad skall 
+byggnadens ägare se till att byggnaden besiktigas, om det behövs för att en 
+deklaration skall kunna upprättas.
+ Regeringen eller den myndighet som regeringen bestämmer får meddela 
+föreskrifter om besiktning.
+9 § I en energideklaration skall det anges
+1. en uppgift om byggnadens energiprestanda,
+2. om obligatorisk funktionskontroll av ventilationssystemet har utförts i
+byggnaden,
+3. om radonmätning har utförts i byggnaden,
+4. om byggnadens energiprestanda kan förbättras med beaktande av en
+god inomhusmiljö och, om så är fallet, rekommendationer om kostnadseffektiva åtgärder för att förbättra byggnadens energiprestanda, och
+5. referensvärden, som gör det möjligt för konsumenter att bedöma byggnadens energiprestanda och att jämföra byggnadens energiprestanda med 
+andra byggnaders.
+Regeringen eller den myndighet som regeringen bestämmer får meddela 
+föreskrifter om hur en byggnads energiprestanda enligt första stycket 1 skall 
+fastställas, vilka referensvärden som skall användas enligt första stycket 5 
+och vilka uppgifter som utöver första stycket 1–5 skall lämnas i en deklaration.
+ Förordningen (2006:1592) om energideklaration för byggnader
+6 § Om en energideklaration enligt 9 § första stycket 4 lagen (2006:985) 
+om energideklaration för byggnader skall innehålla rekommendationer om 
+åtgärder för att förbättra byggnadens energiprestanda, skall deklarationen 
+föregås av en besiktning som gör det möjligt att bedöma åtgärdens påverkan 
+på inomhusmiljön och kostnadseffektivitet.
+
+64RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Boverket får meddela föreskrifter om hur omfattande en besiktning behöver vara med hänsyn till byggnadens energiprestanda samt de ytterligare 
+föreskrifter som behövs om besiktningen av befintliga byggnader enligt 8 § 
+lagen om energideklaration för byggnader. 
+ Boverkets föreskrifter och allmänna råd om energideklaration för   
+ byggnader (BFS 2007:4 BED1)
+4 § Omfattning av besiktning, enligt förordning (2006:1592) om energideklaration för byggnader, skall anpassas till i vilken mån besiktningen kan 
+leda till rekommendationer om kostnadseffektiva åtgärder utan negativa 
+konsekvenser för inomhusmiljön, byggnadens kulturvärden och andra väsentliga egenskapskrav. 
+ Omfattningen av besiktning i övrigt skall bedömas utifrån de uppgifter 
+som byggnadens ägare överlämnat till den oberoende experten.
+Allmänt råd: I bedömningen av kostnadseffektivitet bör även kostnaden för 
+besiktningen vägas in. Ju högre energianvändning per m2 och år desto större 
+utrymme för besiktning och därmed för rekommendationer till kostnadseffektiva åtgärder kan finnas. De uppgifter som avses i andra stycket ovan är, 
+byggnadens energianvändning och areor, obligatorisk funktionskontroll av 
+ventilationssystemet och radonmätning samt övriga uppgifter som skall 
+anges i energideklarationen. I de fall den oberoende experten bedömer att 
+det inte finns kostnadseffektiva åtgärder i den omfattning att besiktning är 
+motiverad, kan den oberoende experten i stället ge generella råd om effektivisering, vilka är anpassade till aktuell byggnads kategori.
+ Beskrivning av otydligheterna
+Lagen om energideklarationer anger att en byggnad ska besiktigas om det 
+behövs för att en deklaration ska kunna upprättas. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om besiktning. 
+I en energideklaration ska det bland annat anges om byggnadens energiprestanda kan förbättras med beaktande av en god inomhusmiljö. Om så är 
+fallet, ska deklarationen också innehålla rekommendationer om kostnadseffektiva åtgärder för att förbättra byggnadens energiprestanda.118
+ Svårigheterna som uppstått vid tillämpningen är för det första vad som 
+faktiskt utgör en besiktning och för det andra vad det är som avgör om en 
+byggnad behöver besiktigas för att en deklaration ska kunna upprättas. 
+ Regeringens lagförslag förefaller utgå från att besiktning är obligatorisk. 
+Propositionens lagförslag lyder: 
+118 8 § och 9 § 4 lagen (2006:985) om energideklaration för byggnader.
+
+65 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+8 § Innan en energideklaration upprättas för en befintlig byggnad skall byggnadens ägare se till att byggnaden besiktigas på det sätt som behövs för att en deklaration skall kunna upprättas. Regeringen eller den myndighet som regeringen 
+bestämmer får meddela föreskrifter om besiktningens omfattning.
+Regeringen framhöll i propositionen bland annat följande angående 
+besiktning:119 
+En energideklaration förutsätter att uppgifter hämtas in från byggnadens ägare 
+och att byggnaden besiktigas på plats i de avseenden som krävs för att en fullständig deklaration skall kunna göras. Besiktningens omfattning måste styras 
+av de föreskrifter som gäller i fråga om energideklarationens innehåll. Ett stort 
+ansvar för besiktningens omfattning och kvalitet kommer att ligga på de oberoende experter som föreslås i avsnitt 15. Det byggnadsbestånd som kommer att 
+omfattas av deklarationsskyldigheten representerar ett antal olika byggnadstyper 
+med olika utformning, ålder, komplexitet, förvaltning, energiprestanda och inomhusmiljö. Som framgår av avsnitt 12 kommer deklarationerna att aktualiseras 
+vid olika tidpunkter för olika kategorier av byggnader. Vissa kategorier kommer 
+att deklareras vart tionde år, medan deklarationer kan aktualiseras mera sällan 
+beträffande andra kategorier. Alltså behövs det närmare och i viss mån olika 
+kriterier för hur omfattande en besiktning skall vara. I vissa fall, exempelvis då 
+en byggnad redan har goda energiprestanda, kan det tänkas att en besiktning på 
+plats inte är nödvändig. Regeringen eller den myndighet som regeringen bestämmer bör få meddela sådana föreskrifter.
+Det är otydligt om regeringen med uttrycket ”besiktigas på plats” avser att 
+förtydliga att besiktning är något som alltid sker på plats, avser att ange 
+om besiktning kan äga rum i någon annan form eller inte alls äga rum. 
+Bostads utskottet föreslog riksdagen vissa ändringar i regeringens förslag 
+till lagtext rörande besiktning i 8 §. Dess nuvarande lydelse överensstämmer 
+med utskottets förslag till lagtext. Utskottet angav bland annat följande i sitt 
+betänkande:120 
+Bostadsutskottet kan konstatera att regeringens lagförslag ger ett relativt stort 
+utrymme för regeringen eller den myndighet regeringen bestämmer att genom föreskrifter reglera omfattningen av och formen för en besiktning. Detta är nödvändigt med tanke på det vida spektrum av byggnader som kommer att omfattas av 
+lagen. Det är rimligt att olika krav kan ställas t.ex. när en byggnad första gången 
+skall besiktigas och energideklareras i jämförelse med när en ombesiktning skall 
+ske av en byggnad med väl kända egenskaper. I många fall kommer det sannolikt 
+att redan från början stå klart att upprättandet av en energideklaration kan ske 
+först efter en besiktning på plats. I andra fall kan byggnadens egenskaper vara 
+119 Prop. 2005/06:145 s. 77. 
+120 Bet. 2005/06:BoU9 s. 34 f. Ändringarna avsåg i fråga om besiktning 8 § första och andra styckena och 12 § första stycket. 
+
+66RIKSREVISIONEN Energideklarationer – få råd för pengarna
+så väl kända att en sådan är obehövlig. Det kan därför ofta vara lämpligt att 
+den utsedda experten, som ett första steg i det arbete som skall leda fram till en 
+energideklaration, utifrån redan tillgänglig information gör en bedömning av om 
+ytterligare uppgifter behöver inhämtas och om detta i så fall kräver en besiktning 
+på plats av den enskilda byggnaden. Som framgått ovan är det även regeringens bedömning att en besiktning på plats sannolikt inte alltid kommer att vara 
+nödvändig. Utskottet har emellertid konstaterat att den av regeringen föreslagna 
+ordalydelsen av 8 § riskerar att leda till missförstånd om att den utsedda experten 
+inte kan upprätta en deklaration utan att göra en besiktning på plats. Utskottet föreslår därför en mindre omformulering av bestämmelsen för att undanröja 
+denna risk. Det bör framhållas att utskottet inte avser att förändra innebörden 
+i sak av den av regeringen föreslagna bestämmelsen. I paragrafens andra stycke 
+bör en mindre ändring göras för att bestämmelsen bättre skall anknyta till den av 
+utskottet föreslagna lydelsen av första stycket. Också 12 § bör av samma anledning genomgå en mindre förändring.
+Bostadsutskottet föreslog också riksdagen att regeringens förslag om delegation, till regeringen eller den myndighet som regeringen bestämmer, att 
+meddela föreskrifter skulle ändras. Enligt regeringens otydliga förslag, som 
+förefaller utgå från att besiktning var obligatorisk, skulle delegationen avse 
+”besiktningens omfattning”. Enligt utskottets förslag skulle delegationen i 
+stället avse ”besiktning”. 
+ Otydligheterna i bostadsutskottets betänkande består främst i att  
+utskottet anger att regeringens förslag till lagtext om besiktning riskerar att 
+leda till missförstånd om att experten inte kan upprätta en deklaration utan 
+att göra en besiktning på plats. Samtidigt framhåller utskottet att det inte avser att förändra innebörden i sak av regeringens förslag till bestämmelse om 
+besiktning. Dessutom anger utskottet att regeringen eller den myndighet regeringen bestämmer har ett relativt stort utrymme att reglera ”omfattningen 
+av och formen för en besiktning”. 121 Det sistnämnda skulle kunna tolkas som 
+att utskottet utvidgar begreppet besiktning till att omfatta även granskning 
+som inte sker på plats. En alternativ tolkning är att utskottet ändå menar att 
+en besiktning är något som per definition alltid sker på plats. Betänkandet 
+ger inte någon ytterligare ledning för hur begreppet besiktning ska tolkas. 
+ I allmänt språkbruk avser begreppet besiktning granskning av en plats eller ett föremål.122 Den betydelsen överensstämmer med till exempel förvaltningsprocesslagens bestämmelse om besiktning. Rätten får förordna om syn 
+på stället för besiktning av en fastighet, av en plats eller av ett föremål som 
+inte kan lämnas in till rätten.123 Inom fastighetstaxeringen finns ett antal 
+bestämmelser om att Skatteverket kan göra frivillig besiktning respektive 
+121 Bet. 2005/06:BoU9 s. 34 f. 
+122 Se Nationalencyklopedin.
+123 23 § 1 stycket förvaltningsprocesslagen (1971:291).  
+
+67 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+tvångsbesiktning av fastighet. Dessa bestämmelser utgår från att besiktning 
+per definition alltid sker av själva fastigheten.124 Det finns också andra förvaltningsmyndigheter som har möjlighet att göra syn eller besiktning. Det gäller 
+till exempel miljö- och hälsoskyddsnämndernas och byggnadsnämndernas 
+kontrollverksamhet.125
+ Förordningen om energideklarationer gör frågan om besiktning beroende av om deklarationen ska innehålla rekommendationer om åtgärder för 
+att förbättra byggnadens energiprestanda. Besiktningen ska göra det möjligt 
+att bedöma åtgärdens påverkan på inomhusmiljön och kostnadseffektivitet. 
+Förordningen reglerar inte närmare frågan om besiktning, utan bemyndigar 
+Boverket att meddela föreskrifter om hur omfattande en besiktning behöver 
+vara med hänsyn till byggnadens energiprestanda. Boverket får även meddela de ytterligare föreskrifter som behövs om besiktningen av befintliga 
+byggnader enligt 8 § lagen om energi deklarationer. Ordalydelsen av 6 § i 
+förordningen anknyter närmast till propositionen, som utgick från att ”en 
+energideklaration förutsätter att uppgifter hämtas in från byggnadens ägare 
+och att byggnaden besiktigas på plats i de avseenden som krävs för att en 
+fullständig deklaration ska kunna göras.”126 Om begreppet besiktning ska 
+tolkas som att den kan ske på annan plats än den där byggnaden är belägen (jämför bostadsutskottets diskussion ovan), bemyndigar förordningen 
+Boverket att meddela föreskrifter även om formen för besiktning. Detta 
+ställer ytterligare krav på precisering av innebörden av begreppet besiktning 
+i Boverkets föreskrifter. Begreppet besiktning avser i ett flertal andra lagar en 
+granskning på plats av till exempel en byggnad.127 Om begreppet besiktning 
+skulle tillämpas på samma sätt som i andra lagar skulle bemyndigandet i 
+detta fall innebära en rätt att föreskriva exempelvis hur detaljerad en granskning på plats behöver vara.
+ Boverkets föreskrifter reglerar uttryckligen endast omfattningen av 
+besiktningen, inte om besiktning ska göras eller inte. Enligt föreskrifterna 
+ska besiktningens omfattning ”enligt förordningen om energideklarationer” 
+anpassas till i vilken mån den kan leda till rekommendationer om kostnadseffektiva åtgärder utan negativa konsekvenser för bland annat inomhusmiljön. Därefter föreskriver Boverket dock, utan närmare förtydligande av 
+vad begreppet avser, att omfattningen av ”besiktning i övrigt” ska bedömas 
+utifrån uppgifter som fastighetsägaren överlämnat till den oberoende experten.128 I anslutning till föreskrifterna har Boverket lämnat ett (ej bindande) 
+allmänt råd vilket är svårtolkat.129  
+124 18 kap. 8 § och 30–40 §§ fastighetstaxeringslagen (1979:1152). Se även Skatteverket, Förfarandehandledning i fastighetstaxering, 
+ SKV 287 utgåva 1, s. 75 f.
+125 Se Håkan Strömberg och Bengt Lundell, Allmän förvaltningsrätt, 24 uppl. 2008, s. 106. 
+126 Prop. 2005/06:145 s. 77 f. 
+127 Se till exempel 23 § första stycket förvaltningsprocesslagen (1971:291) samt 18 kap. 8 § och 30–40 §§ fastighetstaxeringslagen  
+ (1979:1152). 
+128 4 § Boverkets föreskrifter och allmänna råd om energideklaration för byggnader (BFS 2007:4 BED 1).
+129 Intervju Boverket 2009-02-20.
+
+68RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Boverket publicerade i april ett förtydligande (ej i föreskriftsform) om 
+tolkningen av lagstiftningen på myndighetens hemsida. En svårighet med 
+Boverkets förtydligande är att Boverket dels använder ett nytt begrepp för 
+besiktning (”byggnaden har besökts”), dels utan stöd i vare sig lag eller 
+förordning anger att regelverket medger att energideklarationer ”görs utan 
+att byggnaden har besökts endast då det är uppenbart att inga åtgärder kan 
+rekommenderas som medför en lägre energianvändning eller då underlaget 
+från fastighetsägaren är komplett och trovärdigt”.130 Som vi redovisat ovan, 
+utgår lagen nämligen från att en byggnad ska besiktigas, om det behövs för 
+att en deklaration ska kunna upprättas.
+ Boverket anger i ett till förtydligandet bifogat dokument att ”regelverket 
+kan vara svårt att tyda men Boverket kan konstatera att tillämpningen av bestämmelserna inte alltid följs och att en del registrerade energideklarationer 
+inte följer regelverket”.131 
+ Otydligheten om vad som utgör en besiktning påverkas också av att 
+energiexperterna enligt ackrediteringsordningen ISO/IES 17020 ska göra 
+”platsbesök”. Syftet med sådana besök ska enligt Swedac vara ”kontroll hos 
+fastighetsägaren för genomgång av tillhandahållet material”.132 Platsbesök 
+förefaller vara detsamma som vad Boverket i myndighetens föreskrifter kallar 
+”besiktning i övrigt”.
+130 http://www.boverket.se/Bygga-forvalta/Energideklaration/Aktuellt/Aktuellt1/.
+131 Boverket, Förtydligande angående besiktning 2009-04-02.
+132 ”Platsbesök” är ett krav enligt ISO/IES 17020 för kontrollorgan att de ska verifiera sina uppgifter. Swedac, Minnesanteckningar  
+ möte teknisk kommitté energideklarationer för byggnader 2008-12-04, Stockholm.
+
+69 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bilaga 4 Certifiering och ackreditering
+ Certifiering
+Priset för en certifiering var i mars 2009 cirka 5 000 kronor och gäller i fem 
+år. För att en person ska bli certifierad ska följande krav vara uppfyllda: 
+•	 Grundutbildning
+•	 Praktisk	erfarenhet
+•	 Lämplighet	för	uppgiften
+•	 Teoretisk	kunskap	(verifieras	genom	tentamen).
+Certifieringen bygger på i huvudsak följande delar föreskrivna av Boverket: 
+•	 Swedac	ackrediterar	certifieringsorgan	(för	närvarande	4	stycken)	som	 
+ certifierar personer som uppfyller kraven i föreskriften. 
+•	 Ackrediterade	organisationer	utbildar	experterna	i	de	delar	där	särskild	 
+ sakkunskap krävs och certifierar experterna. 
+•	 Certifieringen	gäller	i	fem	år
+•	 Den	som	certifierats	ska	arbeta	i	ett	av	Swedac	ackrediterat	kontrollorgan
+•	 Det	finns	olika	krav	för	certifiering	för	enkla	respektive	komplexa	byggnader etcetera (normal, kvalificerad, luftkonditionering). 
+Kraven för certifiering anges i Boverkets föreskrifter CEX 1. Utifrån de övergripande kraven i CEX 1 har de ackrediterade certifieringsorganen arbetat 
+fram mer detaljerade kravspecifikationer. Certifieringsorganen har en teknisk 
+kommitté, vilken har till uppgift att tolka och förtydliga kraven för certifiering, 
+så att certifieringen sker enligt gemensamma standarder. Boverket är medlem av kommittén, i egenskap av kravställare. 
+ I mars 2009 fanns det 739 certifierade experter med tillgång till Bo- 
+verkets register. 
+ Ett företag som har en certifierad expert i en arbetsledande ställning och 
+är ackrediterat kan även använda andra anställda för att göra deklarationer. 
+Det finns inga regler för detta men Swedac har angett en praxis på att man 
+kan ha mellan 5 och 15 personer arbetande under en certifierad arbetsledare i 
+ett ackrediterat företag.133
+133 Intervju Swedac 2009-03-03.
+
+70RIKSREVISIONEN Energideklarationer – få råd för pengarna
+ Ackreditering
+Swedac ackrediterar också de företag som utfärdar energideklarationer.   
+Ackrediteringsproceduren avser dels att företagens administrativa rutiner 
+och system säkerställer deras oberoende, dels att företagen upprättar deklarationerna på ett korrekt sätt. 
+ Swedacs pris för att ackreditera ett företag är cirka 30 000 kronor om 
+året; för större företag är kostnaden högre. I mars 2009 var 338 företag  
+ackrediterade.
+ Swedacs mål är att det ska ta högst tre månader från att man har lämnat 
+in en komplett ansökan till det första insyningsbesöket från Swedac. I dag tar 
+det cirka två månader.134
+134 Ibid.
+
+71 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+Bilaga 5 Utdrag ur Sveriges Kommuner och  
+   Landstings cirkulär 08:62
+Utdrag ur Sveriges Kommuner och Landstings cirkulär 08:62 Energideklarationer och kommunens tillsynsansvar, avseende kommunernas handläggning 
+av tillsynen.
+ Kommunens handläggning av tillsynen 
+Då antalet byggnader som ska energideklareras är mycket stort, cirka 
+300 000, och då antalet energiexperter ännu inte fyller upp behovet, kan 
+det uppstå problem med att genomföra alla energideklarationer till den 31 
+december 2008. 
+ Sveriges Kommuner och Landsting har under hand diskuterat frågan med Boverket, Energimyndigheten, Finansdepartementet, Näringsdepartementet samt Miljödepartementet för att finna en rimlig lösning på 
+problemet.
+ Förbundet föreslår att kommunerna uppmanar sina fastighetsägare, 
+de som ska inlämna en energideklaration före den 31 december 2008, att 
+snarast göra en skriftlig beställning av en energideklaration hos någon 
+certifierad energiexpert och att beställningen verifieras av energiexperten. 
+Om sedan energideklarationen inte kan göras före den 31 december 2008 
+ska kommunens tillsynsansvarige kunna acceptera beställningen och inte 
+behöva vidta någon åtgärd som till exempel vitesföreläggande. 
+ Det gäller dock att energideklarationen genomförs och inlämnas till Bo-
+verket inom rimlig tid. Vad detta är får avgöras av kommunen från fall till fall.
+ När det sedan gäller den generella tillsynen över om anslaget av energideklarationen finns på väl synlig plats i de olika byggnaderna, så ska ingen 
+aktiv uppsökande verksamhet påbörjas. 
+ Om byggnadsnämnden blir uppmärksammad på att anslaget saknas ska 
+nämnden vidta åtgärd. Det första nämnden bör göra är att tillskriva byggnadens ägare och fråga varför deklarationen inte finns allmänt tillgänglig. I 
+bästa fall har man bara glömt att sätt upp den.
+ Om man inte har låtit göra någon deklaration bör ett vitesbelopp sättas 
+ut, samt en uppmaning om att snarast låta upprätta en energideklaration. 
+Vitesbeloppet bör förslagsvis sättas något högre än vad det kostar att göra 
+en energideklaration.
+ Kommunen ska inte kräva in energideklarationerna för eventuell kontroll 
+eller liknande. Boverket och Energimyndigheterna har detta ansvar.
+
+72RIKSREVISIONEN Energideklarationer – få råd för pengarna
+
+73 RIKSREVISIONENEnergideklarationer – få råd för pengarna
+

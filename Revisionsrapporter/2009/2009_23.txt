@@ -1,0 +1,1710 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RiR 2009:23
+Länsplanerna för regional 
+transportinfrastruktur
+
+ISBN 978 91 7086 196 3
+RiR 2009:23 
+Tryck: Riksdagstryckeriet, Stockholm 2009
+
+Till regeringen
+Näringsdepartementet
+Datum: 2009-12-03
+Dnr: 31-2009-0864
+Länsplanerna för regional transportinfrastruktur
+Riksrevisionen har granskat länsplanerna för regional transportinfrastruktur. 
+Resultatet av granskningen redovisas i denna granskningsrapport.
+ Företrädare för Regeringskansliet, det nationella nätverket 
+kommunikationsexpertföreningen och Vägverket har fått tillfälle att 
+faktagranska och i övrigt lämna synpunkter på utkast till rapport.
+ Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse.
+ Rapporten innehåller slutsatser och rekommendationer som avser 
+regeringen. Riksrevisionen kommer att följa upp granskningen.
+ Riksrevisor Eva Lindström har beslutat i detta ärende. Revisionsledare 
+Mattias Pettersson har varit föredragande. Revisionsdirektör Jan Vikström 
+och revisionsdirektör Helena Braun Thörn har medverkat vid den slutliga 
+handläggningen. 
+Eva Lindström  Mattias Pettersson
+För kännedom:
+Vägverket 
+Länsstyrelsen i Stockholms län 
+Länsstyrelsen i Västmanlands län
+Länsstyrelsen i Västernorrlands län
+Länsstyrelsen i Jämtlands län
+Länsstyrelsen i Norrbottens län
+
+
+Innehåll
+Sammanfattning 7
+1 Inledning 11 
+1.1 Motiv för granskning 11 
+1.2 Syfte 12 
+1.3 Avgränsning 12 
+1.4 Bedömningskriterier 13 
+1.5 Granskningens genomförande 14 
+1.6 Granskning och rapportering av den tidigare planomgången 14 
+1.7 Planeringsprocessen i korthet 19
+2 Statsmakternas intentioner och regeringens direktiv 23 
+2.1 Infrastrukturpropositionen – Framtidens resor och transporter 23 
+2.2 Trafikutskottets ställningstagande till propositionen 24 
+2.3 Uppdraget och planeringsdirektiven 26
+3 Granskning av plandokumenten 29 
+3.1 Allmän beskrivning av planerna 29 
+3.2 Motivering av prioriterade åtgärder 32 
+3.3 Effektbedömning av planförslag och åtgärder 33 
+3.4 Andra krav i planeringen 35 
+3.5 Sammanfattande iakttagelser 37
+4 Synpunkter från länen 39 
+4.1 Hur ser länen på regeringens direktiv? 39 
+4.2 Vad har styrt länens prioriteringar? 40 
+4.3 Länens erfarenheter från planomgången 40
+5 Slutsatser 43 
+5.1 Länen har inte levt upp till direktivens krav 43 
+5.2 Konsekvensen är att det blir svårt att avgöra om valet av  
+ åtgärder är det mest effektiva 44 
+5.3 Otydliga förutsättningar en orsak till bristerna 45 
+5.4 Regeringen har inte vidtagit tillräckliga åtgärder 46 
+5.5 Rekommendationer 47
+Bilaga 1 – Transportpolitikens mål och den ekonomiska ramen för planeringen 49 
+Bilaga 2 – Vägledning för bedömning 53 
+Bilaga 3 – Brev till länen med frågor om arbetet med länstransportplaner 55
+
+
+7 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Sammanfattning
+Riksrevisionen har granskat de förslag till länstransportplaner som lämnades 
+till regeringen i november 2009. Planerna är en del i den pågående 
+åtgärdsplaneringen som ska fördela statens medel för infrastruktur under 
+perioden 2010–2021. Regeringen har i sina direktiv om åtgärdsplanering 
+överlåtit till 21 länsplaneupprättare att fördela medel till åtgärder av särskild 
+betydelse för den regionala och lokala nivån. För ändamålet har regeringen 
+anvisat preliminära ramar om sammanlagt 33 miljarder kronor.
+ Granskningens syfte
+Riksrevisionen granskade under förra planomgången de förslag till 
+länsplaner som lämnades till regeringen i augusti 2003. Då bedömde 
+Riksrevisionen att länen i vissa viktiga avseenden inte hade följt de krav som 
+ställts i regeringens direktiv. Syftet med denna granskning är att genom en 
+genomgång av länens planförslag följa upp de huvudsakliga iakttagelserna 
+från den tidigare granskningen och bedöma om länen i denna planomgång 
+klarat av att leva upp till kraven i regeringens direktiv. Granskningen följer 
+även upp vilka åtgärder regeringen vidtagit. 
+ Riksrevisionens slutsats
+Granskningen visar att länen i några viktiga hänseenden inte har levt upp 
+till de krav som ställts i regeringens direktiv. Planförslagen är inte tillräckligt 
+transparenta och tydliga för att det ska gå att avgöra om valet av åtgärder 
+är de mest effektiva och de långsiktigt mest socialt, ekonomiskt och 
+ekologiskt hållbara. Resultaten visar att den problembild som redovisades i 
+Riksrevisionens granskning från 2004 till stora delar kvarstår. 
+ Länen har inte levt upp till direktivens krav på tydliga prioriteringar och  
+ samlade effektbedömningar 
+I regeringens direktiv finns krav på att prioriteringarna ska motiveras och att 
+den inbördes prioriteringsordningen ska framgå. Det ska även framgå vilka 
+förslag till alternativa åtgärder som prioriterats bort. Effektbedömningar 
+ska tas fram i planförslaget. En effektbedömning bör ge en rättvisande bild 
+
+8RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+av vad en åtgärd eller ett paket av åtgärder leder till och möjliggöra sakliga 
+jämförelser mellan olika alternativ.
+ Riksrevisionens granskning visar att de i planförslagen redovisade 
+utgångspunkterna för prioriteringarna sällan är tillräckligt konkretiserade för 
+att kunna anses utgöra en faktisk urvalsmekanism. Det finns generellt sett 
+inte någon tydlig koppling mellan de övergripande prioriteringsgrunderna 
+och de utvalda åtgärderna. Detta, tillsammans med att få län har beskrivit 
+sina faktiska avvägningar, gör det svårt att bilda sig en uppfattning om 
+hur eller varför åtgärderna har rangordnats på det sätt som gjorts. Det är 
+dessutom få län som har redovisat bortprioriterade åtgärder.
+ Plandokumenten saknar i flera fall effektbeskrivningar eller har mycket 
+förenklade effektbeskrivningar. Dessutom är det endast ett fåtal län som 
+tar upp alla effekter som ska beskrivas i en effektbedömning. I flera fall är 
+effektbedömningen inte en samlad bedömning av planförslaget som helhet. 
+Ofta redovisas snarare hur enskilda åtgärder påverkar måluppfyllelsen än 
+hur det samlade planförslaget påverkar måluppfyllelsen av nationella och 
+regionala mål. Det är svårt att se om, och i så fall hur, effektbedömningarna 
+har påverkat prioriteringar av åtgärder och fördelningen mellan 
+åtgärdskategorier. I planförslagen redovisas negativa effekter och 
+målkonflikter endast i undantagsfall.
+ Konsekvensen är att det blir svårt att avgöra om valet av åtgärder är det mest  
+ effektiva
+En konsekvens av bristerna i plandokumenten är att det är svårt att avgöra 
+om valet av åtgärder är det mest effektiva och det långsiktigt mest socialt, 
+ekonomiskt och ekologiskt hållbara. Bristande motivering av prioriteringar 
+och otillräckliga effektbedömningar försvårar sakliga jämförelser mellan olika 
+nya alternativ. Det kan även hämma en omprövning av alternativ i takt med 
+att förutsättningarna i samhället ändras. Det kan i sin tur innebära att beslut 
+fattas utifrån en föråldrad syn på vilka problem som ska lösas och vilken 
+potential som kan tas tillvara genom infrastrukturinvesteringar. 
+ Otydliga förutsättningar en orsak till bristerna 
+Efter förra planomgången tonade regeringen ned kritiken mot länsplanernas 
+brister. Regeringen har inte ändrat de grundläggande förutsättningarna 
+för länens planer, utan ställer i stort samma krav i direktiven denna 
+gång. Resultatet av Riksrevisionens granskning av länsplanerna denna 
+planomgång indikerar att flertalet av de problem och brister som lyftes fram 
+2004 fortfarande kvarstår. 
+ Regeringen har styrt både mot ett ökat regionalt inflytande i 
+planprocessen och mot att satsningarna ska vara samhällsekonomiskt 
+lönsamma. I en del fall har det inneburit oklarheter i hur det praktiska 
+
+9 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+planarbetet ska bedrivas och ibland även en osäkerhet om den faktiska 
+ansvarsfördelningen mellan länen och trafikverken. Ett ökat regionalt 
+inflytande innebär samtidigt ett ökat politiskt inslag i processen. Det 
+regionalekonomiskt lönsamma och regionalpolitiskt önskvärda är inte alltid 
+det samhällsekonomiskt mest lönsamma alternativet. Det finns därmed 
+en motsättning mellan en skarp styrning med direktiv som syftar till att 
+ensa planförslagens innehåll och kvalitet i hela landet och viljan att utöka 
+det regionala inflytandet. Hur detta ska påverka det praktiska arbetet har 
+regeringen till stor del skjutit över på länen och trafikverken.
+ Rekommendationer
+Riksrevisionen rekommenderar att regeringen tillser att planering och 
+prioritering av infrastrukturåtgärder baseras på tydliga och fullständiga 
+effektbedömningar för enskilda objekt och för planförslagen som helhet. 
+Riksrevisionen rekommenderar vidare att regeringen inför kommande 
+planarbete betonar vikten av att planupprättarna redovisar sina prioriteringar 
+och tydliggör de målkonflikter som kan uppstå i avvägningen mellan 
+nationella och regionala mål. 
+
+10RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+11 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+1 Inledning 
+Riksrevisionen har genomfört en granskning av de förslag till 
+länstransportplaner som lämnades in till regeringen i början av november 
+2009. Planerna avser perioden 2010–2021 och presenterar förslag till 
+konkreta åtgärder för att utveckla den statliga transportinfrastrukturen. 
+Regeringen har gett 21 länsplaneupprättare (kommunala samverkansorgan, 
+regionala självstyrelseorgan och länsstyrelser) i uppdrag att fördela medel 
+till åtgärder av särskild betydelse för den regionala och lokala nivån. Länen 
+planerar utifrån en preliminär ram på sammanlagt 33 miljarder kronor. 
+1.1 Motiv för granskning 
+Åtgärdsplaneringen syftar till att identifiera de insatser som är mest 
+angelägna och som ger störst effekt givet de begränsade resurser som 
+finns tillgängliga. Anledningen till att länen har en stor roll i planeringen av 
+statliga medel är att de anses ha en bättre kunskap om lokala och regionala 
+förhållanden. Det finns även en strävan efter att länen ska ta ett större ansvar 
+för prioriteringen av statliga medel. 
+ En nyhet i denna planomgång är att riksdagen inte har fastställt hur 
+mycket av medlen till utveckling av transportsystemet som ska fördelas till 
+den nationella planen och hur mycket som ska fördelas till länsplanerna. Det 
+innebär att regeringen inte bara har möjligheten att omfördela medel mellan 
+regionerna när länsplanerna fastställs. Regeringen har nu även möjligheten 
+att omfördela medel mellan den nationella planen och de regionala 
+planerna. 
+ Ett krav i regeringens planeringsdirektiv är att länens prioriteringar 
+ska motiveras. Detta ska göras för att det ska vara möjligt att förstå 
+resonemangen bakom varför just valda åtgärder blivit prioriterade före 
+andra åtgärder och därmed bedömts vara de som är mest angelägna och 
+som ger störst effekt för investerade medel. Vikten av tydliga och begripliga 
+prioriteringar handlar inte bara om att visa att flera miljarder kronor fördelas 
+och används på ett effektivt sätt. Beslut om infrastrukturinvesteringar kan 
+lägga fast förutsättningarna för lång tid framåt. Det är därför viktigt att 
+beslut om infrastrukturens framtida inriktning fattas på ett sådant sätt att 
+medborgarna har en möjlighet att förstå och påverka inriktningen.
+
+12RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+ Riksrevisionen granskade år 2004 vad som styrde prioriteringarna under 
+arbetet med att ta fram länsplaner till förra perioden. Granskningen visade 
+att länen i vissa viktiga avseenden inte följt de krav som ställts i regeringens 
+planeringsdirektiv. Riksrevisionen fick i en förstudie indikationer på att de 
+slutsatser som presenterades i granskningen 2004 kvarstår. Förstudien 
+visade bland annat på brister i beskrivningar av hur prioriteringar och 
+avvägningar är gjorda. Riksrevisionen ansåg det därför motiverat att göra 
+en uppföljande granskning av länens förslag till länsplaner även denna 
+planomgång.
+1.2 Syfte 
+Riksrevisionen granskade under förra planomgången de förslag till 
+länsplaner som lämnades till regeringen i augusti 2003.1 Då bedömde 
+Riksrevisionen att länen i vissa viktiga avseenden inte hade följt de krav som 
+ställts i regeringens direktiv. 
+ Syftet med denna granskning är att genom en genomgång av länens 
+planförslag följa upp de huvudsakliga iakttagelserna från den tidigare 
+granskningen och bedöma om länen i denna planomgång klarat av att leva 
+upp till kraven i regeringens direktiv. Granskningen följer även upp vilka 
+åtgärder regeringen vidtagit. 
+Revisionsfrågan i granskningen är 
+Har länen i den regionala åtgärdsplaneringen följt statsmakternas intentioner 
+som de uttryckts genom regeringens direktiv?
+1.3 Avgränsning
+Riksrevisionens huvudsakliga iakttagelser från 2004 är utgångspunkten 
+för granskningen. Granskningen inriktar sig därmed främst på de delar 
+av direktiven som ställer krav på att prioriteringar ska motiveras och att 
+samlad effektbedömning ska göras. Det innebär att Riksrevisionen inte 
+bedömer vad länen har prioriterat. Riksrevisionen bedömer endast om det 
+av plandokumenten går att förstå avvägningen bakom prioriteringar och 
+om effektbedömningen ger en tydlig bild av planernas och åtgärdernas 
+förväntade effekter.
+1 Riksrevisionen 2004:1 Länsplanerna för regional infrastruktur – vad har styrt prioriteringarna?
+
+13 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Till skillnad från den tidigare granskningen görs endast en begränsad 
+genomlysning av processen bakom planerna. Detta innebär att vi förhåller 
+oss till 2004 års gransknings huvudsakliga iakttagelser och slutsatser genom 
+fokus på direktivens utformning och plandokumentens innehåll. 
+ Aktörer som omfattas av granskningen är regeringen samt de 21 
+planansvariga länen. Med län avses den myndighet som har ansvar för 
+länsplanen. Fem av de planansvariga myndigheterna är länsstyrelser 
+(Stockholm, Västmanland, Västernorrland, Jämtland och Norrbotten), två 
+stycken är regionala självstyrelseorgan (i Skåne och Västra Götaland) och 
+resterande fjorton är kommunala samverkansorgan. I förra planomgången 
+var alla utom fyra planupprättare länsstyrelser. Trafikverkens roll och 
+underlag har inte granskats inom ramen för denna granskning.
+
+1.4 Bedömningskriterier
+Regeringen redovisade i infrastrukturpropositionen förslag till inriktning 
+av hur transportinfrastrukturen bör utvecklas för perioden 2010–2021.2 
+I propositionen finns förslag om bland annat ekonomiska ramar, 
+ansvarsfördelning och vägledning för olika trafikinvesteringar. Trafik utskottet 
+tillstyrkte regeringens förslag om den statliga planerings ramen för åtgärder 
+i transportinfrastrukturen under åren 2010 – 2021. Utskottet skriver att 
+regeringens förslag innebär en angelägen kraftsamling på trafikens 
+infra struktur som skapar förutsättningar för att tillgodose de behov som 
+framtidens resor och transporter ställer. Riksdagen beslutade att bifalla 
+utskottets förslag.3 Statsmakternas uttryckliga intentioner beskrivs utförligare 
+i kapitel 2.
+ Inom ramen för förstudien har Riksrevisionen kunnat konstatera att 
+regeringens planeringsdirektiv innehåller krav som överensstämmer med 
+propositionens ambitioner. Planeringsdirektiven kan därför sägas spegla 
+statsmakternas intentioner. I kapitel 3 preciserar vi våra utgångspunkter för 
+bedömningen tydligare. I bilaga 2 finns en kort version av vägledningen för 
+vår bedömning av planförslagen.
+2 Prop. 2008/09:35 Framtidens resor och transporter – infrastruktur för hållbar tillväxt.
+3 Trafikutskottets betänkande 2008/09:TU2 Framtidens resor och transporter – infrastruktur för hållbar  
+ tillväxt, behandlad i riksdagsskrivelse 2008/09:145.
+
+14RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+1.5 Granskningens genomförande 
+Huvudparten av granskningen består av en genomgång av alla 21 
+planförslag mot regeringens direktiv. Riksrevisionen har gått igenom både 
+remissversionerna och de slutliga planförslagen som lämnats till regeringen. 
+Genomgången har gjorts i ett granskningsprogram som fungerar som en 
+checklista över planeringsdirektivens krav. Det innebär att vi har fått en 
+översiktlig bild av hur länens planförslag svarar mot planeringsdirektiven. 
+Resultaten medger endast en samlad bedömning av planförslagen och en 
+identifiering av generella mönster i planförslagen. Upplägget är till stora 
+delar detsamma som i granskningen från 2004, vilket möjliggör jämförelser 
+mellan de båda granskningarna. 
+ Inom ramen för granskningen har vi även tagit in synpunkter från 
+tjänstemän som arbetar med att ta fram planförslagen hos länen. 
+Vi frågade hur länen ser på regeringens planeringsdirektiv, vad som 
+har styrt prioriteringarna, vilka skillnader som eventuellt finns mellan 
+remissversionerna och de slutliga versionerna samt erfarenheter från 
+denna plan omgång. Avsikten med att ta in synpunkter från länen var att 
+komplettera och fördjupa vår bild av länens arbete med att ta fram förslag 
+på länsplaner. Det är en mer begränsad insamling av information angående 
+processen än vad som gjordes i den tidigare granskningen.
+Granskning och rapportering av den tidigare  1.6 
+ planomgången
+Huvudpunkterna i Riksrevisionens granskning från 20041.6.1 
+Riksrevisionen bedömde att länen i vissa viktiga avseenden inte följt de krav 
+som ställts i regeringens direktiv. Denna bedömning baserades på följande 
+iakttagelser:
+– Samhällsekonomisk lönsamhet hade haft en begränsad betydelse  
+ för prioriteringarna. Även om de redovisade åtgärderna i huvudsak var  
+ samhällsekonomiskt lönsamma gick det inte att avgöra i vilken  
+ utsträckning lönsamheten varit vägledande för den inbördes ordningen  
+ eller i förhållande till åtgärder som låg utanför planen. 
+– Effektbedömningarna var otydliga. Effekterna presenterades inte på ett  
+ sådant sätt att de var uppföljningsbara. Eventuella målkonflikter  
+ redovisades sällan i planerna.
+– Underlaget till prioriterade åtgärder var otillräckligt redovisat. Av  
+ planerna framgick inte vilka urvalsmekanismer som i praktiken hade  
+ varit avgörande för prioriteringarna.
+
+15 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+– Tillämpningen av den så kallade fyrstegsprincipen var oklar. Det var  
+ osäkert om en analys enligt fyrstegsprincipen verkligen hade gjorts  
+ före prioriteringen av åtgärderna i planerna eller om modellen istället  
+ hade applicerats i efterhand.
+Riksrevisionens slutsats var att länens planering i vissa viktiga avseenden 
+skett från andra utgångspunkter än direktivens. Riksrevisionen bedömde 
+att det fanns en risk att direktiven snarare haft betydelse för hur 
+argumentationen för åtgärderna hade utformats, än för vilka åtgärder som 
+egentligen prioriterats. Enligt Riksrevisionen var det därför otydligt och 
+därmed osäkert på vilka grunder de knappt 30 miljarder kronor som länens 
+planeringsprocess omfattade verkligen hade prioriterats. De iakttagelser 
+som Riksrevisionen gjorde under granskningen reste vissa frågor om 
+länsplanernas användbarhet som underlag för regeringens beslut om 
+definitiva resursramar till länen. Enligt Riksrevisionen var de analyser som 
+länen presenterade inte tillräckliga för att kunna bedöma om åtgärderna 
+verkligen skulle ge de effekter som hävdades.
+ Riksrevisionen bedömde att regeringens direktiv i vissa avseenden 
+inte varit tillräckligt tydliga. Det fanns inslag i direktiven som var svåra 
+att omsätta i praktiken. Hur detta skulle hanteras gav direktiven ingen 
+vägledning om.
+Den politiska hanteringen av rapporten1.6.2 
+Riksrevisionens styrelse beslutade i mars 2004 att granskningens slutsatser 
+skulle överlämnas i form av en framställning till riksdagen.4 Styrelsen 
+föreslog att riksdagen skulle begära att regeringen återkom till riksdagen 
+med en redovisning av de åtgärder som vidtagits med anledning av 
+granskningen. Trafikutskottet föreslog till riksdagen att framställningen 
+skulle avslås.5 Detta gjordes med motiveringen att utskottet förutsatte 
+att resultatet av granskningen skulle komma att beaktas inom ramen för 
+regeringens fortsatta utvecklingsarbete och att regeringen skulle redovisa 
+resultatet av sina överväganden för riksdagen. Riksdagen beslutade enligt 
+utskottets förslag.
+ Regeringen meddelade i budgetpropositionen 2005 att regeringens 
+bedömning och åtgärder med anledning av granskningsrapporten hade 
+redovisats till riksdagen i propositionen (prop. 2003/04:95) Utökade 
+planeringsramar för väg- och järnvägsinvesteringar 2004–2015. 
+4 Framställning 2003/04:RRS3 (2004-03-04).
+5 2003/04:TU10 Transportinfrastrukturen 2004–2015.
+
+16RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+1.6.3 Regeringens rapportering till riksdagen
+Propositionen som regeringen hänvisar till innehåller en återrapportering av 
+utfallet av åtgärdsplaneringen. I propositionen kommenteras Riksrevisionens 
+slutsatser och regeringen presenterar sin bedömning i några frågor omkring 
+planeringsprocessen. 
+I regeringens bedömning under rubriken Det framtida långsiktiga 
+planeringssystemet kommenteras Riksrevisionens slutsatser: 
+ Riksrevisionen bedömer att samhällsekonomisk lönsamhet generellt  
+ har haft en begränsad betydelse för de prioriteringar som gjorts i    
+ planerna. Genom att regeringens beslut om definitiva ekonomiska ramar  
+ till länsplanerna grundar sig på den granskning av samhällsekonomisk  
+ effektivitet och uppfyllelse av de transportpolitiska målen som  
+ regeringen gjort är regeringens bedömning att de länsplaner som nu ska  
+ fastställas bidrar till en bättre uppfyllelse av transportpolitikens  
+ huvudmål och delmål.6
+Under skälen för regeringens bedömning står det:
+ Regeringens bedömning efter att ha granskat länsplanerna är att  
+ det finns stora skillnader mellan länen när det gäller användandet av  
+ den samhällsekonomiska lönsamheten i prioriteringarna. [I] regeringens  
+ granskning av den samhällsekonomiska lönsamheten i  länsplanerna … 
+ framgår [det] att regeringen i sin bedömning av länsplanerna vägt in den  
+ genomsnittliga samhällsekonomiska lönsamheten samt hur stor andel  
+ av väginvesteringarna som det finns samhälls ekonomiska beräkningar  
+ för. Regeringen har i sitt granskningsarbete även gjort bedömningar av  
+ kvaliteten på det samhällsekonomiska underlaget i länsplanerna, vilket  
+ har vägts in i beslutet om definitiva ekonomiska ramar till länsplanerna.
+6 Prop. 2003/04:95 Utökade planeringsramar för väg- och järnvägsinvesteringar 2004–2015, s. 53.
+
+17 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+Riksrevisionen har i sin granskning funnit att länen har gett vissa 
+transportpolitiska delmål större vikt vid prioriteringarna. Regeringen 
+delar den bedömningen, men ser inte något automatiskt fel i detta. 
+En förutsättning för att göra sådana prioriteringar är att länet i sina 
+analyser visat att bristerna i länets transportsystem framför allt avser 
+de delmål som man sedan prioriterat högre. Sambandet mellan länens 
+analyser och prioriteringar har vägts in i regeringens beslut om definitiva 
+ekonomiska ramar till länsplanerna.
+ Regeringen anser att transportsystemets bidrag till förbättrad 
+regional utveckling främst sker genom åtgärder som minskar restider, 
+ökar tillgängligheten till transportsystemet och andra förbättringar som 
+ryms inom tillgänglighetsområdet. Beskrivningen av dessa effekter håller 
+en acceptabel nivå i länsplanerna.
+ Sammanfattningsvis finner regeringen att Riksrevisionens 
+granskning på ett värdefullt sätt identifierat brister i länens användande 
+av samhällsekonomiska kalkyler i sina prioriteringar, samt brister i 
+beskrivningen av de effekter på det transportpolitiska målet om en 
+positiv regional utveckling. Regeringens beslut om definitiva ekonomiska 
+ramar till länsplanerna grundar sig på regeringens egen granskning av 
+både den samhällsekonomiska effektiviteten och uppfyllelsen av de sex 
+transportpolitiska delmålen. Därför gör regeringen bedömningen att de 
+länsplaner som nu ska fastställas på ett positivt sätt bidrar både till en 
+bättre uppfyllelse av transportpolitikens huvudmål och delmål.7
+Av regeringens återrapportering framgår alltså inte om regeringen vidtagit 
+eller avser att vidta åtgärder med anledning av Riksrevisionens granskning. 
+Vad regeringen skriver är att Riksrevisionens granskning på ett värdefullt 
+sätt identifierat brister i länens prioriteringar och effektbedömningar men att 
+regeringen samtidigt tycker att beskrivningarna av effekterna i länsplanerna 
+håller en acceptabel nivå. Det framgår även att regeringen gjort en egen 
+granskning av länsplanerna där bland annat underlagens kvalitet har vägts in 
+i beslutet om definitiva ekonomiska ramar.
+7 Prop. 2003/04:95 Utökade planeringsramar för väg- och järnvägsinvesteringar 2004–2015, s. 56.
+
+18RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+Regeringens egen granskning av planförslagen1.6.3 
+Enligt Regeringskansliet genomfördes regeringens egen granskning med 
+hjälp av i förväg framtagna och gemensamt beredda mallar. Som ett extra 
+stöd granskades länsplanernas kostnadsunderlag av externa aktörer. 
+Granskningen resulterade i ett tjänstemannaförslag om definitiva ramar till 
+respektive län, vilket var ett underlag till det slutgiltiga politiska beslutet. 
+Förslaget innebar att ramarna justerades upp eller ned utifrån hur väl länen 
+hade uppfyllt de kriterier som satts upp i direktiven och uttolkningen av detta 
+i granskningsmallen. 
+ Enligt uppgift från Regeringskansliet skiljde sig det slutgiltiga politiska 
+beslutet från tjänstemannaförslaget. Utöver den justering av ramarna som 
+berodde på hur väl länen uppfyllde de krav som ställts upp, tillkom en 
+justering genom politiska avvägningar. Länen fick inte någon information 
+om bakgrunden till avvikelser mellan de preliminära och definitiva 
+ramarna vare sig i beslutet om definitiva ramar eller i propositionen 
+Utökade planeringsramar för väg- och järnvägsinvesteringar 2004–2015. Enligt 
+Regeringskansliet efterfrågades inte heller någon ytterligare information från 
+länen om anledningen till varför nivåerna justerats.
+Andra granskningar av länens infrastrukturplaner1.6.4 
+I en rapport från 1997 gjorde Riksrevisionsverket en granskning av 
+trafikmyndig heternas och länens långsiktiga planeringsarbete för perioden 
+1998−2007, med fokus på beslutsunderlagens kvalitet.8 I undersökningen 
+granskades Banverkets, Vägverkets och länens tillämpning av de 
+samhällsekonomiska kalkylmetoderna samt det underlagsmaterial som legat 
+till grund för de nationella och regionala planerna. Rapporten baserades helt 
+på granskning av dokument. Granskningen visade bland annat att underlag  
+för och preciseringar av in vesteringsobjekt i planerna delvis saknades. 
+Vidare uppvisade befintligt planeringsunderlag flera betydande brister. 
+Granskningens slutsatser an gående länsplanerna var att planernas karaktär 
+varierade kraftigt, liksom tillgängligheten till och kvaliteten på underlaget till 
+planerna. Vidare förekom det i planerna endast i undantagsfall diskussioner 
+om och motiv till de gjorda prioriteringarna. 
+ Brister har påpekats även från andra håll. Statens institut för 
+kommunikationsanalys (SIKA) redovisade 1999 en utvärdering av länens 
+planering i den dåvarande planomgången.9 SIKA:s sammanfattande 
+slutsatser var att ett aktivt och engagerat arbete hade utförts av länen,  
+8 RRV 1997:60 Vägverkets, Banverkets och länens förslag till infrastrukturinvesteringar åren 1998–2007.
+9 SIKA Rapport 1999:1 Utvärdering av den regionala infrastrukturplaneringen 1998−2007. 
+
+19 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+vilket resulterat i ambitiösa plandokument. Samtidigt konstaterade SIKA 
+att planerna saknade tydlig information gällande de föreslagna åtgärderna 
+– utformning, kostnader, lönsamhet och förväntade effekter. Exempelvis 
+angav SIKA att det inte var möjligt att bedöma huruvida sam hälls ekonomisk 
+lönsamhet hade använts som ett kriterium när åtgärder prioriterades. Vidare 
+saknades i flera planer tydlig information om infra strukturens brister samt 
+om bortprioriterade alternativ i planeringen. 
+1.7 Planeringsprocessen i korthet
+Den långsiktiga planeringen för transportinfrastruktur genomförs i två 
+steg – inriktningsplaneringen och åtgärdsplaneringen. Syftet med denna 
+uppdelning av planeringsprocessen är dels att ge förutsättningar för politisk 
+styrning, dels att få en effektiv genomlysning av de åtgärder som övervägs. 
+I verkligheten blandas dessa faser då det andra steget påbörjas innan det 
+första helt genomförts.10
+ Inriktningsplanering 
+I det första steget utreds mål, ekonomiska ramar och inriktning för den 
+kommande planeringsperioden. Analysen utifrån utredningarna ligger till 
+grund för den infrastrukturproposition som regeringen presenterar med 
+förslag till planeringsram och inriktning för den aktuella planperioden. 
+Inriktningsplaneringen avslutas med att riksdagen fattar beslut om 
+regeringens proposition. 
+ Åtgärdsplanering
+Under det andra steget upprättar trafikverk och planeringsorgan på regional 
+nivå konkreta förslag till åtgärdsplaner. Detta syftar till att utreda och 
+säkerställa att de åtgärder som prioriteras är väl genomlysta och förankrade. 
+Åtgärdsplaneringen resulterar i en nationell plan och regionala planer 
+(länsplaner). Regeringen beslutar om vilka åtgärder som ska ingå i den 
+nationella planen och fattar beslut om ekonomiska ramar för de regionala 
+planerna.
+10 SOU 2009:31 Effektiva transporter och samhällsbyggande –- en ny struktur för sjö, luft, väg och  
+ järnväg, s. 107.
+
+20RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+Förändringar i planeringsprocessen1.7.1 
+Inga övergripande förändringar av planeringsprocessen har genomförts 
+sedan Riksrevisionens förra rapport publicerades. Ansträngningar har dock 
+gjorts för att utveckla arbetet inom ramen för nuvarande planeringsprocess. 
+Till exempel har både SIKA och trafikverken arbetat med att utveckla 
+tillämpningen av de så kallade fyrstegsprincipen. Förberedelsearbetet 
+har strukturerats annorlunda i denna planomgång. Som förberedelse 
+till den regionala åtgärdsplaneringen har länen på uppmaning av 
+regeringen genomfört systemanalyser. Systemanalyserna ska vara 
+transportslagsövergripande analyser av transportsystemets funktion och 
+brister utifrån mål och behov.11
+ Den förra regeringen aviserade vid ett flertal tillfällen att 
+planeringsprocessen för infrastrukturen skulle ses över i den kommande 
+transportpolitiska propositionen. När väl propositionen Moderna 
+transporter lades fram 2006 föreslogs inga konkreta förändringar 
+av planeringsprocessen.12 I propositionen dras dock slutsatsen att 
+infrastrukturplaneringen förenklas och samordnas mer med regional 
+planering.
+Regeringens pågående arbete1.7.2 
+I senaste infrastrukturpropositionen bedömer regeringen att de 
+viktigaste förändringar som behöver genomföras i förhållande till 
+tidigare planomgångar är en tydligare trafikslagsövergripande ansats, 
+utökade möjligheter till medfinansiering, ökat regionallt inflytande 
+och ansvarstagande samt hanteringen av klimatutmaningen inom 
+transportsektorn. Regeringen betonar även vikten av en öppen och 
+inbjudande planeringsprocess där ett stort ansvar läggs på planansvariga 
+för att fånga upp medborgarnas och näringslivets synpunkter på dagens och 
+morgondagens transportsystem.
+ Den 15 oktober 2009 fick trafikverken i uppdrag att lämna förslag till 
+ett nytt planeringssystem för transportinfrastrukturen. Regeringen anser 
+att ett nytt planeringssystem bör vara mer flexibelt så att åtgärderna kan 
+anpassas till nya förhållanden och samtidigt kräva mindre omfattande 
+underlagsmaterial. Det är också viktigt att uppföljning sker i förhållande till 
+de transportpolitiska målen. Uppdraget ska redovisas senast den 15 februari 
+2010.
+11 Metodbeskrivning Regionala systemanalyser.
+12 Prop. 2005/06:160 Moderna transporter.
+
+21 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Den 1 april 2010 bildas Trafikverket. Vägverkets och Banverkets 
+verksamhet överförs till den nya myndigheten.13 Även delar av SIKA:s, 
+Sjöfartsverkets och Transportstyrelsens verksamhet förs över till den 
+nya myndigheten. Den 1 april 2010 bildas även den nya myndigheten 
+Trafikanalys som blir regeringens stöd för utvärderingar och analyser inom 
+transportområdet och hit överförs statistikverksamheten vid SIKA.
+13 Förutom verksamheten vid enheten Banverket Produktion.
+
+22RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+23 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+2 Statsmakternas intentioner och   
+ regeringens direktiv 
+I kapitlet presenteras statmakternas intentioner för infrastrukturplaneringen 
+så som de uttrycks i regeringens infrastrukturproposition och trafikutskottets 
+betänkande. I kapitlet görs även en kort beskrivning av regeringens 
+planeringsdirektiv till länen samt en jämförelse med tidigare direktiv.
+2.1 Infrastrukturpropositionen – Framtidens resor och  
+ transporter
+I infrastrukturpropositionen skriver regeringen att åtgärdsplaneringen ska 
+säkerställa att de förslag till prioriteringsordning som tas fram innehåller 
+väl genomlysta och förankrade åtgärder som är avvägda och prioriterade 
+jämfört med ett antal andra tänkbara åtgärder. Det är regeringens avsikt att 
+växelspelet mellan politiska avvägningar på central och regional nivå samt 
+en saklig genomlysning av åtgärder från de planerande myndigheterna ska 
+bidra till att säkerställa att de åtgärder som till slut prioriteras är efterfrågade, 
+väl genomlysta avseende hur de bidrar till inriktningen och jämförda med 
+andra möjliga lösningar. De åtgärder som övervägs i åtgärdsplaneringen 
+ska beskrivas bland annat med avseende på hur de bidrar till inriktningen, 
+transportpolitiska mål, samhällsekonomiska bedömningar och andra 
+konsekvensbeskrivningar.14
+2.1.1 Vägledande prioriteringar för åtgärdsplaneringen
+Regeringen skriver att de satsningar som föreslås i propositionen och 
+som åtgärdsplaneringen ska leda fram till förväntas resultera i följande 
+förbättringar:
+• Transportsystemet bidrar till tillväxten och att fler människor kommer i  
+ arbete i fler och växande företag i hela landet.
+• Arbetsmarknadsregionerna för kvinnor och män vidgas.
+• Akuta flaskhalsar i transportsystemet försvinner.
+14 Prop. 2008/09:35 Framtidens resor och transporter – infrastruktur för hållbar tillväxt, s. 110.
+
+24RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+•  Tillgängligheten inom storstadsregionerna förbättras.
+• Infrastrukturen vårdas med ökade satsningar på underhåll.
+•  Infrastrukturen säkras för att klara klimatförändringarna.
+•  Det blir säkrare att färdas på våra vägar.
+•  Hela reskedjan och transporten blir bättre samordnad och anpassad till  
+ användarnas behov.
+•  Klimateffektiva resor och transporter underlättas, vilket bidrar till att  
+ uppnå de klimatpolitiska målen.
+•  Samhällsnyttan av satsningar i infrastrukturen kommer att öka.
+2.1.2 Arbetssätt i åtgärdsplaneringen
+Regeringen skriver i propositionen att planeringsprocessen ska 
+kännetecknas av en öppen och inbjudande attityd och det ska finnas 
+utrymme och möjlighet att föra fram stort som smått till planeringsansvariga 
+myndigheter. I planeringsprocessen ska sedan olika typer av åtgärder vägas 
+mot varandra och prioriteras.
+ Arbetssättet i åtgärdsplaneringen ska präglas av ett 
+trafikslagsövergripande synsätt samt tydliga och gemensamma 
+utgångspunkter och prioriteringsgrunder. Satsningarna ska vara 
+samhällsekonomiskt effektiva och bidra till en hållbar utveckling. Regeringen 
+bedömer att det finns en potential att öka effektiviteten genom utvecklade 
+arbetsformer. Vidare pekar regeringen på att det krävs insatser för att 
+säkerställa avsevärt bättre överensstämmelse mellan långsiktiga planer, årlig 
+anslagstilldelning och genomförande framöver. De prioriteringar som görs 
+på regional nivå ska väga tungt och regeringen vill stimulera olika former 
+av medfinansiering. Regeringens bedömning är att ett sådant arbetssätt 
+kommer att bidra till att önskvärda förbättringar kan åstadkommas.
+2.2 Trafikutskottets ställningstagande till propositionen
+På trafikutskottets förslag beslutade riksdagen att bifalla regeringens 
+proposition. Utskottet skriver i sitt betänkande att de anser att regeringens 
+förslag innebär en angelägen kraftsamling på trafikens infrastruktur för att 
+därmed bland annat kunna åtgärda tidigare bristande insatser och samtidigt 
+skapa förutsättningar för att tillgodose de behov som framtidens resor och 
+transporter ställer.15
+15 Trafikutskottets betänkande 2008/09:TU2 Framtidens resor och transporter – infrastruktur för hållbar  
+ tillväxt, s 1.
+
+25 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+2.2.1 Om övergripande prioriteringar och urval av åtgärder
+Utskottet skriver att regeringen i propositionen identifierar ett antal 
+områden inom vilka förbättringar under kommande planeringsperiod 
+särskilt ska prioriteras. Utskottet anser att de i propositionen framhållna 
+förbättringsområdena i transportsystemet är synnerligen angelägna, 
+såväl vad gäller användarnas och näringslivets behov som de varierande 
+behoven i de olika delarna av landet, både i landsbygdsområden och i 
+storstadsområden.
+ Utskottet delar regeringens åsikt att urvalet av åtgärder för att vårda och 
+utveckla transportinfrastrukturen bör göras med utgångspunkten att nyttan 
+ska överstiga kostnaderna och kunna prioriteras och motiveras i förhållande 
+till andra möjliga åtgärder. Vidare framgår av propositionen att samlade 
+effektbedömningar bör genomföras för att ge en allsidig beskrivning av de 
+satsningar som prioriteras i den kommande åtgärdsplaneringen. En bra 
+effektbedömning ger en rättvisande bild av vad en åtgärd eller ett paket av 
+åtgärder leder till, möjliggör sakliga jämförelser mellan olika alternativ, är 
+öppen med sina förutsättningar och begränsningar, innehåller relevanta 
+känslighetsanalyser och är tydligt och klart dokumenterad.
+2.2.2 Om planeringsprocessen
+Utskottet instämmer i regeringens bedömning att en planeringsprocess 
+i två steg ger goda förutsättningar för politisk styrning i kombination 
+med effektiv genomlysning av de åtgärder som övervägs i prioriteringen. 
+Utskottet välkomnar regeringens initiativ att låta de tidigare separata 
+ban- och väghållningsplanerna ersättas av en gemensam nationell plan 
+för transportinfrastrukturen. Det transportslagsövergripande perspektivet 
+borgar för en effektiv samordning av transportslagen. Utskottet instämmer 
+med regeringen i att alternativa sätt att lösa framtida transportbehov 
+behöver övervägas i åtgärdsplaneringen. Fyrstegsprincipen utgör ett viktigt 
+förhållningssätt vid framtagning och analys av olika lösningar. Utskottet 
+konstaterar att denna princip synes vara väl förankrad bland trafikverk och 
+planeringsorgan. Utskottet vill i sammanhanget understryka behovet av en 
+öppen process där de olika alternativ som har övervägts tydligt framgår.
+
+26RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+2.3 Uppdraget och planeringsdirektiven
+Den 19 december 2008 fattade regeringen beslut om att ge i uppdrag till 
+trafikverken och länen att genomföra åtgärdsplanering inför fastställande 
+av nationell plan och länsplaner.16 Planeringsdirektiven återfinns som en 
+bilaga till beslutet. I beslutet tydliggörs att uppdraget ska genomföras i 
+enlighet med de direktiv som återfinns i bilagan. Beslutet ställer krav på att 
+trafikverken och länen i det löpande planeringsarbetet ska samråda med 
+varandra och med andra berörda intressenter. Länens förslag till planer ska 
+ha varit föremål för remissbehandling och ska förankras politiskt i länen. 
+Uppdraget skulle redovisas till Regeringskansliet senast den 2 november 
+2009.
+2.3.1 Direktiven i korthet
+ Gemensamt uppdrag om åtgärdsplanering
+Uppdraget om åtgärdsplanering gavs till trafikverken och till länen i samma 
+beslut och direktiv. Vissa övergripande instruktioner om uppdraget står 
+i beslutet men de mer detaljerade kraven återfinns i direktivet. Beslutet 
+klargör att trafikverken ska ta fram en gemensam nationell plan samt vilka 
+myndigheter på den regionala nivån som bär ansvaret för planupprättandet 
+i respektive län. I Skåne och Västra Götaland ligger ansvaret hos de 
+regionala självstyrelseorganen. I Stockholms, Västmanlands, Jämtlands, 
+Västernorrlands och Norrbottens län är det länsstyrelsen som är 
+planupprättare, och i övriga län är det kommunala samverkansorgan som 
+har fått ansvaret för länsplanen. I den förra planomgången var relationen 
+den omvända, då var planupprättarna länsstyrelser i alla län utom i Skåne, 
+Västra Götaland, Kalmar och Gotland.
+ Enligt direktiven är regeringens övergripande mål att bryta utanförskapet 
+genom fler jobb och infrastrukturen är en grundförutsättning för tillväxt 
+i hela landet. Vidare sägs att systemen ska baseras på både mäns 
+och kvinnors behov och synpunkter samt att kommunikationer med 
+utgångspunkt från resenärers, företags och samhällets behov, som samtidigt 
+är förenliga med klimat- och miljökvalitetsmål, är i fokus.
+ 
+16 Regeringsbeslut 2008-12-19 Uppdrag att genomföra åtgärdsplanering inför fastställandet av nationell  
+ trafikslagsövergripande plan för utveckling av transportsystemet och trafikslagsövergripande planer för  
+ regional transportinfrastruktur (rskr. 2008/09:145).
+
+27 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Generella krav
+I direktivet anges en preliminär ekonomisk ram för respektive län och en 
+beskrivning av de förordningar som gäller för området. I beslutet ställs 
+dessutom krav på att länen ska lämna förslag på åtgärder för nivåer som 
+är 25 procent högre och 25 procent lägre än ramen. I beslutet finns även en 
+del formalia kring uppdragets längd och remisshantering. Möjligheterna till 
+medfinansiering från olika intressenter ska prövas.
+ Samlad effektbedömning
+Enligt direktiven ska en samlad effektbedömning tas fram för planförslaget. 
+Effekter ska beskrivas i förhållande till de transportpolitiska målen. 
+Fördelningseffekter ska tas fram för föreslagna åtgärder. Samhällsekonomisk 
+nettonuvärdeskvot och samhällsekonomisk bedömning ska tas fram för 
+föreslagna objekt. Effekter av åtgärder i förhållande till de transportpolitiska 
+målen ska redovisas. Den samlade effektbedömningen ska innefatta 
+miljöbedömningar. Fördelningseffekter ska anges för föreslagna objekt.
+ Planeringsprinciper och prioriteringar
+Regeringen skriver i direktiven att åtgärderna bör analyseras enligt 
+fyrstegsprincipen (se avsnitt 3.4.1) och att relevanta och jämförbara 
+samhällsekonomiska analyser och miljöbedömningar ska spela en viktig 
+roll vid prioriteringarna. Det trafikslagsövergripande synsättet anges vara 
+mycket angeläget, och det förutsätts att länen i sina prioriteringar utgår 
+från ett länsöverskridande perspektiv. I direktiven framhålls även att den 
+inbördes prioritetsordningen av åtgärderna ska framgå samt att de objekt 
+eller åtgärder som föreslås bör beskrivas allsidigt och att prioriteringarna ska 
+motiveras. Det ska också framgå vilka förslag till alternativa åtgärder som 
+förkastats.
+2.3.2 Jämförelse mellan planeringsdirektiven 2008 och 2002
+En jämförelse mellan regeringens direktiv om åtgärdsplanering i denna 
+och i den förra planomgången visar att skillnaderna avseende innehållet 
+är relativt små. En skillnad denna gång är att planeringen delades upp 
+i två delar. I ett förberedande uppdrag fick trafikverken och länen bland 
+annat i uppdrag att ta fram så kallade systemanalyser. Systemanalyserna 
+skulle inventera grundläggande behov och lösningar på en övergripande 
+nivå. De innehållsmässiga delarna i direktiven som beskriver kraven på 
+hur planarbetet ska bedrivas och vad planerna ska innehålla uppvisar dock 
+stora likheter mellan planomgångarna. Fortfarande anges att regeringen 
+kommer att analysera planerna utifrån samhällsekonomisk lönsamhet, 
+
+28RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+transportpolitiska mål, hanteringen av länsöverskridande projekt och 
+kopplingen till den nationella planen. Enligt båda direktiven bör åtgärderna 
+analyseras enligt fyrstegsprincipen. 
+ Det finns inga egentliga skillnader på kraven att motivera sina 
+prioriteringar tydligt utifrån effektbedömningar. I förra planomgången skulle 
+prioriteringar motiveras textmässigt med hänvisning till samhällsekonomi 
+och vilka effekter åtgärderna hade på de transportpolitiska målen och 
+miljökvalitetsmålen. I denna planomgång anges att åtgärder bör beskrivas 
+allsidigt och prioriteringar ska motiveras. Samlade effektbedömningar 
+ska tas fram för föreslagna åtgärder och innehålla en samhällsekonomisk 
+bedömning, effekter i förhållande till transportpolitiska mål, 
+miljöbedömningar och en beskrivning av fördelningseffekter. 
+ Krav på att utreda möjligheten till medfinansiering är tydligare denna 
+omgång, men fanns även tidigare för utpekade objekt. Krav på flexibilitet 
+i planerna för kommande efterfrågeförändringar fanns tidigare för de 
+nationella planerna men är nytt för länsplanerna. Regeringen trycker mer på 
+det trafikslagsövergripande perspektivet denna gång. Det har funnits med 
+redan i tidigare omgångar men betonas nu mer. I den förra omgången var 
+den tydliga utgångspunkten de transportpolitiska målen. Denna gång lyfts 
+arbetsmarknaden och klimatfrågan fram som utgångspunkter för arbetet. 
+ Helt nytt i denna omgång är att planerna ska innehålla åtgärder som 
+främjar cyklandet samt anpassningen till det nya hastighetssystemet.
+
+29 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+3 Granskning av plandokumenten
+I detta kapitel redovisar vi resultatet av genomgången av länens planförslag. 
+Vi har främst behandlat de delar som Riksrevisionen identifierade som 
+svagheter i granskningen 2004, och som statsmakterna uttalat tydliga 
+ambitioner kring inför åtgärdsplaneringen. Riksrevisionens utgångspunkt 
+i granskningen är den av riksdagen fastställda infrastrukturpropositionen 
+och regeringens direktiv om åtgärdsplanering.17 Riksrevisionen bedömer att 
+direktiven stämmer väl överens med intentionerna i propositionen. Det är 
+mot direktiven som vi har granskat varje planförslag. Se bilaga 2 för en kort 
+beskrivning av hur vi har gjort bedömningar utifrån regeringens direktiv. 
+3.1 Allmän beskrivning av planerna
+Plandokumenten är ofta uppbyggda på ett likartat sätt, även om 
+innehållet kan variera stort. Plandokumenten inleds i de flesta fall med 
+en beskrivning av regeringens direktiv, de transportpolitiska målen och 
+hur planeringsprocessen är upplagd. Ofta nämns också regionspecifika 
+mål och regionala strategier som ska ligga till grund för prioriteringarna i 
+planförslagen. Därpå följer i de flesta fall en beskrivning av länets struktur 
+och förutsättningar. Det kan till exempel vara uppgifter om befolkning, 
+näringsliv eller transportsystemet i länet. Bakgrundsbeskrivningarna följs 
+sedan ofta av själva åtgärdsförslaget med effektbeskrivningar och ibland en 
+beskrivning av genomförandefasen. Planförslaget redovisas oftast i både 
+text och tabell. Medlen fördelas på namngivna objekt och i åtgärdspotter 
+för mindre, ospecificerade åtgärder. Effektbeskrivningar av enskilda åtgärder 
+finns ibland i själva plandokumentet, men ibland kan de finnas som bilaga 
+eller på en hemsida som länen hänvisar till.
+17 Prop. 2008/09:35 Framtidens resor och transporter – infrastruktur för hållbar tillväxt och Uppdrag  
+ att upprätta långsiktiga planer för transportinfrastrukturen m.m. 2008-12-19, N2008/8698/IR,  
+ N2008/8869/IR(delvis).
+
+30RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+3.1.1 Länsplanernas fördelning på åtgärdskategorier
+För att få en övergripande bild av hur länen har fördelat regionens medel har 
+Riksrevisionen delat in fördelningen i fyra kategorier. Den första kategorin 
+avser så kallade namngivna objekt som består av större nybyggnads- eller 
+ombyggnadsobjekt.18 De återfinns i stort sett i alla planer utom för Gotlands 
+län. Två av kategorierna är särskilt utpekade i direktiven. Det gäller medel 
+för åtgärder till följd av oförutsägbara förändringar av efterfrågan, så kallad 
+marknadsanpassning, och åtgärder för att främja cyklandet. Resterande 
+fördelade medel har vi placerat i kategorin övrigt. Denna kan exempelvis 
+omfatta medel för trafiksäkerhets- och kollektivtrafikåtgärder. Länen 
+har inte kategoriserat eller redovisat sina åtgärder på samma sätt som 
+Riksrevisionen. Det innebär att vår sammanställning ger en grov överblick 
+mer än en exakt beskrivning av länens fördelning. Det har inte varit möjligt 
+att helt anpassa länens redovisning till vår indelning. I några län ingår till 
+exempel medel för cykelåtgärder eller marknadsanpassning i större potter.
+ Riksrevisionen gör ingen bedömning av vad som är en rimlig fördelning 
+för de olika länen. Vi konstaterar emellertid att det varierar relativt mycket 
+mellan länen hur mycket medel som fördelas på olika åtgärdskategorier. 
+I genomsnitt avsätts nästan två tredjedelar av medlen på stora objekt, en 
+knapp tredjedel avsätts till kategorin övrigt. I Stockholm och Västmanland 
+har man avsatt 81, respektive 89 procent på namngivna objekt. Som mest 
+avsätts 8 procent till marknadsanpassning men oftast mindre. Medlen till 
+cykelåtgärder varierar kraftigt, men är i snitt 9 procent. 
+ Det finns även stora skillnader i hur man väljer att omprioritera beroende 
+på ramens storlek (plus eller minus 25 procent). I många fall ökas eller 
+minskas de olika potterna någorlunda proportionerligt, men i andra fall 
+fredar man någon pott och behåller den oförändrad oavsett plannivå. Det 
+finns exempel där man väljer att hålla medlen till de namngivna objekten 
+konstanta i alla ramnivåer. I något exempel har pott för mindre åtgärder fått 
+utgöra buffert för både ökad och minskad ram. De allra flesta län har angivit 
+hur mycket man vill satsa på de potter som regeringen särskilt pekat ut för 
+marknadsanpassning och cykelåtgärder. Särskilt när det gäller cykelåtgärder 
+konstaterar Riksrevisionen att regeringens direktiv har fått ett stort 
+genomslag. I Jämtland, Västernorrland och Gotlands län föreslås att närmare 
+en fjärdedel av medlen ska satsas på gång- och cykelåtgärder.
+18 Kostnad över 25 miljoner kronor.
+
+31 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+Tabell 3.1 Länsplanernas fördelning av medel på olika åtgärdskategorier. 
+Ram kkr Stora19 
+objekt
+Marknadsanpassning20
+Cykelåtgärder
+Övrigt
+Blekinge 487 54 % 0 % 9 % 37 %
+Dalarna 983 74 % 0 % 7 % 19 %
+Gotland 205 0 % 0 % 23 % 77 %
+Gävleborg 873 61 % 0 % 14 % 25 %
+Halland 1 060 38 % 0,3 % 10 % 52 %
+Jämtland 477 59 % 8 % 26 % 7 %
+Jönköping 1 236 50 % 6 % 5 % 39 %
+Kalmar 793 61 % 0 % 6 % 33 %
+Kronoberg21 678 40 % 0 % 0 % 59 %
+Norrbotten 743 50 % 3 % 13 % 34 %
+Skåne 4 033 51 % 2 % 7 % 40 %
+Stockholm 7 851 81 % 2 % 5 % 12 %
+Södermanland 917 71 % 5 % 7 % 17 %
+Uppsala 1 518 73 % 5 % 5 % 17 %
+Värmland 877 52 % 7 % 3 % 38 %
+Västerbotten 794 73 % 3 % 8 % 16 %
+Västernorrland 696 26 % 0 % 23 % 51 %
+Västmanland 758 89 % 0 % 2 % 11 %
+Västra Götaland 5 835 68 % 0 % 1 % 31 %
+Örebro22 944 61 % 6 % 11 % 22 %
+Östergötland 1 342 65 % 3 % 7 % 25 %
+Genomsnitt 57 % 2 % 9 % 32 %
+19 Med stora objekt menas namngivna objekt med en kostnad över 25 miljoner kronor.
+20 Här redovisas bara när det finns en särskilt utpekad pott för marknadsanpassning. I andra län  
+ kan det också finnas en flexibilitet i användandet av de potter som har vida syften.
+21 I Kronobergs läns pott för övriga åtgärder ryms även åtgärder för cykel- och marknadsanpassning  
+ men inte specificerat hur stor del av potten.
+22 Siffrorna bygger på remissversionen då det slutgiltiga planförslaget inte var tillgängligt för  
+ Riksrevisionen i tid för att kunna beaktas.
+
+32RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+3.2 Motivering av prioriterade åtgärder
+Enligt regeringens direktiv bör de objekt eller åtgärder som föreslås i 
+åtgärdsplaneringen beskrivas allsidigt och prioriteringarna ska motiveras. 
+Det ska framgå i vilken ordning de ingående åtgärderna har prioriterats 
+och vilka förslag till alternativa åtgärder som förkastats. I infrastrukturpropositionen betonar regeringen vikten av en öppen och inbjudande 
+planeringsprocess. De myndigheter som upprättar planer har ett ansvar för 
+att göra tydliga och begripliga prioriteringar. De har också ett ansvar för att 
+bidra med en tydlig bild av vad det är för problem som ska lösas eller vilken 
+potential som ska tas till vara så att alternativa lösningar kan övervägas. 
+Enligt propositionen ska aktiva och engagerade medborgare på ett enkelt 
+sätt kunna ta del av vilka prioriteringar som till slut gjordes och varför de 
+gjordes.
+ Riksrevisionen bedömer, i likhet med granskningen från 2004, att 
+av detta följer att det bör framgå vilka prioriteringsgrunder som har 
+använts. Detta gäller på vilka grunder medel fördelats, både mellan olika 
+åtgärdskategorier, och för varje utpekad åtgärd inom varje åtgärdskategori. 
+För att klassas som prioriteringsgrunder bör dessa vara tillräckligt konkreta 
+för att kunna utgöra en faktisk urvalsmekanism. En utomstående betraktare 
+bör kunna förstå varför ett objekt har prioriterats före de övriga, och före 
+dem som valts bort helt.
+3.2.1 Hur motiveras de prioriteringar som gjorts
+Riksrevisionen bedömer, i en strikt tolkning av direktiven, att inte något 
+planförslag fullt ut lever upp till kravet på att en utomstående betraktare ska 
+kunna förstå varför ett objekt har prioriterats före de övriga, och före dem 
+som valts bort helt. 
+ Flertalet län anger vilka övergripande utgångspunkter eller principer 
+som man anser ska ligga till grund för prioriteringarna. De är dock 
+sällan tillräckligt konkretiserade för att kunna anses utgöra en faktisk 
+urvalsmekanism. Det finns generellt sett inte någon tydlig koppling mellan 
+de övergripande prioriteringsgrunderna och de utvalda åtgärderna.
+ I många plandokument finns en beskrivning av tillståndet i 
+transportsystemet och förväntade effekter av åtgärderna. Beskrivningarna 
+kan till exempel avse att en åtgärd är tänkt att öka trafiksäkerheten eller 
+medföra positiva effekter på miljön. Mycket sällan förekommer beskrivningar 
+av varför eller enligt vilket kriterium ett specifikt projekt har rangordats 
+högre än andra. Även om en åtgärd i sig medför något positivt så saknas en 
+analys av hur de rangordnade åtgärderna förhåller sig till varandra och till 
+förkastade objekt. 
+
+33 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Bortprioriterade åtgärder redovisas bara i några få av planerna. Flera 
+län påpekar att behoven av investeringar inte på lång väg täcks av tilldelad 
+planeringsram. Det borde innebära att det finns möjliga åtgärder som inte 
+ryms i planförslagen och därmed prioriterats bort.
+ I ungefär hälften av planerna finns det en tydlig rangordning mellan de 
+namngivna objekten. I flera andra planer saknas ett uppenbart stöd i texten 
+för att uppräknade projekt ska tolkas som en rangordning av prioriterade 
+åtgärder. Det finns dock inte heller något som motsäger att uppräkningen 
+skulle vara avsedd att tolkas som en rangordning.
+3.3 Effektbedömning av planförslag och åtgärder
+I regeringens direktiv finns krav på att effektbedömning ska tas fram för hela 
+planförslaget och för föreslaga åtgärder. Direktiven tydliggör vad som ska 
+effektbeskrivas i den samlade effektbedömningen: 
+• En samhällsekonomisk nettonuvärdeskvot och en samhällsekonomisk  
+ bedömning med både prissatta och ej prissatta effekter såsom  
+ exploateringseffekter och restidsosäkerheter ska tas fram.23 
+• Effekterna av åtgärderna i förhållande till transportpolitiska mål ska  
+ redovisas. 
+• Den samlade effektbedömningen ska innefatta miljöbedömningar. 
+• Fördelningseffekter för olika grupper (exempelvis åldersgrupp,  
+ barn, socioekonomisk grupp, kvinnor respektive män) ska anges. Det  
+ är viktigt att den samlade effektbedömningen innehåller en beskrivning  
+ av jämställdhetseffekter. Kvinnor och män ska ges samma möjligheter  
+ att påverka transportsystemets utformning och deras värderingar ska  
+ tillmätas samma vikt.
+Regeringen skriver i infrastrukturpropositionen att en samlad 
+effektbedömning är ett sätt att strukturerat och sammanfattande beskriva 
+föreslagna åtgärder. Vidare skriver regeringen att en bra effektbedömning 
+ger en rättvisande bild av vad en åtgärd eller ett paket av åtgärder leder till, 
+möjliggör sakliga jämförelser mellan olika alternativ, är öppen med sina 
+förutsättningar och begränsningar, innehåller relevanta känslighetsanalyser 
+och är tydligt och klart dokumenterad. Detta har varit vägledande för 
+Riksrevisionen i bedömningen av de samlade effektbedömningarna i 
+planerna och för utpekade åtgärder. 
+23 Nettonuvärdeskvoten väger objektets olika nyttor mot dess kostnader och visar hur mycket man  
+ får tillbaka per satsad krona (nnk = (nyttakostnad)/kostnad). Det som värderas är bland annat  
+ tidsvinster, trafiksäkerhets- och miljöeffekter, biljettintäkter, budgeteffekter och  
+ investeringskostnad.
+
+34RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+3.3.1 Samlad effektbedömning av planförslagen
+Enligt Riksrevisionens bedömning har inte något län lämnat en samlad 
+effektbedömning av planförslaget som lever upp till det som enligt 
+regeringen kännetecknar en bra effektbedömning. Endast ett fåtal län 
+tar upp alla effekter som enligt direktiven ska beskrivas i en samlad 
+effekt bedömning. Några län presenterar över huvud taget inte någon 
+samlad effektbedömning av planen. Det finns ett par exempel på län 
+som på ett systematiskt sätt redovisat effektbedömningar. Ett län har 
+exempelvis redovisat planens effekter för olika geografiska områden och 
+gjort egna kvantitativa analyser av planens effekter på koldioxidutsläpp. 
+Ett annat län har systematiskt, om än i begränsad omfattning, tagit upp 
+fördelningseffekter i respektive åtgärdskategori. 
+ Det är svårt att värdera innehållet i den samlade effektbedömningen. 
+I de flesta fall görs endast ett generellt yttrande om att planförslaget 
+bedöms leda till positiva effekter, så som trafiksäkerhet eller miljö, utan att 
+förklara på vilket sätt eller varför. I flera fall är dessutom den presenterade 
+effektbedömningen inte en samlad bedömning av planförslaget som helhet. 
+Exempelvis förefaller det som om åtgärder för att främja kollektivtrafik eller 
+cykel tas till intäkt för att planförslaget som helhet ska bidra till mål om 
+ökad jämställdhet eller bättre hälsa och klimat. Detta oavsett hur stor del av 
+planförslaget som ägnas åt denna typ av åtgärder och hur stor andel som 
+satsas på åtgärder med en förväntad omvänd effekt. 
+ Fördelningseffekter av planförslagen berörs ytligt i några planer men det 
+presenteras sällan i någon mer ingående analys. I flera planer beskrivs att 
+medel avsatts till åtgärder som skulle kunna gynna särskilda grupper. Det 
+finns exempel på att län tar upp satsningar på tillgänglighets åtgärder som 
+gynnar personer med funktionsnedsättning eller kollektivtrafik  åtgärder som 
+främst antas gynna kvinnor eller trafiksäkerhets åtgärder som enligt studier 
+värderas högre av kvinnor än män. Däremot finns ingen analys av hur 
+planförslaget som helhet gynnar olika grupper. 
+3.3.2 Samlad effektbedömning av enskilda förslag på åtgärder
+Länens effektbedömningar, eller presentation av effektbedömningar, av 
+enskilda åtgärder görs på mycket olika sätt. Det är därför svårt att göra 
+hållbara jämförelser mellan länen i detta avseende. 
+ I de fall det finns effektbedömningar av åtgärderna i planförslagen 
+handlar det oftast om en beskrivning av förväntade positiva effekter 
+av förslaget. Det är som regel oklart vilken typ av analys eller underlag 
+bedömningen baserar sig på. Endast i undantagsfall vägs den mot potentiellt 
+negativa effekter. Den negativa effekt som återkommer flera gånger är 
+
+35 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+en möjlig negativ inverkan på landskapet. Riksrevisionen har inte i något 
+planförslag funnit någon tydlig analys av fördelningseffekterna av åtgärderna.
+ Det är svårt att se en koppling mellan den samlade effektbedömningen 
+och fördelningen mellan åtgärdskategorier. Det är exempelvis svårt att 
+se vilket underlag om effekter som ligger till grund för att vissa län har 
+valt att avsätta 15–25 procent av medlen till potter för cykelåtgärder. Det 
+är också svårt att se hur effektbedömningen av åtgärderna har påverkat 
+prioriteringarna. Det finns exempel där objekt med lägre, eller till och med 
+negativ, nettonuvärdeskvot (NNK) föreslås före objekt med högre uträknad 
+lönsamhet utan att det anges någon förklaring till detta. Flera län anger att 
+de har valt åtgärder som bidrar positivt till de transportpolitiska målen. Även 
+om en åtgärd anges bidra positivt till de transportpolitiska målen är det 
+ändå svårt att få en uppfattning huruvida åtgärden har valts ut för att den är 
+samhällsekonomiskt effektiv eller för att den bidrar mest till måluppfyllelsen. 
+3.4 Andra krav i planeringen
+Här följer en kortare redogörelse för hur länen har behandlat kraven på 
+att analysera åtgärderna enligt fyrstegsprincipen och att planerna ska vara 
+trafikslagsövergripande. Skälet till redogörelsen för dessa krav är att brister i 
+tillämpningen av fyrstegsprincipen lyftes fram i Riksrevisionens granskning 
+från 2004 medan kraven om trafikslags övergripande och länsöverskridande 
+planering har betonats tydligare i denna planomgång jämfört med den 
+föregående. 
+3.4.1 Fyrstegsprincipens tillämpning i planförslagen
+I regeringens direktiv står följande att läsa om fyrstegsprincipen:
+ Åtgärderna bör analyseras enligt den så kallade fyrstegsprincipen, vilket 
+innebär att följande ska analyseras:
+1. Åtgärder som kan påverka transportbehovet och val av transportsätt.
+2. Effektivare utnyttjande av befintliga trafikanläggningar och fordon.
+3. Begränsade ombyggnadsåtgärder.
+4. Nyinvesteringar och större ombyggnadsåtgärder.
+I infrastrukturpropositionen understryker regeringen vikten av att noga 
+överväga definitionen av det problem som ska lösas för att fyrstegsprincipen 
+ska kunna tillämpas på ett bra sätt. Ibland kan lösningen på det egentliga 
+problemet finnas utanför transport- och infrastruktursektorn. 
+
+36RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+ Riksrevisionen drog i granskningen 2004 slutsatsen att det i hälften 
+av planerna var oklart om fyrstegsprincipen alls hade tillämpats. En möjlig 
+orsak till detta var att det saknades en samsyn om hur modellen skulle 
+tillämpas i länens planering. Länen uppgav bland annat att de ansåg det vara 
+oklart om det var länen eller trafikverken som hade ansvar för att tillämpa 
+principen och om det skulle ske på objektsnivå eller plannivå. 
+ Tillämpningen av fyrstegsprincipen i sammansättning av länsplanerna 
+är en del av urvalsprocessen som leder fram till vilka åtgärder som ska 
+föreslås. Det är svårt att avgöra om eller hur fyrstegsprincipen har tillämpats 
+enbart utifrån vilka åtgärder som har föreslagits. För att det ska framgå av 
+plandokumenten måste processen bakom tillkomsten av planerna vara väl 
+dokumenterad. I länsplanerna i denna planomgång skriver planupprättarna 
+olika mycket om fyrstegsprincipen. I stort sett samtliga planer nämner 
+fyrstegsprincipen på något sätt, oftast som en utgångspunkt från direktivet, 
+men ibland även tydligare som en av de principer som har legat till grund för 
+prioriteringarna. I en del län har man redovisat vilket steg enligt principen 
+respektive åtgärd hör till och i några få län finns mer utförliga beskrivningar 
+av hur man har prioriterat enligt fyrstegsprincipen, vad gäller både 
+namngivna objekt och fördelningen mellan åtgärdstyper. Det är dock ganska 
+vanligt att tillämpningen av principen inte framgår av plandokumentet på 
+annat sätt än att det står att den ska eller har tillämpats.
+ Av plandokumenten drar Riksrevisionen slutsatsen att det i många fall 
+fortfarande är oklart om och på vilket sätt fyrstegsprincipen har tillämpats. 
+Riksrevisionen kan också konstatera att regeringens direktiv denna gång 
+inte innehåller något förtydligande i frågan om ansvarsfördelning eller några 
+riktlinjer för hur principen bör tillämpas på objektsnivå respektive plannivå.
+3.4.2 Trafikslags- och länsövergripande planer
+Det trafikslagsövergripande perspektivet är ingen nyhet i åtgärdsplaneringen, 
+men regeringen har i denna planomgång tryckt extra på begreppet. Tanken 
+med ett trafikslagsövergripande perspektiv är att ett väl fungerande 
+transportsystem utnyttjar, på ett effektivt, säkert och miljömässigt hållbart 
+sätt, alla trafikslag, både var för sig och i kombination. Genom en helhetssyn 
+på transportsystemet kan effektiva lösningar för att åtgärda problem med 
+flaskhalsar och trängsel identifieras och genomföras. I samma anda är det 
+viktigt att länen samarbetar och samordnar sig med omvärlden.
+ Det är svårt att bedöma i vilken grad ett perspektiv har fått ett reellt 
+genomslag. Det är likväl Riksrevisionens uppfattning att samtliga län ser 
+sin regions förutsättningar i en större helhet och i hela trafiksystemet. Flera 
+län gör till exempel stora satsningar på järnvägsåtgärder i den nationella 
+
+37 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+planen. Ett annat exempel är ett län som fördelar medel till sjöfarten 
+genom att åtgärda en sluss i ett annat län. I stort sett samtliga län avsätter 
+medel i någon mån till kollektivtrafik- och cykelåtgärder. Det förekommer 
+att det trafikslagsövergripande perspektivet syns mer i resonemangen om 
+behov och strategier än som tydliga avtryck i de satsningar som har gjorts. 
+Riksrevisionen bedömer dock att de flesta län har fört ingående trafikslagsövergripande resonemang, inte minst i samband med de systemanalyser 
+som har föregått planarbetet. I alla planförslag, med något undantag, kan 
+man skönja ett mer eller mindre länsövergripande perspektiv. I flera planer 
+har det gjorts tydliga satsningar som handlar om att knyta samman det egna 
+länet med omgivningen. I de flesta planer har man identifierat prioriterade 
+stråk, som är viktiga för länsöverskridande eller nationella transporter, där 
+man vill göra satsningar. 
+3.5 Sammanfattande iakttagelser
+Nedan följer en sammanfattning av de viktigaste punkterna i kapitlet:
+• Länens redovisade utgångspunkter för prioriteringarna är sällan  
+ tillräckligt konkretiserade för att kunna anses utgöra en faktisk  
+ urvalsmekanism. Det finns inte heller någon tydlig koppling mellan de  
+ övergripande prioriteringsgrunderna och de utvalda åtgärderna.
+• Det är svårt att skapa sig en uppfattning om hur eller varför åtgärder har  
+ rangordnats på det sätt som gjorts.
+• Få län har redovisat bortprioriterade åtgärder.
+• I några fall saknas effektbedömningar, eller är så de så förenklade att de i  
+ praktiken inte kan sägas utgöra en effektbedömning.
+• Endast ett fåtal län tar upp alla effekter som enligt direktiven ska  
+ beskrivas i en samlad effektbedömning.
+• I flera fall är de samlade effektbedömningarna inte en samlad  
+ bedömning av planförslaget som helhet, utan snarare ett exempel på en  
+ specifik åtgärd eller typ av åtgärd. 
+• Det är nästan enbart positiva effekter av åtgärderna som redovisas i  
+ effektbedömningarna.
+• Det är ofta svårt att se om, och i så fall hur, effektbedömningarna  
+ har påverkat prioriteringar av åtgärder och fördelningen mellan  
+ åtgärdskategorier.
+
+38RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+39 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+4 Synpunkter från länen
+I granskningen har vi ställt ett antal frågor till tjänstemän som arbetat med 
+att ta fram länens planförslag. Avsikten med att inhämta synpunkter från 
+länen är att komplettera och fördjupa vår bild av länens arbete med att ta 
+fram länsplanerna. Av totalt 21 var det 14 län som besvarade frågorna. Brevet 
+med frågor återfinns i bilaga 3. I detta kapitel återges huvuddragen av länens 
+svar på frågorna. 
+ Riksrevisionen återger länens synpunkter så som de svarat att de har 
+upplevt direktiven och processen. Synpunkterna bör därför betraktas som 
+länens subjektiva uppfattning och Riksrevisionen ifrågasätter inte länens 
+upplevelser. Eftersom kritik riktas mot Vägverket har verket fått ta del av 
+synpunkterna i sammanfattad form. Vägverket har förståelse för länens 
+synpunkter och menar att förutsättningarna i planeringsomgången har varit 
+sådana att en viss otydlighet och förändrade förutsättningar inte har varit 
+möjligt att undvika.
+4.1 Hur ser länen på regeringens direktiv?
+I Riksrevisionens granskning från 2004 ansåg länen att planerings direktiven 
+inte gav förutsättningar för en bra planprocess. Vi frågade om iakttagelserna 
+från granskningen fortfarande är giltiga eller om länen uppfattat att 
+förutsättningarna har förändrats.
+ Flera län uppger att direktiven på en del områden är otydliga och svåra 
+att hantera i praktiken. Otydligheten har enligt ett par län inneburit att det 
+i vissa fall funnits en osäkerhet om ansvarsfördelningen mellan trafikverk 
+och län. Ett exempel på en svår fråga att hantera i praktiken är möjligheten 
+att använda ordinarie planeringsram till flygplatsdrift. Här uppger länen att 
+tolkningarna har skiftat och besked har kommit sent in i processen. Att nya 
+riktlinjer har kommit sent in i processen är något som flera län tar upp som 
+ett generellt problem. Nya besked om tolkningar av regeringens direktiv 
+uppges ha kommit från trafikverken under hela processen. I vissa fall så sent 
+som efter det att länsplanerna lämnats på remiss. 
+ Det framförs även kritik mot att direktiven är för detaljerade och kraven 
+för många. Det, menar flera län, ger för litet utrymme för den regionala 
+politiska processen.
+
+40RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+4.2 Vad har styrt länens prioriteringar?
+Riksrevisionen menade 2004 att prioriteringsgrunderna i den förra 
+omgångens länsplaner i många fall var oklara. I likhet med förra 
+planomgången ställer regeringen även denna gång krav på att 
+prioriteringarna ska motiveras på ett tydligt sätt. I förstudien till den 
+föreliggande granskningen konstaterades att det även denna planomgång är 
+svårt att avgöra prioriteringsgrunderna. Riksrevisionen frågade länen om vad 
+som har styrt prioriteringarna och om det finns särskilda svårigheter med att 
+redovisa motiveringarna på ett tydligt sätt. 
+ Flera län framhåller att prioriteringarna styrts av mål på nationell, 
+regional och lokal nivå. Konkreta exempel är planeringsdirektiven, de 
+transport politiska målen och regionala strategidokument. Några län 
+svarar att de anser att de är tydliga i sina prioriteringar. Flera län har ändå 
+försökt redovisa orsaker till varför de inte alltid förklarat sina avvägningar 
+i planförslagen. En förklaring som ges är att många objekt är kända sedan 
+länge från tidigare planomgångar och därmed anses som självklara. En 
+annan förklaring är att eftersom det är många faktorer som spelar in låter det 
+sig inte beskrivas på ett detaljerat och samtidigt begripligt sätt.
+ Några län har pekat på svårigheten med att beskriva prioriteringarna 
+tydligt eftersom det finns ett mått av politisk förhandling i processen. När 
+det råder en politisk enighet i länen om vilka objekt som ska prioriteras 
+kan det anses som ett tydligt ställningstagande där avvägningar utifrån 
+giltiga prioriterings grunder redan är gjorda. Ibland skiljer sig den politiska 
+enigheten på regional nivå från de krav och förväntningar som finns från 
+trafikverken och i direktiven. Konflikten mellan signalerna om ökat regionalt 
+inflytande i planeringen och signalerna om att de mest samhällsekonomiskt 
+lönsamma åtgärderna ska prioriteras blir här tydlig.
+4.3 Länens erfarenheter från planomgången
+Den sista frågan gav utrymme för länen att kommentera vad som fungerat 
+bra eller dåligt i arbetet med den pågående planomgången. 
+ Flera län anger att det varit kort om tid för planeringen och att 
+planeringen styrts av för många och resurskrävande krav i förhållande till vad 
+länen förväntar sig i utfall. Ett par län påpekar att arbetet är särskilt tungt i 
+mindre regioner där det finns begränsade resurser.
+ Flera län lyfter fram att arbetet med systemanalyserna som gjordes i det 
+förberedande uppdraget om åtgärdsplanering var positivt och nyttigt inför 
+det fortsatta arbetet. Flera län anser också att det trafikslagsövergripande 
+perspektivet har förstärkts i denna planomgång, inte minst genom att 
+uppdraget om den nationella planen gavs åt trafikverken gemensamt. 
+
+41 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Trafikverkens, och framför allt Vägverkets, roll i planeringsprocessen lyfts 
+fram i många svar. Samarbetet och dialogen fungerar i många fall bra på 
+den regionala nivån och Vägverket upplevs ofta som duktigt och ambitiöst i 
+sitt arbete. Samtidigt hävdar flera län att Vägverket på central nivå i vissa fall 
+visar dålig förståelse för länens förutsättningar. Bland annat har sena och 
+otydliga besked i viktiga frågor försvårat länens arbete. Det har i vissa fall 
+också varit svårt att få fram underlag i tid. Ett län beskriver lite tillspetsat att 
+det ibland har känts som om Vägverket i första hand prioriterat arbetet med 
+den nationella planen och arbetet med att göra analyser för de regionala 
+planerna kommit i andra eller tredje hand. Ett län upplever det som om 
+Vägverket först tagit på sig att ta fram underlag till samlad effektbedömning 
+för att i ett sent skede lägga det fulla ansvaret på länet. Vägverket kritiseras 
+även för att inte respektera att länen har fått ett ökat ansvar för sina 
+prioriteringar, utan driver igenom sina krav utan hänsyn till de regionala 
+demokratiska processerna.
+
+42RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+43 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+5 Slutsatser 
+Riksrevisionen har genomfört en granskning av de planförslag som länen 
+lämnat till regeringen inom ramen för den regionala åtgärdsplaneringen. 
+Frågeställningen i granskningen har varit om länen i den regionala 
+åtgärdsplaneringen har följt statsmakternas intentioner som de uttryckts 
+genom regeringens direktiv inför fastställandet av länsplaner för regional 
+transportinfrastruktur. Granskningen visar att länen i några viktiga 
+hänseenden inte har levt upp till de krav som ställts i regeringens direktiv.
+ Förslagen till länsplaner som har lämnats till regeringen är enligt 
+Riksrevisionens bedömning resultatet av ett omfattande arbete. Länen har 
+utifrån varierande förutsättningar tagit fram planförslag i samråd med ett 
+stort antal intressenter. I samtliga fall har också berörda aktörer kunnat 
+samlas kring planförslaget som lämnats till regeringen. Länen har dock inte 
+i alla avseenden motsvarat statsmakternas ambitioner om öppenhet och 
+tydlighet i åtgärdsplaneringen. Planförslagen är inte tillräckligt transparenta 
+och tydliga för att det ska gå att avgöra om valet av åtgärder är det mest 
+effektiva och det långsiktigt mest socialt, ekonomiskt och ekologiskt hållbara 
+alternativet. Resultatet av granskningen indikerar att flertalet av de problem 
+och brister som Riksrevisionen lyfte fram i sin granskning 2004 kvarstår.
+5.1 Länen har inte levt upp till direktivens krav
+Enligt Riksrevisionens bedömning har länen i några viktiga hänseenden 
+inte levt upp till de krav som ställts i regeringens direktiv. Bristerna avser 
+främst tydligheten i hur prioriteringarna av åtgärderna i planförslagen har 
+motiverats och hur effektbedömningar av det samlade planförslaget och 
+enskilda åtgärder har beskrivits. 
+5.1.1 Otydliga grunder för prioriteringarna i planförslagen
+I regeringens direktiv finns krav på att prioriteringarna ska motiveras och att 
+den inbördes prioriteringsordningen ska framgå. Det ska även framgå vilka 
+förslag till alternativa åtgärder som förkastats. Både regering och riksdag 
+har påtalat vikten av att åtgärderna motiveras så att det på ett enkelt sätt ska 
+gå att förstå vilka prioriteringar som till slut gjordes och varför. Det är bland 
+
+44RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+annat viktigt att ge en tydlig bild av vad det är för problem som ska lösas 
+eller vilken potential som ska tas till vara så att alternativa lösningar kan 
+övervägas.
+ Riksrevisionens bedömning är att de i planförslagen redovisade 
+utgångspunkterna för prioriteringarna sällan är tillräckligt konkretiserade för 
+att kunna anses utgöra en faktisk urvalsmekanism. Det finns generellt sett 
+inte någon tydlig koppling mellan de övergripande prioriteringsgrunderna 
+och de utvalda åtgärderna. Detta, tillsammans med att få län har beskrivit 
+sina faktiska avvägningar, gör det svårt att bilda sig en uppfattning om hur 
+eller varför åtgärder har rangordnats på det sätt som gjorts. Det är dessutom 
+få län som har redovisat bortprioriterade åtgärder.
+5.1.2 Otillräckliga effektbeskrivningar i planförslagen
+I regeringens direktiv finns krav på att effektbedömningar ska tas fram i 
+planförslaget. Både regering och riksdag uttrycker att en effektbedömning 
+bör ge en rättvisande bild av vad en åtgärd eller ett paket av åtgärder 
+leder till, möjliggöra sakliga jämförelser mellan olika alternativ, vara 
+öppen med sina förutsättningar och begränsningar, innehålla relevanta 
+känslighetsanalyser och vara tydligt och klart dokumenterad. Riksrevisionen 
+tolkar detta som att ett rimligt lägsta krav är att länen resonerar och 
+problematiserar kring förslagets effekter och eventuella målkonflikter i 
+förhållande till direktivens krav.
+ Riksrevisionens bedömning grundar sig på iakttagelsen att 
+plandokumenten i flera fall saknar effektbeskrivningar eller har mycket 
+förenklade effektbeskrivningar. Dessutom är det endast ett fåtal län som 
+har uppfyllt alla krav som direktiven ställer på vad effektbedömningarna 
+ska behandla. I flera fall är effektbedömningen inte en samlad bedömning 
+av planförslaget som helhet. Ofta redovisas snarare hur enskilda insatser 
+påverkar måluppfyllelse än hur hela det samlade planförslaget påverkar 
+uppfyllelsen av nationella och regionala mål. Det är svårt att avgöra om, och 
+i så fall hur, effektbedömningarna har påverkat prioriteringar av åtgärder och 
+fördelningen mellan åtgärdskategorier. I planförslagen redovisas negativa 
+effekter och målkonflikter endast i undantagsfall.
+5.2 Konsekvensen är att det blir svårt att avgöra om valet av  
+ åtgärder är det mest effektiva
+En konsekvens av bristerna i plandokumenten är att det är svårt att avgöra 
+om valet av åtgärder är det mest effektiva och det långsiktigt mest socialt, 
+ekonomiskt och ekologiskt hållbara. Bristande motivering av prioriteringar 
+
+45 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+och otillräckliga effektbedömningar försvårar sakliga jämförelser mellan 
+olika nya alternativ. Det kan även hämma en omprövning av alternativ i takt 
+med att förutsättningarna i samhället ändras. Detta kan i sin tur innebära 
+att beslut fattas utifrån en föråldrad syn på vilka problem som ska lösas och 
+vilken potential som kan tas till vara genom infrastrukturinvesteringar. 
+5.3 Otydliga förutsättningar en orsak till bristerna
+5.3.1 Länen har delvis andra utgångspunkter än direktiven 
+Riksrevisionen bedömde 2004 att en anledning till att länen i vissa viktiga 
+avseenden inte hade levt upp till de krav som ställdes i planeringsdirektiven 
+var att länens utgångspunkter för att planera och prioritera delvis varit 
+andra än direktivens. Länsföreträdare menade då att de har en god bild av 
+tillståndet i länens transportsystem, vilka brister som finns och vilka åtgärder 
+som krävs för att åtgärda dessa brister. Riksrevisionen bedömde då att det 
+fanns mycket som talade för att direktiven snarare hade haft betydelse för 
+hur argumentationen för åtgärderna utformats än för vilka åtgärder som 
+egentligen hade prioriterats. 
+ Riksrevisionens granskning av plandokumenten pekar denna gång 
+på liknande brister. Det är svårt att se vad som har avgjort vilka åtgärder 
+som har valts in i planen respektive prioriterats bort. Avsaknaden av tydligt 
+redovisade avvägningar i planerna och att effektbedömningarna sällan är 
+fullständiga, och inte beskriver negativa effekter eller målkonflikter, kan tyda 
+på att direktiven fortfarande har större betydelse för hur argumentationen 
+för åtgärderna utformas än för vilka åtgärder som egentligen prioriteras. Det 
+kan därför fortfarande finnas skäl att anta att länens planering i vissa viktiga 
+avseenden sker utifrån andra utgångspunkter än de som finns i direktiven.
+5.3.2 Oklara och förändrade förutsättningar har försvårat länens arbete
+En förutsättning för att kunna genomföra en bra åtgärdsplanering är att det 
+finns en förutsägbarhet och konsekvens i processen. Länen pekar på att 
+förutsättningarna har ändrats under processens gång och att det har varit 
+svårt att få tydliga besked i centrala frågor för länens arbete. Enligt länen 
+har det tagit kraft från den i tiden redan hårt pressade processen och sena 
+ändringar har inte alltid kunnat beaktas. Ändrade förutsättningar riskerar 
+att särskilt drabba län med mindre resurser där möjligheten att styra om 
+eller göra om är begränsad. Kritiken riktas mot Vägverkets arbete och stöd, 
+men även Vägverket har arbetat inom ramen för de förutsättningar som 
+regeringen har givit för åtgärdsplaneringen. 
+
+46RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+5.3.3 Regeringen har inte klarlagt den praktiska innebörden av ökat regionalt  
+ inflytande i planprocessen 
+Regeringen har styrt både mot ett ökat regionalt inflytande i planprocessen 
+och mot att satsningarna ska vara samhällsekonomiskt lönsamma. Det som 
+är regional ekonomiskt lönsamt eller regionalpolitiskt önskvärt behöver dock 
+inte vara det samhällsekonomiskt mest lönsamma alternativet. Några län 
+har i sina synpunkter till Riksrevisionen uttryckt en besvikelse över att det 
+regionala inflytandet i planerings processen inte blivit så stort som de anser 
+sig blivit utlovade inför åtgärdsplaneringen. Infrastrukturpropositionen 
+och direktiven till det förberedande arbetet med systemanalyserna är 
+tydligare med avsikten att öka det regionala inflytandet än vad direktiven 
+till åtgärdsplaneringen är. När det råder en politisk enighet i länen om vilka 
+objekt som ska prioriteras kan det anses som ett tydligt ställningstagande 
+där avvägningar utifrån giltiga prioriterings grunder redan är gjorda. 
+Ibland skiljer sig den politiska enigheten på regional nivå från de krav och 
+förväntningar som finns från trafikverken och i nationella mål. Konflikten 
+mellan ambitionen om ett ökat regionalt inflytande i planeringen och 
+ambitionen att de samhällsekonomiskt mest lönsamma åtgärderna ska 
+prioriteras blir här tydlig. 
+ Det finns därmed en motsättning mellan en skarp styrning med direktiv 
+som syftar till att ensa planförslagens innehåll och kvalitet i hela landet och 
+viljan att utöka det regionala inflytandet. Länen har nog tagit sig ett större 
+utrymme än vad som egentligen ges av direktiven. Med tanke på styrningen 
+mot ett ökat regionalt inflytande kan detta samtidigt förefalla legitimt. 
+Exempelvis har de flesta av de regionala aktörerna övergått från att vara 
+statligt styrda länsstyrelser till att vara regionala organ med eget politiskt 
+mandat. Hur denna konflikt eller motsättning i grundläggande synsätt ska 
+påverka det praktiska arbetet med att ta fram länsplaner har regeringen inte 
+hanterat, utan till stor del skjutit över på länen och trafikverken.
+5.4 Regeringen har inte vidtagit tillräckliga åtgärder 
+Regeringen har inte vidtagit tillräckliga åtgärder för att länen ska leva upp 
+till de krav som ställts. Regeringen meddelade i budgetpropositionen 2005 
+att regeringens bedömning och åtgärder, med anledning av iakttagelserna 
+i Riksrevisionens granskningsrapport, hade redovisats i samband med 
+regeringens återrapportering av utfallet av åtgärdsplaneringen till riksdagen. 
+Av återrapporteringen framgår att regeringen anser att Riksrevisionens 
+granskning på ett värdefullt sätt identifierat brister i länens arbete med 
+länsplanerna. Emellertid framgår det inte av återrapporteringen om 
+
+47 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+regeringen hade vidtagit eller avsåg att vidta åtgärder med anledning av de 
+brister som Riksrevisionen lyfte fram.
+ Regeringen har inte heller ändrat länens direkta förutsättningar för 
+att leva upp till ställda krav. Kraven som de uttrycks i direktiven är i stort 
+desamma denna planomgång och inga större förändringar har gjorts i 
+planprocessen. Resultatet av Riksrevisionens granskning av länsplanerna 
+denna planomgång indikerar att flertalet av de problem och brister som 
+lyftes fram 2004 fortfarande kvarstår. 
+5.5 Rekommendationer
+Riksrevisionens granskning visar att det finns brister i hur länen beskriver 
+effekter av planförslagen och hur de redovisar motiven för sina prioriteringar. 
+Riksrevisionen menar att bristen på tydlighet och öppenhet gör det svårt 
+att bedöma om det är de bästa och mest effektiva åtgärderna som föreslås. 
+Regeringen har nu goda möjligheter att åstadkomma en förändring inom 
+ramen för den förändring av planprocessen som aviserats. 
+ Politiska avvägningar som görs regionalt kan innebära att åtgärder 
+som inte är samhällsekonomiskt lönsamma eller som inte tydligt bidrar till 
+nationella mål prioriteras. Det kan vara fullt legitimt att regionerna föreslår 
+sådana åtgärder, givet att de avvägningar och motiv som har legat till 
+grund för prioriteringen redovisas tydligt. Först då är det möjligt för remissinstanser, allmänhet och slutligen regeringen att ta ställning till om de motiv 
+som redovisas är starka nog för att avvika från kraven på samhällsekonomisk 
+lönsamhet och de transportpolitiska målen.
+• Regeringen bör tillse att planering och prioritering av  
+ infrastrukturåtgärder baseras på tydliga och fullständiga    
+ effektbedömningar för enskilda objekt och för planförslagen som helhet.
+• Regeringen bör inför kommande planarbete betona vikten av att  
+ planupprättarna redovisar sina prioriteringar och tydliggör de  
+ målkonflikter som kan uppstå i avvägningen mellan nationella och  
+ regionala mål. 
+
+48RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+49 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+Bilaga 1 – Transportpolitikens mål och den  
+  ekonomiska ramen för     
+  planeringen
+ Transportpolitikens mål och principer
+I mars 2009 kom regeringens proposition24 ”Mål för framtidens resor och 
+transporter” som föreslog en ny struktur för de transportpolitiska målen. I 
+propositionen skriver regeringen att de transportpolitiska principerna även 
+i framtiden kommer att vara den viktigaste utgångspunkten för regeringens 
+åtgärder och val av styrmedel inom transportområdet. De viktigaste medlen 
+inom transportområdet är infrastrukturplanering, organisering och styrning 
+av myndigheter, lagstiftning och regelgivning samt ekonomiska styrmedel. 
+Av propositionen framgår att regeringen gör bedömningen att de åtgärder 
+som genomförs i transportinfrastrukturen bidrar till att de transportpolitiska 
+målen uppfylls.25
+ De transportpolitiska målen består av ett övergripande mål som är 
+nedbrutet i ett funktionsmål om tillgänglighet samt i ett hänsynsmål om 
+säkerhet, miljö och hälsa. 
+ Övergripande mål
+Det övergripande målet för transportpolitiken är att säkerställa en 
+samhällsekonomiskt effektiv och långsiktigt hållbar transportförsörjning för 
+medborgarna och näringslivet i hela landet.
+24 Prop. 2008/09:93 Mål för framtidens resor och transporter.
+25 Prop. 2008/09:93 Mål för framtidens resor och transporter, s. 59-60.
+
+50RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+ Funktionsmålet för tillgänglighet
+Transportsystemets utformning, funktion och användning ska medverka 
+till att ge alla en grundläggande tillgänglighet med god kvalitet och 
+användbarhet samt bidra till utvecklingskraft i hela landet. Transportsystemet 
+ska vara jämställt, det vill säga likvärdigt svara mot kvinnors respektive mäns 
+transportbehov.
+Preciseringar för funktionsmålet:
+• Medborgarnas resor förbättras genom ökad tillgänglighet, trygghet och  
+ bekvämlighet.
+• Kvaliteten för näringslivets transporter förbättras och stärker den  
+ internationella konkurrenskraften.
+• Tillgängligheten förbättras inom och mellan regioner samt mellan  
+ Sverige och andra länder.
+• Arbetsformerna, genomförandet och resultatet av transportpolitiken  
+ medverkar till ett jämställt samhälle.
+• Transportsystemet utformas så att det är användbart för personer med  
+ funktionsnedsättning.
+• Barns möjligheter att själva på ett säkert sätt använda transportsystemet  
+ och vistas i trafikmiljöer ökar.
+• Förutsättningarna för att välja kollektivtrafik, gång och cykel förbättras.
+ Hänsynsmålet – säkerhet, miljö och hälsa
+Transportsystemets utformning, funktion och användning ska 
+anpassas så att ingen ska dödas eller skadas allvarligt samt bidra till att 
+miljökvalitetsmålen uppnås och till ökad hälsa.
+Preciseringar för hänsynsmålet miljö och hälsa:
+• Antalet omkomna inom vägtransport området halveras och antalet  
+ allvarligt skadade minskas med en fjärdedel mellan 2007 och 2020. 
+• Antalet omkomna inom yrkessjöfarten och fritidsbåtstrafiken minskar  
+ fortlöpande och antalet allvarligt skadade halveras mellan 2007 och  
+ 2020. 
+• Antalet omkomna och allvarligt skadade inom järnvägstransport området  
+ och luftfartsområdet minskar fortlöpande. 
+• Transportsektorn bidrar till att miljökvalitetsmålet Begränsad  
+ klimatpåverkan nås genom en stegvis ökad energieffektivitet i  
+ transportsystemet och ett brutet fossilberoende.
+•  Transportsektorn bidrar till att övriga miljökvalitetsmål nås och  
+ till minskad ohälsa. Prioritet ges till de miljöpolitiska delmål där  
+ transportsystemets utveckling är av stor betydelse för möjligheterna att  
+ nå uppsatta mål.
+
+51 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+ Transportpolitiska principer
+De transportpolitiska principerna bör vara vägledande när styrmedel ska 
+väljas och ekonomiska medel prioriteras och anslås:
+• Kunderna ska ges stor valfrihet att bestämma hur de vill resa och hur en  
+ transport ska utföras.
+• Beslut om transportproduktion bör ske i decentraliserade former.
+• Samverkan inom eller mellan olika trafikslag ska främjas.
+• Konkurrensen mellan olika trafikutövare och transportalternativ ska  
+ främjas.
+• Trafikens samhällsekonomiska kostnader ska vara en utgångspunkt när  
+ transportpolitiska styrmedel utformas.
+ Den ekonomiska ramen för infrastrukturplaneringen 
+Utifrån förslagen i infrastrukturpropositionen (2008/09:35) har riksdagen 
+beslutat att den statliga planeringsramen för transportinfrastruktur totalt 
+ska omfatta 417 miljarder kronor under perioden 2010–2021. Riksdagen 
+har också beslutat att 217 miljarder kronor av dessa medel ska användas 
+till utveckling av transportsystemet. Resterande medel är avsatta för 
+drift och underhåll i befintlig transportinfrastruktur. En nyhet i denna 
+infrastrukturproposition är att riksdagen inte har tagit ställning till hur 
+mycket av medlen till utveckling av transportsystemet som ska fördelas till 
+den nationella planen och hur mycket som ska fördelas till länsplanerna. 
+Detta innebär att regeringen fritt kan besluta hur mycket som ska fördelas 
+till den nationella planen respektive länsplanerna i denna planomgång. Det 
+finns alltså en konkurrens om de statliga pengarna mellan den regionala och 
+nationella nivån liksom mellan regionerna.
+ Fördelning till länen
+I direktivet till länsplaneringen har regeringen fördelat en preliminär ram om 
+33,1 miljarder kronor till länen. Regeringen förklarar inte närmare i besluten 
+hur den totala ramen eller respektive läns ram har beräknats. Skillnader i 
+fördelning mellan länen är svår att koppla till någon tydlig enskild variabel. 
+Exempelvis visar en fördelning per invånare att det län som fått mest per 
+invånare tilldelas en preliminär ram på 4 640 kronor/invånare, och det län 
+som får minst medel tilldelas 2 860 kronor/invånare. En tjänsteman på 
+Näringsdepartementet svarar att fördelningen av den preliminära ramen till 
+länen har slutligt beretts efter en politisk diskussion. Som underlag till den 
+politiska diskussionen har bland annat underlag från Vägverket avseende 
+vägtrafikarbetet i länen och underlag om befolkningsfördelning i landet 
+använts. 
+
+52RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+
+53 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+Bilaga 2 – Vägledning för bedömning
+I nedanstående tabell visas den mall som vi har tagit fram för att granska 
+plandokumenten på ett jämförbart sätt. 
+Utvalda krav ur regeringens direktiv som 
+granskats – vad direktiven säger att länen 
+ska göra
+Riksrevisionens vägledning för bedömning 
+av planerna
+Planeringsram (mnkr).  
+Anges för varje län i direktivet. 
+Ange belopp.
+Grundläggande krav 
+Redovisa plannivåer +/- 25 %. Har man redovisat alla nivåer ja/nej?  
+Kommentera eventuell otydlighet.
+Samlad effektbedömning
+Ta fram en samlad effektbedömning för 
+planen. 
+Beskriva effekter i förhållande 
+till transportpolitiska mål & 
+fördelningseffekter.
+Har en samlad effektbedömning av 
+planen gjorts ja/nej? Finns ett samlat 
+svar för planen som helhet inkl. 
+bedömning mot transportpolitiska mål 
+och fördelningseffekter? Kommentera 
+hur användbar effektbedömningen är för 
+att man ska kunna förstå effekterna av 
+planförslaget, såväl positiva som negativa. 
+Kommentera om man har hanterat 
+påverkan på målen och fördelningseffekter.
+Ta fram samlade effektbedömningar för 
+åtgärderna.
+Har en samlad effektbedömning av 
+åtgärden gjorts ja/nej? Kommentera hur 
+användbar effektbedömningen är för 
+att man ska kunna förstå effekterna av 
+åtgärden, såväl positiva som negativa. 
+Ta fram samhällsekonomisk bedömning 
+och kvot för åtgärder.
+Har samhällsekonomiska bedömningar 
+gjorts, anges åtgärdernas lönsamhet 
+ja/nej? Anges bara NNK eller total 
+samhällsekonomisk bedömning? 
+Beskriva effekter i förhållande till de 
+transportpolitiska målen.
+Beskrivs åtgärdernas påverkan på målen 
+ja/nej? Kommentera hur användbar 
+målanalysen är för att man ska kunna 
+förstå effekterna av åtgärden såväl positiva 
+som negativa. 
+Ange fördelningseffekter av objekt. Beskrivs fördelningseffekter av åtgärden? 
+Kommentera hur användbar beskrivningen 
+är för att man ska kunna förstå effekterna 
+av åtgärden såväl positiva som negativa. 
+
+54RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+Urval
+Inbördes prioritetsordning av åtgärderna 
+ska framgå.
+Finns det en lista med tydlig rangordning 
+av de namngivna objekten ja/nej?
+Motivera prioriteringar. Motiveras det varför åtgärderna har 
+fått sin rangordning i planen ja/nej? 
+Går det att förstå varför ett objekt har 
+prioriterats före de övriga och före dem 
+som har valts bort helt? Förstår man 
+hur samhällsekonomisk lönsamhet har 
+påverkat bedömningen av åtgärden och 
+dess prioritering i planen? Det räcker inte 
+att positiva effekter av åtgärderna räknas 
+upp. Det måste finnas en förklaring till 
+varför dessa effekter gör att åtgärden 
+tillmäts ett högre värde än övriga objekt. 
+Visa vilka förslag till åtgärder som 
+förkastats.
+Ja eller nej, redovisas åtgärder som har 
+valts bort och varför de har valts bort?
+Planeringsprinciper
+Bör analyseras enligt fyrstegsprincipen. Anges det att man arbetat enligt 
+fyrstegsprincipen, eller går det att förstå 
+ändå genom valet av åtgärder och 
+hur de redovisas ja/nej? Kommentera 
+ifall det står att fyrstegsprincipen har 
+tillämpats men om det inte går att utläsa 
+i valet av åtgärder och motiveringen av 
+prioriteringar (om sådan finns).
+Uppdraget är att göra en 
+trafikslagsövergripande plan.
+Är planen trafikslagsövergripande. T.ex. 
+behandlas alla trafikslag på ett seriöst sätt, 
+visar valet av åtgärder att man tar hänsyn 
+till hur trafikslagen kan samverka? Ja/nej?
+Det förutsätts att länen i sina prioriteringar 
+utgår från ett länsöverskridande perspektiv.
+Motiverar man valet av åtgärder utifrån 
+ett större regionalt perspektiv? Redovisas 
+t.ex. kopplingar till stråk och målpunkter 
+utanför det egna länet? Ja/nej?
+Medfinansiering ska prövas. Finns inslag av medfinansiering ja/nej, 
+och i så fall vilken typ av medfinansiering? 
+Riksrevisionens kriterium från 2004
+Målkonflikter Beskrivs eventuella målkonflikter ja/nej? 
+Hur har man i så fall hanterat dem i valet 
+av åtgärder? 
+
+55 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+Bilaga 3 –  Brev till länen med frågor om   
+  arbetet med länstransportplaner 
+Riksrevisionen granskade under 2003 länens arbete med förra 
+planomgångens länsplaner för regional infrastruktur. Granskningen 
+resulterade i rapporten Länsplanerna för regional infrastruktur (RIR 2004:1). 
+Riksrevisor Eva Lindström har nu beslutat att Riksrevisionen under hösten 
+2009 ska genomföra en kort uppföljning utifrån iakttagelserna från tidigare 
+granskning. Anledningen till att vår granskning påbörjas innan de slutgiltiga 
+planförslagen är klara, är att vi kan se en nytta med om våra slutsatser finns 
+tillgängliga inför regeringens beslut i början av 2010. 
+ Som en del i uppföljningen är vi angelägna om att ta del av synpunkter 
+från dig som arbetar med att ta fram planförslagen i denna omgång. Vi 
+har ställt samman fyra frågor som vi bedömer är av stor betydelse för 
+fullständigheten i våra slutsatser. Utöver detta baseras uppföljningen 
+huvudsakligen på att vi tar del av plandokumenten i såväl remissversion som 
+slutgiltig version och granskar dem mot regeringens direktiv.
+ Vår uppföljande granskning genomförs på kort tid men det är viktigt 
+att vi kan ta del av era synpunkter. Vi är också medvetna om att ni just är i 
+en intensiv fas i färdigställandet av planförslagen men hoppas att ni ändå 
+har möjlighet att bidra för att vi ska få en så korrekt bild av planarbetet som 
+möjligt. De frågor vi vill ha besvarade beskrivs i slutet av detta brev. 
+Skicka svaren senast den 15 oktober till  
+mattias.pettersson@riksrevisionen.se eller till  
+Mattias Pettersson, Riksrevisionen, 114 90 Stockholm. 
+För frågor kontakta: 
+Mattias Pettersson 08-5171 41 42 eller 
+Helena Braun Thörn 08-5171 42 02
+På nästa sida följer en kort bakgrundsbeskrivning med sammanfattade 
+slutsatser från den tidigare granskningen.
+mailto:mattias.pettersson@riksrevisionen.se
+
+56RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+ Bakgrunden i tidigare granskning
+Riksrevisionen granskade under förra planperioden länens arbete med 
+länsplanerna. Syftet med granskningen var att bedöma om statsmakternas 
+direktiv för planering hade följts och att identifiera förklaringar till eventuella 
+avvikelser från direktiven. Samtliga läns planförslag granskades mot 
+kraven i regeringens direktiv. Länen fick sedan möjligheten att ge sin 
+syn på planprocessen genom telefonintervjuer och ett antal fallstudier. 
+Riksrevisionens slutsatser var att länens planering i vissa viktiga avseenden 
+skett från andra utgångspunkter än direktivens och att direktiven i vissa 
+avseenden inte varit tillräckligt tydliga. 
+ Granskning mot regeringens direktiv
+Riksrevisionen gjorde ett antal iakttagelser i samband med att planförslagen 
+granskades mot regeringens direktiv. Den övergripande bedömningen 
+var att länsplanerna inte i någon större utsträckning hade uppenbara 
+avvikelser från direktiven. Det fanns dock några områden där det utifrån 
+plandokumenten fanns grund att anta att direktiven inte följts. Hanteringen 
+av fyrstegsprincipen och hur samhällsekonomisk lönsamhet varit 
+vägledande för prioriteringar var två områden där det ansågs oklart. När 
+det gällde grund för prioritering av åtgärder bedömde Riksrevisionen att 
+det i flertalet plandokument var svårt att se vad som avgjort vilka åtgärder 
+som valts in i planen respektive prioriterats bort. I majoriteten av planerna 
+redovisas övergripande prioriteringsgrunder utan att konsekvenserna av 
+fördelningen av medel mellan de olika åtgärdskategorierna berördes. Det 
+var även Riksrevisionens bedömning att få län operationaliserade sina 
+prioriteringsprinciper på ett sådant sätt att det för en utomstående faktiskt 
+skulle gå att se hur valen mellan olika åtgärder hade gjorts.
+ Hur såg länen på regeringens direktiv och på processen?
+Länens reaktioner på direktiven beskrevs som blandade. Länen ansåg att 
+direktiven kom sent och att tiden för att upprätta planerna därför blivit 
+knapp. Vidare fanns det en kritik mot betoningen av samhällsekonomisk 
+lönsamhet eftersom det inte tillräckligt väl ansågs fånga in regionala 
+utvecklingseffekter. Det beskrevs som att det kan ha funnits svårigheter med 
+att hantera direktivens olika delar i förhållande till varandra.
+ Länen lämnade även synpunkter på den regionala planeringen och 
+infrastrukturplaneringen som helhet. Det fanns ett stort missnöje med 
+hur tilldelningen av de ursprungliga ramarna gått till. Det fanns även 
+
+57 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+en misstro mot statsmakterna om huruvida de ramar som beslutas 
+av regeringen kommer att uppfyllas i praktiken när det gäller faktisk 
+medelstilldelning. Frågor angående planeringsansvarets fördelning mellan 
+regional och nationell nivå lyftes också. Flera län menade att det finns 
+en inbyggd motsättning mellan att öka det regionala engagemanget i 
+infrastrukturplaneringen och de enligt deras uppfattning mycket strikta 
+direktiven. Direktiven ansågs innebära en toppstyrning av en beslutsprocess 
+som enligt länen ska vara regional. 
+ Frågor:
+ Hur ser ni på regeringens planeringsdirektiv?
+Vi är intresserade av hur länen ser på regeringens planeringsdirektiv i denna 
+omgång. I den tidigare granskningen var länen kritiska till om regeringen 
+genom planeringsdirektiven gav förutsättningar till en bra planprocess. 
+Är iakttagelserna från 2003 fortfarande giltiga eller har förutsättningarna 
+förändrats? Har nya problem tillkommit?
+ Vad har styrt prioriteringarna?
+Riksrevisionens granskning 2003 påpekade att prioriteringsgrunderna i den 
+omgångens länsplaner i många fall var oklara. Direktiven i den pågående 
+plan omgången ställer krav på att prioriteringarna ska motiveras. Regeringen 
+skriver i infrastrukturpropositionen att de organ som upprättar planerna har 
+ett ansvar för att göra tydliga och begripliga prioriteringar så att aktiva och 
+engagerade medborgare och företag på ett enkelt sätt ska kunna ta del av 
+vilka prioriteringar som till slut gjordes och varför. 
+ Efter en första översiktlig genomgång av denna omgångs 
+remissversioner av länsplanerna så är vår bild att det även denna gång ofta 
+kan vara svårt att förstå varför en åtgärd har prioriterats framför en annan. 
+Ofta, men inte alltid, beskrivs förväntade effekter av åtgärden, men inte om 
+dessa effekter är sådana att de gör en åtgärd mer motiverad än en annan. 
+Det är långt ifrån alltid som förkastade åtgärder redovisas. 
+ Vi anar att det finns en svårighet i att uttrycka motiven till de 
+prioriteringar som görs. Vari ligger denna svårighet? Vilka av de faktorer 
+som har påverkat prioriteringarna skulle gå att uttrycka på ett tydligare sätt 
+i planförslagen (och är det något som planeras till slutversionen) och vilka 
+faktorer är svårare att beskriva på ett bra sätt?
+
+58RIKSREVISIONEN Länsplanerna för regional transportinfrastruktur
+ Skillnad mellan remiss och slutlig version?
+Kommer slutversionen att skilja sig från remissversionen? På vilket sätt och i 
+vilken omfattning?
+ Erfarenheter från planomgången?
+Är det något speciellt som fungerat bra respektive dåligt? Vad är bättre 
+respektive sämre sedan förra gången?
+
+59 RIKSREVISIONENLänsplanerna för regional transportinfrastruktur
+

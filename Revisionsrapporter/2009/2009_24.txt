@@ -1,0 +1,2680 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RiR 2009:24
+Internationell skattekontroll
+Skatteverkets informationsutbyte med andra länder
+
+ISBN 978 91 7086 197 0
+RiR 2009:24
+Tryck: Riksdagstryckeriet, Stockholm 2009
+
+Till regeringen
+Finansdepartementet
+Datum: 2009-11-30
+Dnr: 31-2007-1250
+Internationell skattekontroll
+– Skatteverkets informationsutbyte med andra länder
+Riksrevisionen har granskat Skatteverkets hantering av informationsutbytet 
+med andra länder. Resultatet av granskningen redovisas i denna 
+granskningsrapport.
+ Företrädare för Skatteverket har fått tillfälle att faktagranska och i övrigt 
+lämna synpunkter på utkast till rapporten.
+ Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse. 
+ Rapporten innehåller slutsatser och rekommendationer som avser 
+Skatteverket. Riksrevisionen kommer att följa upp granskningen.
+ Riksrevisor Eva Lindström har beslutat i detta ärende. Revisionsdirektör 
+Anna Hansson har varit föredragande. Revisionsråd Tomas Nordström har 
+medverkat vid den slutliga handläggningen.
+Eva Lindström Anna Hansson
+För kännedom:
+Skatteverket
+
+
+Innehåll
+Sammanfattning 7
+1 Varför är informationsutbytet viktigt? 13 
+1.1 Motiv till granskning 13 
+1.2 Revisionsfråga och granskningsobjekt 14 
+1.3 Normer och bedömningskriterier 14 
+1.4 Granskningens genomförande och avgränsningar 17 
+1.5 Rapportens disposition 17
+2 Vad styr medverkan i skattesystemet? 19 
+2.1 Skattefelet 19 
+2.2 Medverkandekartan 19 
+2.3 Erfarenheter från USA 22 
+2.4 Konsekvenser för internationell skattekontroll 22
+3 Förutsättningar för internationellt informationsutbyte 23 
+3.1 Lagstiftning 23 
+3.2 Olika former för informationsutbyte 26 
+3.3 Skatteverkets organisation 28
+4 Utbyte av automatiska kontrolluppgifter 31 
+4.1 Hantering av automatiska kontrolluppgifter 31 
+4.2 Omfattning av automatiska kontrolluppgifter 36 
+4.3 Identifiering och kontroll av automatiska kontrolluppgifter 42 
+4.4 Analys och uppföljning av automatiska kontrolluppgifter 46 
+4.5 Sammanfattande iakttagelser 47
+5 Spontana kontrolluppgifter och handräckning 51 
+5.1 Definition av spontana kontrolluppgifter 51
+5.2 Omfattning av spontana kontrolluppgifter och handräckning 52 
+5.3 Hantering av spontana kontrolluppgifter och handräckning 54 
+5.4 Kontroll av spontana kontrolluppgifter och handräckning 57 
+5.5 Sammanfattande iakttagelser 59
+6 Samtidiga revisioner 61 
+6.1 Multilaterala och simultana revisioner 61 
+6.2 Närvaro vid skatteutredning i annat land 63 
+6.3 Sammanfattande iakttagelser 64
+7 Skatteverkets utvecklingsinsatser 65
+8 Slutsatser och rekommendationer 67 
+8.1 Inledning 67 
+8.2 Automatiska kontrolluppgifter läses inte in 68 
+8.3 Automatisk identifiering saknas 69 
+8.4 Många kontrolluppgifter granskas aldrig 69 
+8.5 Innehållet i utländska kontrolluppgifter är inte kartlagt 70 
+8.6 System för en effektiv uppföljning saknas 70 
+8.7 Spontana kontrolluppgifter minskar 71 
+8.8 Fördröjd it-utveckling 72 
+8.9 Skatteverket har inlett ett utvecklingsarbete 73 
+8.10 Riksrevisionens rekommendationer 73
+Referenser 75
+Bilaga 1 Termer och begrepp 79
+
+
+7 RIKSREVISIONENInternationell skattekontroll
+ Sammanfattning
+Samhället blir alltmer internationaliserat. Medan skatteadministrationerna 
+i stor utsträckning befinner sig i den nationella jurisdiktionen agerar 
+skattebetalarna mer och mer globalt. Skatteförvaltningar runt om i världen 
+blir mer och mer beroende av att kunna utbyta information med varandra 
+för att förhindra skatteflykt och skatteundandragande. Enligt Skatteverkets 
+beräkningar uppgår skattefelet med internationella kopplingar till ca 
+46 miljarder kronor årligen, vilket motsvarar ca 35 procent av det totala 
+skattefelet. Skatteverkets analyser av skattefelet visar att områden med väl 
+utbyggda system för redovisning, betalning och kontroll, t.ex. i form av 
+kontrolluppgifter, har ett lägre skattefel än områden där kontrolluppgifter 
+saknas. EU och OECD pekar ut informationsutbytet som ett av de viktigaste 
+verktygen för skatteförvaltningar världen över för att kunna hantera och säkra 
+skatteuppbörden. En effektiv användning av utländska kontrolluppgifter 
+kan fylla luckor där Skatteverket saknar kontrollinformation och bidra 
+till att minska skattefelet på det internationella området. Kunskap hos 
+skattebetalarna om de verktyg som informationsutbytet erbjuder och att de 
+används bidrar till att skapa en preventiv effekt. För att klara av ett växande 
+informationsutbyte krävs en systematisk och effektiv hantering, både av de 
+kontrolluppgifter Sverige tar emot och de kontrolluppgifter Sverige skickar 
+till andra länder. 
+ Mot denna bakgrund har Riksrevisionen genomfört en granskning av 
+effektiviteten i Skatteverkets informationsutbyte med andra länder inom den 
+direkta skattens område, det vill säga skatt på inkomster och förmögenheter.
+ Riksrevisionens slutsatser
+Sammantaget kan Riksrevisionen konstatera att det finns betydande 
+brister i Skatteverkets hantering av informationsutbytet. Detta har fått 
+negativa konsekvenser för Skatteverkets förmåga att hantera ett växande 
+informationsutbyte med andra länder. Riksrevisionen gör bedömningen 
+att ineffektiviteten i informationsutbytet kan få allvarliga konsekvenser för 
+Skatteverkets förmåga att upprätthålla informationsutbytets preventiva effekt 
+och i förlängningen att säkra skatteintäkterna. 
+
+8RIKSREVISIONEN Internationell skattekontroll
+ Automatiska kontrolluppgifter läses inte in i taxeringssystemet
+Riksrevisionen finner att det förekommer betydande fördröjningar 
+i inläsningen av automatiska kontrolluppgifter från andra länder i 
+Skatteverkets taxeringssystem. Många uppgifter blir aldrig inlästa eller 
+riskerar att bli för gamla för att kunna användas i taxeringen innan de läses 
+in. Omfattande fördröjningar i inläsningen av automatiska kontrolluppgifter 
+minskar effektiviteten i Skatteverkets granskningsverksamhet och ökar risken 
+att utländska kontrolluppgifter inte kan användas i kontrollen. 
+ Automatisk identifiering saknas
+Riksrevisionen kan konstatera att Skatteverkets identifiering av utländska 
+kontrolluppgifter tar stora manuella resurser i anspråk. Behovet av 
+rationalisering i form av automatisk identifiering ökar i takt med att antalet 
+automatiska kontrolluppgifter ökar. Med automatisk identifiering kan 
+utländska kontrolluppgifter bli tillgängliga för granskning snabbare och i så 
+nära anslutning till den ordinarie taxeringen som möjligt. 
+ Många kontrolluppgifter granskas aldrig
+Skatteverkets granskning av utländska kontrolluppgifter avseende fysiska 
+personer har lett till stora höjningar i kapital- och inkomstskatten. En 
+fördröjd inläsning av utländska kontrolluppgifter i taxeringssystemet 
+leder dock till att många kontrolluppgifter aldrig kommer till användning 
+i kontrollen. Automatiska kontrolluppgifter avseende juridiska personer 
+har använts framgångsrikt i enstaka kontrollprojekt, men det pågår inget 
+systematiskt kontrollarbete. 
+ Innehållet i utländska kontrolluppgifter är inte kartlagt
+Det finns ingen kartläggning av det totala antalet automatiska 
+kontrolluppgifter eller någon analys av innehållet i uppgifterna, vare sig 
+för fysiska eller juridiska personer. Det saknas kunskap om hur många 
+automatiska kontrolluppgifter för företag som identifieras och granskas i 
+dag eller vilken nytta man har av uppgifterna. Riksrevisionen instämmer i 
+Skatteverkets egen bedömning att det finns ett behov av en kartläggning 
+och analys av utländska kontrolluppgifter för att kunna bedöma risken för 
+skattefel i olika delar av materialet. 
+
+9 RIKSREVISIONENInternationell skattekontroll
+ System för en effektiv uppföljning saknas
+Skatteverket saknar i dag ett centralt uppföljningssystem för 
+informationsutbytet. Skatteverkets taxeringssystem för automatiska 
+kontrolluppgifter lämpar sig inte för statistiska bearbetningar och 
+sökmöjligheterna är begränsade. Många automatiska kontrolluppgifter 
+läses inte in. Skatteverkets diariesystem för registrering av spontana 
+kontrolluppgifter och handräckningsärenden är inte tillförlitligt. 
+Riksrevisionen kan konstatera att det i dagsläget inte går att få 
+fram en heltäckande bild av vare sig det automatiska eller spontana 
+informationsutbytet. Avsaknaden av ett centralt ärendehanteringssystem gör 
+att Skatteverket har begränsade möjligheter att klara av interna och externa 
+krav på uppföljning av informationsutbytet. 
+ Spontana kontrolluppgifter minskar
+Både OECD, EU-kommissionen och Skatteverket vill öka det spontana 
+utbytet av information. Det finns dock tecken på att det spontana utbytet 
+av kontrolluppgifter minskar under 2009. Till skillnad från det automatiska 
+informationsutbytet bygger det spontana informationsutbytets utveckling 
+i hög grad på initiativ av enskilda handläggare och revisorer. Incitamenten 
+bland handläggarna att skicka spontana kontrolluppgifter och begära 
+handräckning är generellt låga. Riksrevisionen finner flera förklaringar till 
+detta. En förklaring är att det föreligger en målkonflikt mellan behovet av ett 
+utökat informationsutbyte och nationella krav på genomströmningstider. 
+Andra förklaringar är att kompetensen att hantera spontana kontrolluppgifter 
+är låg hos handläggarna och att de nya blanketterna från EU är krångliga 
+att fylla i. Skatteverket har nyligen styrt om resurser från kontrollen för att 
+öka antalet informationsbesök. Vid informationsbesök får kontrolluppgifter 
+inte inhämtas, vilket också kan förklara en del av minskningen av 
+spontana kontrolluppgifter. Av Skatteverkets operativa verksamhet består 
+ca 40 procent av större insatser och riksprojekt med en tydlig styrning 
+från huvudkontoret. När det gäller övrig löpande verksamhet finns inte 
+samma tydliga styrning. Riksrevisionen gör bedömningen att detta kan ha 
+missgynnat det stundtals tidskrävande internationella arbetet till fördel för 
+nationella aktiviteter och mål. 
+
+10RIKSREVISIONEN Internationell skattekontroll
+ Fördröjd it-utveckling
+Riksrevisionen gör bedömningen att bristerna i Skatteverkets hantering 
+av informationsutbytet till stor del beror på att utvecklingsarbetet när 
+det gäller informationsutbytet har fått stå tillbaka under senare år. En 
+förklaring till att Skatteverket inte kommit längre i utvecklingsarbetet 
+är att den praktiska hanteringen av informationsutbytet är uppdelad på 
+flera olika enheter på olika ställen inom organisationen och med olika 
+geografisk placering. Skatteverkets utspridda organisation för hanteringen 
+av utländska kontrolluppgifter har bidragit till att helhetsperspektivet 
+blivit lidande och att problemen inte har blivit tillräckligt synliggjorda. 
+Bristen på helhetsperspektiv har bidragit till fördröjningar av nödvändiga 
+utvecklingsinsatser och investeringar, såsom utvecklandet av ett automatiskt 
+identifieringssystem och ett bättre systemstöd för analys och uppföljning.
+ Skatteverkets utvecklingsinsatser
+Skatteverket har under granskningens genomförande tagit initiativ till flera 
+utvecklingsinsatser när det gäller hanteringen av utländska kontrolluppgifter 
+och möjligheterna att analysera och följa upp informationsutbytet. 
+Riksrevisionen ser positivt på dessa initiativ. Förutsatt att de genomförs 
+kommer de att förbättra Skatteverkets förutsättningar för ett effektivt 
+informationsutbyte med andra länder.
+ Riksrevisionens rekommendationer
+Mot bakgrund av de iakttagelser och slutsatser som redovisas ovan lämnar 
+Riksrevisionen följande rekommendationer till Skatteverket.
+ Gör informationsutbytet till ett prioriterat utvecklingsområde
+Riksrevisionens övergripande slutsats är att utvecklingsarbetet avseende 
+informationsutbytet har fått stå tillbaka under senare år. Detta har bidragit 
+till en ineffektiv hantering och kontroll av utländska kontrolluppgifter. Mot 
+bakgrund av de risker detta medför i form av ett ökat skattefel och minskad 
+preventiv effekt bör Skatteverket göra informationsutbytet till ett prioriterat 
+utvecklingsområde. 
+
+11 RIKSREVISIONENInternationell skattekontroll
+ Förbättra ärendehanteringen av utländska kontrolluppgifter
+Skatteverket bör utveckla ett ärendehanteringssystem för automatiska 
+kontrolluppgifter som klarar av att automatsikt identifiera en del av 
+uppgifterna och att läsa in automatiska kontrolluppgifter i olika format. 
+En förbättrad inläsning och identifiering gör att kontrolluppgifterna kan bli 
+tillgängliga för granskning fortare. Ett nytt ärendehanteringssystem måste 
+även kunna tillfredsställa de behov av statistik och analys som finns på 
+området. 
+ Förbättra uppföljningen av informationsutbytet
+Riksrevisionen konstaterar att Skatteverket saknar ett centralt 
+uppföljningssystem för informationsutbytet. Skatteverket har nyligen kartlagt 
+behovet av uppföljningsinformation i fråga om informationsutbytet. Det 
+är nu angeläget att Skatteverket tar fram en teknisk lösning för att kunna 
+tillfredsställa de behov av uppföljning som identifierats i kartläggningen.
+ Kartlägg innehållet i utländska kontrolluppgifter
+Riksrevisionen anser att det är av stor vikt att Skatteverket kartlägger det 
+totala antalet automatiska kontrolluppgifter som kommer in till Skatteverket 
+och analyserar innehållet i uppgifterna. En analys är nödvändig för att kunna 
+bedöma risken för skattefel i olika delar av materialet och kunna fatta beslut 
+om hur uppgifterna ska hanteras. 
+ Öka fokus på den totala operativa tiden
+Skatteverkets operativa verksamhet består till ca 40 procent av större 
+insatser och riksprojekt med en tydlig styrning från huvudkontoret. När 
+det gäller övrig löpande operativ verksamhet finns inte samma tydliga 
+styrning vilket kan ha missgynnat det internationella området till fördel för 
+nationella aktiviteter och mål. Riksrevisionen menar att ett ökat fokus på 
+den totala operativa tiden kan gynna det internationella området och stärka 
+incitamenten för ett ökat spontant informationsutbyte.
+
+12RIKSREVISIONEN Internationell skattekontroll
+
+13 RIKSREVISIONENInternationell skattekontroll
+1 Varför är informationsutbytet viktigt?
+1.1 Motiv till granskning
+Samhället blir alltmer internationaliserat. Medan skatteadministrationerna 
+i stor utsträckning befinner sig i den nationella jurisdiktionen agerar 
+skattebetalarna mer och mer globalt. Internationaliseringen leder till att 
+skattebaser blir mer rörliga, vilket i kombination med olikheter i länders 
+skattesystem medför risk för skatteplanering, skatteflykt och skattefusk. 
+Internationaliseringen gör det därmed svårare för skattemyndigheten 
+att upprätthålla kontrollen av att skattelagstiftningen inte kringgås. För 
+att komma till rätta med problem som skatteflykt och skattefusk spelar 
+samarbete och utbyte av information mellan olika länders skatteförvaltningar 
+en central roll.1
+ Skatteverket beräknar att skattefelet2 med internationella kopplingar 
+uppgår till ca 46 miljarder. I sin årsredovisning skriver Skatteverket att 
+utbyte av information mellan länder är en nyckelfaktor i kampen mot 
+internationellt skattefusk.3 Analyser av skattefelets storlek på olika områden 
+visar att områden med ett väl utbyggt system för redovisning, betalning och 
+kontroll, t.ex. i form av automatiska kontrolluppgifter, har ett lägre skattefel 
+än områden där kontrolluppgifter saknas. En ökad användning av utländska 
+kontrolluppgifter kan fylla luckor där Skatteverket saknar kontrollinformation 
+och bidra till att minska skattefelet på det internationella området. Kunskap 
+hos skattebetalarna om de verktyg som informationsutbytet erbjuder och att 
+de används bidrar till att skapa en preventiv effekt.
+ Ett annat sätt att minska incitamenten för internationell 
+skatteplanering och skattefusk är genom harmonisering av olika länders 
+skattelagstiftning. Möjligheterna att harmonisera skattelagar är dock starkt 
+begränsade. Internationellt samarbete och utbyte av information mellan 
+skatteförvaltningar har i stället dykt upp som den kanske mest centrala 
+frågan i diskussioner om internationell skattepolitik och utvecklandet 
+1 OECD (2006), Manual on the Implementation of Exchange of Information Provisions for Tax  
+ Purposes.
+2 Med skattefelet avses skillnaden mellan den teoretiskt riktiga skatten och fastställd skatt.
+3 Skatteverkets årsredovisning 2008.
+
+14RIKSREVISIONEN Internationell skattekontroll
+av den internationella skattekontrollen.4 Informationsutbyte innebär att 
+två eller flera stater kan bidra med information till varandra i syfte att 
+förhindra skatteflykt och skatteundandragande. Både EU och OECD pekar ut 
+informationsutbytet som ett av de viktigaste verktygen för skatteförvaltningar 
+världen över för att kunna hantera och säkra skatteuppbörden i en alltmer 
+internationaliserad värld. Finanskrisen och upptäckten att terroristpengar 
+har placerats i skatteparadis har ytterligare bidragit till ökade krav på 
+transparens och utbyte av bank- och ägaruppgifter mellan länder. 
+ Informationsutbytet kommer att öka. Denna utveckling ställer krav på 
+skatteförvaltningar runt om i världen att bygga upp effektiva system för 
+informationsutbyte.
+1.2 Revisionsfråga och granskningsobjekt
+Regeringen har ett övergripande ansvar för skattekontrollen genom 
+sitt arbete med underlag och initiativ till förändrad lagstiftning på det 
+internationella området samt genom hur pådrivande regeringen är i det 
+internationella samarbetet. Skatteverket har fått i uppdrag av regeringen att 
+bedriva en effektiv skattekontroll.5 I en alltmer integrerad och globaliserad 
+ekonomi pekar regeringen ut informationsutbytet med andra länder som 
+särskilt viktigt för att bekämpa skattefusk. 
+ Revisionsfrågan tar sin utgångspunkt i regeringens uppdrag till 
+Skatteverket att bedriva en effektiv skattekontroll:
+Bedrivs Skatteverkets internationella skattekontroll på ett effektivt sätt?
+Inom ramen för den övergripande revisionsfrågan är granskningen inriktad 
+på Skatteverkets informationsutbyte med andra länder på den direkta 
+skattens6 område. 
+1.3 Normer och bedömningskriterier
+Skatteverkets skattekontroll kan ses som ett (av flera) medel för att 
+nå riksdagens mål om hur finansieringen av den offentliga sektorn 
+ska säkerställas. Riksdag och regering har i olika sammanhang uttalat 
+att skatteförvaltningen bör bedriva en effektiv skattekontroll samt att 
+4 Keen, M och J Ligthart (2006),”Information Sharing and International Taxation: A Primer”,  
+ International Tax and Public Finance, vol. 13, s. 81–110.
+5 Prop. 2006/07:1, prop. 2007/08:1, prop. 2008/09:1 och prop. 2009/10:1.
+6 Med direkta skatter avses sådana som utgår på inkomster och förmögenheter. De främsta  
+ exemplen i Sverige är den statliga och kommunala inkomstskatten, såväl på förvärvsinkomster  
+ som på kapitalinkomster.
+
+15 RIKSREVISIONENInternationell skattekontroll
+informationsutbytet är ett viktigt område som måste prioriteras.7 Ett 
+viktigt analysarbete avseende internationell skattekontroll gjordes i 
+den s.k. Skattebasutredningen. Detta avsnitt inleds med en kortfattad 
+sammanfattning av utredningens viktigaste slutsatser. Därefter kommer 
+en redogörelse för riksdagens beslut och uttalanden om skattekontroll de 
+senaste åren. Regeringens styrning av Skatteverkets kontroll beskrivs också.
+1.3.1 Skattebasutredningen
+I juli 2000 beslutade regeringen om direktiven till den s.k. 
+Skattebasutredningen.8 Utredningens övergripande uppgift var att lämna 
+en samlad bedömning av hur den svenska skattestrukturen bör vara 
+utformad i en värld med internationaliserade marknader för varor, tjänster 
+och produktionsfaktorer samtidigt som de välfärdspolitiska ambitionerna 
+bevaras på dagens nivå. Syftet med utredningen var att åstadkomma 
+ett förbättrat underlag för framtida skattepolitiska prioriteringar. 
+Slutbetänkandet presenterades i november 2002.9
+ Utredningen drar slutsatser om olika skattebasers utsatthet för 
+skattebetingad rörlighet men utreder även möjligheterna för den 
+internationella skattekontrollen att bidra till att upprätthålla den svenska 
+beskattningen. Utredningen bedömer att det finns en klar risk att uppenbara 
+luckor i skattemyndigheternas utlandskontroll utnyttjas av individer och 
+företag för att undkomma skatt. Utlandskontrollen bör därför bli ett centralt 
+utvecklingsområde. Utredningen pekar på att det finns en rad praktiska 
+problem med informationsutbytet mellan skatteförvaltningar i olika länder. 
+De handlar främst om att uppgifter kommer in för sent och/eller håller för 
+låg kvalitet. Utredningen menar att Riksskatteverket (i dag Skatteverket) 
+måste förstärka utlandskontrollen genom att förbättra kvalitet och kvantitet 
+i det automatiska informationsutbytet med andra länders förvaltningar och 
+utveckla system för att kunna ta till vara den information man erhåller.
+1.3.2 Riksdagens uttalanden om skattekontrollen
+Budgetlagen lägger grunden
+Av lagen (1996:1059) om statsbudgeten (budgetlagen) framgår bl.a. att hög 
+effektivitet ska eftersträvas i statens verksamhet. Med det menas att den 
+statliga verksamheten ska bedrivas så att de mål som riksdagen har satt 
+7 Se t.ex. yttr. 2007/08:SkU1y, se hänvisning i bet. 2007/08:SkU1, rskr. 2007/08:34.
+8 Dir 2000:51, Internationaliseringens betydelse för svenska skattebaser och framtida skattestruktur. 
+9 SOU 2002:47, Våra skatter?.
+
+16RIKSREVISIONEN Internationell skattekontroll
+uppnås i så hög grad som möjligt inom ramen för tillgängliga resurser.10 
+Riksdagen har beslutat att målet för utgiftsområdet Skatt, tull och exekution 
+är att säkerställa finansieringen av den offentliga sektorn och bidra till ett 
+väl fungerande samhälle för medborgare och näringsliv samt motverka 
+brottslighet.11
+Riksdagen betonar vikten av ett effektivt informationsutbyte 
+Riksdagen har genom Skatteutskottet angett att det är viktigt med en 
+effektiv skattekontroll. ”Skattefusk snedvrider konkurrensen på olika 
+marknader, leder till utanförskap, sociala problem och orättvisa mellan 
+olika skattebetalare. En effektivare skattekontroll bidrar till ökad legitimitet 
+för skattesystemet. Önskemålet om en effektivare skattekontroll måste 
+dock ses i relation till ambitionen att minska den administrativa bördan av 
+olika skatteregler”.12 Skatteverket fick 2009 ökade resurser för arbete med 
+internationell skattekontroll.13 Riksdagen påpekade även vikten av att den 
+information som utbyts med andra länder tas till vara på bästa sätt inom 
+skattemyndigheten.14 
+1.3.3 Regeringens styrning
+Regleringsbrevet
+Regeringen konkretiserar målen för Skatteverkets verksamhet i 
+regleringsbrevet. För verksamhetsgrenen Beskattning finns två 
+effektivitetsmål. Det första är målet om beskattningseffektivitet, vilket innebär 
+att skatter och avgifter ska fastställas kostnadseffektivt och rättssäkert, så 
+att skillnaden mellan de teoretiskt riktiga beloppen och de fastställda blir så 
+liten som möjligt. Detta kan också uttryckas som att skattefelet ska vara så 
+litet som möjligt. Det andra effektivitetsmålet är uppbördseffektivitet. Detta 
+innebär att fastställda belopp ska betalas i sin helhet och inom utsatt tid. 
+Preliminär skatt ska så nära som möjligt överensstämma med slutlig skatt. 
+Skatteverket ska i sin återrapportering beskriva de åtgärder som vidtagits för 
+att minska skattefelet samt bedöma i vilken grad det förändrats.15
+10 Prop. 1995/96:220, bet. 1996/97:KU3, rskr. 1996/97:27.
+11 Bet. 2008/09:SkU1, rskr. 2008/09:87.
+12 Prop. 2007/08:100, bet. 2007/08:FiU20, rskr. 2007/08:259 och rskr. 2007/08:260.
+13 Prop. 2008/09:1.
+14 Yttr. 2007/08:SkU1y, se hänvisning i bet. 2007/08:SkU1, rskr. 2007/08:34. 
+15 Regleringsbrev för budgetåret 2009 avseende Skatteverket, 2008-12-19.
+
+17 RIKSREVISIONENInternationell skattekontroll
+ Regleringsbrevet innehåller även mål för riskhantering där det sägs 
+att myndigheten ska koncentrera resurserna till områden med hög risk. 
+För att kunna identifiera dessa är det en förutsättning att vidareutveckla 
+riskanalysen och urvals- och uppföljningssystemen. Vidare anges att 
+Skatteverket ska ha ett gott samarbete med andra länders myndigheter i 
+fråga om skatteverksamheten. I övrigt ger regleringsbrevet Skatteverket 
+relativt stor frihet att ställa upp egna mål och återrapporteringskrav.
+Regeringen prioriterar kontroll av områden med hög risk för skattefel
+I budgetpropositionerna de senaste åren anger regeringen att 
+skattekontrollen i huvudsak ska inriktas mot områden med hög risk för 
+skattefel. Det internationella området utgör här ett högriskområde för fel. 
+Globaliseringen kräver även att Skatteverket intensifierar sin samverkan med 
+andra myndigheter, såväl svenska som utländska. Informationsutbyte över 
+gränserna blir allt viktigare för att bekämpa skattefusk.16 Regeringen betonar 
+även att det internationella arbetet kräver en särskild struktur och kompetens 
+och att det är av stor vikt att Skatteverket höjer sin kompetens både vad 
+gäller personal och teknik för att klara av det internationella arbetet.17
+1.4 Granskningens genomförande och avgränsningar
+Granskningen har i huvudsak genomförts med hjälp av dokumentstudier 
+och intervjuer på Skatteverket. Intervjuerna har omfattat tjänstemän 
+på Skatteverkets huvudkontor (produktions- och rättsavdelningen), 
+utlandsskattekontoren i Stockholm och Malmö, Skattekontoret i Östersund 
+samt Skatteverkets verksamhetsstödsavdelning.
+Granskningen av det internationella informationsutbytet är avgränsat 
+till den direkta skattens område. Informationsutbytet på moms- och 
+punktskatteområdet granskas inte.
+1.5 Rapportens disposition
+I inledningen till denna rapport framgår att internationaliseringen driver 
+fram ett ökat behov av samarbete och utbyte av information mellan 
+skattemyndigheter i olika länder. Kontrolluppgifter från andra länder kan fylla 
+luckor på områden där Skatteverket saknar kontrollinformation. I kapitel 2 
+utvecklas resonemanget om kopplingen mellan Skatteverkets tillgång till 
+16 Prop. 2006/07:1, prop. 2007/08:1 och prop. 2008/09:1.
+17 Prop. 2008/09:1.
+
+18RIKSREVISIONEN Internationell skattekontroll
+kontrolluppgifter och skattefelet. I kapitel 3 behandlas de lagar och avtal 
+som ligger till grund för informationsutbytet. I kapitel 3 redogörs även för 
+Skatteverkets organisation på det internationella området. Information 
+kan utbytas med hjälp av olika verktyg. I kapitel 4–6 redovisas olika former 
+för informationsutbyte samt sammanfattande iakttagelser på respektive 
+område. I kapitel 7 redogörs för Skatteverkets pågående utvecklingsarbete. 
+Riksrevisionens slutsatser och rekommendationer redovisas i kapitel 8.
+
+19 RIKSREVISIONENInternationell skattekontroll
+2 Vad styr medverkan i skattesystemet?
+Det övergripande målet för Skatteverkets beskattningsverksamhet är enligt 
+regleringsbrevet att skatter och avgifter fastställs så att skillnaden mellan de 
+teoretiskt riktiga beloppen och de fastställda (skattefelet) blir så liten som 
+möjligt. Skatteverket har även ett eget mål att halvera skattefelet fram till 
+2012. I detta kapitel redogörs närmare för Skatteverkets analys av sambandet 
+mellan de system som finns för fastställande, betalning och kontroll av skatt 
+och skattefelet, och på vilket sätt informationsutbyte med andra länder kan 
+bidra till att minska skattefelet. 
+2.1 Skattefelet
+Ett sätt att värdera hur väl Skatteverket lever upp till målet att skattefelet 
+ska vara så litet som möjligt är att mäta skattefelets storlek. I en beräkning 
+från hösten 2007 uppskattar Skatteverket skattefelet till ca 133 miljarder 
+kronor årligen, motsvarande ca 5 procent av BNP eller ca 10 procent av 
+den fastställda skatten. Skattefelet med internationella kopplingar beräknas 
+uppgå till 46 miljarder kronor eller ca 35 procent av det totala skattefelet.18
+2.2 Medverkandekartan
+Skatteverkets analyser visar att skattefelet i förhållande till redovisad 
+skatt varierar stort mellan olika skatteslag. Skattefelet för skatt på 
+tjänsteinkomster utgör t.ex. 5 procent av redovisad skatt medan skattefelet 
+för skatt på näringsinkomster uppgår till hela 33 procent.19
+ I en nyligen publicerad rapport från Skatteverket presenteras en modell, 
+Medverkandekartan, där Skatteverket undersöker vilka faktorer som gör att 
+skatterna redovisas, fastställs och betalas samt vilka kontrollmöjligheter som 
+står till buds för respektive skatt.20 
+18 Skatteverket (2008), Skattefelskarta för Sverige: Hur togs den fram och hur kan den användas?,  
+ SKV Rapport 2008:1.
+19 I Skatteverkets beräkningar avser skattefelet på tjänsteinkomster kommunal och statlig  
+ inkomstskatt på tjänsteinkomster samt allmän pensionsavgift från anställning. I  
+ näringsinkomster ingår kommunal och statlig inkomstskatt på näringsinkomster, allmän  
+ pensionsavgift för egenföretagare, expansionsmedelsskatt samt statlig inkomstskatt för juridiska  
+ personer (s.k. bolagsskatt).
+20 Skatteverket (2008), Mätning av Skatteverkets effekter på dess omgivning: Ett diskussionsunderlag  
+ och hjälpmedel för såväl beslutsfattare som utförare av effektmätningar, SKV Rapport 2008:2.
+
+20RIKSREVISIONEN Internationell skattekontroll
+ För att sätta in Medverkandekartan i sitt sammanhang ges i rapporten en 
+kort beskrivning av den s.k. skattestapeln som ofta används för att illustrera 
+den teoretiskt riktiga skatten. I skattestapeln utgörs den översta delen av 
+skattefelet, dvs. den skatt som inte redovisas men som skulle ha redovisats 
+om alla regler följdes korrekt. Den undre delen visar den skatt som kommer 
+in på ”frivillig” väg.21 Mitt emellan de två delarna finns en liten del som 
+symboliserar den skatt som direkt fastställs genom kontrollinsatser.
+ I Rapporten ”Skattefelskarta för Sverige” som presenterades ovan har 
+Skatteverket uppskattat storleken på och fördelningen av skattefelet, dvs. 
+den översta delen av stapeln. I Medverkandekartan försöker Skatteverket i 
+stället strukturera upp den undre delen av stapeln efter vilka mekanismer 
+som gör att skatterna redovisas, fastställs och betalas, uttryckt i termer av 
+system.
+Figur 1 Skattefels- och medverkandekartans delar av skattestapeln
+”Frivillig” medverkan 
+Skatter som
+påförts efter
+kontroll  
+Skattefel och 
+uppbördsfel Skattefelskartan
+Medverkandekartan 
+ 
+Skatteverket konstaterar att en stor del av skatterna redovisas och betalas 
+utan någon större medverkan av skattesubjektet. Detta gäller t.ex. större 
+delen av skatterna på tjänsteinkomster och avkastning på kapital. Dessa 
+skatter är exempel på väl utvecklade system för redovisning, betalning 
+och kontroll. Systemen förutsätter visserligen en hög grad av medverkan 
+från tredje man, men är ändå förhållandevis säkra, vilket bl.a. förklaras 
+av att det finns inbyggda mekanismer som gör att den uppgiftsskyldige 
+inte berikar sig själv på skattesubjektets bekostnad samt att kontroller 
+mot uppgiftslämnandet kan utföras effektivt. Ett system som bygger på 
+att varje skattskyldig själv redovisar och betalar sin skatt hade varit både 
+osäkrare och ineffektivare. På andra områden är det den skattskyldige själv 
+som ska betala in skatten, men i stället finns system för hur skatten ska 
+fastställas (det gäller t.ex. fastighetsskatten), vilket medför att redovisning 
+21 Det noteras i rapporten att man ibland brukar markera en viss del av den undre delen i stapeln  
+ som skatt som betalas som en följd av preventiv effekt av kontrollen.
+
+21 RIKSREVISIONENInternationell skattekontroll
+av den skattepliktiga aktiviteten inte går att undvika. Andra skatter är i 
+högre grad beroende av någon slags frivillighet. Detta gäller t.ex. i hög grad 
+inkomstskatt på näringsverksamhet.
+ Nedan visas skatternas relativa fördelning enligt Medverkandekartans 
+kategorisering. Av denna kan bl.a. utläsas att närmare 60 procent av den 
+teoretiskt korrekta skatten fastställs i de högsta systemnivåerna, medan cirka 
+10 procent fastställs i de lägsta.22 Lite förenklat går det att säga att för skatter 
+i de låga systemnivåerna krävs en aktiv medverkan från skattebetalarna för 
+att rätt skatt ska fastställas och betalas. För dessa skatter medför passivitet 
+att ingen, eller fel, skatt fastställs. För skatter i de höga systemnivåerna 
+räcker det ofta med en låg grad av aktiv medverkan, eller i vissa fall rentav 
+med passivitet, för att rätt skatt ska fastställas. Ofta krävs för de sistnämnda 
+skatterna en aktiv handling för att undkomma skatt. 
+ Skatteverket konstaterar att det finns ett samband mellan hur stor del av 
+skatten som fastställs i de högre systemnivåerna och det relativa skattefelet. 
+När det gäller fastighetsskatt och inkomstskatt på tjänsteinkomster är det 
+relativa skattefelet 4 procent samtidigt som nästan all skatt fastställs i de 
+högsta systemnivåerna. För inkomstskatt på näringsverksamhet är å andra 
+sidan det relativa skattefelet 22 procent samtidigt som all skatt fastställs i de 
+lägsta systemnivåerna.
+ En skatt som avviker från mönstret är skatt på kapital. Där är det relativa 
+skattefelet ganska högt, 16 procent, samtidigt som en inte obetydlig del av 
+skatten fastställs i de högsta systemnivåerna. Detta beror på att skattebasen 
+är lättrörlig23 och att systemen därför inte räcker till för att säkerställa 
+beskattningen till den del den berör utländska förhållanden.
+Tabell 1 Medverkandekartan
+ 
+Punktskatt
+Fastighets-
+skatt
+Inkomstskatt 
+tjänst
+Sociala 
+avgifter Moms
+Skatt på 
+kapital, 
+exkl. utg. 
+ränta
+Inkomstskatt 
+näringsverks. Totalt
+Skattefel 4 % 4 % 4 % 6 % 12 % 16 % 22 % 8 %
+Fastställt  
+gm kontroll .. 0,5 % 0,1 % 0,3 % 1,1 % 3,0 % 1,8 % 0,6 %
+Systemnivå 1 6,9 % 0,1 %  1,2 % 2,4 % 1,7 % 3,3 % 8,6 % 2,1 %
+Systemnivå 2 9,4 % – 0,2 % 6,4 % 0,6 % – 67,4 % 8,8 %
+Systemnivå 3 8,7 % – – – 84,2 % – – 15,2 %
+Systemnivå 4 55,3 % – – – – 45,8 % – 5,8 %
+Systemnivå 5 9,7 % 95,6 % 96,9 % 84,9 % – 31,7 % – 58,8 %
+Systemnivå 6 6,6 % – – – – – – 0,5 %
+Källa: Skatteverket.
+22 Med de högsta systemnivåerna menas att det finns väl utvecklade system för redovisning,  
+ betalning och kontroll av skatten, medan det motsatta gäller för de lägsta systemnivåerna. 
+23 Med lättrörlig menas att skattebasen, i detta fall kapital, lätt kan flytta till ett annat land.
+
+22RIKSREVISIONEN Internationell skattekontroll
+Skatteverket konstaterar att Medverkandekartan inte fullständigt kan 
+förklara orsakerna till att skatterna fastställs men att den utgör en 
+grund utifrån vilken bedömningar av olika åtgärders effekter och diverse 
+analyser kan göras. Lägger man t.ex. in analyser av skattefelets storlek i 
+Medverkandekartan så framträder en ganska tydlig bild av att skattefelet är 
+lägst inom områden där redovisning och betalning av en skatt kan säkras 
+med hjälp av olika systemåtgärder och högst där skattebetalningarna bygger 
+på en hög grad av frivillighet. 
+2.3 Erfarenheter från USA
+De resultat och slutsatser som kommit fram i arbetet med 
+Medverkandekartan i Sverige stämmer väl överens med liknande analyser 
+som gjorts av Internal Revenue Service (IRS) i USA. Analyser på federal 
+nivå i USA visar att skattefelets storlek i förhållande till de teoretiska 
+skatteinkomsterna varierar mellan olika typer av skatteinkomster. Även i USA 
+har man försökt att analysera orsakerna till dessa skillnader och kommit 
+fram till att medverkan är störst där ”synligheten” är störst, dvs. där det finns 
+ett källskattesystem24 eller omfattande tredjemansinformation. Storleken 
+på skattefelet i förhållande till den teoretiska skatten står alltså i omvänt 
+förhållande till inkomstens synlighet.25
+2.4 Konsekvenser för internationell skattekontroll
+Analyser av vilka faktorer som påverkar skattebetalarnas medverkan 
+i skattesystemet i Sverige och USA visar att kontrolluppgifter och 
+tredjemansinformation bidrar till att minska skattefelet. På det 
+internationella området där Skatteverket i stor utsträckning måste förlita sig 
+på de uppgifter som den skattskyldige själv lämnar in är skattefelet ofta stort. 
+Den internationella skattekontrollen bygger därför i hög grad på individuella 
+kontroller och revisioner. Skatteverket konstaterar dock att det inte är 
+realistiskt att minska skattefelet enbart med hjälp av utökade kontroller. En 
+effektiv skattekontroll på det internationella området förutsätter ett utökat 
+samarbets- och informationsutbyte med andra länder.26
+24 Med källskatt avses en skatt som betalas vid källan, dvs. direkt när inkomsten uppkommer.  
+ Exempel på detta är när arbetsgivare gör avdrag för preliminär skatt på lönen.
+25 U.S. Department of the Treasury, Office of Tax Policy (2006), ”A Comprehensive Strategy for  
+ Reducing the Tax Gap”. 
+26 Skatteverket (2008), Skattefelskarta för Sverige: Hur togs den fram och hur kan den användas?,  
+ SKV Rapport 2008:1, s. 102.
+
+23 RIKSREVISIONENInternationell skattekontroll
+3 Förutsättningar för internationellt  
+ informationsutbyte
+3.1 Lagstiftning
+Det internationella informationsutbytet regleras i bilaterala och multilaterala 
+dubbelbeskattningsavtal, internationella konventioner (som godkänts av 
+Sveriges riksdag), direktiv inom EU-rätten samt i nationell lagstiftning. En 
+förutsättning för att handräckning27 ska kunna ske mellan en svensk och en 
+utländsk myndighet är nämligen att det har ingåtts en överenskommelse 
+mellan Sverige och den främmande staten. Regleringen är något splittrad, 
+vilket innebär att informationsutbytet varierar i omfattning mellan olika 
+länder. Nedan beskrivs kortfattat den svenska lagstiftningen på området 
+samt de huvudsakliga överenskommelser som slutits mellan Sverige och 
+andra länder.
+3.1.1 Skatte- och handräckningsavtal
+Sverige har tecknat skatteavtal med ett nittiotal stater. De flesta skatteavtalen 
+innehåller bestämmelser om utbyte av information som reglerar 
+informationsutbytet mellan skatteförvaltningarna. Informationsutbytet 
+administreras av ”behörig myndighet”. Med behörig myndighet avses i 
+skatte- och handräckningsavtalen finansministern eller den myndighet till 
+vilken uppgiften har delegerats. I Sverige har denna funktion delegerats 
+till Skatteverket. Bestämmelserna om informationsutbyte i de moderna 
+skatteavtalen bygger i de flesta fall på artikel 26 i OECD:s modellavtal.28 
+Artikel 26 omfattar i sin nuvarande version informationsutbyte i syfte att 
+möjliggöra beskattning enligt både dubbelbeskattningsavtalets villkor och de 
+avtalsslutande staternas interna skattelagstiftningar.29 Fram till helt  
+27 Handräckning på det internationella området bygger på internationella överenskommelser och  
+ omfattar i första hand utbyte av information för skatteutredningar, handräckning för indrivning av  
+ skatt och andra åtgärder, såsom delgivning av handlingar.
+28 Skatteverket (2009), Handledning för internationell beskattning 2009.
+29 Gustafsson Myslinski, U (2008), ”Sveriges informationsutbytesavtal med Isle of Man”, 
+ Skattenytt, vol. 4 s. 185.
+
+24RIKSREVISIONEN Internationell skattekontroll
+nyligen var det dock många länder som reserverade sig mot artikel 26. I 
+kölvattnet av finanskrisen och det faktum att flera skatteparadis visat sig 
+härbärgera terroristpengar har dock trycket på länder som inte anslutit sig 
+till artikel 26 hårdnat. Vid det senaste G20 mötet 2009 fastslogs bl.a. att 
+banksekretessens era är över.30 I dag har samtliga OECD-länder accepterat 
+informationsutbytesartikeln i modellavtalet. Detta innebär att utbyte 
+av information om bl.a. kapitalplaceringar möjliggörs med länder som 
+tidigare inte lämnat sådan information t.ex. Schweiz, Luxemburg, Belgien 
+och Österrike. Det krävs dock att avtal tecknas eller uppdateras med en ny 
+informationsartikel samt att avtalen godkänns av riksdagen. I september 
+2009 hade Sverige tecknat åtta nya avtal med skatteparadis.31 
+ Sedan ett antal år har OECD inlett ett samarbete med ett stort antal 
+länder som tidigare betraktats som skatteparadis. I samarbete med 
+dessa länder har OECD tagit fram ett modellavtal för informationsutbyte, 
+TIEAS (Tax Information Exchange Agreements). TIEAS är tänkt att 
+komplettera dubbelbeskattningsavtalen och är mer detaljerat när det 
+gäller informationsutbyte. Avtalet ska användas av enskilda stater som 
+underlag för förhandling om samarbetsavtal. För att stärka de nordiska 
+ländernas förhandlingsposition gentemot skatteparadisen och för att få 
+ned kostnaderna för förhandlingsarbetet samordnar de nordiska länderna 
+förhandlingsarbetet. Även Färöarna och Grönland deltar i arbetet. Som 
+nämnts ovan har Sverige tillsammans med övriga nordiska länder slutit åtta 
+nya avtal och nya förhandlingar pågår.32
+3.1.2 Europaråds- och OECD-konventionen
+Inom Europarådet och OECD har en konvention utarbetats om ömsesidig 
+handräckning i skatteärenden. Konventionen antogs i april 1987 och trädde 
+i kraft 1995. Konventionen överensstämmer i stor utsträckning med det 
+nordiska handräckningsavtalet. Konventionen har införlivats med svensk 
+rätt genom lagen (1990:313) om Europaråds- och OECD-konventionen om 
+ömsesidig handräckning i skatteärenden.33 
+30 OECD (2009-09-25), OECD SecretaryGeneral to the G20 leaders,  
+ http://www.oecd.org/document/38/0,3343,en_2649_33767_43777958_1_1_1_1,00.html.
+31 Avtalen avser Aruba, Bermuda, Brittiska Jungfruöarna, Caymanöarna, Guernsey, Isle of Man,  
+ Jersey samt Nederländska Antillerna. 
+32 Norden, http://www.norden.org/sv/omsamarbetet/avtal/avtal/skattefraagor/ 
+ informationsutbytesavtalpaa-skatteomraadetmed-finansiellaoffshorecentra (2009-11-09).
+33 Skatteverket (2009), Handledning för internationell beskattning 2009. Länder som har ratificerat  
+ konventionen är Azerbajdzjan, Belgien, Danmark, Finland, Frankrike, Italien, Nederländerna,  
+ Norge, Polen, Storbritannien, Sverige, Ukraina, och USA. Kanada och Tyskland har undertecknat  
+ konventionen och håller på att ratificera den.
+
+25 RIKSREVISIONENInternationell skattekontroll
+3.1.3 EG:s handräckningsdirektiv
+Inom Europeiska unionen sker ett utbyte av information om alla typer av 
+skatter. På den direkta skattens område regleras informationsutbytet i 
+huvudsak genom direktiven om indrivning, sparande och handräckning, 
+där direktiv 77/799/EEG (EG:s handräckningsdirektiv) från 1977 är den 
+generellt mest omfattande regleringen.34 Handräckningsdirektivet omfattar 
+informationsutbyte rörande skatt på inkomst, kapital och försäkringspremier. 
+Tidigare omfattade direktivet även mervärdesskatt och punktskatter, 
+men dessa har lyfts ut ur direktivet för att i stället omfattas av en särskild 
+reglering.35 Direktivet är tillämpligt mellan medlemsstaterna inom EU 
+och reglerar handräckning genom de fyra metoderna utbyte på begäran, 
+automatiskt informationsutbyte, spontant informationsutbyte och möjlighet 
+för en representant för skatteförvaltningen i en medlemsstat att erhålla 
+information genom närvaro vid utredning i en annan medlemsstat.36 
+(Se avsnitt 3.2). Handräckningsdirektivet är under omarbetning och 
+kommissionen har lämnat ett förslag till nytt direktiv. 
+3.1.4 Sparandedirektivet
+Direktiv 2003/38/EG (sparandedirektivet) gäller från den 1 juli 2005 och 
+innehåller tvingande regler för EU:s medlemsländer att skapa ett automatiskt 
+informationsutbyte om räntebetalningar från ett medlemsland till 
+skattebetalare som är bosatta i andra medlemsländer. Syftet med direktivet 
+är att göra det möjligt för medlemsländerna att beskatta räntebetalningar 
+från ett annat medlemsland med hjälp av information från medlemslandet 
+i fråga.37 Direktivet omfattar ränteinkomster från sparande på bankkonton 
+och obligationer men även inkomster från fondsparande, om fonden till 
+betydande del består av räntebärande placeringar. Aktiesparande och 
+försäkringssparande omfattas dock inte. Tre länder – Belgien, Luxemburg 
+och Österrike – har förklarat att deras lagstiftning om banksekretess inte 
+tillåter ett informationsutbyte. Dessa länder har därför fått tillåtelse att, 
+under en övergångstid, ta ut en källskatt på ränteutbetalningar och lämna 
+den vidare till den medlemsstat där den enskilde bor i stället för att lämna ut 
+information om inkomsten. 
+34 Direktivet har ändrats bl.a. genom direktiv 2004/56/EG, direktiv 2004/106/EG (tillämpas fr.o.m.  
+ den 1 juli 2005) och direktiv 2006/98/EG.
+35 Förordning 1798/2003 om administrativt samarbete om mervärdesskatter och förordning   
+ 2073/2004 om administrativt samarbete om punktskatter.
+36 Gustafsson Myslinski, U (2008), ”Sveriges informationsutbytesavtal med Isle of Man”, 
+ Skattenytt, vol. 4 s. 185.
+37 Direktivet har införlivats i Sverige genom lagen (2001:1227) om självdeklarationer och   
+ kontrolluppgifter.
+
+26RIKSREVISIONEN Internationell skattekontroll
+ Med utgångspunkt från en rapport i september 2008 om hur 
+sparandedirektivet har fungerat i praktisk tillämpning under de tre första 
+åren har EG-kommissionen föreslagit en rad ändringar i direktivet.38 
+Förslagen syftar till att mer effektivt säkerställa beskattning av inkomster 
+från sparande. Detta mot bakgrund av att det visat sig vara relativt enkelt att 
+kringgå direktivets förpliktelser.39 En annan förändring gäller definitionen av 
+räntebetalningar, som föreslås bli vidare än i dag. Det föreslås också vissa 
+förbättringar vad gäller innehållet i den information som ska lämnas enligt 
+direktivet.40
+3.1.5 Nationell lagstiftning
+För att Sverige ska kunna inhämta upplysningar respektive lämna 
+upplysningar måste det finnas en rättslig grund. Den rättsliga grunden 
+återfinns huvudsakligen i lagen (1990:314) om ömsesidig handräckning i 
+skatteärenden (LÖHS). I LÖHS ges de yttre ramarna för hur handräckning 
+ska ske dels när en utländsk skattemyndighet begär uppgifter från Sverige 
+eller begär bistånd med indrivning, dels när en svensk myndighet begär 
+motsvarande uppgifter eller bistånd med indrivning från ett annat land. 
+Skatteutredning åt ett annat lands skatteförvaltning ska ske enligt samma 
+grunder och principer som vid en svensk intern skatteutredning.41 
+3.2 Olika former för informationsutbyte
+3.2.1 Informationsutbyte enligt OECD:s modellavtal
+Informationsutbytet kan ske i ett antal olika former som är mer eller 
+mindre ingripande. Bestämmelserna om informationsutbyte i moderna 
+skatteavtal är normalt utformad i enlighet med artikel 26 i OECD:s 
+modellavtal. I kommentaren till OECD:s modellavtal anges tre former 
+för informationsutbyte: utbyte av information på begäran, spontant 
+informationsutbyte och automatiskt informationsutbyte.
+38 KOM (2008) 727, 13 november 2008.
+39 Rehnberg, U, J Olsson (2009), ”Skattefrågor under det svenska ordförandeskapet i EU”,  
+ Skattenytt, s. 619.
+40 Faktapromemoria 2008/09: FPM71, Ändringar i sparandedirektivet.
+41 Skatteverket (2009), Handledning för internationell beskattning 2009.
+
+27 RIKSREVISIONENInternationell skattekontroll
+3.2.2 Informationsutbyte på begäran
+Informationsutbyte på begäran kan endast ske om den information som 
+behövs inte finns tillgänglig i det egna landet. Utbytet sker genom att 
+skatteförvaltningen (behörig myndighet) i det land som utreder frågan begär 
+av ett annat lands skatteförvaltning att få inhämta upplysningar i frågan. 
+Det kan handla om upplysningar om transaktioner som genomförts av 
+skattskyldiga eller information om transaktioner på ett bankkonto som en 
+skattskyldig har i det andra landet. Begäran måste vara riktad och preciserad 
+och det land som får begäran måste ha tillgång till den information som 
+efterfrågas.42
+3.2.3 Spontant informationsutbyte
+Med spontant informationsutbyte menas att ett land lämnar information 
+till ett annat land som bedöms vara av intresse för det andra landet. Det 
+kan vara frågan om sådana upplysningar som skattemyndigheten påträffar 
+i sin vanliga kontrollverksamhet. Spontant informationsutbyte sker utan 
+att den föregåtts av någon särskild begäran. Sverige har i merparten av 
+sina skatteavtal förbundit sig att till det andra landet lämna spontana 
+kontrolluppgifter avseende transaktioner som kan antas ha betydelse för 
+beskattningen i detta land. Motsvarande gäller då också för det andra landet 
+att det har en skyldighet att lämna spontana kontrolluppgifter avseende 
+transaktioner som kan vara av intresse för svensk beskattningsmyndighet.43
+3.2.4 Automatiskt informationsutbyte
+Automatiskt informationsutbyte avser kontrolluppgifter av visst slag. 
+Vanligen är det frågan om massinformation som t.ex. löner, pensioner, 
+royalties, räntor, utdelningar m.m. till personer bosatta i utlandet. Ofta rör 
+det sig om information som utbetalaren automatiskt och utan anmaning och 
+utan närmare granskning lämnar till den egna skattemyndigheten. Sådant 
+informationsutbyte sker normalt endast om det finns ett särskilt avtal eller 
+en överenskommelse.44
+42 Skatteverket (2009), Handledning för internationell beskattning 2009. Spencer, D (2006),”Exchange 
+ of Tax Information”, Accountancy, business and the Public Interest, vol. 5, s. 87–94.
+43 Skatteverket (2009), Handledning för internationell beskattning 2009.
+44 Skatteverket (2009), Handledning för internationell beskattning 2009.
+
+28RIKSREVISIONEN Internationell skattekontroll
+3.2.5 Övriga former av informationsutbyte
+I takt med att handräckningsärendena har blivit mer och mer komplicerade 
+och omfattande har det vuxit fram ett behov av att träffas och utbyta den 
+information som är nödvändig för en effektiv kontroll.
+ Bland de nyare formerna för informationsutbyte hör bl.a. simultan 
+revision eller samtidig skatteutredning som innebär att två eller flera stater 
+avtalar om att samtidigt genomföra en granskning, var och en inom sin 
+egen jurisdiktion, av en eller flera personer (såväl fysiska som juridiska) av 
+gemensamt intresse. Simultana revisioner på den direkta skattens område 
+kan för närvarande genomföras enligt EG:s handräckningsdirektiv, Lag 
+(1990:226) om handräckning i skatteärenden mellan de nordiska länderna 
+(Nordiska handräckningsavtalet), Europaråds- och OECD-konventionen 
+samt med stöd av särskilda överenskommelser i Sveriges skatteavtal med 
+andra länder. Utbytet ska ske genom respektive stats behöriga myndigheter. 
+Enskilda tjänstemän kan också ges tillfällig fullmakt som behörig myndighet 
+för att utbyta information under en simultan revision.45
+3.3 Skatteverkets organisation
+I Skattebasutredningen från 2002 föreslogs att Skatteverket skulle förstärka 
+sina resurser på det internationella området. Även i prop. (2002/03:99) Det 
+nya Skatteverket tydliggjordes ett ökat behov av internationellt samarbete 
+vid beskattning och skattekontroll. Under senare år har Skatteverket gjort 
+flera organisatoriska förändringar med syfte att bygga upp kompetens och 
+effektivisera arbetet med internationella frågor.46 
+3.3.1 Behörig myndighet
+Skatteverket har som behörig myndighet det administrativa ansvaret 
+för att informationsutbytet med andra länders skatteförvaltningar sker 
+i enlighet med gällande författningar och skatteavtal och att det är 
+förenligt med de principer som styr Sveriges förhållande till andra länders 
+skatteförvaltningar.47
+45 Skatteverket (2009), Handledning för informationsutbytet med andra stater 2009.
+46 Skatteverkets arbete med att kartlägga och organisera arbetet på det internationella området  
+ finns beskrivet i rapporterna Skatt utan gränser (2004) och Förslag till hantering av  
+ internationella frågor inom Skatteverket och organisationstillhörighet för VE/SSK m.m. (2004).
+47 Skatteverket (2009), Handledning för internationell beskattning 2009.
+
+29 RIKSREVISIONENInternationell skattekontroll
+ På Skatteverket är det normalt utlandsskattekontoren i region Stockholm 
+och Malmö som ansvarar för det operativa arbetet på det internationella 
+området och fattar beslut i handräckningsärenden.48 Arbetet sker efter ett 
+länderansvar där utlandsskattekontoret i Malmö ansvarar för Danmark, 
+Färöarna, Grönland, Island, Polen, Slovakien, Slovenien, Tjeckien, Tyskland 
+och Österrike. Utlandsskattekontoret i Stockholm ansvarar för övriga länder. 
+3.3.2 Huvudkontoret
+Skatteverkets huvudkontor har ansvar för strategisk ledning, styrning, 
+samordning och uppföljning av det internationella arbetet. Huvudkontorets 
+produktionsavdelning är ansvarig för hela kärnverksamheten medan en av 
+verksamhetsenheterna på produktionsavdelningen har ett områdesansvar 
+för hela det internationella området. 
+3.3.3 Utlandsskattekontoren
+Ett ökat fokus på det internationella området ledde fram till bildandet av 
+två utlandsenheter i Stockholm respektive Malmö 2005 med ansvar för det 
+operativa arbetet på det internationella området.49 Från och med den  
+1 januari 2008 respektive den 1 januari 2009 är utlandsenheterna i Malmö 
+och Stockholm utlandsskattekontor. 
+ Arbetsuppgifterna på utlandsskattekontoren kan delas in i tre delar: 
+riksarbetsuppgifter, regionala uppdrag och initiativverksamheten. 
+Riksarbetsuppgifter hanteras endast på utlandsskattekontoren och ett av 
+skattekontoren i Stockholmsregionen. Till dessa arbetsuppgifter hör bl.a. allt 
+operativt informationsutbyte med andra länder, momsåterbetalningar och 
+registreringskontroll av utländska företag men även arbete med riskanalys 
+och metodutveckling. Regionala uppdrag finns i samtliga sju skatteregioner, 
+men är koncentrerade till vissa skattekontor inom regionen. De regionala 
+uppdragen kan t.ex. avse inkomstbeskattning av personer som arbetar i 
+Sverige men är bosatta utomlands och personer som flyttat utomlands. 
+Initiativverksamheten planeras och budgeteras årligen på nationell nivå i 
+den s.k. Riksplanen och består till största del av olika typer av kontroll och 
+informationsinsatser eller kartläggningar. Ansvaret för de olika insatserna 
+48 Av arbetsordningen för Skatteverket framgår att det är utsedda handläggare på  
+ utlandsskattekontoren i Malmö respektive Stockholm som är behörig myndighet och har  
+ rätt att utbyta information med andra länder. Från och med 1 januari 2009 är Skatteverkets  
+ storföretagsregion behörig myndighet för informationsutbytet på punktskatteområdet.
+49 Punktskatterna hanteras av Storföretagsregionens särskilda skattekontor i Ludvika. 
+
+30RIKSREVISIONEN Internationell skattekontroll
+kan ligga på en region eller vara delat mellan flera regioner. Huvudkontoret 
+har ett övergripande ansvar för initiativverksamheten. 
+ Utlandsskattekontoren har också till uppgift att vara ett kontroll- och 
+metodstöd i internationella frågor, både inom den egna regionen och i andra 
+regioner. 
+3.3.4 Internationella produktionsnätverket
+Som ett stöd för ledningen har man på huvudkontorets 
+produktionsavdelning sedan den 1 januari 2008 inrättat produktionsnätverk 
+på olika områden, bl.a. ett på det internationella området. 
+Produktionsnätverken är inga beslutande organ, utan ska fungera 
+som beredande organ åt huvudkontoret i planerings, produktions- 
+och utvecklingsfrågor. Produktionsnätverken består av deltagare från 
+produktionsavdelningen, rättsavdelningen och kontorschefer på regionerna.
+3.3.5 UtlandsKU i Östersund
+Sedan 2002 bedrivs en samordnad granskning av automatiska 
+kontrolluppgifter på fysiska personer. Sedan den 1 januari 2006 är arbetet 
+koncentrerat till Norra regionen och en särskild grupp (utlandsKU) på 
+skattekontoret i Östersund.50 
+3.3.6 Verksamhetsstödsavdelningen
+På uppdrag av huvudkontoret ansvarar Skatteverkets 
+verksamhetsstödsavdelning (VE) för underhåll och utveckling av it-stödet på 
+det internationella området. Sedan 2008 har VE även fått i uppdrag att ta 
+fram statistik till huvudkontoret avseende automatiska kontrolluppgifter till 
+och från utlandet.
+3.3.7 Rättsavdelningen
+Huvudkontorets rättsavdelning ansvarar för den rättsliga styrningen på det 
+internationella området men har ingen del i den praktiska hanteringen av 
+informationsutbytet.
+50 Mellan åren 2002 och 2006 var identifiering och kontroll av automatiska kontrolluppgifter på  
+ fysiska personer uppdelad mellan skattekontoren i Hudiksvall och Östersund.
+
+31 RIKSREVISIONENInternationell skattekontroll
+4 Utbyte av automatiska kontrolluppgifter
+4.1 Hantering av automatiska kontrolluppgifter
+Automatiska kontrolluppgifter (KU) kan delas in i två grupper, dels de 
+automatiska KU som skickas till följd av EU:s sparandedirektiv, dels de 
+automatiska KU som skickas inom ramen för ett skatteavtal, s.k. OECD-
+uppgifter. 
+4.1.1 OECD-uppgifter
+När andra länder skickar automatiska kontrolluppgifter inom ramen för 
+ett skatteavtal till Skatteverket är det utlandsskattekontoren i Malmö och 
+Stockholm som i egenskap av behörig myndighet tar emot uppgifterna 
+utifrån deras länderansvar. OECD-uppgifterna omfattar ett 15-tal olika 
+typer av kontrolluppgifter och kan komma när som helst under året, ibland 
+flera år efter beskattningsåret. Majoriteten av kontrolluppgifterna kommer 
+inlästa på cdskivor. Kontrolluppgifterna diarieförs av utlandsskattekontoren 
+innan de skickas vidare till Skatteverkets verksamhetsstödsavdelning 
+(VE) för inläsning i Skatteverkets lokala taxeringssystem, LT. När 
+kontrolluppgifterna är inlästa i LT anses de vara ”i drift” eller ”i produktion”, 
+dvs. kontrolluppgifterna finns tillgängliga för identifiering och användning i 
+kontrollverksamheten. En mindre andel av de utländska kontrolluppgifterna 
+kommer fortfarande på papper eller i excel- och wordfiler och går inte att läsa 
+in i LT-rutinen.51
+ När Skatteverket skickar automatiska KU till andra länder tar VE 
+fram de aktuella kontrolluppgifterna från Skatteverkets basregister och 
+bränner in dem på cdskivor, en för varje land. Kontrolluppgifterna följer 
+ett tekniskt format som är fastställt av OECD. VE skickar cdskivorna till 
+utlandsskattekontoren i Malmö eller Stockholm. Som behörig myndighet 
+har utlandsskattekontoren ansvar för att cdskivorna skickas till respektive 
+land utifrån deras länderansvar. 52 Enligt uppgift från VE har man som 
+målsättning att skicka samtliga OECD-uppgifter senast i slutet av juni året 
+efter beskattningsåret.
+51 Skatteverket (2007), UtlandsKU. Skatteverket (2008), Förstudierapport, KU-utland, version 1.0.
+52 Skatteverket (2007), UtlandsKU. Skatteverket (2008), Förstudierapport, KU-utland, version 1.0.
+
+32RIKSREVISIONEN Internationell skattekontroll
+4.1.2 Kontrolluppgifter enligt EU:s sparandedirektiv
+Inom ramen för EU:s sparandedirektiv hanteras tre typer av automatiska 
+kontrolluppgifter: 53
+1. KU 20 avseende ränteinkomster.
+2.  KU 21 avseende obligationer.
+3.  KU 40 avseende avyttring av andel i investeringsfond.
+Samtliga EU-länder använder samma system för överföring av automatiska 
+KU enligt EU:s sparandedirektiv, det s.k. CCN-mail. CCN- mail är ett 
+skyddat internetbaserat system för att skicka kontrolluppgifter mellan 
+EU:s medlemsländer. Systemet används även för att skicka uppgifter på 
+den indirekta skattens område, dvs. uppgifter om moms och punktskatter. 
+När kontrolluppgifter skickas via CCN-mail skickas även ett följebrev, 
+ett s.k. Technical Sheet, som indikerar att det finns nya uppgifter i CCN-
+mail.54 Från och med 2008 har EU bytt teknisk standard för överföring av 
+kontrolluppgifter med CCN-mail.55 
+ Hanteringen av kontrolluppgifter enligt sparandedirektivet liknar 
+hanteringen av OECD-uppgifterna. Till skillnad från OECD-uppgifterna är det 
+en kontaktperson på VE, och inte utlandsskattekontoren, som på uppdrag 
+från huvudkontoret har ansvar för att ta emot och skicka kontrolluppgifter 
+och följebrev till och från andra EU-länder. När det kommer in 
+kontrolluppgifter från ett annat EU-land är det kontaktpersonens ansvar att 
+lägga in kontrolluppgifterna i en speciell mapp som skickas till driftenheten 
+på VE. Driftenheten ansvarar för att kontrolluppgifterna läses in i LT.
+ Ansvariga för kontrolluppgiftssystemet på VE tar på uppdrag 
+från huvudkontoret fram de kontrolluppgifter som ska skickas till 
+andra EU-länder från Skatteverkets basregister. Driftenheten skickar 
+kontrolluppgifterna till den utsedde kontaktpersonen på VE som skickar 
+vidare kontrolluppgifterna till respektive land via CCN-mail tillsammans med 
+ett följebrev.
+ Till skillnad mot OECD-uppgifterna, som saknar en bestämd 
+tidsgräns, finns en bestämmelse om att kontrolluppgifter avseende 
+sparandedirektivet, med vissa undantag, ska skickas senast den 30 juni året 
+efter beskattningsåret.
+53 Intervju med Skatteverkets verksamhetsstödsavdelning (VE) 2008-08-27.
+54 Alla uppgifter som skickas inom ramen för sparandedirektivet kommer via CCN-mail, förutom  
+ kontrolluppgifter från oberoende territorier som kommer på papper. Dessa kontrolluppgifter  
+ läggs i en särskild mapp och en kopia skickas till utlandsKU i Östersund. Kontrolluppgifter till  
+ oberoende territorier skickar Sverige med CCN-mail till moderlandet.
+55 Under 2008 har den tekniska standarden ändrats från SMF till SDF-XML.
+
+33 RIKSREVISIONENInternationell skattekontroll
+4.1.3 Inläsning av automatiska kontrolluppgifter
+Enligt Skatteverkets arbetsbeskrivning för automatiska KU från utlandet är 
+målsättningen att kontrolluppgifterna ska vara inlästa i LT, 10 dagar efter 
+ankomststämpling på Skatteverket.56 
+ För att kunna följa kontrolluppgifterna från att de inkommer till 
+utlandsskattekontoren till dess att de läses in i LT finns en arbetsgrupp på 
+Skatteverkets intranät där samtliga delansvariga ska dokumentera vad som 
+gjorts och när i varje steg i flödesplanen.57 För att inga medier eller filer ska 
+stanna upp i processen framgår av arbetsbeskrivningen att varje person som 
+gjort sitt moment i processen ska meddela nästa person i kedjan att det är 
+ett medium eller en fil på väg som ska åtgärdas. Utlandsskattekontoren ska 
+t.ex. meddela den ansvarige för utlandsKU i Östersund att materialet är 
+produktionssatt.
+ Vid en sammanställning av Skatteverkets uppgifter om ankomstdatum 
+och produktionssättningsdatum för OECD-uppgifter som inkommit på 
+datamedier under åren 2007–2009 framkommer att de flesta av OECD-
+uppgifterna ännu inte är inlästa i LT. Av de 33 filer som inkommit har endast 
+10 lästs in i LT. Inga OECD-uppgifter som inkommit under 2009, totalt 12 
+filer, är ännu inlästa i LT. Flera av OECD-uppgifterna som inte är inlästa avser 
+inkomståret 2005 eller tidigare och riskerar därmed att bli för gamla för 
+att kunna användas i taxeringen redan innan de lästs in i LT. 58 Hur många 
+kontrolluppgifter filerna innehåller framgår endast av 7 filer.
+56 Skatteverket (2008) Arbetsbeskrivning för automatiska KU från utlandet.
+57 Skatteverket (2008) Arbetsbeskrivning för automatiska KU från utlandet. Enligt arbetsbeskrivningen  
+ ska alla ansvariga som överlåter åt någon annan att utföra sin del anteckna i arbetsgruppen vad  
+ som gjorts åt ärendet.
+58 Dessa problem uppmärksammades redan i Skatteverket (2004), Utvärdering av utlandsKU,  
+ försöksverksamhet i region Gävle och Östersund.
+
+34RIKSREVISIONEN Internationell skattekontroll
+Tabell 2 Produktionssättningstid för OECD-uppgifter som inkommit till Skatteverket 
+2007–2009
+Ankomstdatum 
+Utlandsskattekont. Land Inkomstår Antal KU Till VE
+Tillgängligt 
+i LT
+2009-09-28 Belgien 2007 1 980 2009-09-28 Nej
+2009-09-25 Norge 2008 ? 2009-09-25 Nej
+2009-09-22 Nya Zeeland 2007–2008 ? 2009-09-24 Nej
+2009-09-18 Estland 2008 ? 2009-09-18 Nej
+2009-08-31 Tjeckien 2007–2008 ? 2009-09-24 Nej
+2009-08-12 Slovenien 2008 ? 2009-08-21 Nej
+2009-07-14 Italien 2005 2 590 2009-07-17 Nej
+2009-07-13 Finland 2008 ? 2009-07-16 Nej
+2009-07-07 Litauen 2008 ? 2009-07-10 Nej
+2009-07-06 Danmark 2008 102 497 2009-07-31 Nej
+2009-07-06 Japan Ej angivet ? 2009-07-17 Nej
+2009-01-28 Norge 2007 ? 2009-01-30 Nej
+2008-11-26 Island 2007 ? 2008-12-02 Nej
+2008-10-27 Australien 2007 ? 2008-10-29 Ja
+2008-10-28 Norge 2007 ? 2008-10-28 Nej 1
+2008-10-28 Norge 2007 ? 2008-10-28 Ja
+2008-10-20 UK 2006–2007 ? 2008-10-24 Ja
+2008-07-11 Finland 2007 ? 2008-10-24 Nej
+2008-06-27 Polen 2007 ? 2008-07-25 Nej
+2008-03-17 Kanada 2006 ? 2008-04-24 Nej 2
+2008-02-08 Island 2006 ? 2008-03-18 Ja
+2008-01-07 Danmark 2006 ? 2008-02-07 Nej 2
+2007-11-22 Tyskland 2002–2006 ? 2007-02-07 Nej 2
+2007-08-21 Polen 2006 1 036 2007-09-28 Nej
+2007-07-16 Kanada 2005 ? 2008-04-24 Nej 2
+2007-07-06 Danmark 2006 ? 2007-09-28 Ja
+2007-06-04 Frankrike 2005 616 2007-06-07 Ja
+2007-05-31 Litauen 2006 ? 2007-06-01 Ja
+2007-04-30 Nederländerna 2005 ? 2007-05-04 Nej
+2007-03-23 Japan 2004 ? 2007-04-10 Nej
+2007-01-26 Frankrike 2005 5 486 2007-02-27 Ja
+2007-01-24 Polen 2005 1 020 2007-02-28 Ja
+2007-01-17 Danmark 2006 ? 2007-03-08 Ja
+1) Vissa uppgifter om tillgångars värde finns i LT.
+2) Fel på filen.
+Källa: Skatteverket, arbetsgruppen: utlandsKU, 2009-10-12.
+Även när det gäller automatiska KU som inkommer inom ramen för 
+EU:s sparandedirektiv framträder en bild av omfattande fördröjningar i 
+inläsningen i LT. De första uppgifterna som inkom avseende inkomståren 
+
+35 RIKSREVISIONENInternationell skattekontroll
+2005 och 2006 lästes inte in i LT förrän under hösten 2007. Kontrolluppgifter 
+avseende inkomståret 2007 och 2008 har ännu inte kunnat läsas in i LT. 
+Vissa kontrolluppgifter avseende inkomståret 2007 har däremot skickats i 
+excelfiler till utlandsKU i Östersund för identifiering och granskning. Under 
+2007 slutfördes 13 utredningar där taxeringen höjdes. Enligt ansvarig på 
+utlandsKU beror det låga antalet utredningar på att kontrolluppgifterna blev 
+tillgängliga sent och att utredningarna tar lång tid.59 Ett av skälen bakom 
+fördröjningen är enligt VE att man har prioriterat arbetet med att kunna 
+skicka kontrolluppgifter i det nya formatet i CCN-mail.60 
+Tabell 3 Produktionssättningstid för kontrolluppgifter avseende sparandedirektivet, 
+inkomstår 2005-2009
+Ankomstdatum Inkomstår Antal KU Tillgängligt i LT
+juli 2006 2005 75 004 hösten 2007
+juli 2007 2006 86 412 hösten 2007
+juli 2008 2007 104 737 nej 2
+juli 2009 2008 78 229 1 nej
+1) Alla kontrolluppgifter har inte inkommit. 
+2) Kontrolluppgifter från Danmark finns tillgängliga i LT.
+Källa: Skatteverket, utlandsKU i Östersund.
+Som vi sett ovan är det inte ovanligt att automatiska KU blir liggande i flera 
+år innan de kommer i produktion. Majoriteten av de automatiska KU som 
+inkommit till Skatteverket under åren 2007-2009 finns inte tillgängliga i LT.
+ Enligt en intern utredning på Skatteverket finns det stora tekniska och 
+materiella brister i det moment som avser att importera informationen i LT.61 
+Uppgifter har skickats tillbaka från VE till utlandsskattekontoren på grund 
+av att de skulle vara felaktiga, men vid avstämning av utlandsskattekontoren 
+har de visat sig vara korrekta. 
+ På VE hänvisar man till att det varken finns tid eller tillräcklig kunskap 
+om innehållet i filerna för att kontrollera felaktigheterna.62 Ytterligare ett 
+problem är att endast en del av informationen i kontrolluppgifterna kan läsas 
+in på grund av utrymmesbrist. Det finns helt enkelt inte tillräckligt med fält i 
+LT.
+ Det finns ingen statistik över hur många kontrolluppgifter som 
+skickas tillbaka på grund av tekniska fel, och återrapportering till andra 
+länder om att kontrolluppgifterna innehåller fel förekommer inte. Något 
+påminnelseförfarande till länder som endast skickat kontrolluppgifter för 
+vissa år finns inte heller.
+59 Skatteverket (2008), Sparandedirektivet 2007.
+60 Intervju med Skatteverkets verksamhetsstödsavdelning (VE) 2008-08-27.
+61 Skatteverket (2008), Kontrolluppgifter – En inventering av kunskapsbehov.
+62 Skatteverket (2008), Kontrolluppgifter – En inventering av kunskapsbehov.
+
+36RIKSREVISIONEN Internationell skattekontroll
+4.1.4 Automatiska kontrolluppgifter till utlandet
+De automatiska KU som Skatteverket skickar till andra länder baseras på 
+uppgifter som finns i Skatteverkets databaser avseende personer med 
+utländsk adress och som utbetalare (företag, banker etc.) ska lämna enligt 
+lagen (2001:1227) om självdeklarationer och kontrolluppgifter (LSK). 
+Uppgifterna ska skickas om det finns en utländsk adress eller landkod 
+angiven för betalningsmottagaren, antingen för den tid uppgiften avser 
+(inkomståret) eller den tidpunkt då uppgiften hämtas ur Skatteverkets 
+system. Uppgifterna hämtas från databaserna i slutet av maj under 
+taxeringsåret. 
+ När det gäller kontrolluppgifter som Sverige skickar till andra EU-länder 
+inom ramen för sparandedirektivet har Sverige enligt uppgift från VE klarat 
+av att skicka uppgifterna före den 30 juni året efter inkomståret under alla år 
+sedan direktivet infördes 2005.63
+ Skatteverkets ambition är även att OECD-uppgifterna ska skickas i 
+slutet av juni året efter inkomståret. Enligt uppgifter från Skatteverkets 
+diariesystem skickades uppgifter avseende inkomståret 2008 i juli 2009. 
+Kontrolluppgifter avseende inkomståret 2007 skickades i december 2008  
+(13 filer) och i juli 2009 (6 filer).
+ Även när det gäller de kontrolluppgifter som Skatteverket skickar till 
+andra länder förekommer vissa tekniska problem. Till exempel saknas 
+möjlighet att skräddarsy informationen i enlighet med det avtal som gäller 
+med ett specifikt land. I stället skickas likadan information till alla länder 
+med vilka Sverige har ett avtal.64
+4.2 Omfattning av automatiska kontrolluppgifter
+Skatteverket utbyter automatiska KU med ett fyrtiotal olika länder. 
+Informationen på uppgifterna är kortfattad. Det som alltid framgår är 
+vem som tagit emot inkomsten, vem som betalat ut inkomsten, vilket år 
+inkomsten avser och vilket belopp som betalats ut.65 
+ Skatteverket saknar ett centralt uppföljningssystem för 
+informationsutbytet varför det inte går att få fram en heltäckande bild av 
+informationsutbytets omfattning och utveckling över tiden. Det är framför 
+allt automatiska KU som inkommer till Skatteverket som det är svårt att få 
+ett samlat grepp kring. Det lokala taxeringssystemet, LT, lämpar sig inte för 
+statistiska bearbetningar och sökmöjligheterna är begränsade. Som vi sett 
+63 Inkommet mejl från Skatteverkets verksamhetsstödsavdelning (VE) 2009-11-03.
+64 Skatteverket (2008), Förstudierapport, KU-utland, version 1.0.
+65 Skatteverket (2008), UtlandsKU – statistik.
+
+37 RIKSREVISIONENInternationell skattekontroll
+ovan läses många automatiska KU inte in i LT av tekniska eller andra skäl. 
+Till dessa ska läggas de automatiska KU som inkommer till Skatteverket på 
+papper eller i en word- eller excelfil och som inte heller kan läsas in i LT. Hur 
+många automatiska KU som totalt inkommer till Skatteverket och hur många 
+av dessa som gått att läsa in i LT är därför inte känt. När det gäller antalet 
+skickade automatiska KU är statistiken mer heltäckande.
+4.2.1 OECD-uppgifter till andra länder
+Antalet automatiska KU som Skatteverket skickar till andra länder har ökat 
+kraftigt under de senaste tio åren. Under 2009 skickade Skatteverket ca 1,3 
+miljoner automatiska KU till andra OECD-länder för inkomståret 2008. Detta 
+kan jämföras med de ca 250 000 kontrolluppgifter som Sverige skickade 
+2001 avseende inkomståret 2000. Danmark, Finland och Norge mottog 
+ca 75 procent av kontrolluppgifterna 2009. Flest kontrolluppgifter, ca 60 
+procent, avser erhållen ersättning för optionsaffär, terminsaffär, fond eller 
+avyttring av delägarrätt.
+
+38RIKSREVISIONEN Internationell skattekontroll
+Tabell 4 Antal skickade automatiska KU till OECD-länder 2009, avseende inkomståret 
+2008
+Land Totalt
+Varav
+Avyttring 
+delägarrätt, 
+optionsaffär, 
+fond m.m. 1
+Utdelning 
+/innehav 
+delägarrätt
+Social 
+kontrolluppgift Övrigt 2
+Norge 455 767 355 241 45 282 13 884 41 360
+Danmark 277 654 219 977 27 262 10 449 19 966
+Finland 241 304 160 697 15 682 49 192 15 733
+USA 70 785 11 692 32 875 9 615 16 603
+Storbritannien 53 757 10 894 23 511 5 051 14 301
+Tyskland 48 421 5 273 13 122 20 337 9 689
+Frankrike 31 098 5 215 10 890 8 260 6 733
+Spanien 30 924 5 000 8 382 11 907 5 635
+Polen 16 088 4 549 1 136 1 039 9 364
+Italien 10 961 1 305 3 612 3 712 2 332
+Australien 10 041 1 206 4 191 2 247 2 397
+Nederländerna 9 737 1 979 3 747 1 565 2 446
+Kanada 8 896 779 2 994 3 136 1 987
+Japan 3 423 660 1 562 184 1 017
+Estland 2 719 1 087 456 378 798
+Island 2 687 434 930 516 807
+Ryssland 2 378 671 700 91 916
+Tjeckien 2 051 273 673 512 593
+Litauen 1 878 137 118 29 1 594
+Nya Zeeland 1 373 135 630 185 423
+Lettland 1 133 243 230 106 554
+Slovenien 593 43 89 364 97
+Slovakien 457 88 104 55 210
+Grönland 183 120 41 8 14
+Färöarna 117 79 9 10 19
+Totalt 1 284 425 787 777 198 228 142 832 155 588
+1)  KU i denna kategori avser erhållen ersättning för avyttring av delägarrätt,  
+ optionsaffär, terminsaffär, kapitalvinst eller erhållen ersättning avseende fond samt  
+ överlåtelsepris på avyttring av bostadsrätt.
+2)  I övrigt ingår bl.a. kontant lön, tjänstepension, näring och ränteinkomst.
+Källa: Skatteverket.
+4.2.2 Automatiska kontrolluppgifter enligt sparandedirektivet
+Genom sparandedirektivet byter EU:s medlemsländer automatiskt 
+information om räntebetalningar sedan 1 juli 2005. Under 2008 skickade 
+Sverige knappt 50 000 uppgifter och tog emot drygt 100 000 uppgifter 
+avseende inkomståret 2007.
+
+39 RIKSREVISIONENInternationell skattekontroll
+Tabell 5 Antal inkommande och utgående KU, sparandedirektivet, inkomstår 2005–2008
+Inkomstår Inkommande KU Utgående KU
+2005 75 004 –
+2006 86 412 36 700
+2007 104 737 47 248
+2008 78 2291 53 144
+1)  Alla uppgifter har inte inkommit.
+Källa: Skatteverket.
+4.2.3 Källskatt
+Tre EU-länder – Belgien, Luxemburg och Österrike – har inte anslutit sig till 
+sparandedirektivet och har medgivits undantag från informationsutbytet, 
+med hänvisning till banksekretess. I stället för att lämna ut information om 
+inkomsten tar dessa länder ut en källskatt på ränteutbetalningar som sedan 
+överförs till den medlemsstat där den enskilde bor. EU har ingått liknande 
+avtal med Schweiz, Liechtenstein, Andorra, Monaco, San Marino, Guernsey, 
+Isle of Man, Jersey, Brittiska Jungfruöarna, Nederländska Antillerna och 
+Turks- och Caicoöarna. Under 2009 har Sverige mottagit sammanlagt ca 104 
+miljoner kronor i källskatt från dessa länder, vilket är en ökning med ca 34 
+miljoner jämfört med 2008 och 2007 (tabell 6). 
+Tabell 6 Inbetald källskatt, sparandedirektivet, 2007-2009, kronor
+Land 2007 2008 2009
+Andorra 3 134 537 3 143 807 121 449
+Antillerna – – 2 677
+Belgien 1 184 176 1 182 551 1 540 509
+Brittiska Jungfruöarna 1 540 1 540 537
+Guernsey 868 871 868 871 915 394
+Isle of Man 2 491 727 2 491 727 1 333 114
+Jersey 3 522 850 3 522 850 4 603 359
+Liechtenstein 590 246 590 246 867 520
+Luxemburg 20 666 281 20 609 778 30 907 943
+Monaco 437 843 439 981 754 347
+San Marino 4 644 4 653 23 042
+Schweiz 37 014 616 37 014 616 58 023 198
+Österrike – – 4 794 268
+Totalt 69 917 331 69 870 621 103 887 356
+Källa: Skatteverket.
+
+40RIKSREVISIONEN Internationell skattekontroll
+Om man jämför inbetalningarna av källskatt från Schweiz till Sverige 
+2008 med de inbetalningar som gjorts till Danmark och Finland under 
+motsvarande period och tar hänsyn till antalet invånare i respektive land 
+visar det sig att den inbetalda källskatten från Schweiz är betydligt högre i 
+Sverige än i Danmark och Finland. Sverige erhöll 2008 ca 430 euro per tusen 
+invånare i källskatt från Schweiz medan motsvarande belopp i Danmark 
+och Finland var 150 respektive 120 euro (tabell 7). Varför det ser ut så här 
+finns det inget entydigt svar på. Delvis kan det förklaras av att ca 50 procent 
+av svenskarnas sparande i utlandet finns i Schweiz. Det är också troligt 
+att fler svenskar än danskar och finländare har sparande där. Sverige har 
+även högre skatt på ränteinkomster än Danmark och Finland. Ytterligare 
+en förklaring är att Sveriges skatteavtal med Schweiz, till skillnad mot 
+Danmark och Finland, saknar en klausul om informationsutbyte. Genom 
+informationsutbytesklausulen har Finland och Danmark större möjlighet till 
+insyn i sina medborgares tillgångar placerade i Schweiz än vad Sverige har. 
+Det är troligt att avsaknaden av en informationsutbytesklausul i det svenska 
+skatteavtalet gör att fler svenskar är benägna att placera pengar i Schweiz 
+jämfört med privatpersoner i Danmark och Finland. Den sistnämnda 
+förklaringen skulle i så fall vara ett bevis på informationsutbytets preventiva 
+effekt.
+Tabell 7 Inbetald källskatt 2008, jämförelse mellan Sverige, Danmark och Finland, totalt 
+och per tusen invånare, euro
+Antal invånare, 
+tusental 9 118 5 552* 5 305**
+Belopp per  
+tusen invånare
+ Sverige Danmark Finland Sverige Danmark Finland
+Liechtenstein 62 792 25 180 8 068 7 5 2
+Guernsey 92 433 22 596 8 737 10 4 2
+Belgien 125 976 65 381 43 613 14 12 8
+Jersey 374 771 105 652 75 081 41 19 14
+San Marino 494 2 416 -- 0 0 --
+Luxemburg 2 198 541 818 153 643 654 241 147 121
+Andorra 333 461 7 865 790 37 1 0
+Schweiz 3 937 725 1 264 106 560 482 432 228 106
+Brittiska Jungf. 164  52 0  0
+Monaco 46 579 18 844 8 972 5 3 2
+Isle of Man 265 077   29   
+Österrike  47 717 14 348  9 3
+Totalt 7 438 014 2 377 910 1 363 796    
+Totalt exkl. BVI, Isle of Man och Österrike
+Totalt 7 172 773 2 330 193 1 349 396
+Per tusen 
+invånare 787 420 254
+*Danmark inkl. Färöarna och Grönland.
+** Finland inkl. Åland.
+Källa: Skatteverket.
+
+41 RIKSREVISIONENInternationell skattekontroll
+4.2.4 Automatiska kontrolluppgifter i taxeringssystemet
+I tabell 8 nedan framgår hur många automatiska KU från utlandet som i 
+dag finns inlagda i LT fördelat efter vilket inkomstår kontrolluppgiften avser. 
+Sparandedirektivet började gälla den 1 juli 2005 varför uppgifter för åren 
+2001–2004 endast avser OECD-uppgifter. Som vi sett tidigare går det inte att 
+ur LT söka ut hur många av kontrolluppgifterna som avser OECD-uppgifter 
+och hur många som avser kontrolluppgifter som lämnats till följd av 
+sparandedirektivet. Det finns ännu inga kontrolluppgifter inlagda avseende 
+inkomståret 2008.66 
+Tabell 8 Antal automatiska KU i LT fördelat på inkomstår
+Inkomstår Totalt antal KU
+Varav KU som avser 
+sparandedirektivet
+2001 155 657 –
+2002 102 300 –
+2003 241 825 –
+2004 258 428 –
+2005 88 630 75 000*
+2006 144 385 75 000*
+2007 73 648 –
+2008 – –
+* Uppskattningar av utlandsKU i Östersund.
+Källa: Skatteverket, utlandsKU, september 2008.
+Utöver de automatiska KU som ligger i LT tillkommer de kontrolluppgifter 
+som inte lästs in i LT samt de kontrolluppgifter som inkommit på papper 
+eller i en excel- eller wordfil. Det finns ingen sammanställning över antalet 
+kontrolluppgifter som kommer in på papper eller fil. Enligt uppgift från 
+Skatteverket har man enbart från Danmark och Finland tagit emot ca 
+240 000 kontrolluppgifter på excelfil för åren 2005–2007. Från Norge har 
+Skatteverket mottagit ca 6 000–10 000 automatiska KU i pappersform per år 
+för åren 2002–2006. Dessa siffror indikerar att den manuella hanteringen av 
+kontrolluppgifter från utlandet är betydande.
+66 Inkommet mejl från utlandsKU i Östersund, 28 augusti 2009.
+
+42RIKSREVISIONEN Internationell skattekontroll
+4.3 Identifiering och kontroll av automatiska kontrolluppgifter
+Innan kontrolluppgifterna kan användas i granskningsverksamheten måste 
+de identifieras. Identifieringen innebär att man tar reda på vilken person 
+eller vilket företag kontrolluppgiften avser. I dag finns inget automatiskt 
+identifieringssystem utan identifieringen bedrivs genom en omfattande 
+manuell hantering. 
+ UtlandsKU i Östersund har ansvar för identifiering av automatiska KU, 
+dvs. både för fysiska och juridiska personer. Östersund ansvarar även för 
+kontrollen av automatiska KU på fysiska personer. Ansvaret för kontrollen av 
+automatiska KU på företag ligger däremot på utlandsskattekontoren.
+4.3.1 Identifiering av automatiska kontrolluppgifter avseende fysiska personer
+UtlandsKU i Östersund identifierar kontrolluppgifter avseende fysiska 
+personer överstigande vissa beloppsgränser.67 Eftersom personnummer 
+saknas måste en relativt tidskrävande sökning göras utifrån uppgifter om 
+namn, adress eller födelsedatum. Alla länder har olika sätt att registrera 
+och identifiera sina medborgare och företag och få använder TIN (Tax 
+Identification Number). Kontrolluppgifterna från de nordiska länderna 
+är generellt av bra kvalitet vilket bl.a. beror på att de använder sig av 
+liknande system som de svenska personnumren. Ett annat problem med 
+identifieringen är att information som kan underlätta identifieringen ofta 
+presenteras i fel fält och att alla fält inte presenteras. Ett annat relativt vanligt 
+fel är att beloppen i kontrolluppgifterna visar sig svårtydbara. Många länder 
+skickar dubblettuppgifter och antalet dubblettuppgifter har också ökat som 
+en följd av sparandedirektivet. Generellt har dock kvaliteten förbättrats 
+med åren. Därtill har man blivit bättre på att hantera kvalitetsbrister, som 
+t.ex. svårigheter att identifiera vem uppgiften avser. Sammantaget är det få 
+kontrolluppgifter som inte kan användas i kontrollen till följd av bristande 
+kvalitet på uppgifterna.
+ Rent praktiskt går det till så att när kontrolluppgifterna finns tillgängliga 
+i LT väljer man ut de kontrolluppgifter som ska identifieras och granskas. 
+Under 2008 gjordes 1 998 utredningar, vilket resulterade i 1 496 beslut.68 
+Under 2008 nådde man målet att 75 procent av alla utredningar ska leda till 
+beslut.
+67 Intervju med Skattekontoret i Östersund 2008-06-13.
+68 Inkommet mejl från Skattekontoret i Östersund 2009-11-03.
+
+43 RIKSREVISIONENInternationell skattekontroll
+4.3.2 Granskning av kontrolluppgifter avseende fysiska personer
+UtlandsKU i Östersund arbetar inte med urval utan granskar 
+kontrolluppgifter avseende fysiska personer som överstiger vissa 
+beloppsgränser.69 I granskningen prioriterar man de äldsta åren och det 
+senaste året om det gäller omprövning. Granskningen sker i form av 
+skrivbordskontroll.70 
+ Statistik över antalet utredningar och ändring av skatt avseende 
+automatiska KU på fysiska personer visar att den genomsnittliga höjningen 
+ökat från ca 13 000 kronor 2006 till drygt 26 000 kronor 2008. 
+Tabell 9 Ändring skatt utländska kontrolluppgifter avseende fysiska personer, 2006–2008, 
+mnkr
+ 
+Antal 
+utred.
+Ändring 
+underlag
+Ändring 
+skatt
+Avräkning 
+utl. Skatt
+Skattetillägg
+Ändring 
+efter 
+avr. utl. 
+skatt
+Ändring  
+som 
+andel av 
+underlaget
+Höjning 
+per 
+utredning
+2006 2 533 243 33 5,0 3,0 28,1 12 % 13 064
+2007 3 580 773 71 8,6 6,0 62,8 8 % 19 938
+2008 1 998 472 53 6,0 4,6 47,2 10 % 26 599
+Källa: Skatteverket.
+Att höjningsbeloppen ökar beror enligt utlandsKU i Östersund 
+framför allt på att många automatiska KU som skickas inom ramen för 
+sparandedirektivet visar på stora belopp. Att det totala antalet utredningar 
+sjunker något under 2008 beror enligt skattekontoret i Östersund i första 
+hand på att definitionen av vad som utgör en utredning har ändrats. Sedan 
+2008 krävs skriftväxling (kommunikation) med den skattskyldige för att en 
+utredning ska anses föreligga. Tidigare ansågs det föreligga en utredning så 
+fort Skatteverket begärt in en deklaration.71
+ Automatiska KU från utlandet kommer in senare än motsvarande 
+svenska kontrolluppgifter varför uppgifterna i första hand används i 
+eftertaxeringskontrollen. Det händer också att uppgifterna används 
+i övrig skattekontroll. Materialet har t.ex. använts vid granskning av 
+optionsprogram, kontokortsaffärer och vid årlig taxering.
+69 Intervju med Skattekontoret i Östersund 2008-06-13.
+70 Med skrivbordskontroll avses normalt kontroll som sker med hjälp av de uppgifter som kan 
+ inhämtas i Skatteverkets beskattningsdatabas. 
+71 Inkommet mejl från Skattekontoret i Östersund 2009-11-03.
+
+44RIKSREVISIONEN Internationell skattekontroll
+4.3.3 Identifiering av kontrolluppgifter avseende företag
+UtlandsKU i Östersund har även ansvar för identifieringen av automatiska 
+KU avseende företag. När kontrolluppgifterna är identifierade ska 
+de överföras till utlandsskattekontoren för kontroll. Det framgår att 
+utlandsskattekontoren inte får reda på när det finns nya automatiska KU 
+avseende företag identifierade.72 I dag råder därför oklarhet om hur många 
+automatiska KU på företag som faktiskt identifieras. Enligt nya riktlinjer 
+från 2009 ska samtliga automatiska KU från och med inkomståret 2005 
+identifieras, förutom kontrolluppgifter tillhörande vissa av de allra största 
+företagen.73
+ Utlandsskattekontoren uppskattar att det ligger många oidentifierade 
+automatiska KU avseende företag i LT. Eftersom det inte går att se om 
+kontrolluppgifterna avser fysiska eller juridiska personer i LT är det dock inte 
+möjligt att ange antalet.74
+4.3.4 Granskning av kontrolluppgifter avseende företag
+Utlandsskattekontoren har ansvar för kontrollen av automatiska KU på 
+företag.75 Enligt utlandsskattekontoren finns det inget större intresse för 
+automatiska KU på juridiska personer i dagsläget eftersom en stor del 
+av kontrolluppgifterna inte innehåller någon information av värde för 
+kontrollen. Man vill helt enkelt inte lägga ned tid på att gå igenom uppgifter 
+som i stor utsträckning inte bedöms vara granskningsvärda. Å andra sidan 
+uppger utlandsskattekontoren att vissa automatiska KU avseende företag 
+har använts och varit till nytta i flera kontrollprojekt. Utlandsskattekontoren 
+framhåller att det finns ett behov av att kartlägga automatiska KU avseende 
+företag för att kunna bedöma uppgifternas användbarhet och i förlängningen 
+vilken inriktning och omfattning kontrollen ska ha. 
+4.3.5 Automatisk identifiering
+Skatteverket har ingen automatisk identifiering av utländska kontrolluppgifter 
+utan all identifiering sker manuellt. På utlandsskattekontoren liksom på 
+utlandsKU i Östersund pekar man på identifieringsfrågan som det stora 
+problemet med automatiska KU i dag. Manuell identifiering är en långsam 
+72 Intervju med utlandsskattekontoret i Stockholm 2009-09-21.
+73 Inkommet mejl från Skattekontoret i Östersund 2009-08-28.
+74 Intervju med utlandsskattekontoret i Malmö 2008-06-26.
+75 Intervju med utlandsskattekontoret i Stockholm 2009-09-21 och Malmö 2008-06-26.
+
+45 RIKSREVISIONENInternationell skattekontroll
+process. Vikten av automatisk identifiering har diskuterats länge. I sitt 
+remissvar till skattebasutredningen skrev dåvarande Riksskatteverket år 
+2002:
+”RSV anser att det fortsatta arbetet med informationsutbyte mellan länder bör 
+fokuseras på att säkerställa identifiering av skattskyldiga och att informationen 
+kan lämnas lika tidigt som nationell kontrollinformation.”76
+I en utvärdering av kontrollen av utländska kontrolluppgifter från 2004 
+skriver Skatteverket:
+”För att minimera den manuella hanteringen kring de utländska 
+kontrolluppgifterna och för att vi ska kunna ta om hand om de utländska 
+kontrolluppgifterna i framtiden är det en absolut förutsättning att det tillskapas 
+ett maskinellt identifieringssystem.”77 
+I samma rapport skriver man också att den nordiska arbetsgruppen för 
+automatiska KU har kunnat konstatera att:
+”När det gäller ländernas sätt att identifiera kontrolluppgifter från andra 
+länder är det endast Danmark som använder sig av maskinell identifiering med 
+hjälp av ett system som kallas Sakfu (System til behandling af automatiske 
+kontroloplysningar fra utlandet). När Toldog Skattestyrelsen tar emot 
+kontrolluppgifter på ADB-media från andra länder så konverteras dessa uppgifter 
+till Sakfudatabasen där det sker en maskinell identifiering vilken normalt sett 
+lyckas med att identifiera 50–70 procent av uppgifterna. De övriga länderna 
+bör också sträva efter ett system för maskinell identifiering. Den manuella 
+hanteringen måste minimeras.”78
+Även i rapporten Skatt utan gränser från 2004 pekar Skatteverket på 
+betydelsen av att man skapar ett maskinellt identifieringsstöd för utländska 
+kontrolluppgifter:
+”Skatteverket måste skapa ett maskinellt identifieringssystem för att minimera 
+den manuella hanteringen kring de utländska kontrolluppgifterna och för att 
+kunna ta hand om de utländska kontrolluppgifterna i framtiden. Vi måste också 
+skapa enhetliga rutiner för den fortsatta hanteringen av de uppgifter som vi 
+tar emot på något ADB-medium. Framförallt bör ansvarsfrågan ses över och 
+tydliggöras.”79
+76 RSV: s yttrande över skattebasutredningens betänkande ”Våra Skatter?” SOU 2002:47,  
+ Remiss Fi 2002/4400.
+77 Skatteverket (2004), Utvärdering av utlandsKU, försöksverksamhet i region Gävle och Östersund.
+78 Skatteverket (2004), Utvärdering av utlandsKU, försöksverksamhet i region Gävle och Östersund.
+79 Skatteverket (2004), Slutrapport från arbetsgruppen ”Skatt utan gränser”.
+
+46RIKSREVISIONEN Internationell skattekontroll
+Att Skatteverket ännu inte infört ett maskinellt identifieringssystem beror 
+enligt Skatteverkets huvudkontor ytterst om prioriteringar.80 Tanken har 
+varit att utvecklingen av ett maskinellt identifieringsstöd ska ingå som 
+en del i en genomgripande översyn av hela taxeringssystemet, den s.k. 
+”taxeringsförnyelsen” (FNYS), som inleddes 2006 med en budget på 
+630 miljoner kronor. I stället för att utveckla olika system var för sig har 
+man velat samla ihop flera utvecklingsinsatser i samband med en större 
+systemförändring. Man har inte ansett sig ha råd att göra små förbättringar. 
+En annan förklaring som nämns är att organisationen avseende hanteringen 
+av utländska kontrolluppgifter är utspridd. Sedan omorganisationen 
+2005 finns den materiella kompetensen i stor utsträckning på 
+utlandsskattekontoren, men de varken kan eller ska utveckla eller förvalta 
+systemen. 
+”Hanteringen av utländska kontrolluppgifter har förändrats i och med den nya 
+organisationen. Tidigare satt alla inblandade nära varandra fysiskt medan det 
+nu är utspritt på huvudkontoret, VE, utlandsskattekontoren och Skattekontoret i 
+Östersund. Det inte är helt självklart vem som gör vad i dag.”81
+Sedan 2009 ligger stora delar av utvecklingsarbetet i ”taxeringsförnyelsen” 
+nere. Skatteverkets huvudkontor har i stället valt att utveckla ett 
+maskinellt identifieringsstöd separat. Utvecklingen ingår som en del i en 
+utvecklingsinsats omfattande hela hanteringen av automatiska KU. 82 
+4.4 Analys och uppföljning av automatiska kontrolluppgifter
+4.4.1 Analys och urval av automatiska kontrolluppgifter
+För att effektivisera kontrollverksamheten och kunna ringa in områden med 
+hög risk för skattefel bedriver Skatteverket ett analys- och urvalsarbete på de 
+flesta kontrollområden. Skatteverket har tillgång till kraftfulla urvalsverktyg 
+och det finns en specialistgrupp på huvudkontoret som uteslutande arbetar 
+med att förbättra urvalsarbetet, den s.k. Priusgruppen.
+ Enligt uppdragsbeskrivningen för insatsen utländska kontrolluppgifter 
+är ansvaret för analys och urval av automatiska KU avseende fysiska 
+personer uppdelat mellan Östersund, som har ansvar för urval, och 
+utlandsskattekontoren som har ansvar för analys.83 Tanken med 
+80 Intervju med Skatteverkets huvudkontor 2008-08-28.
+81 Intervju med Skatteverkets huvudkontor 2008-08-28.
+82 Beställning av utvecklingsinsats avseende hanteringen av automatiska kontrolluppgifter (OECD),  
+ 2008-10-13.
+83 Skatteverket (2008), Uppdragsbeskrivning – samordningsansvar för gemensam insats i riksplanen.
+
+47 RIKSREVISIONENInternationell skattekontroll
+uppdelningen är att utlandsskattekontoren ska analysera risken för skattefel 
+i olika delar av materialet och föreslå åtgärder för att minska skattefelet. 
+Analysen ska sedan kunna användas av Östersund i deras urvalsarbete.
+ Enligt Skattekontoret i Östersund pågår ingen samordning av analys och 
+urval mellan Östersund och utlandsskattekontoren. I dagsläget finns det 
+ingen övergripande analys framtagen. Urvalsarbetet på utlandsKU består 
+i att man granskar kontrolluppgifter avseende fysiska personer över vissa 
+beloppsgränser.
+ Inte heller när det gäller automatiska KU avseende juridiska personer 
+finns någon kartläggning eller analys av innehållet i kontrolluppgifterna och 
+det pågår inget urvalsarbete.
+4.4.2 Uppföljning av automatiska kontrolluppgifter
+Skatteverkets avsaknad av ett centralt uppföljningssystem för 
+informationsutbytet och det faktum att LT inte lämpar sig för statistiska 
+bearbetningar gör att man i dag har svårt att göra uppföljningar och analyser 
+av informationsutbytet.
+ I Skatteverkets övergripande rapportering skriver man att ”någon analys 
+av kontrolluppgifterna har inte kunnat göras då nödvändigt datastöd inte finns 
+tillgängligt. Vi kan därför inte heller leverera statistik till EU på det sätt som 
+begärts. Det finns nu förslag inom EU att utöka uppgiftslämnandet till andra 
+kapitalvinster än räntor”.84
+ Förutom interna behov av analyser och uppföljning av 
+informationsutbytet, finns det externa krav på Skatteverket från bl.a. EU och 
+OECD. OECD har t.ex. önskemål om felrapporter avseende fel land och fel 
+format på uppgifter som lämnas enligt skatteavtal mellan enskilda länder 
+enligt OECD-format.
+4.5 Sammanfattande iakttagelser
+4.5.1 Automatiska kontrolluppgifter läses inte in i Skatteverkets  
+ taxeringssystem
+Enligt Skatteverkets egna arbetsrutiner är målsättningen att automatiska KU 
+ska läsas in i LT inom 10 dagar efter att de inkommit till Skatteverket. Antalet 
+automatiska KU som totalt inkommit till Skatteverket under de senaste åren 
+och hur många av dessa som gått att läsa in i LT är inte känt.
+84 Skatteverket (2008), Övergripande rapportering till 2012.
+
+48RIKSREVISIONEN Internationell skattekontroll
+ En genomgång av produktionssättningstiden för automatiska KU 
+visar att det förekommer omfattande fördröjningar, i många fall flera år, i 
+inläsningen av automatiska KU i LT. Kontrolluppgifterna riskerar i flera fall 
+att bli för gamla för att kunna användas i taxeringen innan de läses in. Av 
+33 OECD-filer som inkom under perioden 2007–2009 har endast 10 lästs 
+in i LT och inga filer som inkom under 2009 har ännu lästs in. Det finns i 
+stort sett inga uppgifter om hur många kontrolluppgifter filerna innehåller. 
+Automatiska KU avseende sparandedirektivet som inkom under 2008 och 
+2009 har inte heller lästs in i LT. Sammanfattningsvis är majoriteten av de 
+filer med automatiska KU som inkommit till Skatteverket sedan 2007 inte 
+tillgängliga i LT.
+ Det finns stora brister i det moment som avser att importera 
+informationen i LT och all information i kontrolluppgifterna får inte plats. Det 
+finns ingen statistik över hur många kontrolluppgifter som skickas tillbaka på 
+grund av tekniska fel, och återrapportering till avsändarlandet om tekniska 
+problem i inläsningen förekommer inte. Något påminnelseförfarande till 
+länder som endast skickat kontrolluppgifter för vissa år finns inte heller.
+4.5.2 Kontrolluppgifter till andra länder
+Automatiska KU enligt sparandedirektivet ska skickas senast den 30 juni året 
+efter beskattningsåret. Skatteverkets ambition är att även 
+OECD-uppgifterna ska skickas i slutet på juni.
+ Skatteverket har uppfyllt sitt åtagande och skickat samtliga EU-
+uppgifter inom den tidsgräns som EU-kommissionen angett för alla år som 
+sparandedirektivet gällt, dvs. från och med 2005. 
+ Enligt uppgifter från Skatteverkets diariesystem skickades OECD-
+uppgifter avseende inkomståret 2008 i juli 2009. Kontrolluppgifter avseende 
+inkomståret 2007 skickades i december 2008 (13 filer) och i juli 2009  
+(6 filer).
+ Även när det gäller de kontrolluppgifter som Skatteverket skickar till 
+andra länder förekommer tekniska problem. I dag saknas t.ex. möjlighet 
+att skräddarsy informationen i enlighet med det avtal som gäller med ett 
+specifikt land. I stället skickas likadan information till alla länder med vilka 
+Sverige har ett avtal.
+4.5.3 Automatisk identifiering saknas
+Innan de automatiska kontrolluppgifterna kan användas i 
+granskningsverksamheten måste de identifieras. All identifiering 
+av automatiska KU sker i dag manuellt av utlandsKU i Östersund. 
+
+49 RIKSREVISIONENInternationell skattekontroll
+Skatteverket har under lång tid, bl.a. i rapporten Skatt utan gränser och i en 
+utvärdering av kontrollen av utländska kontrolluppgifter från 2004, påpekat 
+nödvändigheten av att utveckla ett system för automatisk identifiering. 
+Med automatisk identifiering kan kontrolluppgifterna bli tillgängliga för 
+granskning på ett tidigare stadium och resurser för en omfattande manuell 
+hantering kan sparas in. 
+ När utlandsKU har identifierat kontrolluppgifter på företag ska dessa 
+överföras till utlandsskattekontoren som ansvarar för kontrollen. I dag 
+råder oklarhet om hur många kontrolluppgifter på företag som identifieras. 
+Enligt utlandsskattekontoren får de inte reda på när kontrolluppgifter 
+identifierats och ingen vet hur många automatiska KU på företag som ligger 
+oidentifierade i LT. Enligt utlandsskattekontoren är det en betydande mängd.
+4.5.4 Automatiska kontrolluppgifter är granskningsvärda
+Kontrollresultatet avseende fysiska personer från senare år visar att 
+kontrolluppgifterna är granskningsvärda, dvs. de blir föremål för stora 
+höjningar i taxeringen. Automatiska KU från utlandet kommer in senare än 
+motsvarande svenska kontrolluppgifter. I kombination med att uppgifterna 
+ofta läses in med lång fördröjning i LT används kontrolluppgifterna i stort 
+sett aldrig i den ordinarie taxeringen. Kontrolluppgifterna används i stället 
+för att ompröva ett taxeringsbeslut (upp till två år efter inkomståret) eller för 
+att eftertaxera den skattskyldige.
+ Automatiska KU avseende juridiska personer har använts framgångsrikt 
+i enstaka kontrollprojekt men det pågår inget systematiskt kontrollarbete. 
+Ingen vet hur många automatiska KU på företag som kontrolleras eller vilken 
+nytta man har haft av kontrolluppgifterna. Utlandsskattekontoren framhåller 
+behovet av en kartläggning av kontrolluppgifterna för att kunna bedöma 
+kontrollbehovet.
+4.5.5 Analys och uppföljningsmöjligheterna är begränsade 
+Skatteverket saknar ett centralt uppföljningssystem för informationsutbytet. 
+LT lämpar sig inte för statistiska bearbetningar och sökmöjligheterna är 
+begränsade. Detta innebär att Skatteverket har problem att möta de krav 
+som finns på uppföljning och analys av informationsutbytet både internt och 
+externt. Det finns t.ex. ingen kartläggning av det totala antalet automatiska 
+KU eller någon analys av innehållet i uppgifterna, vare sig för fysiska eller 
+juridiska personer. Något urvalsarbete pågår inte.
+
+50RIKSREVISIONEN Internationell skattekontroll
+
+51 RIKSREVISIONENInternationell skattekontroll
+5 Spontana kontrolluppgifter och    
+ handräckning
+Till skillnad från automatiska kontrolluppgifter kommer spontana 
+kontrolluppgifter oftast en och en. Spontana kontrolluppgifter är typiskt 
+sett uppgifter som hittas vid granskningsarbete, revisioner eller andra 
+skattekontroller och som avser betalningar eller andra transaktioner som 
+gjorts till person (juridisk eller fysisk) som är bosatt i annat land. Flertalet 
+spontana uppgifter avser fysiska personer. En spontan kontrolluppgift ska 
+sändas om man vid utredning finner en uppgift som borde vara intressant 
+för ett annat land och denna inte sänds automatiskt. Uppgifterna kan t.ex. 
+bestå av fakturor, kvitton, avtal eller liknande. Till uppgifterna finns som 
+regel också en skrivelse med information om vad uppgifterna avser och i 
+förekommande fall vad som framkommit vid utredningen i det andra landet. 
+Om det är ett stort antal uppgifter som lämnas kan dessa biläggas som 
+Excelfiler eller ha skannats in och lagts på cd. 
+ Skatteverket kan också begära att få vissa specificerade uppgifter från 
+ett annat land. Begäran om information sker genom en skriftlig begäran om 
+handräckning. Skatteverket måste då specificera vilka uppgifter man vill få 
+tillgång till.
+5.1 Definition av spontana kontrolluppgifter
+Både på Skatteverket och inom EU och OECD finns vissa definitionsproblem 
+avseende vad som ska anses utgöra en spontan kontrolluppgift. På 
+Skatteverket har man sedan 2009 en ny intern definition av spontana KU 
+som följer det förslag till definition som EU och OECD har tagit fram:
+”En spontan kontrolluppgift innehåller information som kan antas vara av 
+intresse för ett annat land. Kontrolluppgiften avser fysiska eller juridiska personer 
+och innehåller information som har upptäckts eller valts ut av det sändande 
+landets skattehandläggare. En spontan kontrolluppgift är information som 
+lämnas utan föregående begäran eller överenskommelse med det andra landet.”85
+85 Skatteverket (2009), Beslut avseende uppföljning och inrapportering av uppgifter om  
+ informationsutbyte med andra länder.
+
+52RIKSREVISIONEN Internationell skattekontroll
+Definitionen är framtagen för att särskilja spontana kontrolluppgifter 
+från de kontrolluppgifter som skickas först efter en skriftlig eller muntlig 
+överenskommelse med mottagarlandet att informationen ska skickas. 
+I många fall omfattar antalet spontana kontrolluppgifter en stor mängd 
+skattskyldiga, och det är därför nödvändigt att på förhand stämma av med 
+mottagarlandet att man har intresse och möjlighet att ta emot uppgifterna.86 
+När en överenskommelse föreligger med ett annat land om att skicka viss 
+information som i dag inte ingår i det automatiska informationsutbytet 
+ska uppgifterna redovisas som ”spontana KU enligt överenskommelse”. 
+Från och med 2008 följer Skatteverket alltså upp två olika kategorier av 
+spontana KU: dels spontana KU, dels spontana KU som skickas enligt 
+överenskommelse. 
+5.2 Omfattning av spontana kontrolluppgifter och  
+ handräckning 
+5.2.1 Spontana kontrolluppgifter
+Sedan 2008 följer Skatteverket upp antalet skickade spontana KU i sin 
+tertialrapportering. Under 2008 skickade Skatteverket ca 2 100 spontana 
+KU och drygt 800 000 spontana KU enligt överenskommelse till andra 
+länder. Detta kan jämföras med 2004 då Skatteverket skickade totalt ca 400 
+spontana KU.87 Större delen av spontana KU enligt överenskommelse avser 
+finansiella instrument. Sverige deltar tillsammans med de nordiska länderna 
+utom Island i ett nätverk som arbetar för att utveckla informationsutbytet 
+avseende finansiella dokument. Antalet spontana KU ser dock ut att minska 
+under 2009. Enligt Skatteverkets tertialrapportering skickade Skatteverket 
+under perioden januari–augusti 190 spontana KU, vilket kan jämföras med 
+1 940 uppgifter för samma period 2008. 
+Tabell 10 Antalet skickade och inkomna spontana KU, 2004–2009
+Utlandsskattekontor
+Skickade   Inkomna  
+2004 2007 1 2008 2009 2 2004 2007 2008
+Stockholm – 2 365 451 – – – –
+Malmö – 2 572 1 627 – – 672 6 082
+Totalt 400 4 937 2 078 190 200 – –
+1)  Uppgifterna innehåller även KU efter överenskommelse. 
+2)  Uppgifterna avser januari–augusti 2009.
+Källa: Skatteverket.
+86 Enligt Skatteverkets huvudkontor ska kontakt på förhand alltid tas med det tänkta mottagarlandet  
+ om kontrolluppgifterna avser fler än 100 skattskyldiga.
+87 Skatteverket (2004), Ärendestödssystem för internationellt informationsutbyte, Förstudierapport.
+
+53 RIKSREVISIONENInternationell skattekontroll
+Utlandsskattekontoret i Malmö tog emot ca 6 100 spontana 
+kontrolluppgifter under 2008. Inom ramen för det nordiska samarbetet 
+avseende finansiella instrument som nämndes ovan tog Sverige emot ca 
+2,2 miljoner kontrolluppgifter enligt överenskommelse 2008. Det finns dock 
+ingen sammanställning över det totala antalet spontana KU som inkom till 
+Skatteverket under 2008. Det beror på att det diariesystem som används 
+avseende spontana kontrolluppgifter inte anses tillförlitligt.88 Man kan t.ex. 
+inte se om en uppgift har inkommit eller skickats. På utlandsskattekontoret 
+i Stockholm har man därför slutat använda diariesystemet och lägger istället 
+in uppgifterna i en vanlig Excelfil.89
+ Enligt uppgift har utlandsskattekontoret i Malmö byggt upp ett eget 
+system för statistik. Detta används dock inte av Stockholm. När statistik ska 
+plockas fram kör Malmö ut sina data och sedan kompletterar Stockholm 
+med manuellt framtagen information.
+ Mot bakgrund av de statistik- och uppföljningsproblem som nämnts 
+ovan har utlandsskattekontoren fått i uppdrag av huvudkontoret att bygga 
+en gemensam enklare uppföljningsrutin i befintliga system innan ett nytt 
+gemensamt ärendehanteringssystem tas i bruk. Ett av utlandsskattekontoren 
+ska ansvara för att inrapporteringen av uppföljningsinformationen sker 
+på ett samlat och enhetligt sätt. Både skickade (utgående) och erhållna 
+(inkomna) spontana KU ska mätas.90 
+5.2.2 Handräckning
+Precis som när det gäller spontana KU går det inte att i Skatteverkets 
+redovisning få en heltäckande bild av antalet handräckningsärenden. 
+Antalet utgående handräckningsärenden har under senare år legat 
+relativt konstant på 200–300 ärenden per år. När det gäller inkommande 
+handräckningsärenden finns bara uppgifter om ärenden avseende de 
+länder som Malmö hanterar, där antalet inkommande förfrågningar om 
+handräckning understiger 100 per år.
+88 Skatteverket (2009), Beslut avseende uppföljning och inrapportering av uppgifter om  
+ informationsutbyte med andra länder.
+89 Intervju Skatteverkets utlandsskattekontor i Stockholm 2009-09-21.
+90 Skatteverket (2009), Beslut avseende uppföljning och inrapportering av uppgifter om  
+ informationsutbyte med andra länder.
+
+54RIKSREVISIONEN Internationell skattekontroll
+Tabell 11 Utgående och inkommande begäran om handräckning, 2004–2008
+ Utgående begäran Inkommande begäran
+ 2004 2006 2007 2008 2004 2006 2007 2008
+Stockholm – 84 81 84 – – – –
+Malmö – 72 96 97 – 66 36 80
+Totalt 300 156 177 181 200 –  – –
+Källa: Skatteverket.
+Det finns i dag inga formella krav på svarstider och återrapportering 
+av spontana KU och handräckning. Enligt uppgift från Skatteverkets 
+huvudkontor kommer sådana krav att införas av EU på sikt, och de 
+kommer att likna dem som finns på momsområdet. I det internationella 
+produktionsnätverket (se avsnitt 3.3.3) har man betonat att dessa 
+ärenden ska prioriteras. Skatteverket har också som mål att 70 procent av 
+inkommande handräckningsärenden ska besvaras inom tre månader, vilket 
+följs upp i Skatteverkets tertialredovisning. Under perioden 2007–2009 
+besvarade man 80 procent av handräckningsärendena inom tre månader.
+Tabell 12 Genomströmningstider för inkommande handräckningsärenden, 2007–2009
+ Avslutade inom 3 mån Totalt antal avslutade Andel avslutade inom 3 mån
+2007 89 114 78 %
+2008 78 99 79 %
+2009 59 76 78 %
+Kommentar: För att kunna jämföra 2009 med 2007 och 2008 avser uppgifterna 
+tertialuppföljning 2, dvs. januari–augusti.
+Källa: Skatteverket.
+5.3 Hantering av spontana kontrolluppgifter och  
+ handräckning 
+Det är utlandsskattekontoren som skickar och tar emot spontana 
+kontrolluppgifter från andra länder. Det är också utlandsskattekontoren 
+som normalt fattar beslut i ärenden som rör tillämpningen av 
+bestämmelserna om handräckning utifrån deras länderansvar. Detta 
+gäller både inkommande och utgående förfrågningar. Vid inkommande 
+ärenden ska utlandsskattekontoren se till att förfrågningarna skickas 
+vidare till berört skattekontor och att svar lämnas inom rimlig tid och 
+är fullständigt. Vid utgående förfrågningar prövar man om uppgifterna i 
+ärendet är kompletta och om det är lämpligt att en handräckningsbegäran 
+sänds till ifrågavarande stat. Även här ska en bevakning ske av om svaret 
+inkommer i rimlig tid och är fullständigt. Därefter översänds svaret till det 
+
+55 RIKSREVISIONENInternationell skattekontroll
+kontor som begärt handräckningen. Ärenden kan även handläggas direkt av 
+utlandsskattekontoren.91 
+ Så långt möjligt skickas uppgifterna mellan EU-länderna via CCN-mail. 
+Dokument över en viss storlek92 kan dock inte skickas med CCN-mail, utan 
+sänds i stället med vanlig post. Mellan länder utanför EU skickas ärendena 
+alltid per post. Inom EU pågår ett försök med att skicka upplysningar på 
+elektroniska blanketter där relevanta handlingar bifogas som fil.
+ Spontana kontrolluppgifter kan se ut hur som helst och variera från ett 
+enskilt dokument till flera hundra dokument. Det är därför inte möjligt att 
+lägga in dessa uppgifter i LT.93 Spontana kontrolluppgifter kräver ofta en 
+omfattande manuell hantering.
+ Hanteringen av spontana kontrolluppgifter ser olika ut på de två 
+utlandsskattekontoren. När utlandsskattekontoret i Malmö får in spontana 
+kontrolluppgifter från annat land sänds dessa till kontaktpersonen för 
+informationsutbytet i den region där den personens beskattningsärende 
+handläggs.94 Uppgifterna sänds via Skatteverkets interna e-postsystem. I 
+de fall då regionen har en egen regional ”brevlåda” för ärenden som rör 
+informationsutbyte sänds de i stället dit. Ärendena skickas alltid elektroniskt 
+utom i de fall då det rör sig om stora mängder pappersdokument som 
+bifogats och det inte är möjligt eller lämpligt att skanna dessa. I Stockholm 
+är det i stället utlandsskattekontoret som sköter handläggningen av alla 
+inkommande spontana kontrolluppgifter.95
+5.3.1 Mål att öka spontana kontrolluppgifter
+I likhet med EU och OECD anser Skatteverket att det bästa sättet att 
+bekämpa skattefusk är att öka informationsutbytet. Skatteverkets ambition 
+är att öka både det automatiska och det spontana utbytet av information. 
+Skatteverket har t.ex. ett mål att skicka 2 500 spontana kontrolluppgifter per 
+år. Skatteverket arbetar i olika arbetsgrupper inom EU och speciellt med de 
+nordiska länderna för att öka antalet spontana kontrolluppgifter genom att 
+träffa avtal om lämnande av uppgifter som är intressanta för Skatteverkets 
+verksamhet. 
+91 Skatteverket (2009), Handledning för internationell beskattning 2009.
+92 Dokumenten i varje meddelande får inte överstiga 10 MB.
+93 Skatteverket, Utlandsskattekontorets hantering av inkommande spontana kontrolluppgifter.
+94 Det är olika kontaktpersoner för direkt skatt, indirekt skatt och uppbörd och överföring av skatt  
+ inom Norden (Trekk).
+95 Intervju med utlandsskattekontoren i Stockholm 2009-09-21 och Malmö 2008-06-26.
+
+56RIKSREVISIONEN Internationell skattekontroll
+ Som vi sett ovan minskar antalet utgående spontana KU under 2009. 
+Enligt Skatteverkets huvudkontor finns det flera förklaringar.96 En förklaring 
+till minskningen är att Skatteverket styrt om en del av sin kontrollverksamhet 
+till besök. En stor del av besöken under 2009 är informationsbesök97 och 
+då finns inga möjligheter att ta kontrolluppgifter. En annan orsak är att det 
+finns motstridiga mål inom beskattningsverksamheten. Handläggare och 
+revisorer måste själva ta initiativ till att skicka spontana KU, vilket kan vara 
+en tidskrävande process. Samtidigt mäter man genomströmningstider, vilket 
+kan leda till att revisorer avstår från att lägga ned tid för att sammanställa 
+och lämna en spontan kontrolluppgift. Spontana KU är sällan en del av 
+utvecklingssamtalen och lönesättningen varför incitamenten att skicka 
+spontana KU är låga. Ytterligare en annan förklaring till minskningen som 
+nämns av utlandsskattekontoren är att det blivit omständligare att skicka 
+spontana KU efter det att Sverige på försök börjat använda en särskilt 
+framtagen elektronisk blankett från EU. Blanketten tar lång tid att fylla i 
+eftersom samtliga sidor måste gås igenom.98 
+ Enligt Skatteverkets generella produktionsmål ska minst 50 procent 
+av revisionerna vara klara inom fyra månader och 90 procent inom tio 
+månader. Målen har diskuterats internt på Skatteverket eftersom de 
+tycks ge incitament till att avsluta revisioner i förtid. Detta gäller särskilt 
+utredningar om avancerad skatteplanering där utredningstiden kan påverkas 
+av förfrågningar om handräckning vilka tar tid att hantera. Huvudkontorets 
+inställning är att målen inte ska tas bort utan hänsyn ska tas beroende på 
+insats. På så sätt behöver inte varje enskild insats uppfylla målet utan det 
+gäller för den totala mängden revisioner. Man har även tydliggjort att en 
+revision inte ska avbrytas i förtid om det finns ett fortsatt kontrollbehov. I 
+större projekt fungerar det bättre eftersom man där följer upp hur många 
+kontrolluppgifter som skickas. 
+ Samtidigt finns det medarbetare på Skatteverket som påpekar att det 
+heller inte är bra att ”pressa fram” spontana kontrolluppgifter till varje pris. 
+För att informationsutbytet ska fungera effektivt måste de uppgifter som 
+skickas bedömas vara intressanta för det andra landet. Skickar Sverige 
+information som saknar relevans finns risken att administrationen bara ökar 
+i det andra landet, och utbytet av information blir kontraproduktivt. 
+96 Intervju med Skatteverkets huvudkontor 2009-09-02.
+97 Informationsbesök är sedan 2007 ett nytt arbetssätt på Skatteverket som innebär att Skatteverket  
+ besöker företag för att ge information. Syftet med informationsbesöken är att öka Skatteverkets  
+ synlighet hos företagen för att öka förtroendet för Skatteverket. Informationsbesök kan ske både  
+ på Skatteverkets och på företagens initiativ.
+98 Enligt Skatteverkets huvudkontor är detta ett övergående problem då endast relevanta delar av  
+ blanketten kommer att synas i slutversionen. 
+
+57 RIKSREVISIONENInternationell skattekontroll
+ Enligt Skatteverkets huvudkontor försöker man förbättra antalet 
+spontana kontrolluppgifter genom att lägga in produktmål om antal 
+spontana kontrolluppgifter i alla uppdragsbeskrivningar och projektdirektiv 
+samt att uppmuntra chefer att följa upp antalet lämnade spontana 
+kontrolluppgifter i deras uppföljning av enskilda handläggare och revisorer. 
+5.3.2 Återrapportering
+Viljan att skicka kontrolluppgifter påverkas om landet får återrapportering på 
+en spontan kontrolluppgift eller ett handräckningsärende. I dag finns inga 
+formella krav på återrapportering och det görs väldigt få återrapporteringar. 
+Enligt Skatteverkets tertialrapportering skickade Skatteverket 65 
+återrapporteringar avseende spontana KU och handräckning och tog emot 
+48 från andra länder under 2008. Inom EU diskuterar man återkoppling 
+mellan medlemsländerna som också ska följas upp med statistik. Även i 
+förslaget om nytt handräckningsdirektiv finns krav på återrapportering.
+ Huvudkontoret bekräftar att viljan att skicka spontana KU påverkas 
+om landet får återrapportering på en spontan kontrolluppgift och att 
+man arbetar med att stimulera handläggare till att ge feedback på vad en 
+utredning efter en spontan kontrolluppgift har gett. Bland annat nämner 
+man ett exempel där Skatteverket skickade ca 1 200 kontrolluppgifter till 
+Danmark under 2007 om i Danmark bosatta medborgares försäljning av 
+svenska fastigheter. Uppgifterna gjorde att Danska Skat gjorde höjningar för 
+totalt 140 miljoner danska kronor. Insatsen fick stor medial uppmärksamhet 
+och uppskattades av Danska Skat som vill att Skatteverket fortsätter att 
+skicka försäljningsuppgifterna. 
+5.4 Kontroll av spontana kontrolluppgifter och handräckning
+Spontana kontrolluppgifter och handräckning används i stort sett 
+uteslutande i större och från huvudkontoret initierade projekt. 
+ I Stockholmsregionen har man dock sedan 2004 lagt ansvaret för 
+hanteringen av samtliga i regionen inkommande spontana kontrolluppgifter 
+på utlandsskattekontoret. I dag arbetar en person med skrivbordskontroll 
+av spontana KU och handräckningsärenden på utlandsskattekontoret 
+i Stockholm. Årliga uppföljningsrapporter från denna granskning visar 
+att uppgifterna är till nytta i kontrollen. I en av rapporterna framgår t.ex. 
+att spontana KU från Belgien avseende olika skatteupplägg ledde fram 
+till att Skatteverket under 2006 startade ett riksprojekt för utredning av 
+
+58RIKSREVISIONEN Internationell skattekontroll
+holdingbolag i Beneluxländerna.99 Med nuvarande resurs hinner man dock 
+inte granska alla de uppgifter som bedömts som granskningsvärda.100
+Tabell 13 Resultat av kontrollen av inkommande spontana KU till region Stockholm, 
+2005–2007
+ 2005 2006 2007
+Antal årsarbetskrafter 1,5 1,5 1
+Antal avslutade utredningar 58 56 17
+Höjning i skatt, mnkr – 11,6 0,6
+Höjning i skatt, mnkr (exkl. skattetillägg) 7,3 2,9 0,1
+Källa: Skatteverket.
+Av uppföljningsrapporterna framgår också att det i dag saknas system 
+för att få in aktuella uppgifter i den årliga taxeringen. Det skulle vara 
+effektivare både för Skatteverket och för den skattskyldige om de uppgifter 
+som finns tillgängliga utreds i samband med den årliga taxeringen. Att så 
+inte sker i dag beror enligt rapporterna bl.a. på det arbetssätt man valt i 
+taxeringen. Det finns helt enkelt inte tid att begära handräckning eller ta 
+med en spontan kontrolluppgift eftersom det strider mot andra mål om 
+genomströmningstider. Det framgår också att kompetensen att hantera 
+uppgifterna ute på regionerna generellt är låg. I rapporterna har det också 
+framförts att det kanske inte är resurseffektivt att en handläggare ska ta hand 
+om en spontan KU en gång om året. I stället föreslår man att arbetet med 
+spontana KU ska bedrivas koncentrerat till en plats.
+ Förutom de årliga uppföljningsrapporterna från Stockholmsregionen 
+2005–2007 saknas en övergripande uppföljning eller analys av hur de 
+spontana kontrolluppgifterna används ute på kontoren och utfallet av dem. 
+5.4.1 Händelsestyrd tid och planering
+Enligt Skatteverkets huvudkontor utgörs ca 40 procent av Skatteverkets 
+totala operativa verksamhet av initiativverksamheten. Initiativverksamheten 
+består av s.k. samordnade insatser och riksprojekt som planeras gemensamt 
+utifrån ett riksperspektiv och som används där det finns ett behov av tydlig 
+styrning, t.ex. när det gäller enhetlighet beträffande metod och rättslig 
+tillämpning. Tanken med riksprojekten är att de på sikt ska övergå i den 
+ordinarie operativa verksamheten, dvs.”i linjen”. Ett problem som nämns på 
+huvudkontoret när det gäller möjligheten att lägga ut internationella 
+99 Skatteverket (2006), Kontroll av spontana kontrolluppgifter från utlandet inkomna till region  
+ Stockholm under 2005.
+100 Skatteverket (2007, 2008 och 2009), Kontroll av spontana kontrolluppgifter från utlandet inkomna  
+ till region Stockholmunder 2005, 2006 och 2007.
+
+59 RIKSREVISIONENInternationell skattekontroll
+projekt ”i linjen” är att det brister i kompetensen hos dem som arbetar i 
+linjeverksamheten.
+ Enligt en företrädare för huvudkontoret finns en tydlig styrning av 
+initiativverksamheten i dag. Däremot har styrningen varit mindre tydlig 
+när det gäller övrig operativ verksamhet. Detta medför en risk att man 
+ute i organisationen ”gräver där man står”, vilket ibland inneburit att det 
+internationella området har fått stå tillbaka för nationella aktiviteter och mål. 
+I dag finns förslag om att fokusera mer på den totala operativa tiden, vilket 
+skulle kunna gynna det internationella området.101
+ Ett annat problem med planeringen som lyfts fram på 
+utlandsskattekontoren är minskningen av den händelsestyrda tiden, dvs. tid 
+som inte är uppbokad på förhand utan som kan användas för interna och 
+externa signaler, t.ex. byte av kontrollform, samverkan och handräckning. 
+Totalt minskar den händelsestyrda tiden på Skatteverket med ca 5 000 dagar 
+2009. Inom det internationella området minskar den händelsestyrda tiden 
+från 3 700 dagar 2008 till 1 600 dagar 2009. Från huvudkontorets sida sker 
+minskningen mot bakgrund av att den händelsestyrda tiden inte utnyttjas 
+fullt ut. Utlandsskattekontoren upplever i stället att det finns för lite utrymme 
+för egna initiativ. I dag drar sig revisorer för att begära handräckning för att 
+det tar tid och multilaterala revisioner tar ofta längre tid att avsluta och man 
+klarar inte att hålla sig inom de tidsramar som gäller nationellt. 
+5.5 Sammanfattande iakttagelser
+5.5.1 Skatteverkets diariesystem är inte tillförlitligt
+Skatteverkets diariesystem för registrering av spontana kontrolluppgifter och 
+handräckningsärenden är inte tillförlitligt, varför det i dagsläget inte går att 
+få fram en heltäckande bild av informationsutbytet när det gäller spontana 
+kontrolluppgifter och handräckningsärenden. Till exempel finns det endast 
+uppgifter från ett av utlandsskattekontoren avseende antalet ingående 
+spontana kontrolluppgifter och begäran om handräckning. 
+101 Intervju med Skatteverkets huvudkontor 2009-09-02.
+
+60RIKSREVISIONEN Internationell skattekontroll
+5.5.2 Antalet spontana kontrolluppgifter minskar
+Antalet skickade spontana KU minskar under 2009. Som orsak nämns 
+från Skatteverkets sida bl.a. nya krångliga blanketter från EU och svaga 
+incitament att skicka spontana KU på handläggar- och revisorsnivå. Att 
+skicka en spontan KU är tidskrävande och konkurrerar med interna mål om 
+genomströmningstider. Ytterligare en förklaring som Skatteverket uppger är 
+kontrollverksamhetens nya inriktning mot ett ökat antal informationsbesök. 
+Till skillnad mot kontrollbesök får kontrolluppgifter inte inhämtas vid 
+informationsbesök. Viljan att skicka kontrolluppgifter påverkas också av 
+om landet får återrapportering på de kontrolluppgifter som skickas. I dag 
+görs väldigt få återapporteringar. Under 2008 skickade Skatteverket 65 
+återrapporteringar och tog emot 45.
+ Den händelsestyrda tiden, dvs. tid som bl.a. kan utnyttjas till samverkan 
+och handräckning, minskar totalt på Skatteverket och med över hälften på 
+det internationella området mellan 2008 och 2009. Enligt huvudkontoret 
+beror minskningen på att tiden inte har utnyttjats fullt ut av regionerna, 
+medan man på regionerna upplever att det finns för lite flexibilitet och 
+utrymme för egna initiativ på det internationella området. Skatteverket 
+har en tydlig styrning av initiativverksamheten, som utgör ca 40 procent 
+av den totala operativa tiden. Samtidigt har styrningen varit mindre tydlig 
+när det gäller övrig operativ verksamhet. Detta medför en risk att man 
+ute i organisationen gräver där man står vilket ibland inneburit att det 
+internationella området har fått stå tillbaka för nationella aktiviteter och mål. 
+I dag finns förslag om att fokusera mer på den totala operativa tiden, vilket 
+skulle kunna gynna det internationella området.
+5.5.3 Analys av nyttan med spontana kontrolluppgifter saknas
+Det finns ingen övergripande analys eller utvärdering av nyttan av spontana 
+kontrolluppgifter. Erfarenheter av kontroll av spontana kontrolluppgifter 
+från Stockholmsregionen visar att uppgifterna har varit till nytta i kontrollen. 
+Många spontana kontrolluppgifter som bedömts granskningsvärda granskas 
+inte i dag och det saknas system för att få in aktuella uppgifter i den årliga 
+taxeringen. Kompetensen att hantera spontana kontrolluppgifter bland 
+handläggarna ute i regionerna är generellt låg, och på utlandsskattekontoren 
+finns uppfattningen att kontrollen av spontana kontrolluppgifter borde 
+koncentreras. 
+
+61 RIKSREVISIONENInternationell skattekontroll
+6 Samtidiga revisioner
+Utöver de informationsverktyg som redogjorts för ovan innehåller 
+informationsutbytet även möjligheter att genomföra samtidiga revisioner 
+där två eller flera stater avtalar om att genomföra en granskning av en eller 
+flera personer av gemensamt intresse. Man brukar dela in de samtidiga 
+revisionerna i simultana revisioner som i huvudsak omfattar direkt skatt 
+och multilaterala revisioner som kan omfatta samtliga skatteslag och som i 
+huvudsak omfattar länderna i EU. Avsikten med samtidiga revisioner är att 
+få fram bättre underlag eller information i en gränsöverskridande utredning. 
+Det finns även möjligheter för en skattetjänsteman att närvara vid en 
+skattutredning i annat land.
+6.1 Multilaterala och simultana revisioner 
+6.1.1 Multilaterala revisioner inom EU
+Inom EU finns en programverksamhet med multilaterala revisioner som är 
+indelad i fyra olika plattformar vars gemensamma syfte är att öka antalet 
+multilaterala revisioner samt att höja kvaliteten på revisionerna. Sverige 
+ingår i den s.k. nordiskbaltiska plattformen. Definitionen på multilateral 
+revision inom EU är att minst två, men helst flera, medlemsstater deltar i 
+revisionen.102 Under vissa förutsättningar kan även tredje land delta. Sverige 
+samarbetar t.ex. i år för första gången med Ryssland i en multilateral revision 
+på fiskeområdet. 
+6.1.2 Hur initieras en multilateral revision?
+Multilaterala revisioner kan initieras på flera olika sätt.103 Enligt 
+utlandsskattekontoret i Malmö är det vanligast att man i en pågående 
+revision i Sverige upptäcker att man inte kan lösa frågan själv, utan att man 
+måste ta hjälp från andra länder. Normalt tar man först informella kontakter 
+med de länder som är berörda innan en formell förfrågan skickas till EU. 
+102 Skatteverket (2009), Handbok för internationell beskattning 2009.
+103 Intervju med Utlandsskattekontoret i Malmö 2009-10-15.
+
+62RIKSREVISIONEN Internationell skattekontroll
+Den formella förfrågan skickas till Circa (Communication and Information 
+Resource Center Administrator), som är en databas för administrativt 
+samarbete inom EU. I denna databas finns en arbetsgrupp för multilaterala 
+revisioner. Kommissionen gör sedan en bedömning om revisionen kan 
+delfinansieras av EU. Ännu har man inte nekat finansiering till någon 
+multilateral revision. EU står för alla rese- och traktamentskostnader i 
+samband med multilaterala revisioner. 
+ I Sverige finns två koordinatorer för multilaterala revisioner, en med ett 
+strategiskt ansvar och en med ett operativt ansvar. Den operativt ansvarige 
+koordinatorn är ofta med på det första mötet när Sverige är värd. Annars 
+är det en bedömning från fall till fall utifrån hur erfarna revisorerna är. 
+Utlandsskattekontoret framhåller vikten av att revisorerna känner till de 
+regler som gäller för informationsutbytet eftersom det annars är lätt att 
+man förstör en utredning. Mot bakgrund av detta har man på Skatteverket 
+tagit fram en checklista till revisorerna om vad man ska tänka på när 
+man upptäcker något som skulle kunna leda till en multilateral revision. 
+Dessutom kan koordinatorn stötta revisorerna under resans gång. De 
+revisorer som deltar i en multilateral revision får en fullmakt att agera 
+behörig myndighet inom ramen för revisionen.
+ EU kan även finansiera s.k. selection meetings. På ett selection meeting 
+kan man tillsammans med andra länder diskutera en företeelse för att se om 
+det är möjligt och av intresse att inleda en revision.
+6.1.3 Simultana revisioner
+Simultana revisioner förekommer i huvudsak med de nordiska länderna 
+och utförs oftast med stöd av avtalen om handräckning mellan de nordiska 
+länderna för vilka samtliga skatter ingår. I stor utsträckning handlar dessa 
+revisioner om koncerninterna transaktioner. Enligt Skatteverket genomför 
+man 5–8 simultana revisioner per år inom Norden. Resultaten av de 
+nordiska simultana revisionerna rapporteras årligen till den nordiska 
+compliancegruppen som ger rekommendationer och sammanfattning till 
+det årliga mötet mellan de nordiska generaldirektörerna. 
+6.1.4 Omfattning och effekter av samtidiga revisioner 
+Både Skatteverket och kommissionen anser att samtidiga revisioner är ett 
+bra sätt att jobba. Det är ett effektivt sätt att byta information samtidigt 
+som det skapar kontakter med andra länders skattemyndigheter. Samtidigt 
+är samtidiga revisioner relativt dyra och skapar en hel del administration. 
+Samtidiga revisioner tar tid, oftast längre tid än en nationell revision. 
+
+63 RIKSREVISIONENInternationell skattekontroll
+Officiellt brukar man räkna med att en samtidig revision tar cirka ett år. Det 
+finns enstaka revisioner som pågått i upp till tre år. 
+Kraven på att de ska ge ett resultat är därför höga. Skatteverket bekräftar 
+att samtidiga revisioner i dag ger ett bättre resultat än nationella revisioner. 
+Med bättre i detta sammanhang menas att det är färre samtidiga kontroller 
+som ger ett ”nollresultat” än nationella revisioner. 
+ Inom EU har det genomförts totalt 154 multilaterala revisioner. Sverige 
+har deltagit i 28 sedan 2003, av vilka Sverige har initierat 13. Detta placerar 
+Sverige på en 3:e eller 4:e plats i antalet revisioner. I dag har Sverige 17 
+multilaterala revisioner öppna, varav 9 är initierade av Sverige, och 3 
+uteslutande avser direkt skatt. Jämfört med tidigare år är detta en viss 
+ökning. De multilaterala revisionerna avspeglar i stor utsträckning Sveriges 
+affärskontakter med andra länder. Sverige har t.ex. samarbetat flera gånger 
+med Tyskland, Danmark och Finland.
+ I syfte att öka antalet samtidiga revisioner försöker man från 
+utlandsskattekontorens sida att stimulera regionerna att lyfta upp problem 
+som kräver samarbete med andra länder. Samtidigt finns det precis som i 
+övriga former av informationsutbyte en viss motsättning mellan behovet 
+av att öka informationsutbytet med andra länder och nationella mål om 
+genomströmningstider och kontrollresultat. I vissa samtidiga revisioner 
+fungerar Sverige enbart som informationslämnare och revisionen leder 
+inte till några skattemässiga höjningar i Sverige. I projektdirektiven på det 
+internationella området har man därför på senare tid utökat målet om ett 
+minskat skattefel i Sverige till att i viss utsträckning även omfatta andra 
+länders skattefel. Enligt huvudkontoret har man även nyanserat de nationella 
+målen för revisioner som kräver ett omfattande informationsutbyte.
+6.2 Närvaro vid skatteutredning i annat land 
+Närvaro vid skatteutredning i annat land kan ses som ett komplement till 
+begäran om informationsutbyte. I jämförelse med informationsutbyte på 
+begäran kan närvaro vid utredning i annat land ge större möjligheter till 
+att påverka på djupet, omfattningen och tillförlitligheten av de uppgifter 
+som tillförs utredningen i det egna landet.104 Förfarandet har aldrig varit 
+särskilt vanligt och är enligt utlandsskattekontoren ännu mindre vanligt 
+nu. På Skatteverket säger man att det rör sig om en handfull per år, och det 
+vanligaste är att en svensk tjänsteman närvarar vid utredning i Danmark. 
+EU finansierar inte närvaro vid skatteutredning i annat land. Enligt 
+utlandsskattekontoren är det ekonomin som styr, vilket upplevs som en 
+nackdel eftersom det är ett bra instrument för informationsutbyte.
+104 Skatteverket (2009), Handledning för informationsutbytet med andra stater 2009.
+
+64RIKSREVISIONEN Internationell skattekontroll
+6.3 Sammanfattande iakttagelser 
+Samtidiga revisioner är en effektiv form för informationsutbyte. Samtidigt 
+som de kostar en hel del ger de överlag ett bättre resultat än nationella 
+revisioner. Sverige är relativt aktivt jämfört med andra EU-länder när 
+det gäller att ta initiativ till samtidiga revisioner. Sverige har även ett väl 
+upparbetat samarbete med övriga nordiska länder för simultana revisioner.
+
+65 RIKSREVISIONENInternationell skattekontroll
+7 Skatteverkets utvecklingsinsatser
+Under granskningens genomförande har Skatteverket tagit initiativ till flera 
+utvecklingsinsatser avseende hanteringen av utländska kontrolluppgifter och 
+möjligheterna att analysera och följa upp informationsutbytet. 
+7.1.1 Utvecklingsuppdrag avseende utländska kontrolluppgifter
+Skatteverkets huvudkontor gav i slutet av 2008 utlandsskattekontoren i 
+uppdrag att utveckla ett maskinellt identifieringsstöd.105 Utvecklingen ingår 
+som en del i en större utvecklingsinsats omfattande hela hanteringen av 
+automatiska KU. Enligt beställningen ska det maskinella identifieringsstödet 
+vara färdigt under hösten 2009. Skatteverket gör bedömningen att ca 50 
+procent av alla automatiska KU ska kunna identifieras automatiskt med det 
+nya identifieringsstödet. Utvecklingskostnaden uppgår till ca 1,5 miljoner 
+kronor enligt uppgift från ansvariga på Skatteverkets huvudkontor.
+7.1.2 Analysuppdrag avseende utländska kontrolluppgifter
+Mot bakgrund av det växande antalet kontrolluppgifter och behovet av ökad 
+kunskap om innehållet i utländska kontrolluppgifter gav huvudkontoret 
+under hösten 2008 utlandsskattekontoret ett separat uppdrag att ta fram 
+en analys av utländska kontrolluppgifter.106 Syftet är att skapa ökad kunskap 
+om automatiska KU (både vad gäller fysiska och juridiska personer) och 
+kontrolluppgifter enligt sparandedirektivet samt att få en bild av den totala 
+mängden kontrolluppgifter. Dessutom ska analysen innehålla en bedömning 
+av risken för skattefel avseende kontrolluppgifter på fysiska personer 
+samt förbättringsförslag avseende urval och hantering av både fysiska och 
+juridiska personer. Eftersom analys- och sökmöjligheterna är begränsade 
+i Skatteverkets taxeringssystem överfördes under hösten 2008 ca 5 000 
+identifierade kontrolluppgifter till en anpassad miljö (accessdatabas) för 
+bearbetning. Enligt uppdragsbeskrivningen skulle analysen redovisas i juni 
+2009. Viss fördröjning i arbetet gör att man nu bedömer slutdatum till april 
+2010 efter att analysuppdraget utvidgats.
+105 Beställning av utvecklingsinsats avseende hanteringen av automatiska kontrolluppgifter (OECD),  
+ 2008-10-13.
+106 Skatteverket (2008), Uppdragsbeskrivning, analysuppdrag utländska kontrolluppgifter.
+
+66RIKSREVISIONEN Internationell skattekontroll
+7.1.3 Utvecklingsuppdrag avseende uppföljningen av informationsutbytet
+Mot bakgrund av svårigheterna att ta fram uppföljningsinformation fick 
+utlandsskattekontoret i Malmö, på uppdrag av huvudkontoret, i början 
+av 2009 ansvar för ett utvecklingsuppdrag avseende uppföljningen av 
+informationsutbytet.107 I uppdraget ingår att ta reda på uppföljningsbehovet 
+inom informationsutbytet och hur uppföljningen ska presenteras. En rapport 
+har tagits fram, och nu arbetar man på den tekniska lösningen som bl.a. 
+innehåller konstruktionen av en databas som ska hantera alla ärenden inom 
+direktskatt och mervärdesskatt. En av målsättningarna med databasen är att 
+den ska kunna möta de krav på uppföljning som EU ställer. Databasen var 
+tänkt att tas i drift under hösten 2009.
+107 Inkommet mejl från Skatteverket 2009-09-01.
+
+67 RIKSREVISIONENInternationell skattekontroll
+8 Slutsatser och rekommendationer
+8.1 Inledning
+Skatteförvaltningar världen över blir mer och mer beroende av en förbättrad 
+och utökad internationell samverkan för att klara skatteuppbörden. En 
+viktig del i det internationella samarbetet är utbyte av information. En 
+ökad användning av utländska kontrolluppgifter kan fylla luckor där 
+Skatteverket saknar kontrollinformation och bidra till att minska skattefelet 
+på det internationella området. Skatteverkets granskning av utländska 
+kontrolluppgifter avseende fysiska personer har lett till stora höjningar av 
+kapital- och inkomstskatten. Kunskap hos skattebetalarna om de verktyg 
+som informationsutbytet erbjuder och att de används bidrar till att skapa 
+en preventiv effekt. Skatteverkets egna analyser visar att skattefelet är lägre 
+på områden där det finns utvecklade system för redovisning och kontroll, 
+t.ex. i form av kontrolluppgifter, jämfört med områden där kontrolluppgifter 
+saknas. För att klara av ett växande informationsutbyte krävs en systematisk 
+och effektiv hantering, både av de kontrolluppgifter Sverige tar emot och de 
+kontrolluppgifter Sverige skickar till andra länder.
+ Regeringen har ett övergripande ansvar för skattekontrollen genom sitt 
+arbete med underlag och initiativ till förändrad lagstiftning. Inom ramen 
+för sitt uppdrag till Skatteverket att bedriva en effektiv skattekontroll har 
+regeringen under en lång rad av år pekat ut informationsutbytet med andra 
+länder som särskilt viktigt för att bekämpa skattefusk. Riksrevisionens 
+granskning tar sin utgångspunkt i regeringens uppdrag till Skatteverket 
+att bedriva en effektiv skattekontroll och ställer frågan om Skatteverkets 
+informationsutbyte med andra länder på den direkta skattens område är 
+effektivt.
+ Riksrevisionen finner i sin granskning att Skatteverket har vidtagit 
+ett flertal åtgärder för att utveckla organisationen mot en ökad 
+internationalisering. För att koncentrera och förstärka den operativa 
+hanteringen på det internationella området bildades under 2005 två 
+utlandsskattekontor, ett i Stockholm och ett i Malmö, och granskningen av 
+automatiska kontrolluppgifter avseende fysiska personer har koncentrerats 
+till Skattekontoret i Östersund. 
+
+68RIKSREVISIONEN Internationell skattekontroll
+ Samtidigt som Skatteverket på ett gynnsamt sätt förstärkt det operativa 
+arbetet på det internationella området kan Riksrevisionen konstatera att det 
+finns betydande brister i Skatteverkets hantering av informationsutbytet. 
+Detta har fått negativa konsekvenser för Skatteverkets förmåga att hantera 
+ett växande informationsutbyte med andra länder. Till stor del beror 
+bristerna på att utvecklingsarbetet avseende informationsutbytet har fått 
+stå tillbaka under senare år och inte har hanterats på ett sammanhållet sätt. 
+Riksrevisionen gör bedömningen att ineffektiviteten i informationsutbytet 
+kan få allvarliga konsekvenser för Skatteverkets förmåga att upprätthålla 
+informationsutbytets preventiva effekt och i förlängningen att säkra 
+skatteintäkterna. 
+8.2 Automatiska kontrolluppgifter läses inte in
+Omfattande fördröjningar i inläsningen av automatiska kontrolluppgifter 
+i Skatteverkets taxeringssystem minskar effektiviteten i Skatteverkets 
+granskningsverksamhet och ökar risken att utländska kontrolluppgifter inte kan 
+användas. Förseningarna bidrar även till att kontrolluppgifternas preventiva 
+funktion minskar.
+Utgångspunkten för hanteringen av utländska kontrolluppgifter måste, 
+precis som för inhemska kontrolluppgifter, vara att de ska läsas in i 
+taxeringssystemet så fort som möjligt för att på ett effektivt sätt kunna 
+användas som underlag i granskningsverksamheten. Skatteverkets egna 
+analyser visar att områden där det förekommer kontrolluppgifter har ett 
+lägre skattefel än områden där det saknas. Skatteverkets möjligheter att 
+använda kontrolluppgifterna minskar om de är mer än två år gamla. En 
+kontrolluppgift avseende inkomståret 2007 kan, om den inte finns med i 
+den ordinarie taxeringen 2008, bli föremål för omprövning t.o.m. utgången 
+av 2009. Därefter måste omprövningen ske inom ramen för reglerna kring 
+”eftertaxering”, och Skatteverket måste kunna visa att den skattskyldige 
+lämnat en oriktig uppgift. 
+ Riksrevisionen finner att det förekommer betydande fördröjningar 
+i inläsningen av automatiska kontrolluppgifter från andra länder i 
+Skatteverkets taxeringssystem. Av 33 OECD-filer med kontrolluppgifter som 
+inkom under 2007–2009 har endast 10 lästs in i taxeringssystemet. De 
+kontrolluppgifter som inkom inom ramen för EU:s sparandedirektiv under 
+2008 och 2009 finns ännu inte tillgängliga i taxeringssystemet. Många 
+uppgifter blir aldrig inlästa eller riskerar att bli för gamla för att kunna 
+användas i taxeringen innan de läses in.
+
+69 RIKSREVISIONENInternationell skattekontroll
+8.3 Automatisk identifiering saknas
+Avsaknaden av ett automatiskt identifieringssystem för utländska 
+kontrolluppgifter gör att betydande resurser läggs på en omfattande och 
+tidsödande manuell hantering. Med automatisk identifiering ökar möjligheterna 
+till en rationell kontroll i nära anslutning till den årliga taxeringen.
+Riksrevisionen kan konstatera att Skatteverkets identifiering av utländska 
+kontrolluppgifter i dag tar stora manuella resurser i anspråk. I takt med att 
+antalet automatiska kontrolluppgifter ökar, ökar behovet av rationalisering i 
+form av automatisk identifiering. Med automatisk identifiering kan utländska 
+kontrolluppgifter bli tillgängliga för granskning snabbare och i så nära 
+anslutning till den ordinarie taxeringen som möjligt. Möjligheterna att på sikt 
+kunna förtrycka eller upplysa om uppgifterna i den årliga deklarationen ökar 
+med automatisk identifiering. En tidig identifiering ökar även möjligheterna 
+att kontrolluppgifter från flera år kan hanteras samtidigt vilket förenklar 
+hanteringen både för Skatteverket och för skattebetalarna. Mot bakgrund av 
+de effektivitetsvinster som en automatisk identifiering skulle medföra anser 
+Riksrevisionen att beräknad investeringskostnad om ca 1,5 miljoner kronor 
+är att betrakta som låg. 
+8.4 Många kontrolluppgifter granskas aldrig
+I dag förekommer ingen systematisk granskning av utländska kontrolluppgifter 
+avseende juridiska personer. 
+Erfarenheter från Skatteverkets granskning av utländska kontrolluppgifter 
+avseende fysiska personer visar att många kontrolluppgifter leder till stora 
+höjningar i taxeringen. Som vi sett ovan leder dock fördröjd inläsning till 
+att många kontrolluppgifter aldrig kommer till användning i kontrollen. 
+Automatiska kontrolluppgifter avseende juridiska personer har använts 
+framgångsrikt i enstaka kontrollprojekt, men det pågår inget systematiskt 
+kontrollarbete. Det framgår dock att en stor del av kontrolluppgifterna 
+saknar kontrollvärde. Ingen vet hur många automatiska kontrolluppgifter på 
+företag som identifieras och kontrolleras i dag eller vilken nytta man har av 
+uppgifterna. 
+
+70RIKSREVISIONEN Internationell skattekontroll
+8.5 Innehållet i utländska kontrolluppgifter är inte kartlagt
+Omfattningen av och innehållet i inkommande utländska kontrolluppgifter är 
+inte kartlagt. Bristande kunskap om innehållet i och omfattningen av utländska 
+kontrolluppgifter minskar Skatteverkets möjligheter att bedöma risken för 
+skattefel och hur stort kontrollbehovet är. 
+Det finns i dag ingen kartläggning av det totala antalet automatiska 
+kontrolluppgifter eller någon analys av innehållet i uppgifterna, vare sig för 
+fysiska eller juridiska personer. Riksrevisionen instämmer i Skatteverkets 
+bedömning att det finns ett stort behov av en kartläggning och analys av 
+utländska kontrolluppgifter för att kunna bedöma risken för skattefel i olika 
+delar av materialet och förbättra hanteringen. Nödvändiga kartläggningar 
+och analyser försvåras dock av att Skatteverkets taxeringssystem inte lämpar 
+sig för statistiska bearbetningar och att många uppgifter inte läses in. 
+8.6 System för en effektiv uppföljning saknas
+Avsaknaden av ett centralt ärendehanteringssystem gör att Skatteverket har 
+begränsade möjligheter att klara av interna och externa krav på uppföljning av 
+informationsutbytet. 
+Skatteverket saknar i dag ett centralt uppföljningssystem för 
+informationsutbytet. Skatteverkets taxeringssystem för automatiska 
+kontrolluppgifter lämpar sig inte för statistiska bearbetningar och 
+sökmöjligheterna är begränsade. Många automatiska kontrolluppgifter 
+läses inte in. Skatteverkets diariesystem för registrering av spontana 
+kontrolluppgifter och handräckningsärenden är inte tillförlitligt. Det går 
+t.ex. inte att skilja på inkommande och utgående ärenden, vilket fått till 
+följd att ett av utlandsskattekontoren slutat använda diariesystemet för 
+att registrera inkommande ärenden. I dagsläget går det därför inte att 
+få fram en heltäckande bild av vare sig det automatiska eller spontana 
+informationsutbytet. Brister finns t.ex. rörande antalet inkommande 
+kontrolluppgifter och handräckningsärenden och rörande uppföljning på 
+”ländernivå” och ”ärendetyp” (avser ärendet företag eller fysisk person). 
+Enligt Riksrevisionen innebär detta att Skatteverket har problem att på 
+ett effektivt sätt möta ökande interna och externa krav på uppföljning och 
+analyser av informationsutbytet. 
+
+71 RIKSREVISIONENInternationell skattekontroll
+8.7 Spontana kontrolluppgifter minskar
+Låga incitament att skicka spontana kontrolluppgifter gör att antalet spontana 
+kontrolluppgifter minskar under 2009.
+Både OECD, EU-kommissionen och Skatteverket vill öka det spontana 
+utbytet av information. Det finns dock tecken på att det spontana utbytet av 
+kontrolluppgifter minskar under 2009.
+ Till skillnad från det automatiska informationsutbytet bygger det 
+spontana informationsutbytets utveckling i hög grad på initiativ av 
+enskilda handläggare och revisorer. Incitamenten bland handläggarna att 
+skicka spontana kontrolluppgifter och begära handräckning är generellt 
+låga. Riksrevisionen finner i sin granskning flera förklaringar till detta. 
+En förklaring är att det förekommer en målkonflikt mellan behovet av ett 
+utökat informationsutbyte och nationella krav på genomströmningstider. 
+Andra förklaringar till att det spontana informationsutbytet minskar är 
+att kompetensen att hantera spontana kontrolluppgifter är låg ute på 
+regionerna. Viljan att skicka kontrolluppgifter påverkas även av om landet 
+får återrapportering på de kontrolluppgifter som skickas. I dag görs få 
+återapporteringar. Dessutom upplevs de nya försöksblanketterna från 
+EU som krångliga. Skatteverket har under 2009 styrt om resurser från 
+kontrollen för att öka antalet informationsbesök. Vid informationsbesök 
+får kontrolluppgifter inte inhämtas, vilket också kan förklara en del av 
+minskningen av spontana KU. 
+ Skatteverkets operativa verksamhet består till ca 40 procent av större 
+insatser och riksprojekt med en tydlig styrning från huvudkontoret. När det 
+gäller övrig löpande operativ verksamhet finns inte samma tydliga styrning. 
+Riksrevisionen gör bedömningen att detta kan ha missgynnat det stundtals 
+tidskrävande internationella arbetet till fördel för nationella aktiviteter och 
+mål. ”Man gräver där man står”, som en person på huvudkontoret uttryckte 
+det. Skatteverket har under 2009 dragit ned på den ”händelsestyrda 
+tiden”, dvs. den tid som bl.a. kan utnyttjas till internationell samverkan och 
+handräckning. Huvudkontoret förklarar minskningen mot bakgrund av att 
+tiden inte har utnyttjats fullt ut av regionerna. På regionerna upplever man 
+tvärtemot att det finns för lite flexibilitet och utrymme för egna initiativ. 
+
+72RIKSREVISIONEN Internationell skattekontroll
+8.8 Fördröjd it-utveckling
+Utvecklingsarbetet avseende informationsutbytet har fått stå tillbaka under 
+senare år, vilket gör att Skatteverket har problem att fullt ut och på ett effektivt 
+sätt utnyttja de möjligheter som informationsutbytet erbjuder. Att hänskjuta 
+utvecklingsinsatser till stora projekt som ska lösa ”allt” medför betydande risker 
+att utvecklingsarbetet försenas.
+Redan i Skattebasutredningen 2002 framhölls vikten av att Skatteverket 
+utvecklar system för att kunna ta till vara den information man erhåller 
+inom ramen för informationsutbytet. Även i de interna analyser från 
+2004 som ledde fram till Skatteverkets omorganisation och bildandet 
+av två utlandsskattekontor beskriver Skatteverket behovet av ett nytt 
+ärendehanteringssystem för det internationella informationsutbytet. 
+Kraven på förbättrad hantering, analys och uppföljning av utländska 
+kontrolluppgifter specificeras sedan ytterligare i flera interna utredningar. 
+Från och med 2006 läggs ansvaret för utvecklingen av hanteringen 
+av utländska kontrolluppgifter i ”taxeringsförnyelsen”, ett omfattande 
+projekt med en budget på 630 miljoner kronor vilket avser att förnya 
+hela taxeringssystemet. I samband med detta gör Skatteverket också en 
+detaljerad genomgång av hanteringen av utländska kontrolluppgifter och 
+vilka brister och utvecklingsbehov som finns. Sedan 2009 ligger stora 
+delar av utvecklingsarbetet i ”taxeringsförnyelsen” nere. Skatteverket har i 
+stället lagt en separat beställning till Skatteverkets verksamhetsstöd på en 
+utvecklingsinsats avseende hanteringen av utländska kontrolluppgifter. 
+ Riksrevisionen ser som en förklaring till att Skatteverket inte 
+kommit längre i utvecklingsarbetet att den praktiska hanteringen av 
+informationsutbytet i dag är uppdelad på flera olika enheter på olika ställen 
+inom organisationen och med olika geografisk placering. Omorganisationen 
+förde även med sig att kompetens flyttade från huvudkontoret till 
+utlandsskattekontoren. En företrädare på huvudkontoret konstaterar:
+”Hanteringen av utländska kontrolluppgifter har förändrats i och med den nya 
+organisationen. Tidigare satt alla inblandade nära varandra fysiskt medan det 
+nu är utspritt på huvudkontoret, VE, utlandsskattekontoren och Skattekontoret i 
+Östersund. Det är inte helt självklart vem som gör vad i dag.” 
+Riksrevisionen gör bedömningen att Skatteverkets utspridda organisation 
+där ansvaret och kompetensen för olika delar av hanteringen av 
+utländska kontrolluppgifter är uppdelat på många händer har lett till att 
+helhetsperspektivet blivit lidande och att problemen inte har blivit tillräckligt 
+synliggjorda. Bristen på helhetsperspektiv har bidragit till fördröjningar av 
+
+73 RIKSREVISIONENInternationell skattekontroll
+nödvändiga utvecklingsinsatser och investeringar, såsom utvecklandet av ett 
+automatsikt identifieringssystem och ett bättre systemstöd för analys och 
+uppföljning.
+8.9 Skatteverket har inlett ett utvecklingsarbete
+Riksrevisionen ser positivt på Skatteverkets initiativ att utveckla hanteringen 
+och uppföljningen av utländska kontrolluppgifter. Om utvecklingsinsatserna 
+genomförs kommer de att förbättra förutsättningarna för ett effektivt 
+informationsutbyte med andra länder.
+8.10 Riksrevisionens rekommendationer
+Mot bakgrund av de iakttagelser och slutsatser som redovisats ovan lämnar 
+Riksrevisionen följande rekommendationer.
+ Gör informationsutbytet till ett prioriterat utvecklingsområde
+En av Riksrevisionens övergripande slutsatser är att utvecklingsarbetet 
+avseende informationsutbytet inte bedrivits på ett sammanhållet sätt och 
+har fått stå tillbaka på senare år. Detta har bidragit till en ineffektiv hantering 
+av utländska kontrolluppgifter. Mot bakgrund av de risker detta medför i 
+form av ett ökat skattefel och minskad preventiv effekt bör Skatteverket 
+göra informationsutbytet till ett prioriterat utvecklingsområde. I detta 
+ingår att se över såväl tekniska behov som organisatoriska problem och 
+kompetensfrågor. 
+ Förbättra ärendehanteringen av automatiska kontrolluppgifter
+Skatteverket bör skyndsamt förbättra sitt ärendehanteringssystem för 
+automatiska kontrolluppgifter. Ett nytt ärendehanteringssystem måste 
+kunna läsa in automatiska kontrolluppgifter i olika format och klara av 
+att automatsikt identifiera en del av uppgifterna. Givet den relativt låga 
+investeringskostnaden borde ett automatiskt identifieringssystem redan varit 
+på plats. En förbättrad inläsning och identifiering gör att kontrolluppgifterna 
+kan bli tillgängliga för granskning snabbare. Ett nytt ärendehanteringssystem 
+måste även kunna tillfredsställa behovet av statistik och analys. 
+
+74RIKSREVISIONEN Internationell skattekontroll
+ Förbättra uppföljningen av informationsutbytet
+Riksrevisionen kan konstatera att Skatteverket saknar ett centralt 
+uppföljningssystem för informationsutbytet. Många automatiska 
+kontrolluppgifter läses inte in i taxeringssystemet, och Skatteverkets 
+diariesystem för registrering av spontant informationsutbyte och 
+handräckning är inte tillförlitligt. I dag går det därför inte att få fram en 
+heltäckande bild av informationsutbytet. För att förbättra uppföljningen 
+av informationsutbytet har Skatteverket nyligen kartlagt behovet av 
+uppföljningsinformation. Det är angeläget att Skatteverket snabbt tar fram 
+en teknisk lösning för att kunna tillfredsställa de behov av uppföljning som 
+identifierats i kartläggningen.
+ Kartlägg innehållet i utländska kontrolluppgifter
+Det är viktigt att Skatteverket kartlägger det totala antalet automatiska 
+kontrolluppgifter som kommer in och analyserar innehållet i uppgifterna. En 
+analys är nödvändig för att kunna bedöma risken för skattefel i olika delar av 
+materialet och kunna fatta beslut om hur uppgifterna ska hanteras. Om det 
+stämmer att vissa kontrolluppgifter avseende juridiska personer inte tillför 
+kontrollen någon ny information bör Skatteverket fatta ett principbeslut om 
+att dessa uppgifter inte ska användas.
+ Öka fokus på den totala operativa tiden
+Skatteverkets operativa verksamhet består till ca 40 procent av större 
+insatser och riksprojekt med en tydlig styrning från huvudkontoret. När 
+det gäller övrig löpande operativ verksamhet finns inte samma tydliga 
+styrning vilket kan ha missgynnat det internationella området till fördel för 
+nationella aktiviteter och mål. Riksrevisionen menar att ett ökat fokus på 
+den totala operativa tiden kan gynna det internationella området och stärka 
+incitamenten för ett ökat spontant informationsutbyte.
+
+75 RIKSREVISIONENInternationell skattekontroll
+ Referenser
+ Litteratur
+Gustafsson Myslinski, U (2008), ”Sveriges informationsutbytesavtal med 
+Isle of Man”, Skattenytt, vol. 4, s. 185.
+OECD (2006), Manual on the Implementation of Exchange of Information 
+Provisions for Tax Purposes.
+Keen, M och J Ligthart (2006) , ”Information Sharing and International 
+Taxation: A Primer”, International Tax and Public Finance, vol. 13, s. 81–110.
+Rehnberg, U, J Olsson (2009), ”Skattefrågor under det svenska 
+ordförandeskapet i EU”, Skattenytt, s. 619.
+Spencer, D (2006),”Exchange of Tax Information”, Accountancy, business and 
+the Public Interest, vol. 5, s. 87–94.
+ Riksdag och regering
+Lag (2001:1227) om självdeklarationer och kontrolluppgifter.
+Regeringens proposition 2009/10:1 Budgetpropositionen för 2010.
+Regeringens proposition 2008/09:1 Budgetpropositionen för 2009.
+Regeringens proposition 2007/08:1 Budgetpropositionen för 2008.
+Regeringens proposition 2007/08:100 2008 års ekonomiska vårproposition.
+Regeringens proposition 2006/07:1 Budgetproposition för 2007.
+Regeringens proposition 1995/96:220 Lag om statsbudgeten.
+Regleringsbrev för budgetåret 2009 avseende Skatteverket, 2008-12-19.
+Riksdagsskrivelse 2008/09:87.
+Riksdagsskrivelse 2007/08:260.
+Riksdagsskrivelse 2007/08:259.
+
+76RIKSREVISIONEN Internationell skattekontroll
+Riksdagsskrivelse 2007/08:34.
+Riksdagsskrivelse 1996/97:27.
+Riksdagens betänkande 2008/09:SkU1.
+Riksdagens betänkande 2007/08:FiU20.
+Riksdagens betänkande 2007/08:SkU1.
+Riksdagens betänkande 1996/97:KU3.
+Skatteutskottets yttrande 2007/08:SkU1y.
+ EG-lagstiftning
+Rådets förordning 2003/1798/EG om administrativt samarbete om 
+mervärdesskatter.
+Rådets direktiv 2004/56/EG av den 21 april 2004 om ändring av direktiv 
+77/799/EEG om ömsesidigt bistånd av medlemsstaternas behöriga 
+myndigheter i fråga om direkt beskattning, vissa punktskatter och skatter på 
+försäkringspremier.
+Rådets direktiv 2004/106/EG av den 16 november 2004 om ändring av 
+direktiv 77/799/EEG om ömsesidigt bistånd av medlemsstaternas behöriga 
+myndigheter i fråga om direkt beskattning, vissa punktskatter och skatter 
+på försäkringspremier samt direktiv 92/12/EEG om allmänna regler för 
+punktskattepliktiga varor och om innehav, flyttning och övervakning av 
+sådana varor.
+Rådets förordning 2004/2073/EG om administrativt samarbete om 
+punktskatter.
+Rådets direktiv 2006/98/EG av den 20 november 2006 om anpassning 
+av vissa direktiv rörande beskattning med anledning av Bulgariens och 
+Rumäniens anslutning.
+ Skatteverket
+Skatteverket (2009), Beslut avseende uppföljning och inrapportering av uppgifter 
+om informationsutbyte med andra länder.
+Skatteverket (2009), Handledning för informationsutbytet med andra stater 
+2009.
+Skatteverket (2009), Handledning för internationell beskattning 2009.
+
+77 RIKSREVISIONENInternationell skattekontroll
+Skatteverket (2008), Arbetsbeskrivning för automatiska KU från utlandet.
+Skatteverket (2008), Beställning av utvecklingsinsats avseende hanteringen av 
+automatiska kontrolluppgifter (OECD).
+Skatteverket (2008), Förstudierapport, KU-utland, version 1.0.
+Skatteverket (2008), Kontroll av spontana kontrolluppgifter från utlandet 
+inkomna till region Stockholm under 2007.
+Skatteverket (2008), Kontrolluppgifter – En inventering av kunskapsbehov.
+Skatteverket (2008), Mätning av Skatteverkets effekter på dess omgivning: 
+Ett diskussionsunderlag och hjälpmedel för såväl beslutsfattare som utförare av 
+effektmätningar, SKV Rapport 2008:2.
+Skatteverket (2008), Skattefelskarta för Sverige: Hur togs den fram och hur kan 
+den användas?, SKV Rapport 2008:1.
+Skatteverket (2008), UtlandsKU – statistik.
+Skatteverket (2008), Uppdragsbeskrivning – samordningsansvar för gemensam 
+insats i riksplanen.
+Skatteverket (2008), Sparandedirektivet 2007.
+Skatteverket (2008), Uppdragsbeskrivning, analysuppdrag utländska 
+kontrolluppgifter.
+Skatteverket (2008), Årsredovisning för Skatteverket 2008.
+Skatteverket (2008), Övergripande rapportering till 2012.
+Skatteverket (2007), Kontroll av spontana kontrolluppgifter från utlandet 
+inkomna till region Stockholm under 2006.
+Skatteverket (2007), UtlandsKU.
+Skatteverket (2006), Kontroll av spontana kontrolluppgifter från utlandet 
+inkomna till region Stockholm under 2005.
+Skatteverket (2004), Slutrapport från arbetsgruppen ”Skatt utan gränser”.
+Skatteverket (2004), Utvärdering av utlandsKU, försöksverksamhet i region 
+Gävle och Östersund.
+Skatteverket (2004), Ärendestödssystem för internationellt informationsutbyte, 
+Förstudierapport. 
+Skatteverket, Utlandsskattekontorets hantering av inkommande spontana 
+kontrolluppgifter.
+
+78RIKSREVISIONEN Internationell skattekontroll
+ Övriga källor
+Direktiv 2000:51, Internationaliseringens betydelse för svenska skattebaser och 
+framtida skattestruktur. 
+Finansdepartementet (2009), Faktapromemoria 2008/09:FPM71,  
+Ändringar i sparandedirektivet.
+Finansdepartementet (2009), Faktapromemoria 2008/09:FPM121,  
+Nytt handräckningsdirektiv. 
+Nordens hemsida 2009-11-09.
+OECD:s hemsida 2009-09-25.
+SOU 2002:47 Våra skatter?
+U.S. Department of the Treasury, Office of Tax Policy (2006),  
+”A Comprehensive Strategy for Reducing the Tax Gap”.
+ Intervjuförteckning samt uppgifter via e-post
+Skatteverkets huvudkontor, 2008-08-27.
+Skatteverkets huvudkontor, 2008-08-28.
+Skatteverkets huvudkontor, e-post, 2009-09-01.
+Skatteverkets huvudkontor, 2009-09-02. 
+Skatteverkets utlandsskattekontor i Malmö, 2008-06-26.
+Skatteverkets utlandsskattekontor i Malmö, 2009-10-15.
+Skatteverkets utlandsskattekontor i Stockholm, 2009-09-21.
+Skatteverkets utlandsskattekontor i Stockholm, e-post, 2009-10-30.
+Skatteverkets verksamhetsstödsavdelning, 2008-08-27.
+Skatteverkets verksamhetsstödsavdelning, e-post, 2009-11-03.
+Skatteverkets Skattekontor i Östersund, 2008-06-13.
+Skattekontoret i Östersund, e-post, 2009-08-28.
+Skattekontoret i Östersund, e-post, 2009-09-21.
+Skattekontoret i Östersund, e-post, 2009-11-03.
+
+79 RIKSREVISIONENInternationell skattekontroll
+Bilaga 1 Termer och begrepp
+ CCN-mail
+Ett skyddat internetbaserat system för att skicka kontrolluppgifter mellan 
+EU:s medlemsländer.
+ Direkt skatt
+Skatter som utgår på inkomster och förmögenheter. De främsta exemplen 
+i Sverige är den statliga och kommunala inkomstskatten såväl på 
+förvärvsinkomster som på kapitalinkomster.
+ Handräckning
+Handräckning på det internationella området bygger på internationella 
+överenskommelser och omfattar i första hand utbyte av information för 
+skatteutredningar, handräckning för indrivning av skatt och andra åtgärder, 
+såsom delgivning av handlingar.
+ Identifiering
+Identifieringen innebär att Skatteverket tar reda på vilken person eller vilket 
+företag kontrolluppgiften avser.
+ Indirekt skatt
+Med indirekta skatter avses sådana skatter som utgår vid omsättning av 
+varor och tjänster. Till denna grupp hör mervärdesskatten och punktskatter, 
+som skatterna på exempelvis alkohol och tobak.
+
+80RIKSREVISIONEN Internationell skattekontroll
+ Informationsbesök
+Informationsbesök är sedan 2007 ett nytt arbetssätt på Skatteverket som 
+innebär att Skatteverket besöker företag för att ge information. Syftet med 
+informationsbesöken är att öka Skatteverkets synlighet hos företagen för 
+att öka förtroendet för Skatteverket. Informationsbesök kan ske både på 
+Skatteverkets och på företagens initiativ. Till skillnad mot ett kontrollbesök 
+kan kontrolluppgifter inte inhämtas vid ett informationsbesök. 
+ Initiativverksamheten
+Av Skatteverkets totala operativa verksamhet består ca 40 procent 
+av initiativverksamheten. Initiativverksamheten planeras utifrån ett 
+riksperspektiv där det finns ett behov av tydlig styrning, t.ex. när det gäller 
+enhetlighet beträffande metod och rättslig tillämpning.
+ Källskatt
+Med källskatt avses en skatt som betalas vid källan, dvs. direkt när 
+inkomsten uppkommer. Exempel på detta är när arbetsgivare gör avdrag för 
+preliminär skatt på lönen.
+ LT
+Skatteverkets lokala taxeringssystem.
+ Riksprojekt
+Riksprojekt är en del av Skatteverkets initiativverksamhet.
+ Skattebas
+Ett sätt att dela in skatterna är att utgå från den bas som ligger till grund för 
+skatteuttaget - arbete, kapital och konsumtion/insatsvaror.
+ Skattefel
+Med skattefel avses skillnaden mellan den teoretiskt riktiga skatten och 
+fastställd skatt. Skattefelet är alltså skillnaden mellan den skatt som skulle 
+ha blivit fastställd - om alla skattebetalare redovisade alla sina verksamheter 
+och transaktioner korrekt – och den skatt som i praktiken fastställs.
+
+81 RIKSREVISIONENInternationell skattekontroll
+ Skattesubjekt
+Med skattesubjekt avses den som är skattskyldig, dvs. den som har att 
+erlägga skatten och är formellt betalningsskyldig.
+ Skrivbordskontroll
+Med skrivbordskontroll avses normalt kontroll som sker med hjälp av de 
+uppgifter som kan inhämtas i Skatteverkets beskattningsdatabas. 
+ Teoretisk skatt
+Den skatt som skulle ha blivit fastställd om alla skattebetalare redovisade 
+alla sina verksamheter och transaktioner korrekt.
+
+82RIKSREVISIONEN Internationell skattekontroll
+
+83 RIKSREVISIONENInternationell skattekontroll
+

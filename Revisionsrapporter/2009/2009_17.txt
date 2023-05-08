@@ -1,0 +1,2642 @@
+RiR 2009:17
+Tillämpningen av det 
+finanspolitiska ramverket
+
+Regeringens redovisning i budgetpropositionen för 2010
+
+
+
+ISBN 978 91 7086 190 1RiR 2009:17Tryck: Riksdagstryckeriet, Stockholm 2009
+
+För kännedom:
+Finanspolitiska rådetTill regeringenFinansdepartementetDatum: 2009-11-16Dnr: 31-2009-1197
+Tillämpningen av det finanspolitiska ramverket
+
+– regeringens redovisning i budgetpropositionen för 2010
+
+Riksrevisionen har granskat hur regeringen har tillämpat det finanspolitiska 
+ramverket i budgetpropositionen för 2010. Resultatet av granskningen redovisas 
+i denna granskningsrapport. 
+Företrädare för Regeringskansliet har fått tillfälle att faktagranska och i 
+övrigt lämna synpunkter på utkast till rapporten. 
+Rapporten överlämnas till regeringen i enlighet med 9 § lagen (2002:1022) 
+om revision av statlig verksamhet m.m. Rappporten överlämnas samtidigt till 
+Riksrevisionens styrelse. Riksrevisionen kommer att följa upp granskningen. 
+Riksrevisor Eva Lindström har beslutat i detta ärende. Revisionsdirektör 
+Thomas Hagberg har varit föredragande. Revisionsråd Tomas Nordström har 
+medverkat vid den slutliga handläggningen.
+Eva LindströmThomas Hagberg
+
+Innehåll
+
+Sammanfattning 7
+
+1 Inledning 11
+
+2 Finanspolitikens hållbarhet 13
+
+2.1 Bakgrund 13
+
+2.2 Vad är S2-indikatorn? 16
+
+2.3 Komponenter i S2 19
+
+2.4 Alternativa kalkyler 21
+
+2.5 Nettoskulden 23
+
+2.6 Slutsatser 24
+
+2.7 Rekommendationer 25
+
+3 Uppföljning av överskottsmålet 27
+
+3.1 Bakgrund 27
+
+3.2 Regeringens redovisning 28
+
+3.3 Krav på måluppföljning 30
+
+3.4 Indikatorerna spretar 31
+
+3.5 Målavvikelserna är inte små 31
+
+3.6 Oklar användning av konjunkturjusterade indikatorer 33
+
+3.7 Slutsatser 35
+
+3.8 Rekommendationer 35
+
+4 Uppföljning av utgiftstaket 37
+
+4.1 Bakgrund 37
+
+4.2 Jämförelse med vårpropositionen 38
+
+4.3 Utgiftstak och utgiftsredovisning 41
+
+4.4 Utgiftstaket 2012 43
+
+4.5 Slutsatser 46
+
+4.6 Rekommendationer 46
+
+5 Uppföljning av balanskravet 47
+
+5.1 Bakgrund 47
+
+5.2 Regeringens redovisning i budgetpropositionen 48
+
+5.3 Kommunal konsumtion och sysselsättning 50
+
+5.4 Slutsatser 53
+
+5.5 Rekommendationer 53
+
+Källförteckning 55
+
+Bilaga 1 Härledning av S2-indikatorn 57
+
+Bilaga 2 Begreppsförklaringar 59
+
+Bilaga 3 Rapporter inom granskningsstrategin Offentliga finanser 65
+
+
+
+SammanfattningFinanspolitiken styrs av tre övergripande mål: 
+• Överskottsmålet innebär att den offentliga sektorns finansiella sparande 
+ska uppvisa ett överskott motsvarande 1 procent av BNP i genomsnitt 
+över en konjunkturcykel. 
+• Utgiftstaket för staten innebär att statens utgifter begränsas av ett belopp 
+i miljarder kronor som beslutas tre år i förväg. 
+• Balanskravet innebär att enskilda kommuner och landsting inte får besluta 
+om en budget där kostnaderna överstiger intäkterna. 
+Riksrevisionen granskar regelbundet regeringens tillämpning av det finanspolitiska 
+ramverket i de ekonomiska propositionerna. Syftet är att bidra 
+till att finans- och budgetpolitiken redovisas på ett utförligt och tydligt sätt 
+för riksdagen och allmänheten. En transparent redovisning av politikens 
+inriktning i förhållande till de budgetpolitiska målen stärker förtroendet för 
+finanspolitiken och bidrar till en stabil ekonomisk utveckling. Redovisningen 
+av finanspolitiken har förbättrats i flera avseenden under de senaste åren. 
+Tillkomsten av Finanspolitiska rådet 2007 har också medfört en ökad extern 
+bevakning. 
+Till följd av krisen på de finansiella marknaderna har såväl den internationella 
+som den svenska ekonomin försvagats kraftigt. Regeringen har vidtagit 
+en rad åtgärder för att stabilisera den ekonomiska utvecklingen. Åtgärderna 
+har redovisats för riksdagen i ett antal propositioner sedan budgetpropositionen 
+för 2009. I budgetpropositionen för 2010 föreslår och aviserar regeringen 
+ytterligare reformer och åtgärder för att stabilisera ekonomin. Sammantaget 
+försvagar dessa de offentliga finanserna 2010–2012 med 32, 24 respektive 22 
+miljarder kronor.1 Den expansiva finanspolitiken och den svaga reala ekonomin 
+innebär att de offentliga finanserna försämrats kraftigt jämfört med budgetpropositionen 
+för ett år sedan. För att upprätthålla förtroendet för de offentliga 
+finanserna är det i ett sådant läge av särskild vikt att uppföljningen av de 
+budgetpolitiska målen och regeringens strategi för att uppfylla överskottsmålet 
+presenteras utförligt och tydligt. Det är i kristider som regeringens tillämpning 
+av det finanspolitiska ramverket sätts på prov.
+1 Åren 2011 och 2012 tillkommer en reformeffekt på 6,5 miljarder kronor på pensionsområdet. Den 
+betecknas i budgetpropositionen som ett ”beräkningstekniskt antagande” och redovisas inte 
+bland övriga föreslagna eller aviserade reformer, se avsnitt 4.2.
+
+Det grundläggande motivet för det finanspolitiska ramverket är att säkerställa 
+de offentliga finansernas långsiktiga hållbarhet. De budgetpolitiska målen 
+syftar till att minska risken för att tillfälliga underskott permanentas och utvecklas 
+till en skuldkris. Utöver en granskning av regeringens uppföljning av 
+de budgetpolitiska målen tar vi därför i denna rapport även upp regeringens 
+analys av de offentliga finansernas långsiktiga hållbarhet. 
+Iakttagelser och slutsatserEn förutsättning för en hållbar utveckling av de offentliga finanserna är en 
+tydlig redovisning av vilka krav som ställs på finanspolitikens inriktning. 
+Riksrevisionen konstaterar att regeringens hållbarhetsanalys, trots många 
+förtjänster, leder till den paradoxala slutsatsen att den offentliga sektorns 
+finanser inte är långsiktigt hållbara trots växande överskott fram till slutet av 
+detta århundrade. 
+Den långsiktiga bilden av de offentliga finansernas utveckling som 
+regeringen presenterar i budgetpropositionen innebär att det finansiella 
+sparandet successivt måste höjas utöver det av riksdagen beslutade överskottsmålet. 
+Överskotten överstiger 1 procent av BNP hela perioden fram till 
+2099. Regeringen kommenterar inte hållbarhetsberäkningens innebörd för 
+överskottsmålets nivå och lämplighet. 
+Riksrevisionen konstaterar också att regeringens redovisning av avvikelserna 
+från överskottsmålet är fortsatt bristfällig. De indikatorer som regeringen 
+använder för uppföljningen av målet pekar mot vitt skilda, och i några 
+fall mycket stora, avvikelser från målet. Det är oklart vilken roll indikatorerna 
+spelar för regeringens inriktning av finanspolitiken framöver. En tydlig 
+redovisning av målavvikelser och hur regeringen avser att reducera dessa är 
+särskilt viktigt i ett läge där de offentliga finanserna är svaga och politikens 
+långsiktiga hållbarhet riskerar att ifrågasättas. 
+Utgiftstaket är det centrala verktyget för att säkerställa överskottsmålet 
+och den långsiktiga hållbarheten i finanspolitiken. Regeringens förslag till 
+utgiftstak för det tredje tillkommande året bör därför vara tydligt och konkret 
+motiverat i förhållande till såväl överskottsmålet som det önskade skatteuttaget. 
+Regeringen presenterar emellertid inte någon sådan redovisning av 
+förslaget till utgiftstak för 2012. 
+Förslaget till utgiftstak 2012 är 10 miljarder kronor lägre än den bedömning 
+som lämnades i den ekonomiska vårpropositionen. Regeringens 
+motivering är att en stramare utgiftspolitik kan bli nödvändig för att uppnå 
+överskottsmålet. Samtidigt har emellertid prognosen för pensionsutgifterna 
+sänkts med mer än 10 miljarder kronor till följd av en felaktig beräkning i vårpropositionen. 
+Enligt Riksrevisionen bör sänkningen av utgiftstaket snarast 
+
+ses som en konsekvens av att den felaktiga beräkningen av pensionsutgifterna 
+nu rättats till. 
+Ett tidigare beslutat utgiftstak är av central betydelse för budgetprocessen. 
+Taket framtvingar prioriteringar mellan olika utgifter i beredningen och 
+genomförandet av statsbudgeten. Förtroendet för utgiftstaket kan emellertid 
+skadas genom att olika typer av redovisningstekniska åtgärder används för 
+att kringgå taket. Utbetalningen av det tillfälliga kommunstödet för 2010 
+redan i slutet av 2009 utgör ett sådant exempel. 
+Kommunsektorn omfattar 20 procent av samhällsekonomin och svarar 
+för merparten av de skattefinansierade välfärdstjänsterna. För att säkerställa 
+en ansvarsfull finansiering ställer kommunallagen krav på en ”god 
+ekonomisk hushållning” i enskilda kommuner och landsting. Enligt lagen är 
+det vidare inte tillåtet att besluta om en budget där kostnaderna överstiger 
+intäkterna (det så kallade balanskravet). Riksrevisionen påtalade i granskningen 
+av 2009 års ekonomiska vårproposition att redovisningen av kommunsektorns 
+finanser var alltför splittrad mellan olika avsnitt i propositionen 
+och att innebörden av en prognos där kommunsektorn förutsätts bryta mot 
+balanskravet var oklar. Redovisningen har förbättrats i budgetpropositionen. 
+Den presenterade prognosen innebär att balanskravet klaras. Detta förutsätter 
+emellertid en kraftig ökning av produktiviteten i de kommunala verksamheterna 
+2011. Regeringen varken kommenterar eller motiverar detta antagande, trots 
+att produktivitetsökningen är en förutsättning för att kommunerna ska klara 
+lagens krav om balans. 
+Rekommendationer 
+Mot bakgrund av de iakttagelser och slutsatser som redovisats ovan vill Riksrevisionen 
+lämna följande rekommendationer: 
+• Regeringen bör se över analysen av finanspolitikens hållbarhet och 
+tillämpningen av den så kallade S2-indikatorn. Hållbarhetsanalysen bör 
+relateras till en bedömning av den önskvärda nivån på överskottsmålet.
+• Regeringen bör klargöra vilken roll de olika målindikatorerna spelar för 
+bedömningen av avvikelserna från överskottsmålet och för inriktningen 
+av finanspolitiken de närmaste åren.
+• I samband med den pågående översynen av det finanspolitiska ramverket 
+bör regeringen överväga alternativa formuleringar av överskottsmålet 
+som tillåter en mer precis redovisning av målavvikelserna.
+• Motiveringarna till utgiftstakets nivå och den väl tilltagna budgeteringsmarginalen 2012 är otillräckliga mot bakgrund av de stora avvikelserna 
+från överskottsmålet. Regeringen bör precisera hur förslaget till utgiftstak 
+för det tredje tillkommande året bidrar till att säkerställa överskottsmålet.
+
+• Regeringen bör avstå från att skapa ökat utgiftsutrymme under kommande 
+budgetår genom redovisningstekniska tidigareläggningar av utgifter på 
+tilläggsbudgetar. Principerna för budgetredovisningen bör tas upp inom 
+ramen för den pågående översynen av det finanspolitiska ramverket.
+• Regeringen bör fortsätta att utveckla redovisningen av kommunsektorns 
+finanser i de ekonomiska propositionerna, bland annat genom att 
+relatera prognoserna till såväl balanskravet som kravet på god ekonomisk 
+hushållning. Eventuella gap mellan prognosen och kommunallagens 
+krav bör kommenteras. Jämförelser med prognosen i föregående proposition är ett bra sätt att tydliggöra den aktuella bedömningen. Större 
+skillnader bör förklaras.
+
+1 InledningRiksrevisionen granskar regelbundet regeringens tillämpning av det finanspolitiska 
+ramverket i de ekonomiska propositionerna. Syftet är att bidra 
+till att finans- och budgetpolitiken redovisas på ett utförligt och tydligt sätt 
+för riksdagen och allmänheten. En transparent redovisning av politikens 
+inriktning i förhållande till de budgetpolitiska målen stärker förtroendet för 
+finanspolitiken och bidrar till en stabil ekonomisk utveckling. 
+Det finanspolitiska ramverk som sedan 2000 styr finanspolitiken innehåller 
+tre centrala budgetpolitiska mål2:
+• Överskottsmålet innebär att den offentliga sektorns finansiella sparande 
+ska uppvisa ett överskott motsvarande 1 procent av BNP i genomsnitt 
+över en konjunkturcykel.
+• Utgiftstaket för staten innebär att utgifterna på statsbudgetens utgiftsområden, exklusive utgiftsområde 26 Statsskuldsräntor m.m. och 
+inklusive ålderspensionssystemets utgifter, begränsas av ett nominellt 
+belopp i miljarder kronor som beslutas tre år i förväg.
+• Balanskravet innebär enligt kommunallagen (1991:900) att enskilda 
+kommuner och landsting inte får besluta om en budget där kostnaderna 
+överstiger intäkterna. Om verksamheten ändå ger ett negativ ekonomiskt 
+resultat måste detta kompenseras med motsvarande överskott inom tre 
+år. Balanskravet ska ses som ett minimikrav. Lagens krav på ”god ekonomisk 
+hushållning” förutsätter permanenta överskott.
+Under det senaste året har såväl den internationella som den svenska ekonomin 
+försvagats kraftigt till följd av krisen på de finansiella marknaderna. Regeringen 
+har vidtagit en rad åtgärder för att stabilisera ekonomin. Åtgärderna 
+har redovisats för riksdagen i ett antal propositioner sedan budgetpropositionen 
+för 2009. Vid behandlingen av vårpropositionen 2009 beslutades av 
+riksdagen om ytterligare åtgärder för att stabilisera den ekonomiska utvecklingen. 
+I budgetpropositionen för 2010 föreslår och aviserar regeringen ytterligare 
+reformer samt åtgärder för att stabilisera ekonomin. Sammantaget 
+försvagar dessa de offentliga finanserna 2010–
+2012 med 32, 24 respektive 22 
+miljarder kronor.32 Termerna ”budgetpolitiska mål” och ”finanspolitiska mål” används omväxlande med samma 
+innebörd.
+3 Åren 2011 och 2012 tillkommer en reformeffekt på 6,5 miljarder kronor på pensionsområdet. Den 
+betecknas i budgetpropositionen som ett ”beräkningstekniskt antagande” och redovisas inte 
+bland övriga föreslagna eller aviserade reformer, se avsnitt 4.2.
+
+Även om regeringen nu bedömer att utvecklingen har stabiliserats i 
+viktiga avseenden, innebär den expansiva finanspolitiken och den svaga 
+reala ekonomin att de offentliga finanserna försvagats kraftigt jämfört med 
+budgetpropositionen för ett år sedan. För att upprätthålla förtroendet för de 
+offentliga finanserna är det i ett sådant läge av särskild vikt att uppföljningen 
+av de budgetpolitiska målen och regeringens strategi för att säkerställa överskottsmålet 
+presenteras utförligt och tydligt. Det är i kristider som regeringens 
+tillämpning av det finanspolitiska ramverket sätts på prov. 
+Syftet med granskningen av budgetpropositionen är att bedöma hur det 
+finanspolitiska ramverket tillämpas och hur de finanspolitiska målen följs 
+upp och redovisas. En utgångspunkt för granskningen är de rekommendationer 
+som Riksrevisionen lämnat till regeringen i tidigare rapporter.4 En annan 
+utgångspunkt är regeringens egna utfästelser om tillämpningen av det 
+finanspolitiska ramverket. 
+Kapitel 2 behandlar regeringens bedömning av finanspolitikens långsiktiga 
+hållbarhet. Därefter granskas uppföljningen av de tre budgetpolitiska 
+målen i kapitel 3-
+5. I kapitel 3 beskrivs uppföljningen av överskottsmålet med 
+de olika indikatorer som regeringen använder. Uppföljningen av utgiftstaket 
+behandlas i kapitel 4. Bland annat granskas hur utgifterna redovisas 
+i förhållande till taket. Dessutom diskuteras regeringens motiveringar av 
+förslaget till utgiftstak för 2012. Uppföljningen av kommunernas ekonomi 
+granskas mot bakgrund av kommunallagens krav på budgetbalans och god 
+ekonomisk hushållning. Vissa termer och begrepp som används i rapporten 
+förklaras i bilaga 2.4 Se bilaga 3 för en förteckning av de rapporter som publicerats inom granskningsstrategin 
+”Offentliga finanser”.
+
+2 Finanspolitikens hållbarhet 
+Slutsatser och rekommendationer:
+Regeringens bedömning av finanspolitikens hållbarhet baseras bland annat 
+på en indikator som fäster stor vikt vid underskott som ligger mycket långt 
+fram i tiden. 
+Regeringen bör se över hållbarhetsanalysen och knyta den till en bedömning 
+av den önskvärda nivån på överskottsmålet.
+2.1 BakgrundDet grundläggande motivet för det finanspolitiska regelverk som varit vägledande 
+för budget- och finanspolitiken sedan 1997 är att säkerställa de offentliga 
+finansernas långsiktiga hållbarhet. Erfarenheten från krisen i början 
+av 1990-talet var att ett bristande förtroende för finanspolitiken är förknippat 
+med stora kostnader för såväl den offentliga som den privata sektorn. De 
+budgetpolitiska målen syftar till att minska risken för att tillfälliga underskott 
+i de offentliga finanserna permanentas och utvecklas till en skuldkris. 
+Regeringens bedömning av finanspolitikens hållbarhet tar sin utgångspunkt 
+i långsiktiga scenarier för ekonomins och de offentliga finansernas utveckling. 
+Scenarierna belyser bland annat de utmaningar som finanspolitiken 
+ställs inför de närmaste decennierna med en kraftigt ändrad ålderssammansättning 
+i befolkningen. Motsvarande scenarier redovisas i konvergensprogrammen 
+och utgör underlag för EU:s utvärdering av de offentliga finanserna i 
+medlemsstaterna inom ramen för stabilitets- och tillväxtpakten. 5 
+Inom EU har ett mångårigt arbete bedrivits för att utveckla gemensamma 
+principer för beräkningar av den offentliga sektorns utgifter på lång sikt. De 
+senaste gemensamma utgiftsberäkningarna sträcker sig fram till 2060.6 Redovisningen 
+såväl i regeringens ekonomiska propositioner som i konvergensprogrammen 
+följer en ”mall” som i hög grad bygger på dessa beräkningsprinciper.
+5 Konvergensprogram är en redogörelse till EU för inriktningen på den ekonomiska politiken de 
+kommande åren i ett EU-land som står utanför valutaunionen. Medlemsländer inom valutaunionen 
+redovisar stabilitetsprogram.
+6 Se Ageing report (2009) och Sustainability Report (2009).
+
+I budgetpropositionen för 2010 utformas scenarier för de offentliga 
+finanserna fram till 2099. Utöver ett basscenario presenteras ett antal 
+känslighetskalkyler. Beräkningsmetoder och -modeller framgår av en särskild 
+bilaga.7 Presentationen har utvecklats betydligt de senaste åren och är informativ 
+och utförlig. 
+I ett viktigt avseende är emellertid redovisningen bristfällig. Den övergripande 
+slutsatsen av hållbarhetsanalysen är att inriktningen av finanspolitiken 
+enligt basscenariot inte är fullt ut hållbar på längre sikt. En permanent budgetförstärkning 
+motsvarande 0,6 procent av BNP krävs. Mot bakgrund av 
+utvecklingen av de offentliga finanserna och den offentliga sektorns skulder i 
+det långsiktiga scenariot är en sådan slutsats svår att förstå. Förklaringar och 
+resonemang är alltför knapphändiga. 
+Basscenariot innebär att de offentliga finanserna uppvisar ett stort överskott 
+under hela den långsiktiga scenarioperioden (se figur 2.1). Överskottet växer successivt 
+till nära 3 procent av BNP kring 2070 för att därefter minska något.8Figur 2.1 Finansiellt sparande i offentlig sektor. Procent av BNP.
+I början av scenarioperioden är den offentliga sektorns nettoskuld negativ, 
+vilket innebär att de finansiella tillgångarna överstiger skulderna. Eftersom 
+det finansiella sparandet är positivt kommer nettoställningen successivt 
+att förstärkas ytterligare. I slutet av perioden uppgår den finansiella nettoförmögenheten 
+till 60 procent av BNP (se figur 2.2). Merparten av det 
+finansiella överskottet ligger i den statliga sektorn, vilket innebär att statsskulden 
+kommer att amorteras av fram till cirka 2035 i basscenariot. 
+7 Prop. 2009/10:1 bilaga 3.8 Prop. 2009/10:1 diagram 10.9 s. 296.
+43210-1-2-3-443210-1-2-3-4201020202030204020502060207020802090
+
+Figur 2.2 Offentliga sektorns skuldsättning. Procent av BNP.
+Regeringens sammantagna bedömning är att finanspolitikens hållbarhet är 
+relativt god. I basscenariot krävs emellertid en permanent budgetförstärkning 
+med 0,6 procent av BNP för att hållbarheten mätt med den så kallade 
+S2-indikatorn ska vara säkerställd. Att en sådan budgetförstärkning krävs, 
+trots den mycket starka utvecklingen av de offentliga finanserna, är paradoxalt. 
+Den förklaring som ges i propositionen är att utvecklingen efter 2075 pekar 
+mot minskande offentligfinansiella överskott. Någon rimlighetsbedömning 
+av resultaten redovisas inte. Inte heller redovisas några slutsatser när det 
+gäller inriktningen av finanspolitiken de närmaste åren mot bakgrund av den 
+kraftiga höjning av överskottsmålet som förefaller vara nödvändig på lite 
+längre sikt. 
+I följande avsnitt beskrivs inledningsvis i avsnitt 2.2 den indikator som 
+regeringen använder i hållbarhetsbedömningen, den så kallade S2-indikatorn. 
+I avsnitt 2.3 redovisas en uppdelning av indikatorn i olika komponenter 
+som belyser vilka faktorer som ligger bakom regeringens hållbarhetsbedömning. 
+För att exemplifiera hur hållbarhetsbedömningen skulle kunna modifieras 
+presenteras ett par alternativa beräkningar i avsnitt 2.4. I avsnitt 2.5 
+beskrivs nettoskuldens utveckling med alternativa antaganden. Slutsatser 
+och rekommendationer redovisas i avsnitt 2.6.
+503010-10-30-50-70503010-10-30-50-70201020202030204020502060207020802090StatsskuldNettoskuld
+
+2.2 Vad är S2-indikatorn?
+2.2.1 DefinitionDen så kallade S2-indikatorn används såväl av regeringen som av EG-kommissionen 
+för att bedöma finanspolitikens långsiktiga hållbarhet. Indikatorn 
+tillämpas på de långsiktiga scenarier som presenteras i budget- och vårpropositionerna. 
+Vanligtvis bygger ett sådant scenario på att finanspolitiken har 
+en oförändrad inriktning från och med ett visst år. En oförändrad finanspolitik 
+definieras oftast så att gällande regler för skatter och transfereringar ligger 
+fast under hela scenarioperioden. Offentliga verksamheter som sjukvård, 
+skola, barnomsorg, äldreomsorg etc. skrivs fram med den demografiska 
+utvecklingen. Resursinsatsen per brukare, till exempel skolbarn i olika åldrar, 
+antas oförändrad, vilket innebär att de offentliga konsumtionsutgifterna 
+enbart påverkas av demografiska förändringar. 
+Beräkningen av S2-indikatorn bygger på förutsättningen att den offentliga 
+sektorns skuldsättning inte kan växa oavbrutet. Förr eller senare måste 
+den begränsas. Ur denna förutsättning kan en så kallad intertemporal budgetrestriktion 
+härledas: 9 
+(1)
+därpb = primärt sparande, d.v.s. skillnaden mellan inkomster och utgifter 
+exklusive kapitalinkomster och ränteutgifter.
+S2 = den permanenta förstärkning av det primära sparandet som krävs 
+för att den intertemporala budgetrestriktionen ska vara uppfylld.
+r = diskonteringsränta10.
+d = nettoskuld.
+t0 =startåret för hållbarhetsberäkningen.
+Sambandet (1) innebär att nuvärdet av alla framtida primära överskott 
+ska vara lika stort som nettoskulden i utgångsläget. Ett positivt värde för 
+hållbarhetsindikatorn S2 signalerar ett behov av budgetförstärkningar i 
+förhållande till den finanspolitik som förutsätts i det långsiktiga scenariot. 
+Denna politik är således inte hållbar. Ett negativt värde på S2 signalerar 
+i stället att den finanspolitiska inriktningen tillåter ett visst mått av 
+9 Se bilaga till kapitel 1 för en härledning.
+10 Se avsnitt 2.2.2 nedan.
+
+ofinansierade (permanenta) reformer utan att hållbarheten äventyras.
+Tillämpningen av den intertemporala budgetrestriktionen är problematisk i 
+flera avseenden:
+• Ett scenario kan (självfallet) inte omfatta en oändligt lång tidsperiod. I 
+regeringens beräkning av hållbarhetsindikatorn S2 utsträcks scenariot till 
+2099. Åren därefter antas schablonmässigt det primära sparandet ligga 
+kvar på slutårets nivå för all framtid. Eftersom sparandet varierar över 
+tiden får valet av slutår för scenariot stor betydelse för värdet på S2.
+• En låg diskonteringsränta innebär att över- och underskott mycket långt 
+fram i tiden väger tungt i bedömningen av hållbarheten. Valet av diskonteringsränta spelar därför stor roll för resultaten. Det gäller särskilt om 
+det primära sparandet i slutet av scenarioperioden avviker från noll och 
+om sparandet antas ligga kvar på den nivån för all framtid.
+Beroende på hur dessa båda frågor hanteras i beräkningen av S2 kan värderingen 
+av hållbarheten ge mycket olika resultat. Därtill kommer att indikatorn 
+endast begränsar förändringen av den offentliga sektorns nettoskuld. Indikatorn 
+diskriminerar inte mellan olika nivåer på skuldsättningen. Det innebär 
+att en nettoskuld på 200 procent av BNP kan beskrivas som lika hållbar 
+som en nettoförmögenhet på 200 procent av BNP. S2-indikatorn kan därför 
+sägas utgöra ett relativt svagt kriterium på offentligfinansiell hållbarhet ur ett 
+ekonomisktpolitiskt perspektiv.
+2.2.2 DiskonteringsräntanEftersom variablerna i sambandet (1) anges som BNP-andelar utgörs 
+diskonteringsräntan, r, av skillnaden mellan den nominella räntan och 
+BNP-tillväxten i löpande priser.11 I regeringens kalkyler används en konstant 
+diskonteringsränta som baseras på den genomsnittliga nominella räntan 
+(4,9 procent) och den genomsnittliga tillväxten av nominell BNP (4,4 procent) 
+i det långsiktiga scenariot, det vill säga fram till 2099. Diskonteringsräntan 
+i den intertemporala budgetrestriktionen uppgår således till 0,5, vilket 
+innebär att över- och underskott långt fram i tiden får en relativt stor betydelse 
+för hållbarhetsbedömningen. 
+Nuvärdesfaktorn 1/(1+r)t anger den ”nedjustering” (diskontering) till 
+startåret av framtida (primära) över- eller underskott som gör dessa jämförbara 
+med varandra. Med en diskonteringsränta på 0,5 blir nuvärdesfaktorn, 
+11 I strikt mening är diskonteringsräntan r = ((1+R/100)/(1+G/100)-1)*100 där R är nominell ränta 
+och G är tillväxten för (nominella) BNP. För ”normala” värden på R och G är detta ungefär lika 
+med R-G. Se bilaga 1. 
+
+det vill säga 1/(1+r)t = 1/1,005t ≈ 0,995t, relativt stor även långt fram i tiden. 
+Av figur 2.3 framgår att de offentliga finanserna i slutet av seklet vägs in med 
+cirka två tredjedelar i dagens bedömning av finanspolitikens hållbarhet. Ett 
+underskott på 1 procent av BNP 2090 kräver ett överskott i dag på 0,65 procent 
+BNP för att neutraliseras.
+Figur 2.3 Nuvärdesfaktor med regeringens diskonteringsränta.
+2.2.3 Dekomponering av S2Om det primära sparandet efter 2099 antas konstant = pb kan sambandet 
+(1) skrivas som: 
+(2)
+Genom att utnyttja summor av så kallade geometriska serier kan uttrycket 
+omformas till:1212 Se bilaga till kapitel 2.
+1,000,950,900,850,800,750,700,650,601,000,950,900,850,800,750,700,650,60201020202030204020502060207020802090
+
+Hållbarhetsindikatorn S2 kan därför beräknas som:
+Ekvationen består av tre delar13:
+• ”A” anger det framtida (primära) sparande som krävs för att balansera 
+den ingående nettoskulden från basåret, det vill säga arvet från tidigare 
+under- eller överskott. Ju större ingående nettoskuld, desto större ökning 
+av det primära överskottet krävs.
+• “B” anger bidraget till S2 från det primära sparandet under scenarioperioden, det vill säga den period för vilken de offentliga inkomsterna 
+och utgifterna beräknats. I regeringens beräkning omfattar scenarioperioden 20082099. 
+Ju större primära överskott, desto mindre ytterligare 
+budgetförstärkningar krävs.
+• “C” visar bidraget till S2 från perioden efter det sista scenarioåret. Av 
+uttrycket framgår att primärsaldots värde slutåret spelar stor roll för 
+värderingen av hållbarheten. Detta gäller särskilt om diskonteringsfaktorn 
+är liten. Ett primärt underskott mot slutet av scenarioperioden får därför 
+stor betydelse för hållbarhetsbedömningen.
+2.3 Komponenter i S2I budgetpropositionen beräknas hållbarhetsindikatorn S2 till 0,6. Det innebär 
+att det krävs en varaktig budgetförstärkning med 0,6 procent av BNP 
+i förhållande till basscenariot för att uppnå hållbarhet, det vill säga så att 
+den intertemporala budgetrestriktionen är uppfylld. Beräkningen bygger på 
+ett scenario där det primära överskottet utvecklas enligt figur 2.4. Scenariot 
+innebär att det primära sparandet successivt försvagas - särskilt under periodens 
+sista två decennier. År 2099, som är slutåret i beräkningen, har det 
+primära underskottet vuxit till 1,3 procent av BNP. Med regeringens beräkningsmetod 
+antas detta underskott ligga kvar för all framtid.
+13 Denna uppdelning skiljer sig från den som regeringen tillämpar, se prop. 2009/10:1 bilaga 23 s. 9. 
+Regeringens redovisar samma uppdelning i förklaringsfaktorer som EU-kommissionen.
+
+Figur 2.4 Primärt sparande i regeringens basscenario. Procent av BNP.
+En beräkning av de olika bidragen (A-C) till S2 ger följande resultat.
+Tabell 2.1 Hållbarhetsindikatorns komponenter. Procent av BNP.
+S2+0,6därav A-0,1 
+B-0,1 
+C+0,8
+
+Källa: Egna beräkningar.
+Tabellen visar att det krav på budgetförstärkning, som redovisas i propositionen, 
+uteslutande uppkommer till följd av det primära underskottet 2099. 
+Faktor A, som visar konsekvensen av den initiala nettoskulden, indikerar 
+snarast ett visst reformutrymme. Det beror på att den offentliga sektorn 
+uppvisar en finansiell nettoförmögenhet i utgångsläget. 
+Även utvecklingen av inkomster och utgifter fram till 2099, faktor B, 
+pekar på ett visst reformutrymme. När lågkonjunkturen ebbat ut förutses de 
+offentliga finanserna uppvisa primära överskott under åtskilliga decennier. 
+Först mot slutet av perioden uppkommer åter primära underskott. 
+Den del av hållbarhetsindikatorn som avspeglar perioden efter 2099, 
+det vill säga faktor C, visar däremot på ett relativt stort behov av permanenta 
+budgetförstärkningar. Primärsaldot försämras påtagligt mot slutet av 
+scenarioperioden och underskottet slutåret antas ligga kvar för all framtid. 
+Tillsammans med en relativt låg diskonteringsränta förklarar detta helt och 
+hållet S2-indikatorns positiva värde, det vill säga den indikation på bristande 
+hållbarhet som regeringens beräkning landar i.
+210-1-2-3-4-5210-1-2-3-4-5201020202030204020502060207020802090
+
+Det framgår inte av budgetpropositionen varför just 2099 valts som 
+slutår för den långsiktiga kalkylen. Av figur 2.4 framgår att om slutåret för 
+scenariot i stället satts till 2070, så hade faktor C varit negativ (det vill säga 
+indikerat ett reformutrymme), eftersom det primära sparandet var positivt 
+det året. Hållbarhetsindikatorns värde kan således variera starkt beroende på 
+vilket slutår som väljs för hållbarhetskalkylen.
+2.4 Alternativa kalkylerFör att illustrera diskonteringsfaktorns betydelse redovisas i detta avsnitt 
+ett par alternativa beräkningar av hållbarhetsindikatorn. I båda fallen bygger 
+beräkningarna på de offentliga finansernas utveckling enligt basscenariot i 
+budgetpropositionen.
+2.4.1 Alternativkalkyl 1I det första alternativet höjs diskonteringsräntan för den senare delen av 
+scenarioperioden. En högre diskonteringsränta kan motiveras av osäkerheten 
+på längre sikt och möjligheten att möta en oförutsedd utveckling med 
+åtgärder senare under perioden. 
+Figur 2.5 visar diskonteringsfaktorn om diskonteringsräntan höjs från 
+0,5 procent till 2,0 procent från och med 2061. Valet av diskonteringsränta är 
+helt schablonmässigt och syftar enbart till att belysa S2-indikatorns känslighet 
+för ett alternativt antagande. En högre diskonteringsfaktor innebär att inkomster 
+och utgifter efter 2060 ges en minskande vikt för dagens beslutsfattande. Vikten 
+för primärsaldot 2099 minskar till nära hälften jämfört med huvudkalkylen.
+Figur 2.5 Nuvärdesfaktor med alternativ diskonteringsränta
+1,000,900,800,700,600,500,400,301,000,900,800,700,600,500,400,30201020202030204020502060207020802090
+
+Konsekvenserna för hållbarhetsindikatorns olika komponenter framgår 
+av tabell 2.2. Hållbarhetsbedömningen förbättras genom att den modifierade 
+S2-indikatorn minskar från 0,6 till 0,1 procent av BNP. Komponent 
+A avspeglar det reformutrymme som finns genom att nettoskulden i 
+utgångsläget är negativ. Genom att diskonteringsräntan efter 2060 är 
+högre än i huvudalternativet kommer de mer avlägsna effekterna av en 
+permanent budgetförsvagning inte att väga lika tungt, vilket vidgar reformutrymmet 
+något.14 Samma effekt uppkommer för komponent B, där 
+budgetförsvagningen mot slutet av seklet nu inte väger lika tungt. Den 
+mest påtagliga förändringen är emellertid att utvecklingen efter 2099 får 
+en minskad betydelse för indikatorns värde, så att behovet av budgetförstärkning 
+minskar från 0,8 till 0,4 procent av BNP.
+Tabell 2.2 Hållbarhetsindikatorn med högre diskonteringsränta efter 2060. 
+Procent av BNP.
+S2+0,1därav A -0,1 
+B -0,2 
+C+0,4
+
+Källa: Egna beräkningar.
+2.4.2 Alternativkalkyl 2I alternativ 2 antas att dagens finanspolitiska styrning helt bortser från den 
+offentligfinansiella utvecklingen efter 2099. Man kan uttrycka det så att 
+diskonteringsräntan är ”oändligt” hög från och med 2100. Detta förändrar 
+hållbarhetsbedömningen ytterligare i positiv riktning (S2-indikatorn minskar 
+i värde). I första hand beror det på att hållbarhetsindikatorn per definition 
+inte belastas av negativa primärsaldon efter 2099.15 Bidraget från denna 
+komponent är per definition lika med noll. Därtill kommer att effekterna av 
+en försvagning av primärsaldot bara behöver beaktas fram till 2099. Detta 
+medför att även komponenterna A och B bidrar med ett något större reformutrymme. 
+Sammantaget beräknas basscenariot med dessa förutsättningar 
+leda till ett negativt värde på S2, vilket indikerar att scenariot rymmer ett 
+visst reformutrymme.
+14 Med två decimaler är A = -0,08 i huvudalternativet och =-0,14 i alternativet med högre 
+diskonteringsränta efter 2060.15 Om primärsaldot varit positivt slutåret skulle hållbarheten mätt med S2-indikatorn ha försämrats.
+
+Tabell 2.3 Hållbarhetsindikatorn med ”oändlig” diskonteringsränta efter 2099. 
+Procent av BNP.
+S2-0,4därav A -0,2 
+B -0,2 
+C0,0
+
+Källa: Egna beräkningar.
+2.5 NettoskuldenSom framgår av figur 2.2 växer den offentliga sektorns finansiella tillgångar i 
+basscenario från drygt 10 procent av BNP 2010 till 60 procent 2099. Baserat 
+på S2-indikatorn gör regeringen bedömningen att en sådan utveckling inte 
+är fullt ut hållbar. En permanent förstärkning av primärsaldot med 0,6 procent 
+av BNP bedöms vara nödvändig. I figur 2.6 visas såväl nettoskulden i 
+basscenariot som den skuldutveckling som följer av de olika värden på S2 
+som redovisats ovan.16 
+Med en permanent förstärkning av primärsaldot med 0,6 procent av 
+BNP ökar den finansiella nettoförmögenheten ytterligare till cirka 140 procent 
+av BNP i slutet av perioden. I propositionen saknas motiveringar till 
+varför en sådan drastisk förmögenhetsuppbyggnad bedöms vara nödvändig. 
+Det saknas också en diskussion om vilka konsekvenser det skulle få för den 
+privata sektorn. Såvida inte finansiella tillgångar fortlöpande ackumuleras 
+utomlands genom bytesbalansöverskott måste den offentliga förmögenhetsuppbyggnaden 
+motsvaras av en växande skuldsättning i hushåll och företag.
+16 Finanspolitiska rådet har påpekat att den totala nettoförmögenheten, det vill säga inklusive reala 
+tillgångar i form av fastigheter, vägar med mera, är ett mer relevant mått på den offentliga 
+sektorns ställning än enbart den finansiella förmögenheten. Eftersom regeringens redovisning 
+av hållbarheten bygger på det finansiella sparandet saknas uppgifter om den reala förmögenheten 
+i regeringens hållbarhetsberäkningar. Ett alternativ vore att basera kalkylerna på nettosparandet, 
+som omfattar såväl det finansiella som det reala sparandet.
+
+Figur 2.6 Offentliga sektorns nettoskuld. Procent av BNP.
+I figur 2.6 finns ytterligare två beräkningar av förmögenhetsutvecklingen. 
+Det ena fallet, ”högre diskonteringsfaktor efter 2060”, motsvarar alternativ 
+1 ovan. S2-indikatorn pekar även i detta fall mot ett visst behov av 
+budgetförstärkning, men i mindre grad än i regeringens beräkning. Den 
+resulterande nettoförmögenheten stiger under så gott som hela perioden, 
+men är 2099 väsentligt lägre än med regeringens S2-indikator. Vid 
+nästa sekelskifte antas den uppgå till cirka 80 procent av BNP. 
+Slutligen visar figuren även konsekvenserna av den beräkning där 
+perioden efter 2099 lämnas helt utan avseende i hållbarhetsbedömningen 
+(alternativ 2). Med detta antagande blir S2 negativ, vilket innebär att det 
+finns ett visst reformutrymme i förhållande till basscenariot. Om detta reformutrymme 
+utnyttjas erhålls en svagt stigande finansiell förmögenhet under 
+periodens första decennier och mot slutet en svagt fallande. Nivån 2099 
+är ungefär densamma som i början av scenarioperioden, det vill säga cirka 
+10 procent av BNP.
+2.6 SlutsatserRegeringens redovisning av de offentliga finansernas långsiktiga utveckling 
+har förbättrats under de senaste åren och är i många avseenden tydlig och 
+klargörande. Osäkerheten belyses med alternativa scenarier. Metoder och 
+modeller redovisas i en särskild bilaga. I ett avseende är emellertid redovisningen 
+bristfällig och slutsatsen paradoxal. Basscenariot pekar mot en 
+långsiktig utveckling av de offentliga finanserna med växande överskott långt 
+utöver dagens överskottsmål om 1 procent, och med en kraftig uppbyggnad 
+03060901201500306090120150201020202030204020502060207020802090BasscenarioHållbarhetsscenario enligt BP10Hållbarhetsscenario med högre 
+diskonteringsfaktor efter 2060Hållbarhetsscenario fram till 2099
+
+av den offentliga sektorns finansiella förmögenhetsställning. Trots detta bedöms 
+inte finanspolitiken i basscenariot vara fullt ut hållbar mätt med den så 
+kallade S2-indikatorn. Den bristande hållbarheten förklaras med utvecklingen 
+efter 2075. Vidare bortses helt från vilken effekt en stor förmögenhetsuppbyggnad 
+i offentlig sektor kan få på ekonomins övriga sektorer.
+2.7 RekommendationerRegeringen bör se över analysen och presentationen av finanspolitikens 
+långsiktiga hållbarhet och tolkningen av den så kallade S2-indikatorn. Ett alternativ 
+kan vara att bortse från den offentligfinansiella utvecklingen mycket 
+långt fram i tiden eller att ge den en mindre vikt i den sammanvägda bedömningen. 
+Hållbarhetsanalysen bör också relateras till en bedömning av den 
+önskvärda nivån på överskottsmålet.
+
+3 Uppföljning av överskottsmålet 
+Slutsatser och rekommendationer:
+De indikatorer regeringen använder för att följa upp överskottsmålet pekar 
+mot vitt skilda, och i några fall mycket stora, avvikelser från målet. Det är 
+oklart vilken roll indikatorerna spelar för regeringens inriktning av finanspolitiken 
+framöver. 
+Oklarheten om regeringens syn på avvikelser från överskottsmålet är 
+problematisk i ett läge där det finns risk att målet underskrids och där en 
+tydlig strategi bör utformas för att säkerställa att målet uppnås.
+Regeringen bör klargöra vilken roll de olika indikatorerna spelar för bedömningen 
+av målavvikelserna och för inriktningen av finanspolitiken de närmaste 
+åren. 
+I samband med den pågående översynen av det finanspolitiska ramverket 
+bör regeringen överväga alternativa formuleringar av överskottsmålet 
+som tillåter en mer precis redovisning av målavvikelserna.
+3.1 BakgrundÖverskottsmålet innebär att den offentliga sektorns finansiella sparande ska 
+uppgå till 1 procent av BNP i genomsnitt över en konjunkturcykel. Det utgör 
+det centrala målet för finans- och budgetpolitiken och har tillämpats sedan 
+2000. Målet omfattar hela den offentliga sektorn, det vill säga staten, kommunsektorn 
+och pensionssystemet. 
+Att målet formuleras som ett genomsnitt över en konjunkturcykel beror 
+på att de offentliga finanserna påverkas av konjunkturläget. I en högkonjunktur 
+ökar skatteintäkterna samtidigt som utgifterna för arbetslöshetsersättning 
+minskar. De överskott som uppkommer är emellertid tillfälliga och kan 
+inte användas för permanenta reformer utan att finanspolitikens långsiktiga 
+hållbarhet äventyras. Dessutom riskerar finanspolitiska stimulanser i form 
+av ofinansierade reformer i en högkonjunktur att leda till överhettning och 
+inflation. På motsvarande sätt försvagas de offentliga finanserna i en lågkonjunktur. 
+Åtstramningar i syfte att förstärka det finansiella sparandet bör dock 
+
+undvikas eftersom det skulle fördjupa konjunkturnedgången. Formuleringen 
+av överskottsmålet som ett genomsnitt över en konjunkturcykel minskar 
+riskerna för en finanspolitik som förstärker konjunktursvängningarna och 
+försvagar de offentliga finansernas långsiktiga hållbarhet. 
+Det ska framhållas att överskottsmålet är formulerat som ett bestämt 
+värde, 1 procent av BNP, och inte som en nedre gräns för överskottet. Det 
+innebär att finanspolitiken normalt bör eftersträva att reducera såväl positiva 
+som negativa målavvikelser.173.2 Regeringens redovisningFormuleringen av överskottsmålet som ett genomsnitt över en konjunkturcykel 
+medför att uppföljningen av målet kompliceras. Skälet är att det är svårt 
+att fastställa såväl längden på en konjunkturcykel som var i konjunkturcykeln 
+ekonomin befinner sig. Sedan vårpropositionen 2008 använder regeringen 
+därför tre indikatorer för att följa upp målet. Samtliga uttrycks i procent av 
+BNP. 
+2000-indikatornDet genomsnittliga finansiella sparandet från 2000. 
+7-årsindikatornDet genomsnittliga finansiella sparandet för en period som omfattar sju 
+år. Det aktuella året är mittpunkt i genomsnittsberäkningen. 18 
+Strukturellt sparandeDet finansiella sparandet justerat för effekterna av konjunkturläget mätt med 
+det så kallade BNP-gapet.19I de senaste propositionerna redovisas även konjunkturjusterade genomsnittsindikatorer. 
+Motiveringen är att BNP-gapen även sett över längre 
+17 EU:s stabilitets- och tillväxtpakt innehåller ett gränsvärde för de offentliga finanserna i medlemsstaterna. Underskottet i den offentliga sektorns finansiella sparande får inte överskrida 3 procent 
+av BNP. Detta är en absolut gräns som avser enskilda år. Därutöver åtar sig varje medlemsland 
+att på medellång sikt eftersträva ett sparande som ligger över underskottsgränsen. För svensk del 
+ligger detta åtagande (så kallad Medium Term Objective, MTO) på -0,5 procent av BNP. Det 
+svenska nationella åtagandet om ett överskott på 1 procent är således väsentligt mer ambitiöst 
+än vad som krävs genom EU-medlemskapet.
+18 Beräkningen bygger på ett justerat sparande där ”större engångseffekter” rensats bort. Att indikatorn 
+beräknas som ett centrerat genomsnitt innebär till exempel att värdet 2009 beräknas som det 
+genomsnittliga sparandet under perioden 2006–2012.19 Sparandet justeras, liksom i 7-årsindikatorn, för ”större engångseffekter” och dessutom för 
+”extraordinära skatteintäkter från kapitalvinster”.
+
+perioder kan avvika från noll i genomsnitt. Ett genomsnitt av det finansiella 
+sparandet över en sjuårsperiod som präglas av onormalt lågt kapacitetsutnyttjande 
+i ekonomin, kan ge en missvisande bild av måluppfyllelsen. Därmed 
+finns 5 olika sätt att beräkna avvikelserna från överskottsmålet, se tabell 3.1.
+Tabell 3.1 Finansiellt sparande i offentlig sektor samt indikatorer för avstämning mot 
+överskottsmålet. Procent av BNP.20
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Finansiellt sparande
+
+3,7
+
+1,7
+
+-1,4
+
+-1,2
+
+0,6
+
+2,0
+
+2,4
+
+3,8
+
+2,5
+
+-2,2
+
+-3,4
+
+-2,1
+
+-1,1
+
+ Genomsnitt från 2000
+
+3,7
+
+2,7
+
+1,3
+
+0,7
+
+0,7
+
+0,9
+
+1,1
+
+1,5
+
+1,6
+
+1,2
+
+0,8
+
+0,5
+
+0,4
+
+ Konjunkturjusterat
+
+3,6
+
+2,9
+
+1,5
+
+0,9
+
+0,8
+
+0,8
+
+0,9
+
+1,1
+
+1,2
+
+1,2
+
+1,1
+
+1,1
+
+1,0
+
+ 7-årsindikatorn
+
+0,9
+
+1,0
+
+1,1
+
+1,0
+
+0,6
+
+0,3
+
+-0,1
+
+ Konjunkturjusterat
+
+0,7
+
+0,6
+
+0,6
+
+0,9
+
+1
+
+1,2
+
+1,2
+
+ Struktrellt sparande
+
+2,1
+
+2,1
+
+-0,5
+
+-0,3
+
+0,6
+
+0,5
+
+1,6
+
+2,3
+
+1,4
+
+0,2
+
+0,7
+
+0,6
+
+BNP-gap
+
+0,4
+
+-0,9
+
+-0,4
+
+-0,7
+
+1,0
+
+1,3
+
+2,5
+
+2,6
+
+0,0
+
+-6,4
+
+-6,5
+
+-5,0
+
+-3,0
+
+ Genomsnitt från 2000
+
+0,4
+
+-0,3
+
+-0,3
+
+-0,4
+
+-0,1
+
+0,1
+
+0,5
+
+0,7
+
+0,6
+
+-0,1
+
+-0,6
+
+-1,0
+
+-1,2
+
+ 7-årssnitt
+
+0,5
+
+0,8
+
+0,9
+
+0,1
+
+-0,8
+
+-1,6
+
+-2,2
+
+1 Konjunktursjusteringen görs genom att indikatorvärdet adderas med BNP-gapet under motsvarande period 
+multiplicerat med elasticitetaen - 0,55. Källor: Statistiska centralbyrån och egna beräkningar.
+
+
+
+Källa: Prop. 2009/10:1.
+Av tabellen framgår att målindikatorerna uppvisar en splittrad bild av måluppfyllelsen. 
+Genomsnittsindikatorerna pekar mot att 1-procentsmålet inte 
+är uppfyllt i det medelfristiga perspektivet fram till 2012. Det gäller särskilt 
+7-årsindikatorn som snarast visar på ett smärre underskott.21 
+Om genomsnittsindikatorerna justeras för konjunkturläget (BNP-gapet) 
+förbättras måluppfyllelsen avsevärt.22 Mellan 2000 och 2012 är BNP-gapet 
+i genomsnitt -1,2 procent. Det innebär att den konjunkturjusterade genomsnittindikatorn 
+förstärks med 1,2*0,55≈0,6 procent av BNP. Det genomsnittliga 
+BNP-gapet för perioden 2006-2012, det vill säga den period som 
+omfattas av 7-årsindikatorns värde 2009, är än mer negativt och uppgår till 
+hela -2,3 procent. Konjunkturjusteringen höjer indikatorns värde med 1,3 procentenheter 
+från -0,1 till +1,2 procent av BNP. Enligt den konjunkturjusterade 
+7-årsindikator överskrids därför överskottsmålet med den inriktning av 
+finanspolitiken som regeringen redovisar i budgetpropositionen.
+20 BNP-gapet anges i procent av potentiell BNP.
+21 Observera att med den redovisningsteknik som tillämpas avser 7-årsindikatorns värde för 2009 
+det genomsnittliga sparandet (justerat för större engångseffekter) för perioden 2006-2012.22 Justeringen görs med en faktor 0,55. Om BNP-gapet är -2 procent (lågkonjunktur) bedöms 
+det konjunkturjusterade sparandet, det vill säga sparandet i ett normalt konjunkturläge, vara 
+0,55*2=1,1 procent högre än det faktiska sparandet.
+
+Regeringens sammanfattande slutsats är att det finansiella sparandet 
+kommer att ligga något under målet de närmaste åren, men med brasklappen ”...om inte det återigen visar sig att det offentliga sparandet underskattas 
+när konjunkturläget förbättras.”23 Samtidigt framhålls att det kan vara 
+”..befogat att temporärt tillåta mindre och begränsade underskridanden av 
+överskottsmålet.” för att ge utrymme för åtgärder mot krisen.243.3 Krav på måluppföljningRiksrevisionen har i flera granskningsrapporter kritiserat regeringens redovisning 
+av överskottsmålet för att vara otydlig. Det handlar bland annat 
+om att de olika indikatorer som används i uppföljningen av målet visar 
+på vitt skilda uppskattningar av målavvikelserna. I granskningsrapporten 
+”Regeringens uppföljning av överskottsmålet” formulerade Riksrevisionen 
+följande kriterier för måluppföljningen: 25• Principer och metoder för måluppföljningen ska vara relevanta och tydligt 
+specificerade.
+• Målavvikelser ska redovisas tydligt och på ett enhetligt sätt vid olika 
+uppföljningstillfällen.
+• Planerade målavvikelser ska motiveras och konsekvenserna beskrivas 
+utförligt.
+• En tidplan ska anges för återtagande av målavvikelser.
+• Ett tillräckligt underlag ska redovisas för att en oberoende bedömning 
+av måluppfyllelsen ska vara möjlig.
+Regeringens redovisning har successivt förbättrats i väsentliga avseenden, 
+delvis i linje med Riksrevisionens rekommendationer. Fortfarande är det 
+emellertid oklart hur de olika målindikatorerna ska tolkas och sammanvägas. 
+Även Finanspolitiska rådet har kritiserat regeringens uppföljning av överskottsmålet 
+för otydlighet och menar att de tre indikatorerna avspeglar olika 
+mål snarare än olika aspekter av målet.2623 Prop. 2009/10:1 s. 61.24 Prop. 2009/10:1 s. 62.25 RiR 2006:27.26 Finanspolitiska rådet(2009a s. 90 ff).
+
+3.4 Indikatorerna spretarSyftet med att mäta avvikelserna från överskottsmålet är dels att följa upp 
+och utvärdera finanspolitiken i efterhand, dels att få en uppfattning om hur 
+stora korrigeringar av finanspolitiken framöver som krävs för att uppfylla 
+målet. Det gäller såväl bedömningen av utrymmet för ofinansierade reformer 
+som behovet av åtstramningar. 
+De målindikatorer som används av regeringen är emellertid inte väl 
+lämpade för detta ändamål, bland annat eftersom de bygger på genomsnittsberäkningar 
+över olika långa perioder. Beroende på vilken indikator som 
+används, har de redovisade målavvikelserna olika innebörd för omfattningen 
+av de åtgärder som krävs för att anpassa finanspolitiken till målet. 
+En viss målavvikelse, uttryckt i procent av BNP enligt tabell 3.1, kräver en 
+större anpassning av politiken om avvikelsen mäts med 2000-indikatorn än 
+om den mäts med 7-årsindikatorn. Skälet är att 2000-indikatorn (från och 
+med 2007) omfattar fler år än 7-årsindikatorn. Ju längre fram i tiden målavvikelsen 
+anges, desto större blir skillnaden i antal år som omfattas av genomsnittsberäkningen. 
+Om 2000-indikatorn visar ett underskridande av målet 
+2012 med 0,5 procent av BNP måste det finansiella sparandet överstiga 
+målet med sammanlagt 6,5 procent av BNP åren framöver för att målet åter 
+ska vara uppfyllt.27 
+Eftersom perioden för genomsnittsberäkningen är kortare för 7-årsindikatorn 
+kräver en motsvarande avvikelse enligt denna indikator en mindre 
+omfattande korrigering.28 
+Allra enklast är det givetvis att korrigera en målavvikelse mätt med det 
+strukturella sparandet. En avvikelse från målet med 0,5 procent av BNP ett 
+visst år kräver en lika stor korrigering av finanspolitiken.
+3.5 Målavvikelserna är inte småFör att tydliggöra indikatorernas olika innebörd för utvärderingen av finanspolitiken 
+beräknade Riksrevisionen i granskningen av vårpropositionen 2009 
+ackumulerade målavvikelser uttryckt i miljarder kronor.29 Beräkningen visade 
+att de olika indikatorerna gav vitt skilda uppskattningar av målavvikelserna. 
+Riksrevisionens slutsats var att indikatorerna ger en mycket begränsad vägledning 
+för inriktningen av finans- och budgetpolitiken.
+27 En genomsnittlig avvikelse på 0,5 procent under 13 år motsvarar 13 * 0,5 = 6,5 procent.
+28 Korrigeringsbehovet kan variera eftersom såväl ”goda” som ”dåliga” år successivt kan försvinna 
+ur genomsnittsberäkningen. Schablonmässigt kan avvikelsen beräknas till 7 * 0,5 = 3,5 procent.
+29 RiR 2009:14.
+
+Figur 3.1 visar de ackumulerade målavvikelserna för genomsnittsindikatorerna 
+omräknat till miljarder kronor. Dessutom har redovisningen av 7-årsindikatorn för tydlighetens skull förskjutits så att värdet redovisas på 7-årsperiodens 
+sista år i stället för mittåret. Värdet 2012 avser perioden 2006-2012, 
+medan regeringen redovisar motsvarande värde 2009.
+Beloppen i figur 3.1 visar storleken på den sammanlagda korrigering av det 
+finansiella sparandet som förr eller senare krävs för att målet ska uppnås 
+enligt respektive indikator.30 Av figuren framgår att det strukturella sparandet 
+ligger nära målet under prognosperioden, medan genomsnittsindikatorerna 
+visar stora avvikelser från målet. År 2012 uppgår den ackumulerade målavvikelsen 
+till minus 220-250 miljarder kronor. Av formuleringarna i budgetpropositionen 
+kan man snarare få intrycket att målavvikelserna under perioden 
+fram till 2012 är relativt begränsade. 
+Negativa avvikelser från målet måste förr eller senare kompenseras 
+med motsvarande överskott utöver 1 procent av BNP om målet ska uppnås. 
+Det kan ske både genom direkta besparingsåtgärder/skattehöjningar och 
+automatiskt genom en återgång till ett normalt konjunkturläge. Det saknas 
+i budgetpropositionen en tydlig redovisning av regeringens syn på i vilken 
+utsträckning aktiva åtgärder krävs och i vilket tidsperspektiv åtgärder kan 
+vidtas utan att den ekonomiska återhämtningen äventyras. En sådan redovisning 
+är viktig för överskottsmålets trovärdighet även om den fortlöpande 
+behöver revideras när prognoserna ändras.
+Figur 3.1 Avvikelser från överskottsmålet. Miljarder kronor.
+30 Eftersom 7-årsindikatorns ”minne” bara sträcker sig 7 år bakåt i tiden kan finanspolitiken ”vänta 
+ut” de svaga åren utan att de behöver kompenseras.
+2000-indikatorn7-års indikatornStrukturellt sparande200150100500-50-100-150-200-250-3002000200120022003200420052006200720082009201020112012
+
+Jämfört med vårpropositionen bedöms underskotten i de offentliga finanserna 
+nu bli väsentligt lägre 2011 och 2012. Det innebär också att avvikelserna 
+från överskottsmålet har minskat, även om de fortfarande är stora mätt med 
+genomsnittsindikatorerna. Av tabell 3.2 framgår att underskridandet av målet 
+2012 mätt med 2000-indikatorn minskat med 90 miljarder kronor trots de 
+föreslagna reformerna. Mätt med 7-års indikatorn är förbättringen nästan 
+lika stor. Det strukturella sparandet 2012 har däremot försämrats med 
+cirka 30 miljarder kronor, men ligger fortfarande nära målet. Från en positiv 
+målavvikelse på 13 miljarder kronor 2012 i vårpropositionen har det strukturella 
+sparandet försvagats till en negativ målavvikelse på 15 miljarder kronor. 
+Målavvikelsen har således ökat, men bara med 2 miljarder kronor.
+Tabell 3.2 Förändring av finansiellt sparande och målavvikelser jämfört med vårpropositionen 
+2009. Miljarder kronor.
+2009
+
+2010
+
+2011
+
+2012
+
+Finansiellt sparande
+
+13
+
+9
+
+31
+
+31
+
+Målavvikelser
+
+2000-indikatorn
+
+14
+
+-23
+
+-56
+
+-90
+
+7-årsindikatorn (förskjuten)
+
+-13
+
+-25
+
+-58
+
+-81
+
+Strukturellt sparande
+
+5
+
+24
+
+2
+
+2
+
+
+
+Anm: Negativa värden anger att målavvikelsen minskat sedan vårpropositionen 2009 och 
+vice versa. År 2009 var målavvikelsen i vårpropositionen positiv för 2000-indikatorn. Ett 
+högre överskott 2009 med för att (den positiva) målavvikelsen ökar. För 7-årsindikatorn 
+var målavvikelsen i vårpropositionen negativ. Starkare sparande reducerar därför målavvikelsen.
+Källa: Egna beräkningar.
+3.6 Oklar användning av konjunkturjusterade indikatorerFör fullständighetens skull redovisas i figur 3.2 ackumulerade målavvikelser 
+även för de konjunkturjusterade genomsnittsindikatorerna. De konjunkturjusterade 
+genomsnitten ligger gott och väl över målet och indikerar till och 
+med ett visst reformutrymme. Detta kan tolkas så att en återgång till ett 
+neutralt konjunkturläge innebär att överskottsmålet nås. Hela målavvikelsen 
+tillskrivs i så fall konjunkturläget.
+
+Figur 3.2 Avvikelser från överskottsmålet beräknat med genomsnittsindikatorer. Miljarder 
+kronor.
+Ett problem med att förlita sig på de konjunkturjusterade genomsnittsindikatorerna 
+är att de stora negativa BNP-gap som förutses i år och de 
+närmaste åren, med all sannolikhet inte kommer att motsvaras av lika 
+stora positiva BNP-gap under perioden efter 2012, vilket också betonas 
+i budgetpropositionen. BNP-gapen antas således inte vara symmetriska 
+kring 0. Det bekräftas också av att det genomsnittliga BNP-gapet 2000-
+2012, som nämndes ovan, uppgår till -1,2 procent. Inte ens under en så 
+lång tidsperiod som drygt 30 år bedömer regeringen att positiva och negativa 
+BNP-gap balanserar. Av det underlag som erhållits från Finansdepartementet 
+framgår att det genomsnittliga BNP-gapet 1980-2012 beräknas 
+till -2,4 procent. Det innebär samtidigt att det kan vara missvisande 
+att använda det publicerade BNP-gapet för att bedöma läget i förhållande 
+till överskottsmålet med utgångspunkt från ett konjunkturjusterat 
+(strukturellt) sparande. En mer rättvisande bild kan ges om BNP-gapet 
+för detta ändamål beräknas som avvikelsen mellan faktisk BNP och ett 
+trendmässigt värde som är beräknat så att den genomsnittliga avvikelsen 
+från trendvärdet är noll sett över en längre tidsperiod. En sådan metod 
+redovisas av Ekonomistyrningsverket i den senaste prognosrapporten.31 
+Överskottsmålet gäller över en konjunkturcykel och det bör i sammanhanget 
+påpekas att en konjunkturcykel inte med nödvändighet har ett 
+genomsnittligt BNP-gap som är 0.31 ”Prognos. Statsbudgeten och de offentliga finanserna”, ESV 2009:25.
+2000-indikatorn2000-indikatorn, konjunkturjusterad7-års indikatorn7-års indikatorn, konjunkturjusterad2001000-100-200-3002000200120022003200420052006200720082009201020112012
+
+3.7 SlutsatserRegeringens uppföljning av överskottsmålet är svårtolkad. Ytterst beror detta 
+på att den nuvarande formuleringen av målet som ett genomsnitt ”över en 
+konjunkturcykel” är svår att hantera så länge innebörden av begreppet konjunkturcykel 
+inte preciseras. De indikatorer som används för att belysa målavvikelserna 
+pekar åt vitt skilda håll. Några indikatorer visar på mycket stora 
+ackumulerade avvikelser från målet, medan andra endast visar på smärre 
+avvikelser. Det framgår inte vilken roll indikatorerna spelar för regeringens 
+inriktning av finanspolitiken framöver. 
+Regeringens bedömning av målavvikelsens omfattning är särskilt viktig 
+i ett läge där det finns risk att målet underskrids. En bedömning av hur stor 
+del av målavvikelsen som är konjunkturellt betingad och hur stor del som 
+har strukturella orsaker är nödvändig för att utforma en finanspolitik för de 
+närmaste åren som leder till att målet säkerställs. Osäkerheten om den framtida 
+utvecklingen innebär att finanspolitiken successivt måste justeras och 
+anpassas till nya förhållanden, men utgör inget skäl att avstå från en tydlig 
+redovisning av politikens inriktning.
+3.8 RekommendationerRegeringen bör klargöra vilken roll de olika indikatorerna spelar för bedömningen 
+av avvikelserna från överskottsmålet och för inriktningen av finanspolitiken 
+de närmaste åren. 
+I samband med den pågående översynen av det finanspolitiska ramverket 
+bör regeringen överväga alternativa formuleringar av överskottsmålet 
+som tillåter en mer precis redovisning av målavvikelserna.
+
+4 Uppföljning av utgiftstaket 
+Slutsatser och rekommendationerGenom redovisningstekniska tidigareläggningar av utgifter har ett ökat 
+utrymme skapats under utgiftstaket 2010. Sådana förändringar av utgiftsredovisningen 
+riskerar att minska förtroendet för utgiftstaket och budgetpolitiken. 
+Regeringen bör därför avstå från sådana åtgärder. 
+Motiveringarna till utgiftstakets nivå och den väl tilltagna budgeteringsmarginalen 
+2012 är otillräckliga mot bakgrund av de stora avvikelserna från 
+överskottsmålet. Regeringen bör precisera hur föreslaget till utgiftstak för det 
+tredje tillkommande året bidrar till att säkerställa överskottsmålet. 
+Principerna för budgetredovisningen bör tas upp inom ramen för den 
+pågående översynen av det finanspolitiska ramverket.
+4.1 BakgrundUtgiftstaket för staten är en central komponent i det finanspolitiska ramverket. 
+Utgiftstaket omfattar statsbudgetens samtliga utgiftsområden förutom 
+utgiftsområde 26 Statsskuldsräntor m.m. Dessutom ingår ålderspensionssystemets 
+utgifter.32 
+Utgiftstaket fyller två funktioner i den finanspolitiska styrningen:
+• För det första utgör ett i förväg beslutat tak en tydlig restriktion för 
+statens utgifter och framtvingar prioriteringar mellan olika utgiftsändamål i beredning, beslut och genomförande av statsbudgeten. För 
+att ett beslutat utgiftstak ska fylla sin funktion krävs fasta principer för 
+redovisningen av utgifterna. Ett sätt att kringgå ett utgiftstak är att 
+omvandla utgifter till skattekontokrediteringar, vilket kan motverkas av 
+en strikt bruttoredovisning. 33 En annan möjlighet att undvika ett överskridande av taket är att förskjuta utbetalningar av bidrag över ett årsskifte.
+32 Utbetalningar av premiepension ingår inte i de takbegränsade utgifterna.
+33 De senaste åren har användningen av skattekontokrediteringar minskat kraftigt.
+
+• För det andra är utgiftstaket ett viktigt instrument för att klara överskottsmålet. Ett beslut om ett nytt utgiftstak för det tredje tillkommande 
+året i det medelfristiga budgetperspektivet innebär ett ställningstagande 
+till den utgiftsnivå som kan tillåtas om överskottsmålet ska klaras och 
+skatteuttaget ges en önskvärd inriktning. Mot bakgrund av försvagningen av de offentliga finanserna i samband den ekonomiska krisen 
+är det särskilt viktigt att utgiftstaket ges en tydlig koppling till överskottsmålet under kommande år.
+Båda dessa aspekter är av central betydelse för utgiftstakets effektivitet som 
+styrinstrument för finans- och budgetpolitiken. Riksrevisionen har behandlat 
+dem i tidigare granskningsrapporter34, men det finns anledning att fortlöpande 
+följa upp regeringens hantering av utgiftstaket. 
+I avsnitt 4.2 jämförs utgiftstak och takbegränsade utgifter i budgetpropositionen 
+och vårpropositionen. Redovisningen av utgifter i förhållande till 
+tidigare beslutade tak granskas i avsnitt 4.3. Regeringens förslag till utgiftstak 
+2012 behandlas i avsnitt 4.4. Riksrevisionens slutsatser och rekommendationer 
+redovisas i avsnitten 4.5 och 4.6.4.2 Jämförelse med vårpropositionenBudgetpropositionen innehåller en mer positiv bild av de offentliga finanserna 
+än vårpropositionen. Trots relativt omfattande reformer förväntas 
+underskotten nu bli mindre. Åren 2011 och 2012 bedöms förstärkningen 
+av de offentliga finanserna uppgå till 30 miljarder kronor trots reformer 
+motsvarande 30 miljarder kronor.35 Fortfarande uppvisar de offentliga finanserna 
+underskott i slutet av perioden, men underskottet bedöms inte 
+bli större än drygt 1 procent av BNP. 3634 ”Sambandet mellan utgiftstaket, överskottsmålet och skattepolitiken ”, RiR 2007:22, och 
+”Tillämpningen av det finanspolitiska ramverket - regeringens redovisning i 2008 års ekonomiska 
+vårproposition”, RiR 2008:15, avsnitt 3.3.35 I regeringens bedömning av de offentliga finanserna 2011 och 2012 ingår en ospecificerad förstärkning av pensionerna med 6,5 miljarder kronor vartdera året. Detta belopp redovisas 
+emellertid inte som en reformeffekt i budgetpropositionen utan omnämns endast på två ställen 
+som ett ”beräkningstekniskt antagande”, se prop. 2009/10:1 s. 222 och 263. Beloppet har lagts 
+in under ”föreslagna och aviserade reformer” i tabell 4.1.36 Den underliggande förstärkningen av de offentliga finanserna kan inte beräknas som summan 
+av den redovisade förbättringen och de föreslagna åtgärderna, eftersom åtgärderna ger upphov 
+till indirekta och ”dynamiska” effekter, vars storlek inte framgår av redovisningen. Riksrevisionen 
+har i en tidigare granskning rekommenderat regeringen att även redovisa ett scenario utan 
+tillkommande reformer. På detta sätt skulle nettoeffekten av åtgärderna kunna tydliggöras. Se 
+”Regeringens redovisning av budgeteffekter”, RiR 2007:26. Någon sådan sidokalkyl finns inte i 
+budgetpropositionen.
+
+Tabell 4.1 Finansiellt sparande i offentlig sektor. Miljarder kronor.
+2009
+
+2010
+
+2011
+
+2012
+
+Budgetpropositionen för 2010
+
+-68
+
+-107
+
+-67
+
+-36
+
+Vårpropositionen 2009
+
+-81
+
+-116
+
+-98
+
+-67
+
+Differens
+
+13
+
+9
+
+31
+
+31
+
+Föreslagna och aviserade reformer
+
+-32
+
+-30
+
+-29
+
+Redovisning i budgetpropositionen
+
+-32
+
+-24
+
+-22
+
+
+
+Källa: Egna beräkningar.
+I vårpropositionen drog regeringen slutsatsen att ”… det finns en risk att 
+överskottsmålet kommer att underskridas med en mindre marginal under 
+prognosåren.” Samtidigt framhölls att ett temporärt underskridande var 
+befogat mot bakgrund av den djupa lågkonjunkturen.37 
+Trots den kraftiga förbättringen av de offentliga finanserna jämfört med 
+vårpropositionen varnar regeringen även i budgetpropositionen för risken 
+att överskottsmålet inte klaras. Dessutom anger regeringen att ytterligare 
+åtgärder kan behöva vidtas för att dämpa fallet i sysselsättningen förutsatt 
+att åtgärderna endast medför ett begränsat underskridande av överskottsmålet. 
+38 Vikten av att temporära åtgärder inte permanentas understryks. Regeringen 
+betonar också att krisåtgärderna förutsätter en stram utgiftspolitik de 
+närmaste åren, men utesluter inte framtida höjningar av ”mindre skadliga 
+skatter”. 39 För att markera stramheten i utgiftspolitiken föreslår regeringen 
+ett utgiftstak för 2012 som är 10 miljarder kronor lägre än den bedömning av 
+taket som redovisades i vårpropositionen. 
+Tabell 4.2 visar den reviderade bilden av utgiftstak och takbegränsade utgifter 
+i budgetpropositionen jämfört med vårpropositionen. För att beloppen 
+ska bli jämförbara har såväl utgiftstaket som de takbegränsade utgifterna 
+rensats från de tekniska justeringar som redovisas i budgetpropositionen.
+37 Prop. 2008/09:100 s. 50.38 Prop. 2009/10:1 s. 24.39 Prop. 2009/10:1 s. 35.
+
+Tabell 4.2 Utgiftstak och budgeteringsmarginaler. Miljarder kronor.
+2009
+
+2010
+
+2011
+
+2012
+
+Budgetpropositionen för 2010
+
+Utgiftstak
+
+989
+
+1024
+
+1054
+
+1074
+
+Budgeteringsmarginal
+
+14
+
+17
+
+37
+
+49
+
+Takbegränsade utgifter
+
+975
+
+1007
+
+1017
+
+1025
+
+därav statsbudget
+
+755
+
+783
+
+786
+
+784
+
+ pensioner
+
+220
+
+224
+
+231
+
+242
+
+Dito, exklusive tekniska justeringar
+
+Utgiftstak
+
+991
+
+1020
+
+1050
+
+1070
+
+Budgeteringsmarginal
+
+14
+
+17
+
+37
+
+49
+
+Takbegränsade utgifter
+
+977
+
+1003
+
+1013
+
+1021
+
+därav statsbudget
+
+757
+
+779
+
+782
+
+779
+
+ pensioner
+
+220
+
+224
+
+231
+
+242
+
+Vårpropositionen 2009
+
+Utgiftstak
+
+991
+
+1020
+
+1050
+
+1080
+
+Budgeteringsmarginal
+
+15
+
+15
+
+27
+
+48
+
+Takbegränsade utgifter
+
+976
+
+1005
+
+1023
+
+1032
+
+därav statsbudget
+
+756
+
+775
+
+781
+
+775
+
+ pensioner
+
+221
+
+230
+
+242
+
+257
+
+Justerad budgetproposition jämfört med vårpropositionen
+
+Utgiftstak
+
+0
+
+0
+
+0
+
+-10
+
+Budgeteringsmarginal
+
+-1
+
+2
+
+11
+
+1
+
+Takbegränsade utgifter
+
+1
+
+-2
+
+-11
+
+-11
+
+därav statsbudget
+
+1
+
+4
+
+1
+
+4
+
+ pensioner
+
+-1
+
+-6
+
+-11
+
+-15
+
+
+
+Av tabellen framgår att de takbegränsade utgifterna 2010 väntas bli något 
+lägre än i vårpropositionen och drygt 10 miljarder kronor lägre 2011 och 
+2012 trots de föreslagna utgiftsökningarna. Den lägre utgiftsnivån förklaras 
+emellertid uteslutande av lägre pensionsutgifter, vilket i sin tur beror 
+på att regeringen nu gör en korrekt beräkning av balanstalet. Den felaktiga 
+beräkningen av pensionsutgifterna påtalades i Riksrevisionens granskning 
+av vårpropositionen, RiR 2009:14, bilaga 2. En korrekt beräkning minskar 
+pensionsutgifterna med cirka 20 miljarder kronor. Därutöver har regeringen 
+lagt in en höjning av pensionerna med 6,5 miljarder kronor 2011 och 2012.
+Ökningen av statsbudgetens utgifter 2010 begränsas av att regeringen 
+bokför delar av det utökade stödet till kommunsektorn som utgift 2009 (se 
+avsnitt 4.3). Sammantaget blir utgiftsutrymmet under taket ett par miljarder 
+kronor större än i vårpropositionen. År 2011 vidgas utgiftsutrymmet med 
+
+drygt 10 miljarder kronor. För 2012 innebär den föreslagna nedjusteringen av 
+taket med 10 miljarder kronor att budgeteringsmarginalen blir oförändrad 
+jämfört med vårpropositionen. Som andel av de takbegränsade utgifterna 
+uppgår den till 4,6 procent, det vill säga väl över regeringens tumregel om en 
+marginal på minst 3 procent för det tredje tillkommande året (se avsnitt 4.4).
+4.3 Utgiftstak och utgiftsredovisningRegeringens bedömning av utgiftstak för 2010 redovisades första gången 
+i vårpropositionen 2007. En lämplig nivå bedömdes vara 1 033 miljarder 
+kronor.40 Budgeteringsmarginalen prognostiserades till 26,5 miljarder kronor. 
+I budgetpropositionen för 2009 föreslog regeringen en lägre taknivå, 1018 
+miljarder kronor, till följd av ett antal tekniska justeringar av utgiftsredovisningen.
+41 Budgeteringsmarginalen beräknades till 33,9 miljarder kronor, 
+motsvarande 3,4 procent av de takbegränsade utgifterna. Sedan 2007 har tre 
+större tidigareläggningar av utgifter avseende 2010 beslutats eller föreslagits, 
+vilket avsevärt ökat utgiftsutrymmet under det fastlagda taket 2010: 
+• I tilläggsbudget 2 för 2007 tillfördes Vägverket och Banverket 10 miljarder 
+kronor för att i förtid amortera lån i Riksgäldskontoret för infrastrukturinvesteringar.42 Amorteringen 2007 frigjorde enligt regeringens beräkningar 
+1,2 miljarder kronor per år under de kommande åren för Vägverkets och 
+Banverkets investeringar och konsumtion.43• I tilläggsbudget 2 för 2008 tillfördes Vägverket och Banverket ytterligare 
+25 miljarder kronor för förtida amortering av lån i Riksgäldskontoret. Vid 
+detta tillfälle minskades Vägverkets och Banverkets anslag med cirka 2 
+miljarder kronor per år under de kommande åren. Men eftersom de fastställda utgiftstaken inte justerades ned frigjordes ett generellt utgiftsutrymme under taken.
+• I vårtilläggsbudgeten och hösttilläggsbudgeten 2009 förslog regeringen 
+att 7 respektive 6 miljarder kronor tillförs kommunsektorn för 2010. 
+Medlen utbetalas emellertid redan 2009 och belastar således inte utrymmet 
+under utgiftstaket 2010.40 Prop. 2006/07:100 s. 98.41 Bland annat medförde införandet av en kommunal fastighetsavgift att statsbidragen till kommunerna 
+reducerades i motsvarande grad i enlighet med den så kallade finansieringsprincipen.
+42 I budgetpropositionen för 2009 (prop. 2008/09:1 s. 49) angav regeringen att de förtida amorteringarna skulle skapa stabilare planeringsförutsättningar och tydliggöra att statliga infrastrukturinvesteringar som huvudregel ska finansieras med anslag och inte lånefinansieras.
+43 Prop. 2007/08:01 s. 35.
+
+Riksrevisionen påpekade i granskningen av vårpropositionen 200944 att tidigareläggningar 
+av utgifter skapat en större marginal till utgiftstaket 2010. Summeras 
+tidigareläggningarnas effekter för utgiftsutrymmet under kommande 
+budgetår framgår det att så gott som hela den budgeteringsmarginal som nu 
+redovisas för 2010 har skapats genom redovisningstekniska åtgärder.
+Tabell 4.3 Effekter av tidigarelagda utgifter. Miljarder kronor.
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Tidigareläggning av Banverkets och Vägverkets amorteringar
+
+-10,0
+
+1,2
+
+1,2
+
+1,2
+
+1,2
+
+Tidigareläggning av Banverkets och Vägverkets amorteringar
+
+0,0
+
+-25,0
+
+2,2
+
+2,1
+
+1,8
+
+Statsbidrag till kommunerna avseende 2010
+
+0,0
+
+0,0
+
+-13,0
+
+13,0
+
+0,0
+
+Summa 
+
+-10,0
+
+-23,8
+
+-9,6
+
+16,3
+
+3,0
+
+Budgeteringsmarginal
+
+27,9
+
+13,6
+
+13,7
+
+17,3
+
+26,5
+
+Budgeteringsmarginal utan tidigareläggningar
+
+37,9
+
+37,4
+
+23,2
+
+1,0
+
+23,4
+
+
+
+Gemensamt för dessa tidigareläggningar är att de har föreslagits på tilläggsbudget. 
+Utgiftsökningarna på tilläggsbudget har därför under de senaste tre 
+åren varit mycket stora, i synnerhet under 2008 och 2009 (se figur 4.1). 
+Mot bakgrund av den oväntade och kraftiga försvagningen av ekonomin 
+under 2008 är det inte förvånande att tilläggsbudgetarna fått en ökad betydelse. 
+Mer än hälften av dessa utgiftsökningar har dock använts till att redovisningsmässigt 
+flytta takbegränsade utgifter mellan åren utan motsvarande 
+anpassningar av utgiftstaket. Finanspolitiska rådet har tagit upp frågan om 
+redovisningen av utgifterna i förhållande till utgiftstaket i såväl sin rapport 
+våren 2009 som sin kommentar till budgetpropositionen för 2010.45Figur 4.1 Utgiftsförändringar på tilläggsbudget 1997-2009. Miljarder kronor.
+44 RiR 2009:14.45 Finanspolitiska rådet (2009a) och Finanspolitiska rådet (2009b)
+4035302520151050-5-101997199819992000200120022003200420052006200720082009
+
+En förutsättning för utgiftstakets trovärdighet som budgetpolitiskt styrinstrument 
+är, enligt Riksrevisionens mening, att principerna för redovisningen 
+av utgifterna är väl utformade och tydliga. Frågan om redovisningsprincipernas 
+betydelse när finanspolitiken styrs med kvantitativa mål har 
+uppmärksammats i samband med EU:s stabilitets- och tillväxtpakt. 46 
+Riksrevisionen vill framhålla att ett utökat kommunstöd 2010 är fullt förenligt 
+med det finanspolitiska regelverket vid en korrekt periodisering av stödet. 
+Regelverket omöjliggör inte förändringar av utgiftstaket. I själva verket 
+ändras utgiftstaket i så gott som varje budgetproposition av ”tekniska” skäl. 
+Vid ett par tillfällen har utgiftstaket också ändrats av andra skäl genom att 
+riksdag och regering funnit att ändrade ekonomiska förhållanden motiverar 
+en ändring av taket. Till skillnad från regeringens hantering av det extra kommunstödet 
+genom redovisningstekniska förflyttningar över årsskiften skulle 
+en höjning av utgiftstaket tydligare markera att utgiftsnivån 2010 de facto har 
+höjts. Det är då inte fråga om att ”bryta” taket 2010 utan om att tydliggöra 
+att utgiftsbehovet till följd av den ekonomiska krisen är högre än vad som 
+ansågs nödvändigt när utgiftstaket för 2010 beslutades hösten 2007.4.4 Utgiftstaket 2012I budgetpropositionen för 2008 lade regeringen fast ett antal principer för bedömningen 
+av lämplig nivå på utgiftstaket för det tredje tillkommande budgetåret:47• Utgångspunkten bör vara en bedömning av kommunsektorns och det 
+offentliga ålderspensionssystemets finansiella sparande samt den statliga 
+sektorns inkomster som följer av den eftersträvade skattepolitiken.
+• Nivån bör även främja en önskvärd långsiktigt utveckling av de statliga 
+utgifternas omfattning, vilket innebär att de statliga utgifterna bör 
+minska svagt som andel av BNP.
+• En bedömning av konjunkturutvecklingen ska beaktas för att undvika 
+ogynnsamma förstärkningar av konjunktursvängningar, det vill säga 
+procyklisk finanspolitik ska undvikas.
+• Det ska finnas en budgeteringsmarginal, det vill säga en skillnad mellan 
+det föreslagna utgiftstaket och beräkningen av de så kallade takbegränsade 
+utgifterna, för att man vid givna regler ska kunna hantera olika prognososäkerheter och tillfälliga variationer i utgiftsutvecklingen. Regeringen 
+har preciserat behovet av marginaler till minst 1 procent av de takbegränsade 
+utgifterna för innevarande år (2009), minst 1,5 procent för år t+1 (2010), minst 
+2 procent för år t+2 (2011) och minst 3 procent för år t+3 (2012).
+46 Se till exempel Koen & van den Noord (2005).
+47 Prop. 2007/08:1 s 77.
+
+Riksrevisionen har i tidigare granskningar påtalat bristen på konkretion 
+och precisering i tillämpningen av dessa principer. 48 I samband med 
+behandlingen av vårpropositionen 2009 framhöll också riksdagen att 
+resonemangen kring bedömningen av utgiftstakets nivå bör utvecklas. 
+Bland annat efterfrågar riksdagen en motivering till varför marginalen 
+till utgiftstaket 2012 väsentligt överstiger den tumregel för marginalens 
+storlek som regeringen formulerat, särskilt i ett läge där möjligheten 
+att uppnå överskottsmålet och säkerställa finanspolitikens långsiktiga 
+hållbarhet riskerar att ifrågasättas. ”Utskottet anser att det är viktigt att 
+regeringen tydligare motiverar den bedömda nivån för utgiftstaket och 
+för ett resonemang kring den trendmässiga minskningen av utgiftstaket. 
+Utskottet förutsätter att regeringen återkommer till riksdagen med sådan 
+information.” 49 
+I budgetpropositionen för 2010 föreslår regeringen ett utgiftstak för 2012 
+på 1 074 miljarder kronor. Som skäl för förslaget anför regeringen följande:50 
+”Nivån på utgiftstaket för ett nytt år tar sin utgångspunkt i en samlad 
+bedömning av det finanspolitiska regelverket och prognosen för de offentliga 
+finanserna, samt att utgiftstaket ska fastställas på en nivå som är förenlig 
+med överskottsmålet och en långsiktigt hållbar finanspolitik. […] Underskotten 
+manar till försiktighet i utgiftsutvecklingen. Ett stramare utgiftstak 
+understödjer en stram finanspolitik, vilket understödjer återgången mot ett 
+överskott i de offentliga finanserna som ligger i linje med överskottsmålet. 
+Regeringen föreslår därför att utgiftstaket fastställs på en nivå som, exklusive 
+tekniska justeringar, ligger 10 miljarder kronor lägre än den bedömda nivån i 
+2009 års ekonomiska vårproposition.” 
+Regeringen konstaterar också att det föreslagna utgiftstaket ökar med 20 
+miljarder kronor mellan 2011 och 2012, vilket är en historiskt sett låg nominell 
+ökning, samt att nivån innebär att utgiftstaket som andel av BNP faller 
+med i genomsnitt 0,5 procentenheter 2011 och 2012. 51Av tabell 4.2 framgår att regeringens förslag till utgiftstak för 2012 innebär 
+att budgeteringsmarginalen, liksom i vårpropositionen, uppgår till nära 50 
+miljarder kronor, vilket motsvarar 4,6 procent av de takbegränsade utgifterna. 
+Budgeteringsmarginalen är således även i budgetpropositionen väl 
+tilltagen i förhållande till tumregeln (minst 3 procent av de takbegränsade 
+utgifterna). Sänkningen av utgiftstaket med 10 miljarder kronor jämfört med 
+bedömningen i vårpropositionen motsvaras mer än väl av nedjusteringen av 
+48 Se till exempel ”Tillämpningen av det finanspolitiska ramverket - Regeringens redovisning i 2008 
+års ekonomiska vårproposition”, RiR 2008:15.49 Bet. 2008/09:FiU20 s. 82-83.50 Prop. 2009/10:1 s. 100.51 År 2011 minskar BNP-andelen med 0,2 procentenheter och 2012 med 0,9 procentenheter. Taket 
+utgör 2012 samma andel av BNP som 2005.
+
+pensionsutgifterna och kan snarast ses som en (partiell) korrigering till följd 
+av en felaktig pensionsberäkning i vårpropositionen. 
+Det saknas en tydlig motivering i propositionen till varför marginalen 
+utökas 2011 och upprätthålls på en hög nivå 2012. En sådan analys hade varit 
+naturlig mot bakgrund av de relativt stora avvikelserna från överskottsmålet 
+(se kapitel 3) och regeringens betoning av vikten av en återhållsam utgiftspolitik 
+för att säkerställa den långsiktiga stabiliteten i de offentliga finanserna.52Figur 4.2 visar utgiftstaket som andel av BNP respektive potentiell BNP 
+2000-2012.53 Att utgiftstaket som andel av BNP stiger kraftigt under periodens 
+senare del beror på den svaga BNP-utvecklingen. Ett mer stabilt mått 
+på ”takkvoten” erhålls om utgiftstaket i stället relateras till potentiell BNP. 
+Figuren visar att 2009-2011 präglas av en växande takkvot, med en svag 
+minskning 2012 som återför kvoten till genomsnittet för perioden 2000-
+2012. Huruvida denna nivå är förenlig med en tillräckligt stram utgiftspolitik 
+för att nå överskottsmålet och det önskvärda skatteuttaget framgår inte.
+Figur 4.2 Utgiftstak korrigerat för tekniska justeringar. Procent av BNP och potentiell BNP.
+52 För såväl 2011 som 2012 har regeringens bedömningar av en lämplig budgeteringsmarginal för det 
+tredje tillkommande året (t+3) legat väsentligt högre än samtliga år sedan systemet med utgiftstak 
+började tillämpas 1997. Medelvärdet för tidigare år är 2,7 procent av de takbegränsade utgifterna, 
+medan budgeteringsmarginalen för t+3 de båda senaste åren satts till 4,9 respektive 4,8 procent 
+av utgifterna.
+53 Utgiftstaket har korrigerats för tekniska justeringar så att det är jämförbart över tiden, se prop. 
+2009/10:1 s. 94.
+3433323130292000200120022003200420052006200720082009201020112012Procent av BNPProcent av potentiell BNPGenomsnitt
+
+4.5 SlutsatserUtgiftstaket är det centrala verktyget för att säkerställa överskottsmålet 
+och den långsiktiga hållbarheten i finanspolitiken. Regeringens förslag till 
+utgiftstak för det tredje tillkommande året bör därför vara tydligt och konkret 
+motiverat i förhållande till såväl överskottsmålet som det önskade skatteuttaget. 
+Regeringen presenterar emellertid inte någon sådan redovisning av 
+förslaget till utgiftstak för 2012. 
+Ett beslutat utgiftstak är av central betydelse för budgetprocessen. Taket 
+framtvingar prioriteringar mellan olika utgifter i beredningen och genomförandet 
+av statsbudgeten. Förtroendet för utgiftstaket skadas genom att olika 
+typer av redovisningstekniska åtgärder används för att kringgå taket. Utbetalningen 
+av det tillfälliga kommunstödet för 2010 redan i slutet av 2009 utgör 
+ett sådant exempel.
+4.6 RekommendationerRegeringen bör avstå från att skapa ett ökat utgiftsutrymme under kommande 
+budgetår genom redovisningstekniska tidigareläggningar av utgifter. 
+Motiveringarna till utgiftstakets nivå och den väl tilltagna budgeteringsmarginalen 
+2012 är otillräckliga mot bakgrund av de stora avvikelserna från 
+överskottsmålet. Regeringen bör precisera hur förslaget till utgiftstak för det 
+tredje tillkommande året bidrar till att säkerställa överskottsmålet. 
+Principerna för budgetredovisningen bör tas upp inom ramen för den 
+pågående översynen av det finanspolitiska ramverket. 
+
+5 Uppföljning av balanskravet 
+Slutsatser och rekommendationerRedovisningen av kommunsektorns finanser är oklar. Skillnaderna mot beräkningen 
+i vårpropositionen 2009 är i några fall betydande utan att någon 
+förklaring ges. Bland annat förutsätts en kraftig produktivitetsökning 2011 
+utan att detta vidare kommenteras. 
+Kommunsektorn som helhet antas klara balanskravet men inte kommunallagens 
+krav på god ekonomisk hushållning. 
+Regeringen bör fortsätta att utveckla redovisningen av kommunsektorns 
+finanser, bland annat genom att relatera bedömningen till såväl balanskravet 
+som kravet på god ekonomisk hushållning. Eventuella gap mellan prognosen 
+och kommunallagens krav bör förklaras. Jämförelser med prognosen i föregående 
+proposition är ett bra sätt att tydliggöra den aktuella bedömningen. 
+Större skillnader bör kommenteras.
+5.1 BakgrundKommunallagens krav på det finansiella resultatet i kommuner och landsting 
+är en väsentlig del av det finanspolitiska ramverket. Balanskravet och kravet 
+på god ekonomisk hushållning minskar risken för underskott och bidrar till 
+att överskottsmålet för den offentliga sektorn klaras. 
+I vårpropositionen 2009 redovisade regeringen en framskrivning med 
+relativt stora underskott i kommunsektorn. För såväl 2009 som 2010 förutsågs 
+ett negativt resultat kring 2-3 miljarder kronor. Underskotten beräknades 
+öka till 10 miljarder kronor 2012. Den tumregel som ibland används 
+för kommunallagens föreskrifter om ”god ekonomisk hushållning” innebär 
+att kommunsektorn som helhet bör uppvisa ett överskott på 12-13 miljarder 
+kronor.54 Skillnaden mellan framskrivningen i vårpropositionen och lagens 
+krav var således betydande. I Riksrevisionens granskning av vårpropositionen55 
+ställdes därför frågan om innebörden av en framskrivning som strider mot 
+såväl balanskravet som kravet på god ekonomisk hushållning.
+54 Kravet brukar uppskattas motsvara 2 procent av summan av skatter och generella statsbidrag. 
+Se prop.2009/10:1 s 101.55 RiR2009:14.
+
+5.2 Regeringens redovisning i budgetpropositionenPresentationen av kommunsektorns finanser har förbättrats i budgetpropositionen. 
+Redovisningen är mindre splittrad än i vårpropositionen, och det är 
+lättare för läsaren att få en helhetsbild av prognosen. Fortfarande är emellertid 
+beskrivningen av kommunsektorns utveckling bristfällig i vissa avseenden. 
+Tabell 5.1 visar prognosen för kommunsektorns finanser i budgetpropositionen.
+56 Inkomsterna ökar kraftigt mellan 2009 och 2010, framförallt 
+till följd av den kraftiga förstärkningen av statsbidragen. Trots ökningen av 
+utgifterna stärks därför de kommunala finanserna. Såväl det finansiella sparandet 
+som det ekonomiska resultatet förbättras med 10 miljarder kronor. 
+Det ekonomiska resultatet blir åter positivt, men inte tillräckligt starkt för att 
+kravet på god ekonomisk hushållning ska anses uppfyllt, vilket förutsätter ett 
+överskott på 12-13 miljarder kronor. 
+Även 2011 beräknas kommunsektorn som helhet uppvisa ett överskott 
+trots minskningen av statsbidragen när det tillfälliga stödet bortfaller. Skatteintäkterna 
+växer emellertid i takt med återhämtningen i ekonomin, och 
+dessutom förutsätts de kommunala utgifterna vara oförändrade mellan 2010 
+och 2011. År 2012 ökar inkomsterna och utgifterna i ungefär samma takt.
+Tabell 5.1 Kommunsektorns finanser enligt budgetpropositionen för 2010. Miljarder kronor.
+Förändring från föregående år
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2010
+
+2011
+
+2012
+
+Inkomster
+
+731
+
+748
+
+773
+
+772
+
+791
+
+25
+
+19
+
+Skatter
+
+500
+
+511
+
+514
+
+525
+
+542
+
+3
+
+11
+
+17
+
+Statsbidrag
+
+112
+
+115
+
+137
+
+124
+
+122
+
+22
+
+-13
+
+-2
+
+Övriga inkomster
+
+119
+
+122
+
+122
+
+123
+
+127
+
+0
+
+1
+
+4
+
+Utgifter
+
+728
+
+758
+
+773
+
+772
+
+793
+
+15
+
+21
+
+Konsumtion
+
+615
+
+635
+
+646
+
+644
+
+660
+
+11
+
+-2
+
+16
+
+Övriga utgifter
+
+113
+
+123
+
+127
+
+128
+
+133
+
+4
+
+1
+
+5
+
+Finansiellt sparande
+
+3
+
+-10
+
+0
+
+0
+
+-2
+
+10
+
+0
+
+-2
+
+Resultat
+
+8
+
+-6
+
+4
+
+6
+
+3
+
+10
+
+2
+
+-3
+
+
+
+Källa: Egna beräkningar.
+Skillnaden mellan framskrivningarna i budgetpropositionen och vårpropositionen 
+framgår av tabell 5.2. Ett något större underskott förutses nu för 
+2009. Den reviderade prognosen innebär något högre skatteintäkter, men 
+samtidigt förutses utgifterna bli väsentligt högre. Det finansiella sparandet 
+blir 8 miljarder kronor lägre och det ekonomiska resultatet 3 miljarder kronor 
+lägre än i vårpropositionen. 
+56 I motsvarande tabell i budgetpropositionen, tabell 9.8 s. 276, redovisas den kommunala fastighetsavgiften som en särskild post på inkomstsidan. Fastighetsavgiften är emellertid redan beaktad i 
+posten ”Övriga inkomster”, varför tabellen i budgetpropositionen inte summerar.
+
+Tabell 5.2. Förändring av kommunsektorns finanser i budgetpropositionen jämfört med 
+vårpropositionen. Miljarder kronor.
+2009
+
+2010
+
+2011
+
+2012
+
+Inkomster
+
++5
+
++17
+
++9
+
++10
+
+Skatter
+
++4
+
++4
+
++4
+
++5
+
+Statsbidrag
+
+0
+
++12
+
++3
+
++1
+
+Övriga inkomster
+
++1
+
++1
+
++1
+
++3
+
+Utgifter
+
++13
+
++12
+
+-1
+
++1
+
+Konsumtion
+
++7
+
++8
+
+-4
+
+-3
+
+Övriga utgifter
+
++6
+
++4
+
++4
+
++4
+
+Finansiellt sparande
+
+-8
+
++5
+
++9
+
++9
+
+Resultat
+
+-4
+
++7
+
++13
+
++13
+
+
+
+Anm. I vårpropositionen redovisades den till december 2009 tidigarelagda utbetalningen 
+av extra kommunstöd avseende 2010 på 2009 i beräkningen av finansiellt sparande. 
+SCB har nu bestämt att den tidigarelagda utbetalningen ska redovisas på det år som den 
+avser, det vill säga på 2010, i nationalräkenskaperna. Tabellens värden bygger på denna 
+redovisningsprincip.
+Källa: Egna beräkningar.
+Perioden 2010-2012 präglas av en väsentlig förstärkning av det ekonomiska 
+resultatet jämfört med bedömningen i vårpropositionen. År 2010 balanseras 
+högre utgifter mer än väl av högre intäkter, framförallt till följd av den 
+ytterligare höjningen av statsbidraget med 10 miljarder kronor.57 Åren 2011 
+och 2012 ligger utgifterna på samma nivå som i vårpropositionen. Det något 
+högre statsbidraget förklaras i huvudsak av kompensationen för minskade 
+skatteintäkter till följd av ökat grundavdrag för pensionsinkomster.58 Någon 
+egentlig förstärkning av statsbidragen i förhållande till vårpropositionen ligger 
+inte i kalkylen för 2011 och 2012. 
+Eftersom kommunsektorns utgifter 2011 och 2012 bedöms bli i stort sett 
+desamma som i vårpropositionen antas hela inkomstökningen användas till 
+en förstärkning av de kommunala finanserna. Skälet till att det ekonomiska 
+resultatet stärks mer än det finansiella sparandet är att investeringsutgifterna 
+i kommuner och landsting antas bli högre. Investeringsutgifter belastar det 
+57 I hösttilläggsbudgeten för 2009 föreslås 7 miljarder kronor i tillfälligt konjunkturstöd. Därav avser 
+1 miljard bidrag för att minska belastningen på hälso- och sjukvården till följd av influensapandemin, 
+se Hösttilläggsbudget för 2009, prop. 2009/10:2. Därutöver tillförs 4 miljarder kronor på anslag 2010. 
+58 Utöver kompensationen för höjda grundavdrag ökar statsbidraget 2011 och 2012 till följd av bland 
+annat högre utjämningsbidrag för verksamhet enligt lagen (1993:387) om stöd och service till 
+vissa funktionshindrade (LSS). Det ökade statsbidraget motsvaras emellertid fullt ut av ökade 
+avgifter från kommuner till staten, varför ingen nettoeffekt uppkommer på det finansiella sparandet 
+och det ekonomiska resultatet för kommunsektorn som helhet.
+
+finansiella sparandet enligt nationalräkenskaperna, men inte det ekonomiska 
+resultatet enligt den kommunala redovisningen. 
+Av budgetpropositionen framgår att inkomstprognosen reviderats upp 
+i ett sent skede i beräkningsarbetet och inte kunnat beaktas fullt ut i utgiftsprognosen. 
+Det påpekas att konsumtionsvolymen och sysselsättningen 
+därför underskattas för 2011 och 2012.59 Av tabell 5.1 framgår emellertid att 
+redan den redovisade prognosen innebär att kommunsektorn som helhet 
+inte uppfyller kravet på god ekonomisk hushållning vare sig 2011 eller 2012. 
+En ytterligare höjning av utgiftsnivån skulle skapa ett vidgat gap mellan 
+prognosen och kommunallagens krav. Dessutom krävs ett visst överskott 
+för sektorn som helhet för att merparten av de enskilda kommunerna och 
+landstingen ska anses klara balanskravet. Ett nollresultat innebär att ett 
+stort antal kommuner och landsting inte klarar ens balanskravet, mycket 
+mindre kravet på god ekonomisk hushållning. Något ytterligare utrymme för 
+utgiftsökningar kan därför knappast finnas inom ramen för den redovisade 
+inkomstprognosen.
+5.3 Kommunal konsumtion och sysselsättning 
+Som framgår av tabell 5.2 bedöms utgifterna för kommunsektorns konsumtion, 
+det vill säga verksamheter i form av skola, vård och omsorg, 
+bli väsentligt högre 2009 och 2010 än i vårpropositionen. Åren 2011 och 
+2012 bedöms emellertid konsumtionsutgifterna snarast bli lägre. Tabell 5.3 
+visar konsumtionsutgifternas utveckling uppdelad på volym och pris enligt 
+budgetpropositionen respektive vårpropositionen. Sett över prognosperioden 
+2009-2012 förutses ökningen av konsumtionsutgifterna bli svagare än 
+i vårpropositionen. Konsumtionsvolymen ökar dock med drygt ½ procent 
+såväl i budgetpropositionens bedömning som i vårpropositionens. Minskningen 
+av konsumtionsutgifterna jämfört med vårpropositionen beror därför 
+helt och hållet på nya antaganden om prisutvecklingen för den kommunala 
+konsumtionen. Särskilt 2011 är prisutvecklingen väsentligt lägre i budgetpropositionen 
+än i vårpropositionen och även väsentligt lägre än den historiska 
+utvecklingen (se figur 5.1). Den svaga kostnadsutvecklingen för den kommunala 
+verksamheten bidrar starkt till den prognostiserade förbättringen av 
+finansiellt sparande och ekonomiskt resultat.
+59 Prop. 2009/10:1 s 276.
+
+Tabell 5.3 Kommunsektorns konsumtionsutgifter. Procentuell förändring.
+2009
+
+2010
+
+2011
+
+2012
+
+BP10
+
+Konsumtionsutgifter
+
+3,2
+
+1,8
+
+-0,3
+
+2,4
+
+Konsumtionsvolym
+
+0,5
+
+0,5
+
+-0,3
+
+-0,2
+
+Pris
+
+2,7
+
+1,2
+
+0,0
+
+2,6
+
+Kostnadsvolym
+
+0,3
+
+0,4
+
+-2,1
+
+-0,8
+
+VP09
+
+Konsumtionsutgifter
+
+2,1
+
+1,6
+
+1,6
+
+2,2
+
+Konsumtionsvolym
+
+0,5
+
+0,3
+
+-0,1
+
+-0,2
+
+Pris
+
+1,6
+
+1,2
+
+1,7
+
+2,4
+
+Kostnadsvolym
+
+-0,7
+
+0,1
+
+-0,4
+
+-0,2
+
+
+
+Figur 5.1 Prisindex för kommunal konsumtion. Procentuell förändring.
+Kostnadsutvecklingen 2011 kommenteras inte i propositionen på annat 
+sätt än att ”Prognoserna för 2011 och 2012 baseras på att kommuner och 
+landsting ska klara balanskravet, vilket innebär att kostnaderna anpassas till 
+intäkterna.”60 Det innebär att ”kostnadsvolymen” antas minska kraftigt 2011 
+utan att detta påverkar verksamhetsvolymen. Kostnadsvolymen avspeglar 
+resursinsatsen i de kommunala verksamheterna - i första hand i form av 
+arbetade timmar. Prognosen innebär att verksamhetsvolymen per arbetad 
+timme förutsätts öka kraftigt 2011 (se figur 5.2). Grunden för den förändrade 
+bedömningen av produktivitetsutvecklingen i kommunala verksamheter 
+redovisas inte. Med samma produktivitetsutveckling 2011 och 2012 som i 
+60 Prop. 2009/10:1 s. 278.
+6,05,04,03,02,01,00,06,05,04,03,02,01,00,01994199519961997199819992000200120022003200420052006200720082009201020112012VP09BP10
+
+vårpropositionen skulle prognosen för konsumtionsutgifterna i budgetpropositionen 
+vara cirka 13 miljarder kronor högre 2012 än vad som redovisas. 
+Det innebär i sin tur att kommunsektorns samlade underskott skulle uppgå 
+till cirka 10 miljarder kronor, det vill säga samma ekonomiska resultat som 
+redovisades i vårpropositionen.
+Figur 5.2 Konsumtionsvolym per resursinsats (produktivitet) i kommunal verksamhet. 
+Procentuell förändring.
+Källa: SCB och egna beräkningarEn ökad produktivitet i den offentliga sektorn, såsom den mäts av nationalräkenskaperna, 
+innebär att personaltätheten i verksamheterna minskar.61 Kalkylen 
+innebär att det krävs färre sysselsatta i kommunsektorn jämfört med 
+bedömningen i vårpropositionen för att uppnå samma verksamhetsvolym. 
+Mellan 2008 och 2012 förutses den kommunala sysselsättningen minska 
+med drygt 50 000 personer. I vårpropositionens bedömning stannade sysselsättningsminskningen 
+vid knappt 30 000 personer.
+61 Konsumtionsvolymen per arbetad timme kan också öka genom att tjänster i växande grad köps 
+från den privata sektorn. Det gäller till exempel friskolor och kooperativa dagis.
+2,01,51,00,50,0-0,5-1,0-1,5200120022003200420052006200720082009201020112012BP10VÅP09
+
+Tabell 5.4 Arbetade timmar och sysselsättning i kommunsektorn. Procentuell förändring 
+respektive förändring i antal.
+2009
+
+2010
+
+2011
+
+2012
+
+2008-2012
+
+BP10
+
+Timmar
+
+-0,9
+
+-0,0
+
+-2,6
+
+-1,0
+
+-4,5
+
+Sysselsatta
+
+-21 000
+
+-7 900
+
+-21 900
+
+-900
+
+-51 700
+
+VP09
+
+Timmar
+
+-2,1
+
+-0,1
+
+-0,7
+
+-0,2
+
+-3,1
+
+Sysselsatta
+
+-21 600
+
+-7 800
+
+-7 400
+
+9 300
+
+-27 500
+
+
+
+5.4 SlutsatserRedovisningen av kommunsektorns finanser i budgetpropositionen har förbättrats 
+i flera avseenden jämfört med vårpropositionen. Prognosen presenteras 
+samlat i ett avsnitt. Det är angeläget att utvecklingsarbetet fortsätter för 
+att öka tydligheten i presentationen av prognoserna. Exempelvis skiljer sig 
+prognosen i budgetpropositionen i väsentliga avseenden från prognosen i 
+vårpropositionen utan att orsaken till skillnaderna kommenteras eller förklaras. 
+Den nya prognosen innebär att kommunsektorn som helhet antas klara 
+balanskravet men inte kommunallagens krav på god ekonomisk hushållning. 
+Detta förutsätter emellertid en kraftig ökning av produktiviteten i de kommunala 
+verksamheterna 2011. Regeringen varken kommenterar eller motiverar 
+detta antagande, trots att produktivitetsökningen är en förutsättning för att 
+kommunerna ska klara lagens krav om balans.
+5.5 RekommendationerRegeringen bör fortsätta att utveckla redovisningen av kommunsektorns 
+finanser i de ekonomiska propositionerna, bland annat genom att relatera 
+prognoserna till såväl balanskravet som kravet på god ekonomisk hushållning. 
+Eventuella gap mellan prognosen och kommunallagens krav bör lyftas 
+fram och kommenteras. 
+Jämförelser med prognosen i föregående proposition är ett bra sätt att 
+tydliggöra den aktuella bedömningen. Större skillnader bör förklaras.
+
+Källförteckning 
+RiksdagstryckProposition 2007/08:1, Budgetpropositionen för 2008.
+Proposition 2008/09:1, Budgetpropositionen för 2009.
+Proposition 2009/10:1, Budgetpropositionen för 2010.
+Proposition 2009/10:2, Hösttilläggsbudget för 2009.
+Proposition 2006/07:100, 2007 års ekonomiska vårproposition.
+Proposition 2008/09:100, 2009 års ekonomiska vårproposition.
+Kommunallagen, lag (1991:900). 
+Lag om stöd och service till vissa funktionshindrade, lag (1993:387).
+Betänkande 2008/09:FiU20, Riktlinjer för den ekonomiska politiken. 
+Övriga källorAgeing Report, (2009), European Economy 2/2009.
+ESV, (2009), Prognos – Statsbudgeten och de offentliga finanserna 2009:25.
+Finanspolitiska rådet,(2009a), Svensk finanspolitik 2009.
+Finanspolitiska rådet,(2009b), Kommentar till budgetpropositionen.
+Koen, V. och P. van den Noord, (2005), ”Fiscal Gimmickry in Europe: 
+OneOff Measures and Creative Accounting”, No 417, OECD Economics 
+Department Working Papers.
+Regeringens skrivelse 2008/09:10, Utvecklingen inom den kommunala sektorn.
+RiR 2006:27, Regeringens uppföljning av överskottsmålet.
+RiR 2007:22, Sambandet mellan utgiftstaket, överskottsmålet och skattepolitiken 
+– Regeringens redovisning.
+RiR 2007:26, Regeringens redovisning av budgeteffekter.
+RiR 2008:15, Tillämpningen av det finanspolitiska ramverket – Regeringens 
+redovisning i 2008 års ekonomiska vårproposition.
+
+RiR 2008:20, Granskning av Årsredovisning för staten 2007.
+RiR 2008:30, Tillämpningen av det finanspolitiska ramverket – Regeringens 
+redovisning i budgetpropositionen för 2009. 
+RIR 2009:14, Tillämpningen av det finanspolitiska ramverket –Regeringens redovisning 
+i 2009 års ekonomiska vårproposition.
+Sustainability Report, (2009), European Economy 9/2009.
+
+Bilaga 1 Härledning av S2-indikatornHärledningen av den intertemporala budgetrestriktionen och S2-indikatorn 
+bygger på en ekvation för nettoskuldens utveckling. I denna bilaga 
+redovisas sambanden mer i detalj. 62 Följande beteckningar används:
+D = nettoskuldR = nominell räntaPB = primärt sparande, det vill säga skillnaden mellan inkomster 
+exklusive kapitalinkomster och utgifter exklusive skuldräntor 
+Skuldekvation 
+(1)
+Vanligtvis sätts skulder och sparande i relation till BNP. Om gemener 
+betecknar BNP-andelar och Y nominell BNP erhålls ur (1):
+där r anger ”skillnaden” mellan nominell ränta och tillväxttaken för nominell 
+BNP. 
+Om den tillväxtjusterade räntan, r, antas konstant erhålls genom upprepade 
+insättningar:
+Etc.
+som kan omformas till: 
+(2)
+62 För en mer fyllig härledning, se European Economy no 4/2006, Annex II.
+
+Sambandet (2) innebär att nuvärdet av den framtida skulden vid tidpunkten 
+t är lika med skulden i utgångsläget minus nuvärdet av framtida 
+primära överskott. 
+Den intertemporala budgetrestriktionenHållbarhetsvillkoret innebär att den framtida skulden inte tillåts växa 
+obegränsat. Det innebär att: 
+för något bestämt värde på ”m”. Eftersom (1+r)>0 erhålls:
+Om detta villkor sätts in i skuldekvationen (2) erhålls: 
+(3)
+Detta samband visar den intertemporala budgetrestriktion som måste gälla 
+för att finanspolitiken ska betecknas som långsiktigt hållbar. Sambandet är 
+utgångspunkten för beräkningen av S2-indikatorn. Indikatorn anger den permanenta 
+förändring som krävs i förhållande till ett givet långsiktigt scenario 
+med det primära sparandet pbi för att skuldutvecklingen ska vara hållbar: 
+(4)
+Skuldekvationen (2) ger också ett villkor för att en viss skuldnivå ska 
+uppnås vid ett bestämt år T: 
+(5)
+EG-kommissionen använder detta samband för att beräkna hur stor budgetförstärkning 
+som krävs för att uppnå skuldgränsen på 60 procent av BNP ett specifikt 
+år - vanligtvis 2050. Detta är den så kallade S1-indikatorn som används som 
+ett komplement till S2-indikatorn i bedömningen av hållbarheten i medlemsstaternas 
+finanspolitik. Det bör dock observeras att skuldnivån i detta fall avser 
+den offentliga sektorns bruttoskuld, medan skuldekvationen i princip beskriver 
+nettoskuldens utveckling. Beräkningen av S1 måste därför kompletteras med ett 
+antagande om utvecklingen av den offentliga sektorns finansiella tillgångar.
+
+Bilaga 2 Begreppsförklaringar 
+Automatiska stabilisatorerI en lågkonjunktur försvagas de offentliga finanserna automatiskt genom att 
+inkomsterna från skatter och avgifter minskar och utgifterna för de sociala 
+trygghetssystemen ökar. Samtidigt innebär detta att hushållens inkomster 
+inte minskar så starkt. Stabila inkomster innebär i sin tur att hushållen kan 
+hålla uppe sina konsumtionsutgifter, vilket dämpar konjunkturnedgången. 
+Det omvända gäller i en högkonjunktur. De offentliga finanserna stärks och 
+begränsar uppgången i hushållens inkomster. 
+BalanstalDet så kallade balanstalet i inkomstpensionen beräknas som kvoten mellan 
+de samlade tillgångarna och pensionsskulden.63 Det utgör således ett mått 
+på pensionssystemets ”soliditet”. Om balanstalet är lägre än 1 ska enligt 
+regelverket uppskrivningen av såväl utbetalda pensioner som intjänade 
+pensionsrätter reduceras. Den begränsade indexeringen tillämpas så länge 
+tillgångarna underskrider skulderna. Balanseringsmekanismen säkerställer 
+pensionssystemets finansiella stabilitet. 
+Balanstalet fastställs med två års eftersläpning, eftersom det bygger på 
+taxerade inkomster. Den svaga utvecklingen i ekonomin under perioden 
+2008–2010 innebär att balanseringsmekanismen aktiveras. Det är första 
+gången detta inträffar sedan det reformerade pensionssystemet togs i bruk 
+för tio år sedan. Balanstalet förväntas underskrida 1,0 åren 2010–2012, vilket 
+innebär att utbetalda pensioner kommer att utvecklas svagare än vid en 
+normal indexering under dessa år om inte kompenserande åtgärder vidtas. 
+BalanskravBalanskravet innebär enligt kommunallagen (1991:900) att enskilda kommuner 
+och landsting inte får besluta om en budget där kostnaderna överstiger 
+intäkterna. Om verksamheten ändå ger ett negativ ekonomiskt resultat 
+63 Tillgångarna i form av pensionsavgifter och behållningar i AP-fonderna beräknas 2008 uppgå till 
+drygt 7 000 miljarder kronor. Den samlade pensionsskulden beräknas till ungefär samma belopp.
+
+måste detta kompenseras med motsvarande överskott inom tre år. Balanskravet 
+ska ses som ett minimikrav. Lagens krav på ”god ekonomisk hushållning” 
+förutsätter permanenta överskott. 
+Bruttonationalprodukt (BNP)
+Värdet av alla varor och tjänster som produceras i ett land. 
+BruttoskuldDen offentliga sektorns konsoliderade bruttoskuld (Maastrichtskulden) kan 
+beräknas som statsskulden + kommunsektorns skulder på kreditmarknaden 
+– AP-fondernas innehav av statspapper. 
+Att skulden är konsoliderad innebär att inbördes skuldförhållanden 
+mellan de olika delarna i den offentliga sektorn har eliminerats. Skuldmåttet 
+används inom EU som ett mått på om medlemsländerna uppfyller Maastrichtvillkoren 
+(se nedan). 
+BudgetpropositionRegeringens förslag till statsbudget för följande budgetår. Budgetpropositionen 
+innehåller bland annat en finansplan, budgetpolitiska mål, ramar för utgiftsområden, 
+förslag till anslag för olika ändamål och en beräkning av statens inkomster. 
+Diskretionär finanspolitikDiskretionär finanspolitik innebär att riksdag och regering aktivt ändrar skattesatser 
+och offentliga utgifter för att påverka efterfrågan i ekonomin. 
+Ekonomisk vårpropositionRegeringens förslag till riktlinjer för den framtida ekonomiska politiken och 
+budgetpolitiken som ett första led i budgetprocessen. 
+Finansiell nettoförmögenhetFinansiell nettoförmögenhet = finansiell nettoställning = finansiella tillgångar 
+– skulder = –nettoskuld.
+Förändring av finansiell nettoställning = finansiellt sparande + värdeförändringar 
+på finansiella tillgångar och skulder.
+
+Ett positivt finansiellt sparande förbättrar den finansiella nettoställningen. Förmögenhetsställningen 
+påverkas även av att kapitalvinster och -förluster uppstår 
+på tillgångar som aktier och obligationer eller på skulder i utländsk valuta. 
+Finansiellt sparandeSkillnaden mellan inkomster och utgifter enligt SCB:s sektorräkenskaper, 
+som är en del av nationalräkenskaperna. 
+God ekonomisk hushållningKommunallagen kräver att kommuner och landsting skall ha god ekonomisk 
+hushållning. Det innebär att det ekonomiska resultatet ska vara positivt och 
+att kommuner och landsting ska bestämma de finansiella mål som krävs 
+för att uppnå god ekonomisk hushållning. Någon exakt definition av detta 
+begrepp anger inte lagen, men en tumregel är att överskottet i en kommun 
+eller ett landsting bör uppgå till 2 procent av summan av skatteintäkter och 
+generella statsbidrag. 
+MaastrichtvillkorenEU-länderna får inte ha ett underskott i de offentliga finanserna som är 
+större än 3 procent av BNP. Bruttoskulden ska högst vara 60 procent av BNP. 
+Se även Stabilitets- och tillväxtpakten. 
+Medelfristigt perspektivI de ekonomiska propositionerna publiceras vanligtvis en framskrivning av 
+den makroekonomiska utvecklingen och de offentliga finanserna i ett treårigt 
+perspektiv. 
+Nationalräkenskaperna (NR)
+Makroekonomiskt redovisningssystem för samhällsekonomin (produktion, 
+sysselsättning, inkomster, utgifter etcetera). Sverige följer begrepp, definitioner 
+och klassificeringar enligt det europeiska nationalräkenskapssystemet 
+(European System of National Accounts, ESA95). ESA95 används inom EU 
+för den finanspolitiska övervakningen i stabilitets- och tillväxtpakten.
+
+OECDOrganisationen för ekonomiskt samarbete och utveckling (Organisation 
+for Economic Co-operation and Development) är ett samarbetsorgan för 30 
+länders regeringar och har sitt säte i Paris. OECD utgör ett forum för utbyte 
+av idéer och erfarenheter och ett organ för analyser inom alla områden som 
+påverkar ekonomin och den ekonomiska utvecklingen främst i medlemsländerna. 
+Av central betydelse i arbetet är makroekonomisk utveckling samt 
+struktur- och handelspolitik. 
+Offentlig sektorDefinieras i nationalräkenskaperna som summan av staten, kommunsektorn 
+(kommuner och landsting) och pensionssystemet. 
+Potentiell BNPPotentiell BNP är produktionsnivån vid ett normalt utnyttjande av produktionsresurserna 
+i ekonomin. Det innebär att produktionen kan upprätthållas 
+på denna nivå utan att trycket uppåt på priser och löner blir så starkt att 
+Riksbankens inflationsmål på 2 procent överskrids. 
+SaldomålSe överskottsmål. 
+SCBStatistiska centralbyrån. Ansvarar för merparten av den officiella svenska 
+statistiken. 
+Stabilitets- och tillväxtpaktenDet regelverk som styr övervakningen av medlemsländernas finanspolitik 
+inom ramen för EU-samarbetet. Enligt denna ska EU-länderna eftersträva 
+ett finansiellt sparande i offentlig sektor som i ett medelfristigt perspektiv 
+befinner sig i intervallet från –1 procent av BNP till balans eller överskott. Det 
+finansiella sparandet får dock normalt inte uppvisa underskott som är större 
+än 3 procent av BNP, och den offentliga sektorns skulder får inte överstiga 
+60 procent av BNP.
+
+StatsbudgetenStatsbudgeten är en plan för statens inkomster och utgifter under ett budgetår. 
+Statsbudgeten består av en inkomst- och en utgiftssida samt några 
+poster för beräkning av statens lånebehov. Riksdagen beslutar om statsbudgeten 
+och anvisar medel till regeringens förfogande för olika ändamål. 
+Statsbudgetens saldo = statens lånebehov med omvänt teckenStatsbudgetens saldo utgörs av skillnaden mellan statsbudgetens inkomster 
+och utgifter. Ett positivt budgetsaldo, det vill säga ett budgetöverskott, innebär 
+att statsskulden minskar. Om saldot är negativt föreligger ett budgetunderskott 
+och därmed ett lånebehov, som gör att statsskulden ökar. Skillnaden 
+mellan statens finansiella sparande och budgetsaldot är bland annat att 
+inkomster och utgifter redovisas periodiserat i nationalräkenskaperna medan 
+budgetsaldot redovisas kassamässigt (när pengarna betalas in eller ut). En 
+annan skillnad är att försäljningar av offentligt ägda bolag påverkar budgetsaldot 
+men inte det finansiella sparandet. 
+Strukturellt sparande (strukturellt saldo, konjunkturjusterat sparande)
+Strukturellt sparande är det finansiella sparandet vid ett ”normalt” konjunkturläge. 
+Ibland kan inkomster och utgifter även vara justerade för andra 
+faktorer av engångskaraktär förutom konjunkturella effekter. 
+Takbegränsade utgifterDe takbegränsade utgifterna är de offentliga utgifter som omfattas av 
+utgiftstaket. De utgörs av statsbudgetens samtliga utgifter exklusive utgiftsområde 
+26 Statsskuldsräntor m.m. samt ålderspensionssystemets utgifter. 
+Kommunsektorns utgifter ingår inte i de takbegränsade utgifterna. 
+Utgiftstak för statenEn högsta nivå för statsbudgetens utgifter exklusive statsskuldsräntor och 
+inklusive utgifterna för ålderspensionssystemet. Dessa utgifter kallas sammantaget 
+för ”takbegränsade utgifter”. Utgiftstaket beslutas av riksdagen 
+tre år före det aktuella budgetåret. Utgiftstaket är nominellt, det vill säga det 
+justeras inte för pris- och löneutvecklingen mellan beslutstillfället och det år 
+utgiftsbegränsningen avser.
+
+Överskottsmål (saldomål)
+Överskottsmålet är ett övergripande mål för finanspolitiken. Överskottsmålet 
+innebär att det finansiella sparandet i den offentliga sektorn ska motsvara 1 
+procent av BNP i genomsnitt över en konjunkturcykel.
+
+Bilaga 3 Rapporter inom granskningsstrategin Offentliga finanserRiR 2009:14 Tillämpningen av det finanspolitiska ramverket. Regeringens 
+redovisning i 2009 års ekonomiska vårproposition (2009-08-20)
+RiR 2009:3 Skatteuppskov. Regeringens redovisning av bostadsuppskov och 
+pensionssparavdrag (2009-04-17)
+RiR 2008:30 Tillämpningen av det finanspolitiska ramverket. Regeringens 
+redovisning i budgetpropositionen för 2009 (2008-12-12)
+RiR 2008:20 Granskning av Årsredovisning för staten 2007 (2008-10-28)
+RiR 2008:17 Regeringens hantering av tilläggsbudgeten (2008-09-29)
+RiR 2008:15 Tillämpningen av det finanspolitiska ramverket. Regeringens 
+redovisning i 2008 års ekonomiska vårproposition (2008-08-14)
+RiR 2007:26 Regeringens redovisning av budgeteffekter (2007-11-22)
+RiR 2007:22 Sambandet mellan utgiftstaket, överskottsmålet och skattepolitiken 
+– regeringens redovisning (2007-11-19)
+RiR 2007:21 Regeringens analys av finanspolitikens långsiktiga hållbarhet 
+(2007-10-17)
+RiR 2007:16 Regeringens uppföljning av kommunernas ekonomi (2007-06-25)
+RiR 2007:13 Granskning av Årsredovisning för staten 2006 (2007-06-11)
+RiR 2007:5 Regeringens skatteprognoser (2007-05-11)
+RiR 2007:3 Regeringens beredning och redovisning av skatteutgifter (2007-03-28)
+RiR 2006:27 Regeringens uppföljning av överskottsmålet (2006-12-06)
+RiR 2006:23 Det makroekonomiska underlaget i budgetpropositionerna 
+(2006-11-06)
+
+

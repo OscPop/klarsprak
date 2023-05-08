@@ -1,0 +1,2249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RiR 2009:07
+Beslut om sjukpenning 
+– har Försäkringskassan tillräckliga underlag? 
+
+ISBN 978 91 7086 178-9
+RiR 2009:07
+Tryck: Riksdagstryckeriet, Stockholm 2009
+
+Till regeringen
+Socialdepartementet
+Datum: 2009-05-18
+Dnr: 31-2008-0055
+Beslut om sjukpenning – har Försäkringskassan 
+tillräckliga underlag? 
+Riksrevisionen har granskat om Försäkringskassan har tillgång till underlag 
+av tillräcklig kvalitet vid beslut om sjukpenning. Resultatet av granskningen 
+redovisas i denna granskningsrapport.
+ Företrädare för Regeringskansliet och Försäkringskassan har fått tillfälle 
+att faktagranska och i övrigt lämna synpunkter på utkast till rapport.
+ Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse.
+ Rapporten innehåller slutsatser och rekommendationer som avser  
+Försäkringskassan. Riksrevisionen kommer att följa upp granskningen.
+ Riksrevisor Karin Lindell har beslutat i detta ärende. Revisionsdirektör 
+Sofia Lidström har varit föredragande. Revisionsdirektör Maria Söderberg  
+och revisionsdirektör Anders Viklund har medverkat vid den slutliga handläggningen. 
+Karin Lindell Sofia Lidström
+För kännedom:
+Försäkringskassan
+
+Innehåll
+Sammanfattning 5
+1 Inledning 13 
+1.1 Motiv för granskning 13 
+1.2 Syfte och revisionsfrågor 14 
+1.3 Bedömningsgrund 14 
+1.4 Metod 16
+2 Riktlinjer för handläggningen 19 
+2.1 Medicinskt underlag 20 
+2.2 Den försäkrades begäran om sjukpenning 22 
+2.3 Yttrande från försäkringsläkare 23 
+2.4 Läkarutlåtande om hälsotillstånd och särskilt läkarutlåtande 23 
+2.5 SASSAM-kartläggning 24 
+2.6 Protokoll från avstämningsmöte 24 
+2.7 Rehabiliteringsunderlag 25 
+2.8 Rehabiliteringsplan och plan för återgång i arbete 25 
+2.9 Sakkunniggranskning 25 
+2.10 Beslutsunderlag och handläggningstider 26
+3 Tidigare rapporter om brister i underlag och handläggning 27 
+3.1 Kvalitet i handläggning 27 
+3.2 Försäkringskassans metoder och underlag 28 
+3.3 Försäkringskassans kvalitetskontroll 28 
+3.4 Bristfälliga läkarintyg 29 
+3.5 Samband mellan kvalitet i läkarintyg och sjukfrånvaro 31
+4 Bakgrund om de försäkringsmedicinska rådgivarna 33
+5 Kvalitet i beslutsunderlagen 35 
+5.1 De medicinska underlagen saknar viktig information 36 
+5.2 De försäkrade har inte alltid beskrivit hur sjukdomen påverkar  
+ möjligheten att arbeta 40 
+5.3 Yttrande från försäkringsläkare finns oftare i avslagsärenden 40 
+5.4 Försäkringsläkarens bedömning väger tungt 41 
+5.5 Avslag sakkunniggranskas inte alltid 42 
+5.6 Andra typer av beslutsunderlag förekommer sällan och upprättas  
+ sent i de fall de finns 43 
+5.7 Utformningen av Försäkringskassans blanketter brister 45 
+5.8 Sammanfattande iakttagelser 46
+
+6 Likformighet i sjukpenningärenden 47 
+6.1 Vissa skillnader i beslut och beslutsunderlag för olika grupper 47 
+6.2 Skillnader i handläggningstid mellan olika grupper 48 
+6.3 Sammanfattande iakttagelser 50
+7 Regeringens styrning av kvaliteten i beslutsunderlagen 51
+8 Slutsatser och rekommendationer 53 
+8.1 Försäkringskassan saknar ofta underlag av tillräcklig kvalitet vid  
+ beslut om sjukpenning 53 
+8.2 Alltför många underlag kan användas för samma typ av bedömning 55 
+8.3 Bristande underlag vid bedömning av arbetsförmåga 56 
+8.4 Försäkringsmedicinska rådgivarens roll måste vara tydlig 57 
+8.5 Övriga beslutsunderlag saknas ofta och upprättas sent i de fall de finns 58 
+8.6 Skillnader i beslut, beslutsunderlag och handläggningstid finns  
+ mellan olika grupper 58 
+8.7 Riksrevisionens avslutande kommentarer 59 
+8.8 Rekommendationer 60
+Källförteckning 61
+Bilaga 1 - Metodbeskrivning för granskning av sjukpenningärenden 65 
+Bilaga 2 - Frågeformulär aktgranskning 67 
+Bilaga 3 - Resultat från aktgranskning 73
+
+
+7 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Sammanfattning
+Den allmänna sjukförsäkringens utbetalning av sjukpenning och rehabiliteringspenning uppgick 2008 till närmare 25 miljarder kronor och de administrativa utgifterna uppgick till 3 miljarder kronor. Totalt fick ca 163 000 
+personer sjukpenning eller rehabiliteringspenning under december 2008.1 
+Det är Försäkringskassan som ansvarar för den allmänna sjukförsäkringen. 
+En av Försäkringskassans uppgifter är därmed att fatta korrekta beslut om 
+rätt till sjukpenning, rehabiliteringspenning och andra förmåner. 
+ Granskningens syfte
+Riksrevisionen har granskat om Försäkringskassan har tillgång till underlag 
+av tillräcklig kvalitet vid beslut om sjukpenning. I granskningen har även 
+studerats om Försäkringskassan använder beslutsunderlagen likformigt. 
+För att besluten ska bli korrekta och likformiga, och för att trovärdigheten 
+för sjukförsäkringen ska vara hög, är det av avgörande betydelse att beslutsunderlagen och handläggningen är av tillräckligt hög kvalitet. Hög kvalitet 
+i handläggningen är även viktigt med tanke på att utgifterna för sjukförsäkringen är betydande. 
+ Granskningens syfte har varit att undersöka dels vilka underlag som Försäkringskassan har inför beslut om sjukpenning och vilken kvalitet de håller, 
+dels om faktorer som enligt regelverket inte ska påverka besluten ändå gör 
+det. 
+ Iakttagelser, slutsatser och rekommendationer i rapporten baserar sig 
+huvudsakligen på information Riksrevisionen har fått genom att granska 
+akter. För varje granskat sjukpenningärende har Riksrevisionen dels undersökt vilka underlag som finns i akten, dels bedömt kvaliteten på de viktigaste 
+uppgifterna. Riksrevisionen har inte granskat om besluten i sjukpenningärendena är korrekta.
+ Aktgranskningen har omfattat 355 sjukpenningärenden. De akter som 
+har analyserats avser dels sjukpenningärenden som pågått minst 90 dagar 
+och som 2007 avslutats med bifallsbeslut (bifallsärenden), dels sjukpenningärenden där Försäkringskassan 2007 sa nej till sjukpenning redan från 
+början eller efter en tid med sjukpenning (avslagsärenden). 
+1 I fortsättningen nämner vi inte rehabiliteringspenningen eftersom den står för en betydligt  
+ mindre del av utgifterna jämfört med sjukpenningen. Resultat och resonemang gäller dock  
+ även rehabiliteringspenningen.
+
+8RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionens slutsatser
+Utifrån granskningen av ett urval av sjukpenningärenden som avslutats  
+under 2007 drar Riksrevisionen följande viktigare slutsatser:
+ Försäkringskassan saknar ofta underlag av tillräcklig kvalitet vid beslut  
+ om sjukpenning
+Granskningen visar att det i en stor andel av de granskade underlagen i sjukpenningärenden saknas information som borde finnas inför beslut om rätt 
+till sjukpenning. Riksrevisionens bedömning är därför att Försäkringskassan 
+vid beslut om sjukpenning ofta saknar underlag av tillräcklig kvalitet. 
+ DET MEDIcINSKA UNDERLAGET
+Riksrevisionen konstaterar att alltför många medicinska underlag (läkarintyg) är bristfälliga. Dels saknar underlagen ofta obligatoriska uppgifter, dels 
+är uppgifterna många gånger inte av tillräcklig kvalitet. I 73 procent av de 
+granskade ärendena är en eller flera av de sju obligatoriska uppgifterna i de 
+medicinska underlagen otillräckliga. Arbetsuppgifternas innehåll är den uppgift i det medicinska underlaget som oftast saknas eller är bristfällig (68 procent). Bristerna är större i bifallsärenden än i avslagsärenden. I 75 procent av 
+bifallsärendena är de medicinska underlagen otillräckliga, vilket kan jämföras 
+med 50 procent i avslagsärenden. 
+ Riksrevisionen har funnit att bristfälliga medicinska underlag ytterst 
+sällan kompletteras. Konsekvensen om underlagen inte kompletteras är att 
+risken för felaktiga beslut ökar. 
+ ÖVRIGA BESLUTSUNDERLAG
+Vad gäller andra underlag som kan förekomma i ett sjukpenningärende visar 
+granskningen bland annat att: 
+• var femte försäkrad har inte – eller endast delvis – beskrivit hur  
+ sjukdomen nedsätter arbetsförmågan, 
+• i fyra av tio fall där så kallad SASSAM-kartläggning har genomförts fram 
+ går inte vad kartläggningen lett till2, 
+• i sju av tio ärenden har inte avstämningsmöte genomförts,
+• sakkunniggranskning saknas i var femte avslagsärende. 
+2 SASSAM är en förkortning av Strukturerad Arbetsmetod för Sjukfallsutredning och  
+ SAMordnad rehabilitering.
+
+9 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionen anser att det är anmärkningsvärt att de obligatoriska 
+uppgifterna i det medicinska underlaget i så stor utsträckning saknas eller är 
+bristfälliga samt att komplettering sker i så liten grad. Granskningens resultat visar därmed att Försäkringskassans handläggare ofta saknar underlag av 
+tillräcklig kvalitet vid beslut om sjukpenning. Detta ger sämre förutsättningar 
+för att besluten blir korrekta och rättssäkra. Risken ökar för att personer som 
+har rätt till sjukpenning inte blir beviljade sådan, medan personer som inte 
+har rätt till sjukpenning ändå får det.
+ Bristande bedömning av arbetsförmåga
+De underlag för medicinsk bedömning som Försäkringskassan kan ha 
+tillgång till har alla samma huvudsakliga syfte – att bedöma funktionsnedsättningen och dess inverkan på arbetsförmågan.3 Utifrån en kvalitativ 
+bedömning av olika medicinska underlag kan Riksrevisionen konstatera att 
+underlagen i varierande grad uppfyller sitt syfte.
+ Riksrevisionen anser att det medicinska underlaget brister vad gäller 
+läkarens bedömning av individens arbetsförmåga. Läkaren ska idag beskriva 
+hur sjukdomen påverkar funktionsförmågan, medan någon beskrivning av 
+konsekvenser för arbetsförmågan inte behöver göras. Samtidigt ska läkaren 
+i intyget bedöma graden av arbetsförmåga. Försäkringskassan får därmed 
+uppgift om graden av arbetsförmåga men ingen information om vad uppgiften baserar sig på. Det är därför enligt Riksrevisionens uppfattning viktigt att 
+läkaren även ger en beskrivning av arbetsförmågan i det medicinska underlaget. 
+ Vidare visar genomgången att läkarutlåtanden och medicinska underlag 
+ofta brister i bedömningen av arbetsförmåga, medan yttranden från försäkringsläkare (idag benämnda försäkringsmedicinska rådgivare) ofta har en 
+tydlig sådan bedömning. Det betyder att den läkare som skriver det för Försäkringskassan många gånger mest användbara underlaget inte träffar den 
+försäkrade. Riksrevisionens granskning visar också att försäkringsläkarens 
+yttrande väger tungt i beslutsprocessen. Eftersom försäkringsläkaren är hänvisad till andra läkares medicinska underlag finns det en risk för att yttrandet 
+bygger på bristfälligt underlag. 
+ Det vanligaste läkarutlåtandet är läkarutlåtande om hälsotillstånd, vilket 
+normalt utfärdas av den läkare som utfärdat det medicinska underlaget. 
+Särskilt läkarutlåtande utfärdas av läkare med särskild behörighet och utbildning i försäkringsmedicin. Det är Riksrevisionens uppfattning att det kan finnas anledning att i högre grad använda sig av särskilt läkarutlåtande, dels för 
+att få en annan läkares bedömning, dels för att få en bedömning av en läkare 
+som har försäkringsmedicinsk kompetens. 
+3 Medicinskt underlag, läkarutlåtande samt yttrande från försäkringsläkare. 
+
+10RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Försäkringsmedicinska rådgivarens roll måste vara tydlig 
+De försäkringsmedicinska rådgivarna arbetar idag bland annat med att på 
+initiativ av Försäkringskassans handläggare yttra sig över den försäkrades 
+medicinska situation utifrån det medicinska underlaget.
+ Försäkringskassan har nyligen beslutat om en förändrad roll för de försäkringsmedicinska rådgivarna. Tanken är att dagens skriftliga yttranden på 
+sikt ska tas bort, och istället ska den försäkringsmedicinska rådgivaren vid 
+behov endast fungera som konsultativt stöd vid handläggarens beslut om 
+sjukpenning. Yttrandet från de försäkringsmedicinska rådgivarna kommer 
+i sin nuvarande form att på sikt försvinna med den nya ordningen och det 
+är i nuläget oklart om, och i så fall hur, dokumentationen av handläggarens 
+kontakter med den försäkringsmedicinska rådgivaren ska ske. 
+ De försäkringsmedicinska rådgivarnas roll i nuvarande beslutsprocess är 
+tydlig och deras bedömningar dokumenteras i yttranden till handläggarna. 
+Aktgranskningen visar också att yttranden från försäkringsmedicinska rådgivare väger tungt i beslutsprocessen. Givet att Försäkringskassan kommer 
+att använda rådgivarnas kompetens anser Riksrevisionen att arbetet även 
+fortsättningsvis bör organiseras på ett tydligt och transparent sätt. 
+ Övriga beslutsunderlag saknas ofta och upprättas sent i de fall de finns
+I många sjukpenningärenden saknas andra typer av beslutsunderlag utöver 
+sjukförsäkran och medicinskt underlag. Exempelvis har Försäkringskassan 
+endast hållit avstämningsmöte i 31 procent av sjukfallen, medan plan för 
+återgång i arbete/rehabiliteringsplan upprättats i 41 procent. 
+ Det dröjer oacceptabelt lång tid innan Försäkringskassan genomför 
+olika aktiviteter och insatser för den som är sjukskriven eller som ansökt om 
+sjukpenning. Till exempel tar det under den studerade perioden i genomsnitt 
+nästan ett år (332 dagar) från att sjukförsäkran inkommit till att avstämningsmöte hålls. För 12 procent av ärendena dröjer det mer än två år innan 
+ett avstämningsmöte genomförs. Vidare tar det i genomsnitt 165 dagar till 
+att plan för återgång i arbete/rehabiliteringsplan upprättas. I 14 procent av 
+de sjukfall där en sådan plan upprättats skedde det först när sjukskrivningen 
+pågått ett år eller längre. 
+ Riksrevisionen konstaterar att insatser genomförs – och beslutsunderlag 
+upprättas – påfallande sent i sjukskrivningsprocessen. Det är ytterst viktigt 
+att insatser för den försäkrade genomförs tidigt i syfte att underlätta individens återgång i arbete i de fall en sådan återgång är aktuell. Tidiga insatser 
+är dessutom viktiga så att kostnaderna för sjukförsäkringen kan hållas så 
+låga som möjligt.  
+
+11 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Skillnader i beslut, beslutsunderlag och handläggningstid finns mellan  
+ olika grupper
+Granskningen visar att det finns skillnader mellan olika grupper både vad 
+gäller Försäkringskassans beslut och beslutsunderlag. Resultaten visar 
+exempelvis att höginkomsttagare i högre utsträckning får sina sjukpenningansökningar beviljade jämfört med låginkomsttagare. Riksrevisionen pekar 
+i rapporten på ett par tänkbara förklaringar till skillnaden (se avsnitt 6.1). I 
+övrigt har Riksrevisionen inte funnit några statistiskt säkerställda skillnader i 
+besluten vad gäller kön, ålder, födelseland eller diagnos. Beträffande beslutsunderlagen finns det vissa skillnader mellan inkomstgrupper och typ av 
+diagnos, medan skillnader mellan andra grupper saknas.
+ Även den tid det tar för Försäkringskassan att ta fram beslutsunderlag 
+och fatta beslut skiljer sig – främst beroende på ålder och diagnos. 
+ Utifrån datamaterialet kan Riksrevisionen inte dra några slutsatser om 
+skillnaderna beror på att avsteg gjorts från kravet på likabehandling. Riksrevisionen konstaterar dock att det är viktigt att Försäkringskassan systematiskt 
+analyserar om det förekommer några skillnader i beslut, beslutsunderlag 
+och handläggningstid mellan olika grupper och i förekommande fall även 
+studerar vad orsaken är. Obefogade skillnader behöver uppmärksammas, 
+eventuella skillnader i bedömning minimeras och kravet på likabehandling 
+säkerställas.
+ Riksrevisionens avslutande kommentarer 
+Riksrevisionen har i granskningen funnit att Försäkringskassan ofta fattar beslut på otillräckliga underlag och att handläggningen inte fungerar effektivt. 
+I huvudsak bedömer Riksrevisionen att de förbättringar som behöver göras 
+på området inte innebär ökade totala kostnader. Att genomföra insatser och 
+ta fram beslutsunderlag i ett tidigt skede kan komma att medföra ökade 
+administrativa kostnader, men det är Riksrevisionens uppfattning att denna 
+kostnad mer än väl motsvarar den besparing som kan göras för sjukförsäkringen som helhet. Det är Försäkringskassans ansvar att handläggningen av 
+sjukpenningärenden sker effektivt, medan regeringen har ett styrnings- och 
+uppföljningsansvar.
+
+12RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionens rekommendationer
+Utifrån granskningens iakttagelser och slutsatser rekommenderar  
+Riksrevisionen att Försäkringskassan:
+• säkerställer att det finns underlag av tillräcklig kvalitet i ett tidigt skede  
+ vid varje beslut om sjukpenning,
+• ändrar blanketten för det medicinska underlaget i syfte att få en  
+ beskrivning av arbetsförmågan av läkaren,
+• i större utsträckning använder sig av särskilt läkarutlåtande i syfte att  
+ få en bedömning av en annan läkare som dessutom har försäkringsmedicinsk kompetens, 
+• säkerställer att den nya rollen för de försäkringsmedicinska rådgivarna  
+ inte medför att dokumentationen blir bristfällig, 
+• systematiskt analyserar skillnader mellan olika grupper vad gäller beslut,  
+ beslutsunderlag och handläggningstider samt i förekommande fall även  
+ studerar vad orsaken är.
+
+13 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+1 Inledning
+1.1 Motiv för granskning
+Den allmänna sjukförsäkringens utbetalning av sjukpenning och rehabiliteringspenning uppgick år 2008 till närmare 25 miljarder kronor. Utgifterna 
+för att administrera de båda ersättningsformerna uppgick samma år till 3 
+miljarder kronor. Totalt fick ca 163 000 personer sjukpenning eller rehabiliteringspenning under december 2008.4 
+ Det är Försäkringskassan som ansvarar för den allmänna sjukförsäkringen. En av Försäkringskassans uppgifter är därmed att fatta korrekta 
+beslut om rätt till sjukpenning, rehabiliteringspenning och andra förmåner. 
+För att besluten ska bli korrekta och likformiga, och för att trovärdigheten för 
+sjukförsäkringen ska vara hög, är det avgörande att beslutsunderlagen och 
+handläggningen är av tillräckligt hög kvalitet. 
+ Det finns indikationer på problem som rör beslutsunderlagen i Försäkringskassans handläggning av sjukpenningärenden. Riksrevisionen har i 
+förstudien som föregick granskningen konstaterat att:
+• det funnits kvalitetsbrister i de medicinska underlag som behandlande  
+ läkare skriver,5
+• läkare har tagit andra hänsyn än vad regelverket medger,
+• Försäkringskassans eget instrument för mätning av kvaliteten i handläggningen visar att endast 75 procent av besluten om sjukpenning  
+ bygger på tillräckligt underlag. Eftersom det har framkommit att det  
+ finns brister i dessa mätningar bör siffran dock tolkas med försiktighet. 
+Problemindikationerna finns närmare beskrivna i kapitel 3. Ett ytterligare 
+motiv för denna granskning är att Riksrevisionen genomför en samlad 
+ansats under de närmaste åren där transfereringssystemens hållbarhet ska 
+studeras. En av de aspekter som ska belysas är om det vid beslut som rör 
+bidrag och allmänna försäkringar finns tillgång till bra beslutsunderlag och 
+om systemen kan förhindra obefogade skillnader i beslut och handläggning. 
+Om den som ansöker om eller får pengar från ett transfereringssystem särbehandlas beroende på kön, ålder, födelseland, vistelseort, utbildningsnivå 
+etcetera, kan det handla om en obefogad skillnad. Denna granskning syftar 
+till att ge kunskap kring frågan om beslutsunderlag och likformighet inom 
+sjukförsäkringen. 
+4 Försäkringskassans årsredovisning 2008.
+5 Medicinskt underlag benämns också läkarintyg.
+
+14RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+1.2 Syfte och revisionsfrågor 
+Syftet med granskningen är att undersöka dels vilka underlag som Försäkringskassan har inför beslut om sjukpenning och vilken kvalitet de håller, 
+dels om faktorer som enligt regelverket inte ska påverka besluten ändå gör 
+det. De frågor vi därmed vill besvara lyder: 
+• Har Försäkringskassan tillgång till underlag av tillräcklig kvalitet vid  
+ beslut om sjukpenning?
+• Använder Försäkringskassan beslutsunderlagen i sjukpenningärenden  
+ likformigt? 
+Försäkringskassan är den myndighet som har det direkta ansvaret för att 
+administrera sjukförsäkringen. Det är dock ytterst regeringen som är ansvarig för att myndigheter följer gällande rätt och för den statliga verksamhetens 
+effektivitet och resultat. I den mån brister identifieras är ambitionen att söka 
+orsaker i hela verkställighetskedjan.
+1.3 Bedömningsgrund
+För att kunna besvara revisionsfrågorna har Riksrevisionen slagit fast vilka 
+utgångspunkter som ska gälla vid granskningen, det vill säga den grund mot 
+vilken bedömningen ska ske. Bedömningsgrunden utgår från lagar, mål och 
+riktlinjer som riksdag, regering och Försäkringskassan har formulerat. 
+1.3.1 Lagar som styr handläggningen av sjukpenning
+Inom svensk offentlig förvaltning råder en allmän rättslig princip att myndigheter har ett utredningsansvar. Serviceskyldighet som stadgas i 4 § förvaltningslagen (1986:223, FL) är ett uttryck för detta ansvar. Enligt 4 § FL har 
+myndigheter en skyldighet att vägleda och hjälpa den enskilde i frågor som 
+rör myndighetens verksamhetsområde. Trots att FL inte särskilt reglerar 
+utredningsansvaret anses det gälla en princip om att myndigheter ska se till 
+att ett ärende blir så utrett som dess beskaffenhet kräver (officialprincipen).6 
+I likhet med övriga förvaltningsmyndigheter ansvarar Försäkringskassan för 
+att myndighetens ärenden blir tillräckligt utredda. Inom socialförsäkringsområdet finns dessutom flera specialregler om Försäkringskassans utredningsskyldighet.
+ Lag (1962:381) om allmän försäkring (AFL) styr handläggningen av 
+sjukpenning. Grundläggande för rätten till sjukpenning är att den försäkrade 
+lider av sjukdom och att denna sjukdom sätter ned arbetsförmågan med 
+6 JO 1977/78, RÅ 2006:15 och Ragnemalm H (2007).
+
+15 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+minst en fjärdedel. I lagen anges att arbetsmarknadsmässiga, ekonomiska, 
+sociala och liknande förhållanden inte ska beaktas vid bedömningen av om 
+sjukdom föreligger.7 
+ Den försäkrade ska lämna de uppgifter som är av betydelse för tillämpningen av lagen om allmän försäkring.8 Om det behövs för att bedöma 
+rätten till ersättning får Försäkringskassan vända sig till den försäkrade eller 
+någon annan som kan antas kunna lämna nödvändiga uppgifter.9  
+1.3.2 Styrning och riktlinjer för handläggningen
+I Försäkringskassans instruktion anges att myndigheten ”är förvaltningsmyndighet för socialförsäkringen samt för andra förmåner och ersättningar som 
+enligt lag eller förordning ska handläggas av Försäkringskassan”.10 Försäkringskassans övergripande mål enligt regleringsbrevet 2007 var bland annat 
+att tilltron till socialförsäkringen och dess administration skulle vara hög och 
+att administrationen av socialförsäkringen skulle vara rättssäker, effektiv och 
+ha hög kvalitet.11
+ Försäkringskassan ska se till att det finns tillräckligt med underlag innan 
+beslut om att bevilja eller avslå en begäran om sjukpenning fattas. Försäkringskassan har således ett ansvar för att ärendena blir tillräckligt utredda. 
+Vad som är tillräckligt i det enskilda fallet är upp till Försäkringskassan att 
+bedöma utifrån de krav som ställs i regelverket. Ett fullgott beslutsunderlag 
+är nödvändigt för att Försäkringskassan ska kunna göra en korrekt bedömning av rätten till sjukpenning. 
+ Utifrån lagen om allmän försäkring har Försäkringskassan utarbetat 
+vägledning och metodstöd avseende handläggning av sjukpenningärenden. 
+Handläggningen av sjukpenningärenden finns beskriven i Vägledning 2004:2 
+Sjukpenning och samordnad rehabilitering.12 I likhet med Försäkringskassans 
+övriga vägledningar innehåller den en samlad information om vad som  
+gäller inom försäkringsområdet med beskrivningar av författningsbestämmelser, förarbeten, allmänna råd, rättsliga ställningstaganden, praxis och 
+relevanta beslut från Justitieombudsmannen. Vidare finns en generell beskrivning av Försäkringskassans utredningsskyldighet i Vägledning 2004:7 
+Försäkringskassan och förvaltningslagen. 
+7 3 kap. 7 § AFL.
+8 3 kap. 8 § AFL.
+9 20 kap. 8 § AFL.
+10 Förordningen (2007:1235) med instruktion för Försäkringskassan.
+11 De granskade ärendena har handlagts under 2007, varför målen för detta år är tillämpliga.  
+ Motsvarande mål fanns i regleringsbrevet för 2008. I Försäkringskassans regleringsbrev för 2009  
+ har såväl struktur som målformuleringar ändrats.
+12 Vägledningen har kontinuerligt uppdaterats och nuvarande version är daterad 16 december 2008.
+
+16RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionens uppfattning är att Försäkringskassans vägledningar och 
+metodstöd på ett korrekt sätt speglar lagen och därför kan utgöra del av 
+bedömningsgrunden. Vad gäller vägledningen för sjukpenning är det vidare 
+Riksrevisionens bedömning att Försäkringskassan har en tillräckligt hög 
+ambitionsnivå för handläggningen. När vi i fortsättningen hänvisar till begreppet regelverk avses, om inte annat anges, den beskrivning av regler och 
+riktlinjer som framgår av Försäkringskassans vägledningar och metodstöd. 
+En beskrivning av handläggning och underlag vid beslut om sjukpenning, 
+vilken bildat utgångspunkt vid granskningen av sjukpenningärenden, finns i 
+kapitel 2.
+1.4 Metod
+Den information vi baserar våra iakttagelser, slutsatser och rekommendationer på har vi huvudsakligen fått genom att granska sjukpenningakter. 
+Granskningen av akterna har avsett uppgifter i ärendet som funnits tillgängliga inför beslut om att bevilja eller avslå ansökan om sjukpenning.13 Det 
+är Försäkringskassans handläggare som ansvarar för dokumentationen i 
+ärendet. Akterna ska innehålla den dokumentation som haft betydelse för 
+beslut om rätt till sjukpenning. Det kan finnas risk för att olika uppgifter eller 
+beslutsunderlag inte har förts in i akterna. Riksrevisionen har dock inte funnit något som tyder på att Försäkringskassans handläggare slarvar med att 
+förse akterna med all relevant information.
+ För varje granskat sjukpenningärende har Riksrevisionen dels undersökt 
+vilka underlag som finns i akten, dels bedömt kvaliteten på de viktigaste 
+uppgifterna. Vid bedömningen av kvalitet har vi undersökt om de obligatoriska underlagen finns och om uppgifterna i dessa går att förstå och i övrigt 
+uppfyller de krav som finns i regelverket. Exempelvis är det inte tillräckligt 
+att ett blankettfält är ifyllt om uppgiften är svårtolkad. Uppgifterna ska vidare 
+kunna förstås och användas av en person utan medicinsk utbildning eftersom bedömningen av rätt till sjukpenning görs av handläggare på Försäkringskassan som normalt inte har den kompetensen. Vi har i bedömningen 
+beaktat alla uppgifter i ett underlag oavsett var i dokumentet informationen 
+funnits. Vid granskningen av respektive underlag har dokumentet bedömts 
+självständigt och fristående. 
+ Ett syfte med granskningen är att undersöka om det finns skillnader i 
+förekomst och kvalitet i beslutsunderlagen i de ärenden som avslutas med 
+bifall jämfört med de ärenden som avslutas med avslag. En rapport från 
+Försäkringskassan har visat att det finns skillnader mellan bifalls- och 
+13 Se bilaga 3 för en beskrivning av de uppgifter som samlats in.
+
+17 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+avslagsärenden.14 I rapporten konstateras att beslutsunderlagen är bättre 
+när Försäkringskassan bedömt att den försäkrade inte har rätt till sjukpenning än i de fall sjukpenning beviljas. Detta innebär att beslutsunderlagen 
+är sämre i bifallsärenden. Om bifallsbeslut har sämre beslutsunderlag ökar 
+risken för att sjukpenning felaktigt utbetalas. Låg kvalitet ökar dock risken för 
+felaktigt beslut i det enskilda ärendet oavsett om Försäkringskassan beslutar 
+om bifall eller avslag. 
+ Utöver aktstudien har vi tagit del av dokument i form av bland annat lagstiftning, propositioner, regleringsbrev och Försäkringskassans vägledningar 
+och metodstöd. Ett antal intervjuer har också genomförts med företrädare 
+för Försäkringskassan och Socialdepartementet.
+1.4.1 Urval
+Försäkringskassan har på vår begäran gjort ett urval bland sina sjukpenningakter utifrån två ärendetyper:
+• sjukpenningärenden som pågått minst 90 dagar och som år 2007  
+ avslutats med bifallsbeslut. Dessa ärenden kallas bifallsärenden,
+• sjukpenningärenden där Försäkringskassan år 2007 sa nej till sjukpenning redan från början eller efter en tid med sjukpenning. Både nej  
+ från början och efter en tid med sjukpenning kallas här avslagsärenden.  
+ I vissa fall finns det skäl att skilja de båda varianterna från varandra och  
+ då kallas ärenden som avslutas efter en tid med sjukpenning för indrag. 
+I syfte att granska ärenden med många underlag har sjukfall som pågått 
+minst 90 dagar valts ut. Ärenden där den försäkrade fått avslag, antingen 
+direkt eller efter en tid med sjukpenning, är betydligt färre än bifallsärendena 
+och pågår normalt inte lika lång tid. För avslagsärenden har därför urvalsprincipen om en ärendelängd på minst 90 dagar inte använts.
+ Det var enligt Försäkringskassan 175 458 ärenden som uppfyllde något 
+av de två kriterierna ovan. Bland dessa gjordes ett urval på 400 akter. Det 
+visade sig dock att 45 akter var felkodade och således inte tillhörde någon av 
+de två ärendekategorierna. Det slutliga urvalet blev därmed 355 akter, vilket 
+motsvarar en population på 157 849 ärenden. 
+ För att få tillräckligt många avslagsärenden för att kunna dra slutsatser 
+för hela populationen gjordes ett stratifierat urval av avslagsärenden. Av de 
+91 avslagsärendena var 63 avslag som skedde direkt utan att det föregicks 
+av en tidigare period av beviljad sjukpenning, medan 28 av avslagsärendena 
+avsåg indrag, det vill säga avslag skedde efter en tid med sjukpenning. Av 
+14 Uppföljning av nej till sjukpenning, Försäkringskassan 2005.
+
+18RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+samma anledning stratifierades urvalet efter kön och ålder, då annars för 
+få akter skulle avse män och unga personer (20–29 år). Urvalet är därmed 
+tillräckligt stort för att man ska kunna uttala sig om köns- och åldersgrupper 
+för såväl bifallssom avslagsärenden.
+1.4.2 Avgränsningar
+En avgränsning som gjorts i aktgranskningen är att vi inte bedömt om de 
+beslut som Försäkringskassan fattat har varit korrekta eller inte. Om den försäkrade är missnöjd med Försäkringskassans beslut är det möjligt att begära 
+omprövning av beslutet hos Försäkringskassan eller att överklaga beslutet 
+till allmän förvaltningsdomstol.15 I teorin kommer därmed alla beslut som 
+blir fel till följd av bristfälligt beslutsunderlag att korrigeras. I praktiken är det 
+dock inte alltid så, och det går inte att bedöma hur många beslut som skulle 
+korrigeras om de överklagades. 
+ Utifrån en översiktlig granskning av ett urval domar kan vi konstatera 
+att i de flesta fall där rätten funnit att Försäkringskassans beslut ska ändras beror det på att rätten gör en annan bedömning av beslutsunderlagen 
+än Försäkringskassan – inte på att underlagen varit otillräckliga.16 Även en 
+översiktlig genomgång av Justitieombudsmannens beslut under perioden 
+2005–2007 visar att bara ett fåtal beslut riktar kritik mot Försäkringskassans 
+beslutsunderlag.   
+ Vi har inom ramen för denna rapport inte heller granskat Försäkringskassans egen kvalitetskontroll. 
+1.4.3 Genomförande
+Granskningen har genomförts under perioden maj 2008 till och med april 
+2009 där en aktgranskning gjordes under sommaren 2008. En förstudie 
+som inleddes i januari 2008 föregick granskningen. I granskningen har  
+under olika skeden följande personer medverkat: revisionsdirektörerna  
+Sofia Lidström, Maria Söderberg, Erika Borgny, Michael Kramers och  
+revisionsledare Per Jonsson.  
+15 Rätten till omprövning finns reglerad i 20 kap. 10 § AFL. 
+16 Urvalet består av ett tiotal domar som berört sjukpenning avkunnade i Regeringsrätten under  
+ perioden 2002–2007 liksom domslut från länsrespektive kammarrätt i dessa ärenden. Vidare  
+ har 20 av 90 domar under perioden 2006 till februari 2007, som berört sjukpenning, från Länsrätten i Stockholm studerats. 
+
+19 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+2 Riktlinjer för handläggningen
+Försäkringskassan har, utifrån lagen om allmän försäkring, utarbetat vägledning och metodstöd avseende handläggning av sjukpenningärenden. Enligt 
+Riksrevisionens ställningstagande i avsnitt 1.3 har dessa dokument ingått 
+som en del av bedömningsgrunden vid granskningen av sjukpenningakter. 
+ I handläggningen av ett sjukpenningärende tar Försäkringskassan ställning till rätten till sjukpenning utifrån ett antal beslutsunderlag. I granskningen förekommer följande underlag:
+• medicinskt underlag,
+• den försäkrades begäran om sjukpenning,
+• yttrande från försäkringsläkare,
+• läkarutlåtande om hälsotillstånd,
+• SASSAM-kartläggning,
+• protokoll från avstämningsmöte,  
+• rehabiliteringsunderlag från arbetsgivare, 
+• plan för återgång i arbete, 
+• rehabiliteringsplan.
+Härutöver kan det förekomma andra underlag, till exempel särskilt läkarutlåtande, särskild försäkran och försäkringsmedicinsk utredning. I detta avsnitt 
+lämnar vi en närmare beskrivning av underlagen enligt ovan samt hur handläggning och beslutsunderlag regleras i vägledningar och metodstöd. Vidare 
+anges vilka uppgifter och underlag som är obligatoriska och vilka underlag 
+som tas in vid behov. Enligt Försäkringskassans riktlinjer är sjukförsäkran 
+och medicinskt underlag nödvändiga vid beslut om sjukpenning, och i 
+dessa underlag finns obligatoriska uppgifter som måste finnas vid ett sådant 
+beslut. De uppgifter som alltid är obligatoriska är enligt Riksrevisionens uppfattning nödvändiga såväl för att kunna göra en korrekt bedömning av rätten 
+till sjukpenning som för att kunna verifiera att lämnade uppgifter är riktiga. 
+ Beskrivningen utgår från det regelverk som tillämpades under 2007 om 
+inte annat anges. Figuren nedan illustrerar vilka beslutsunderlag, aktörer och 
+aktiviteter som kan förekomma i ett sjukpenningärende.
+
+20RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Försäkringskassans underlag inför beslut om sjukpenning
+Rehabiliteringsplan Dokumentation
+avstämningsmöte
+Läkarutlåtande
+om hälsotillstånd
+Rehabiliteringsunderlag
+Plan för återgång i arbete
+SASSAM
+Försäkringskassans
+handläggare
+Riksdag, regering och
+Försäkringskassan
+Försäkringsläkare
+Avstämningsmöte
+Den 
+försäkrade
+Arbetsgivare
+Arbetsförmedlare
+Läkare
+Försäkran
+Medicinskt
+underlag
+Yttrande
+Särskilt
+läkarutlåtande
+Normer för handläggning med avseende 
+på beslutsunderlag
+Beslut
+Överprövning
+Kommunikation
+Utbildning
+ Som framgår av figuren kan Försäkringskassan ha tillgång till en rad 
+olika underlag från flera aktörer vid beslut om sjukpenning. Av dessa underlag ska den försäkrades sjukförsäkran och medicinskt underlag från en läkare 
+alltid finnas när Försäkringskassan fattar beslut om sjukpenning. Eftersom 
+ett beslut om sjukpenning alltid är tidsbegränsat och det krävs ett nytt medicinskt underlag för varje ny sjukskrivningsperiod, kan det finnas flera medicinska underlag i ett ärende. 
+2.1 Medicinskt underlag 
+Det medicinska underlaget är ett obligatoriskt beslutsunderlag vid handläggning av sjukpenningärenden. Det är den som ansöker om sjukpenning 
+som förser Försäkringskassan med underlaget. Ett medicinskt underlag som 
+styrker nedsättning av arbetsförmåga på grund av sjukdom krävs från och 
+med den sjunde dagen efter sjukanmälningsdagen. 
+ Utfärdandet av det medicinska underlaget är en del av läkarens behandling av individen. Socialstyrelsen har i en rapport konstaterat att sjukskrivning alltid är en del av behandling och vård av patienten.17 Det innebär att 
+den läkare som tar emot en patient ansvarar för att vid behov utfärda intyg 
+till Försäkringskassan, utöver sedvanlig medicinsk behandling. I en annan 
+rapport i samma serie påpekar Socialstyrelsen vikten av att hälso- och sjukvården bedriver kvalitetsarbete i sjukskrivningsprocessen.18 
+17 Sjukskrivningsprocessen i primärvården – återföring av tillsynsbesök 2004, Socialstyrelsen 2005.
+18 Sjukskrivningsprocessen i hälso- och sjukvården – sammanfattning av Socialstyrelsens tillsynsprojekt 2003–2007, Socialstyrelsen 2008.
+
+21 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Den nu gällande blanketten för medicinskt underlag beslutades av  
+Försäkringskassan under 2007 men började användas i större utsträckning 
+först under 2008. Granskningen har därför utgått från den version av  
+blanketten som var mest i bruk under 2007.
+ Samtliga uppgifter som efterfrågas i blanketten är av vikt för Försäkringskassans handläggning, och i metodstödet värderas de olika uppgifternas 
+dignitet för bedömningen av rätten till sjukpenning.19 Metodstödet gör skillnad på de uppgifter i intygen som är obligatoriska, obligatoriska för fortsatt 
+handläggning och de som är önskvärda men inte obligatoriska. Obligatoriska uppgifter är:
+• diagnos för sjukdom, 
+• hur sjukdomen begränsar patientens förmåga/aktivitet. Undantag kan  
+ göras om det är uppenbart av diagnos och/eller objektiva undersökningsfynd att det finns en begränsning av arbetsförmågan, 
+• vad läkaren bedömt arbetsförmågan i förhållande till, det vill säga  
+ normalt mot uppgivna arbetsuppgifter, eller – vid arbetslöshet – i  
+ förhållande till ett arbete som är normalt förekommande på  
+ arbetsmarknaden,20  
+• grad av nedsättning av arbetsförmågan (25, 50, 75 eller 100 procent),
+• patientens personnummer och namn, 
+• klinik/mottagning och läkarens namn,
+• datum och namnunderskrift av läkaren.
+Alla ovanstående uppgifter ska enligt regelverket finnas för att Försäkringskassan ska kunna bevilja sjukpenning. 
+ Vidare finns obligatoriska uppgifter för fortsatt handläggning, det vill 
+säga uppgifter som inte är nödvändiga vid Försäkringskassans första beslut 
+om sjukpenning, men som ska finnas för att Försäkringskassan ska kunna 
+bevilja ytterligare sjukpenning. Dessa är: 
+• diagnoskod, 
+• status och objektiva undersökningsfynd (vad läkaren funnit vid sin  
+ undersökning till stöd för den angivna diagnosen)21, 
+• vad läkaren baserat uppgifterna på (undersökning, telefonkontakt eller  
+ annat),
+• om arbetslivsinriktad rehabilitering är aktuell, 
+• prognos om den försäkrade kommer att få tillbaka sin arbetsförmåga. 
+I de fall där de medicinska underlagen är bristfälliga, det vill säga då en obligatorisk uppgift eller uppgift obligatorisk för fortsatt handläggning saknas, 
+19 Metodstöd för kvalitetssäkring och komplettering av läkarintyg i sjukpenningärenden,  
+ Försäkringskassan 2007.
+20 Uppgiften gällde under 2007. Läkaren ska vid arbetslöshet numera göra bedömningen i 
+ förhållande till att kunna klara ett arbete på den reguljära arbetsmarknaden.
+21 Sedan 2008 är denna uppgift obligatorisk för att Försäkringskassan ska kunna fatta ett första  
+ beslut.
+
+22RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ska uppgifterna kompletteras. Begäran om komplettering kan ske skriftligen 
+eller muntligen av Försäkringskassans handläggare. Vid en muntlig kontakt 
+med läkaren ska handläggaren dokumentera svaret. Om en obligatorisk 
+uppgift saknas kan Försäkringskassan enligt regelverket inte fatta beslut om 
+sjukpenning. Om en uppgift obligatorisk för fortsatt handläggning saknas 
+ska Försäkringskassans handläggare se till att uppgiften kompletteras, men 
+beslut om sjukpenning kan fattas även om kompletteringen inte inkommit.    
+ I Försäkringskassans nu gällande vägledning anges att myndigheten 
+i normalfallet anses ha fullgjort sin utredningsskyldighet om man begärt 
+komplettering och skickat påminnelse. Någon motsvarande skrivning i den 
+version av vägledningen som gällde under 2007 har vi inte funnit.22 Om inte 
+komplettering inkommit får Försäkringskassan fatta beslut utifrån de uppgifter som finns tillgängliga. 
+2.2 Den försäkrades begäran om sjukpenning
+Vid ansökan om sjukpenning ska den försäkrade lämna en skriftlig försäkran. Denna försäkran fungerar som en begäran om sjukpenning och är därmed ett måste för att sjukpenning ska kunna beviljas. Det finns utrymme för 
+undantag från kravet om ”det är uppenbart obehövligt att sådan försäkran 
+lämnas”, exempelvis när den försäkrade är så svårt sjuk att han eller hon inte 
+kan fylla i ansökan.23 Det är dock ytterst få fall där undantaget tillämpas.
+ Försäkran ska enligt lagen om allmän försäkring innehålla uppgifter om:
+• sjukdom, 
+• arbetsuppgifter,
+• arbetsförmåga enligt den försäkrades bedömning.24
+Om någon av dessa obligatoriska uppgifter saknas ska Försäkringskassan 
+begära in en komplettering från den försäkrade. Försäkringskassan kan 
+också begära in en särskild försäkran. En sådan är enligt Försäkringskassans 
+vägledning lämplig att inhämta när det behövs en mer utförlig beskrivning 
+av individens arbetsuppgifter och egen bedömning av arbetsförmåga. 
+ För bedömning av fortsatt rätt till sjukpenning kan Försäkringskassan 
+begära att den försäkrade lämnar in en förenklad försäkran för sjukpenning 
+med uppgifter om sjukdomen och arbetsförmågans nedsättning. En sådan 
+fortsättningsförsäkran kan användas för att styrka arbetsförmågans nedsättning vid ändrad sjukskrivningsgrad och ska alltid begäras in när den försäkrade begär högre ersättning.25 
+22 Sjukpenning och samordnad rehabilitering, version 11, Försäkringskassan 2008.
+23 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+24 3 kap. 8 § första stycket AFL.
+25 Vi har inte funnit någon reglering av fortsättningsförsäkran under 2007. Uppgifterna är därför  
+ hämtade från Sjukpenning och samordnad rehabilitering, version 9, Försäkringskassan 2008.
+
+23 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+2.3 Yttrande från försäkringsläkare 
+Inom Försäkringskassans verksamhet finns försäkringsläkare som bland 
+annat har till uppgift att lämna stöd i frågor som kräver medicinsk sakkunskap.26 Försäkringskassans handläggare kan välja att hämta in ett yttrande 
+från en försäkringsläkare. Ett sådant yttrande är enligt Försäkringskassans 
+metodstöd lämpligt att hämta in exempelvis när handläggaren är tveksam till 
+om det medicinska underlaget ger tillräcklig information eller är osäker om 
+prognos för den försäkrades återgång i arbete.27 
+ Försäkringsläkaren ska enligt Försäkringskassans metodstöd yttra sig 
+över den försäkrades medicinska situation utifrån det medicinska underlag 
+som Försäkringskassan har tillgång till och om underlaget är tillräckligt för 
+att fatta beslut. Försäkringsläkaren träffar inte den försäkrade utan baserar 
+sitt yttrande på befintligt underlag. Försäkringskassans handläggare ska 
+därefter självständigt fatta ett beslut, och försäkringsläkarens yttrande utgör 
+då ett av flera underlag som ska underlätta för handläggaren att fatta rätt 
+beslut. Språket och formuleringarna i yttrandet ska vara sådana att handläggaren och den försäkrade förstår innehållet. Eventuella latinska och medicinska termer bör därför i de fall de förekommer alltid översättas eller förklaras 
+på svenska.28
+2.4 Läkarutlåtande om hälsotillstånd och särskilt  
+ läkarutlåtande  
+I de fall Försäkringskassans handläggare anser att det behövs ett mer utförligt medicinskt underlag kan ett så kallat läkarutlåtande om hälsotillstånd 
+hämtas in från den läkare som skrivit det medicinska underlaget. Detta kan 
+enligt Försäkringskassans vägledning göras i syfte att klarlägga behovet av 
+rehabiliteringsåtgärder.29 
+ Vidare kan handläggaren begära in ett så kallat särskilt läkarutlåtande. 
+Möjligheten att begära in ett sådant utlåtande är enligt Försäkringskassans 
+vägledning i första hand tänkt som ett komplement till ett avstämningsmöte. 
+Det särskilda läkarutlåtandet bör belysa sjukdomens konsekvenser i form av 
+förmåge- och aktivitetsbegränsning i förhållande till olika arbetsuppgifter.30 
+26 Under 2008 ändrades benämningen till försäkringsmedicinska rådgivare och arbetsuppgifterna  
+ ändrades delvis. I rapporten utgår vi från de begrepp och förhållanden som gällde under 2007  
+ om inte annat anges.
+27 Metodstöd för handläggare och försäkringsläkare i sjukförsäkringsärenden, Försäkringskassan  
+ 2007.
+28 Metodstöd för handläggare och försäkringsläkare i sjukförsäkringsärenden, Försäkringskassan  
+ 2007.
+29 Vi har inte funnit någon reglering av läkarutlåtande om hälsotillstånd under 2007. Uppgifterna är  
+ därför hämtade från Sjukpenning och samordnad rehabilitering, version 9, Försäkringskassan  
+ 2008.
+30 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+
+24RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Ett särskilt läkarutlåtande får endast utfärdas av läkare som deltagit i Försäkringskassans försäkringsmedicinska utbildning.31 Normalt är det därför en 
+annan läkare än den som skrivit det medicinska underlaget som utfärdar ett 
+särskilt läkarutlåtande. 
+2.5 SASSAM-kartläggning
+Enligt Försäkringskassans vägledning är en så kallad SASSAM-kartläggning 
+den utredningsmetod som ska användas vid personliga möten. SASSAM-
+kartan upprättas i samarbete mellan Försäkringskassans handläggare och 
+den försäkrade. Syftet med kartläggningen är att ta in uppgifter om arbetsförmågan och att undersöka om det finns behov av rehabiliteringsåtgärder. 
+SASSAM-kartläggningen ska vidare vara ett stöd för Försäkringskassans 
+handläggare vid bedömningen av rätt till fortsatt ersättning respektive individens behov av rehabilitering. Avsikten är att kartläggningen ska leda fram till 
+en planering för återgång i arbete.32 Kartläggningen syftar även till att utreda 
+sociala förhållanden för att undvika att sjukpenning betalas ut av arbetsmarknadsmässiga, ekonomiska eller andra skäl.33
+2.6 Protokoll från avstämningsmöte
+Försäkringskassan ska, om det behövs för att kunna bedöma om den försäkrades arbetsförmåga är nedsatt på grund av sjukdom samt om rehabilitering 
+eller ytterligare utredning är nödvändig, begära att den försäkrade deltar i ett 
+så kallat avstämningsmöte. Syftet med mötet är att tidigt fånga upp individens eventuella möjlighet att återgå i arbete och behov av stöd för att underlätta detta. Vid mötet bör det också klarläggas om det är annat än sjukdom 
+som föranleder frånvaron från arbetet.34 
+ Den försäkrade, arbetsgivaren, läkaren och Försäkringskassan deltar normalt i avstämningsmötet, men även till exempel representant från Arbetsförmedlingen, facklig representant, sjukgymnast och terapeut kan medverka. 
+Målet med mötet är att få fram uppgifter som kan ligga till grund för en plan 
+för återgång i arbete eller en rehabiliteringsplan. 
+ Tidpunkten för ett avstämningsmöte bör bestämmas utifrån den enskildes behov. Försäkringskassan bör tidigt ta initiativ för att stödja den försäkrade tillbaka till arbete. Ett avstämningsmöte är ett exempel på ett sådant 
+initiativ.35
+31 Prop. 2002/03:89, bet. 2002/03:SfU10, rskr. 2002/03:227.
+32 Metodstöd för Strukturerad Arbetsmetod för Sjukfallsutredning och SAMordnad rehabilitering –  
+ SASSAM, Försäkringskassan 2007 (Metodstöd 2007).
+33 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+34 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+35 Prop. 2006/07:59, bet. 2006/07:SfU9, rskr. 2006/07:158.
+
+25 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+2.7 Rehabiliteringsunderlag
+Fram till halvårsskiftet 2007 var arbetsgivaren skyldig att lämna in rehabiliteringsunderlag i varje sjukfall. Idag kan Försäkringskassans handläggare vid 
+behov begära att den försäkrade lämnar in ett rehabiliteringsunderlag från 
+arbetsgivaren.36 I underlaget ska arbetsgivaren ange vilka möjligheter som 
+finns att ta tillvara den försäkrades arbetsförmåga inom verksamheten, det 
+vill säga en beskrivning av arbetsgivarens möjlighet att anpassa arbetet eller 
+erbjuda annan tjänst. 
+2.8 Rehabiliteringsplan och plan för återgång i arbete
+Försäkringskassan ska upprätta en rehabiliteringsplan när den försäkrade 
+ska genomgå en åtgärd som ger rätt till rehabiliteringsersättning.37, 38 Planen 
+ska bland annat ange de rehabiliteringsåtgärder som ska komma ifråga, vem 
+som har ansvaret för dem och en tidsplan. Även kostnaden för ersättning 
+under rehabiliteringstiden ska finnas med i planen.39
+ Syftet med en plan för återgång i arbete är att få överblick över alla de 
+åtgärder och insatser som behövs för att den försäkrade ska kunna få tillbaka 
+sin arbetsförmåga.40 Planen innehåller samma uppgifter som rehabiliteringsplanen, men även uppgifter om andra insatser än de som ger rätt till rehabiliteringsersättning. 
+ Försäkringskassan hade under den granskade tidsperioden ett internt 
+mål om att det i alla aktiva sjukpenningärenden skulle tas fram en plan för 
+återgång i arbete senast dag 90 från det datum när begäran om sjukpenning 
+skannades in.41 Målet ändrades under 2008 till att plan för återgång i arbete 
+ska upprättas i aktiva ärenden där sjukskrivningen pågått mer än 60 dagar.42
+2.9 Sakkunniggranskning
+Sakkunniggranskning ska genomföras när Försäkringskassan överväger ett 
+avslagsbeslut. Granskningen innebär att en annan sakkunnig tjänsteman 
+(med särskild behörighet) ska kvalitetssäkra beslutsunderlaget för att säkerställa att allt är korrekt, enligt Försäkringskassans metodstöd under 2007.43 
+36 Sjukpenning och samordnad rehabilitering, version 11, Försäkringskassan 2008.
+37 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+38 Rehabiliteringsersättning består av två delar: rehabiliteringspenning respektive särskilt bidrag  
+ som ska täcka vissa kostnader som uppstår i samband med arbetslivsinriktad rehabilitering.
+39 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+40 Vi har inte funnit någon reglering av plan för återgång i arbete under 2007. Uppgifterna är därför 
+ hämtade från Sjukpenning och samordnad rehabilitering, version 9, Försäkringskassan 2008.
+41 Ett aktivt ärende är ett ärende där det inte bedöms sannolikt att den försäkrade kommer att   
+ återgå till tidigare sysselsättning efter normal läknings- och behandlingstid utan insatser  
+ från Försäkringskassan.
+42 Sjukpenning och samordnad rehabilitering, version 11, Försäkringskassan 2008.
+43 Handläggning när sjukpenning inte ska betalas ut, Försäkringskassan 2007.  
+
+26RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+I det nu gällande regelverket anges istället att granskningen ska säkerställa 
+att ”beslutsunderlaget är tillräckligt i förhållande till det beslut som handläggaren överväger att fatta”.44 Vid kvalitetssäkringen granskas att alla underlag 
+finns och är korrekta samt att ärendet är utrett så långt som det är möjligt. 
+Handläggaren kan därefter informera den försäkrade om Försäkringskassans 
+övervägande till beslut. 
+2.10 Beslutsunderlag och handläggningstider 
+I Försäkringskassans metodstöd anges principer för handläggningstid.45 Här 
+konstateras att det är viktigt att sjukpenningärenden handläggs så snabbt 
+som möjligt så att den försäkrade antingen får sin sjukpenning utbetald eller 
+får ett beslut på att han eller hon inte kommer att få ersättning. En rimlig 
+målsättning enligt Försäkringskassan är att den försäkrade ska få sin sjukpenning utbetald i nära anslutning till den tidpunkt då han eller hon skulle 
+ha fått lön. Riksdagens ombudsmän (JO) har gjort bedömningen att det i 
+normalfallet är orimligt med en handläggningstid längre än en månad.46
+ Kvaliteten i underlagen vid beslut om sjukpenning kan påverka Försäkringskassans handläggningstider. Behov av att komplettera otillräckliga 
+underlag riskerar att fördröja Försäkringskassans beslut om sjukpenning. 
+Samtidigt kan målet om handläggningstid påverka kvaliteten i underlagen.  
+ Försäkringskassan har på eget initiativ satt som mål att 90 procent av 
+sjukpenningärendena ska handläggas inom 30 dagar.47 Det innebär att utbetalning, för minst 90 procent av ärendena, ska ske inom 30 dagar från det att 
+sjukförsäkran kommit in till Försäkringskassan.48 Enligt Försäkringskassan 
+uppnåddes målet under samtliga månader 2007, med undantag av augusti. 
+Sammantaget handlades 92 procent av ärendena inom 30 dagar.49 För 2008 
+handlades 85 procent av sjukpenningärendena inom 30 dagar.50
+ Ett annat mål som Försäkringskassan formulerat är att i de fall det är 
+tveksamt om den försäkrade kommer att beviljas sjukpenning ska Försäkringskassan informera om detta inom tre arbetsdagar från att sjukförsäkran 
+kommit in.51 Under 2007 gällde målet tre arbetsdagar från det att handläggaren kommit fram till att det var oklart om den försäkrade hade rätt till 
+sjukpenning.52
+44 Sjukpenning och samordnad rehabilitering, version 11, Försäkringskassan 2008. 
+45 Handläggning när sjukpenning inte ska betalas ut, Försäkringskassan 2007.  
+46 JO-beslut dnr 982-2000. 
+47 Försäkringskassans årsredovisning för 2007.
+48 Uppgift från Försäkringskassan 2008-11-26.
+49 Försäkringskassans årsredovisning för 2007.
+50 Försäkringskassans årsredovisning för 2008.
+51 Sjukpenning och samordnad rehabilitering, version 11, Försäkringskassan 2008.
+52 Handläggning när sjukpenning inte ska betalas ut, Försäkringskassan 2007.
+
+27 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+3 Tidigare rapporter om brister i underlag  
+ och handläggning
+3.1 Kvalitet i handläggning
+Riksrevisionen har i en granskning från 2006 uppmärksammat kvalitetsfrågor i handläggningen inom Försäkringskassan.53 Enligt Riksrevisionens 
+bedömning har kvalitetsfrågor inte haft tillräcklig prioritet i den interna styrningen och uppföljningen. Ledningen bedöms bland annat ha ställt tydligare 
+krav på åtgärder när produktionsmålen inte uppfyllts än när kvalitetsmålen 
+för handläggningen brustit. Vidare konstateras att regeringen inte tagit initiativ till att minska felen inom regeltillämpningen eller närmare undersöka vad 
+de sedan länge kända problemen beror på. I rapporten konstateras också att 
+några samlade analyser inte har gjorts av varför bristerna i beslutsunderlagen är särskilt omfattande inom vissa förmånsslag och vid vissa kontor. 
+ I Riksrevisionens granskning Tas sjukskrivnas arbetsförmåga till vara? 
+redovisas brister i handläggningen av sjukfall.54 Här konstateras att avsaknaden av fullgott stöd för handläggningen, hög arbetsbelastning och täta byten 
+av handläggare kan bidra till bristande underlag i sjukfallen.
+ I en rapport från 2009 har Riksrevisionen granskat hur Försäkringskassan bedömde arbetsförmågan mot hela arbetsmarknaden för sjukskrivna.55 
+Granskningen visar bland annat att Försäkringskassan gjorde en sådan 
+prövning i endast 71 procent av de fall där man tidigare bedömt att det inte 
+är möjligt för den sjukskrivne att återgå till sin arbetsgivare. 
+ Vidare har Statskontoret, som en följd av dess uppdrag att granska 
+Försäkringskassans förändringsarbete, publicerat ett antal rapporter sedan 
+2006.56 Statskontoret konstaterar i samtliga rapporter att Försäkringskassans 
+fokus legat på produktion och handläggningstider, inte på enhetlig rättstillämpning och beslutskvalitet. Man pekar också på att Försäkringskassan bör 
+göra särskilda insatser för att öka fokus på beslutskvaliteten. Statskontoret 
+konstaterar slutligen att den nya organisationen på sikt kan leda till mer 
+enhetlig handläggning, men att det förutsätter att Försäkringskassan i högre 
+grad än idag prioriterar andra kvalitetsaspekter än snabbhet i handläggningen.
+53 Styrning och kontroll av regeltillämpningen inom socialförsäkringen, Riksrevisionen 2006.
+54 Tas sjukskrivnas arbetsförmåga till vara? – Försäkringskassans kontakter med arbetsgivare,  
+ Riksrevisionen 2007.
+55 Omställningskrav i sjukförsäkringen – att pröva sjukas förmåga i annat arbete, Riksrevisionen  
+ 2009.
+56 Den nya Försäkringskassan, delrapport 1, 2 och 4, Statskontoret 2006, 2007 och 2008. 
+
+28RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+3.2 Försäkringskassans metoder och underlag
+Regeringen har tillsatt en utredning med uppdrag att göra en översyn av begreppen sjukdom och arbetsförmåga, att möjliggöra en mer enhetlig bedömning av arbetsförmåga samt att föreslå användbara metoder för att mäta och 
+bedöma arbetsförmåga.57 Arbetsförmågeutredningen har i ett delbetänkande 
+bland annat inventerat de metoder som Försäkringskassan använder sig av 
+för att bedöma de försäkrades funktion och arbetsförmåga.58 Utredningen 
+konstaterar bland annat att ett stort antal metoder och instrument används 
+idag för att i princip göra en och samma bedömning. Det görs inte någon 
+riktigt tydlig åtskillnad mellan olika metoder för olika typer av ställningstaganden, till exempel mellan tillfälliga och varaktiga ersättningar. En av utredningens slutsatser är att det finns mycket att vinna på att tydligare fokusera 
+på funktionstillstånd och arbetsförmåga vid bedömning av rätt till ersättning 
+inom sjukförsäkringen. Arbetsförmågeutredningen kommer att slutredovisa 
+sitt uppdrag den 31 oktober 2009.
+ Försäkringskassan har i en rapport sammanställt resultat från arbetet 
+med så kallade gemensamma metoder i myndigheten.59 Beträffande beslutsunderlag konstateras bland annat att antalet avstämningsmöten fördubblades 2006 i jämförelse med 2005. Mötena hölls dock sent i sjukfallen. 
+Vidare anges att SASSAM-kartläggningar saknades i en majoritet av fall där 
+de skulle ha hållits samt att särskilt läkarutlåtande används i mycket liten 
+utsträckning.
+3.3 Försäkringskassans kvalitetskontroll 
+Försäkringskassan genomför årligen sedan 2002 kontinuerliga kvalitetskontroller med verktyget Qben II i syfte att övergripande kontrollera dels 
+om tillräckligt underlag funnits i ett ärende, dels om rätt beslut har fattats. 
+Myndigheten har vid tidigare tillfällen konstaterat att det funnits brister i 
+utformning och tillämpning av kontrollverktyget. Det har bland annat funnits 
+problem med olika handläggnings- och granskningskulturer mellan länen 
+och en regional spridning i resultaten.60  
+ Försäkringskassans kvalitetskontroll i form av Qben II visade under 2007 
+att 75 procent av besluten om sjukpenning byggde på tillräckligt underlag.61 
+Kvalitetskontrollen under 2008, som genomförts med delvis ändrad metodik, visade att andelen endast var 53 procent.62 För den senare uppgiften 
+har Försäkringskassan samtidigt konstaterat att det funnits osäkerhet i 
+57 Kommittédirektiv 2008:11 och 2009:33.
+58 SOU 2008:66. 
+59 De gemensamma metoderna – hur blev det?, Försäkringskassan 2007.
+60 Se bland annat Försäkringskassans årsredovisning 2006.
+61 Försäkringskassans årsredovisning 2007.
+62 Försäkringskassans årsredovisning 2008.
+
+29 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+kontrollerna men att ”utslaget är ändå så tydligt att det är ställt utom tvivel 
+att bristerna varit betydande”. Under 2007 hade Försäkringskassan ett mål 
+om att minst 94 procent av ärendena skulle ha tillräckligt beslutsunderlag, 
+motsvarande mål för 2008 saknas.
+ Försäkringskassan har under 2008 låtit göra en extern utvärdering av 
+kvalitetskontrollen med Qben II.63 I utvärderingen konstateras till exempel att 
+det finns skillnader i användning och tolkning mellan länen. Det finns även 
+oklarheter kring syftet med granskningen. Rapporten rekommenderar bland 
+annat att Försäkringskassan ser över syfte och definitioner i kvalitetsgranskningen, vilket ger konsekvenser för utformningen av frågor, genomförandet 
+av granskningen och tolkningen av resultaten. Vidare konstateras att förutsättningarna avsevärt skulle förbättras med en koncentrerad organisation för 
+granskningsarbetet.
+ Även Försäkringskassan själv har genomfört en undersökning av Qben 
+II. Här har syftet varit att kvantitativt undersöka reliabiliteten (tillförlitligheten) i Qben II som mätinstrument.64 Resultaten från den studien visar att 
+överensstämmelsen i bedömningen mellan granskare i allmänhet är låg. 
+I rapporten konstateras också att det förekommer stora skillnader, dels i 
+bedömningen av likvärdiga fall mellan olika län, dels i bedömningen av identiska fall mellan länens och huvudkontorets granskare. Försäkringskassan 
+drar slutsatsen att precisionen i mätningen måste förbättras om Qben II ska 
+vara användbart som kvalitetsinstrument. Frågorna och instruktionerna bör 
+förtydligas och antalet granskare begränsas.
+ Inom ramen för denna rapport har ingen djupare granskning gjorts av 
+Försäkringskassans kvalitetskontroll. 
+3.4 Bristfälliga läkarintyg 
+Ett flertal tidigare studier har funnit att kvaliteten i utfärdade läkarintyg ofta 
+är bristfällig. Försäkringskassan har under 2009, på regeringens uppdrag, 
+undersökt kvaliteten på intyg och utlåtanden från läkare.65 I rapporten konstateras att läkarintygen har bristfällig kvalitet, i 74 procent av läkarintygen 
+var en eller flera obligatoriska uppgifter otillräckliga. Undersökningen visade 
+vidare att kompletteringar av ofullständiga läkarintyg inte görs i tillräcklig 
+omfattning. 
+ Vidare har kvaliteten i läkarintygen studerats i en undersökning publicerad i Scandinavian Journal of Public Health.66 Drygt 2 200 läkarintyg samlades in under en vecka 2002 i Östergötland. Den kvalitativa granskningen 
+visade att det i 73 procent av de granskade fallen saknades en tillräcklig 
+63 När kunskap ger resultat – utvärdering av QBen II, Försäkringskassan 2008.
+64 Mäter Försäkringskassan kvalitet tillförlitligt? En analys av handläggningen av sjukpenningärenden, Försäkringskassan 2008.
+65 Kvaliteten på intyg och utlåtanden från läkarna, Försäkringskassan 2009.
+66 Söderberg E & Alexanderson K (2005). 
+
+30RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+medicinsk bedömning och/eller bedömning av funktionsförmåga. Samtidigt 
+konstateras att väldigt lite är känt om hur handläggarna på Försäkringskassan hanterar bristfälliga intyg. En annan iakttagelse var att läkarna i ungefär 
+hälften av intygen inte uppgav om rehabiliteringsinsatser var aktuellt. Uppgifterna saknades dubbelt så ofta för kvinnor som för män. 
+ Studien pekar också på några faktorer som påverkar kvaliteten på intygen, bland annat strukturella problem med att föra över information från 
+hälso- och sjukvården till Försäkringskassan. Det finns även en konflikt mellan Försäkringskassans höga krav på teknisk bedömning av arbetsoförmågan 
+och den osäkerhet som ligger i den medicinska bedömningen. Vidare nämns 
+ett antal faktorer som bidrar till dålig kvalitet på läkarintygen: läkares bristande utbildning i försäkringsmedicin, bristande vetenskapligt grundad kunskap 
+inom området, stressen kring intygsutfärdande och slutligen otydligheter i 
+blanketten.
+ I en annan studie har samtliga läkarintyg som inkom under en vecka under 2003 till två län (totalt 1952 intyg) analyserats bland annat med avseende 
+på medicinsk bedömning och bedömning av funktionsförmåga.67 Analysen 
+visade att det medicinska tillståndet i drygt hälften av läkarintygen inte var 
+dokumenterat, och det fanns ingen bedömning av funktionsförmågan relaterad till det medicinska tillståndet. Vidare saknades i ungefär en tredjedel 
+av läkarintygen information om arbetsuppgifternas art, vilket innebär att det 
+inte framgick vad bedömningen av arbetsförmågan relaterades till.
+ I ytterligare en undersökning har 115 beslut om avslag till sjukpenning 
+under perioden 2003–2004 i Västernorrland studerats, vilken också omfattade en granskning av läkarintyg i de aktuella ärendena.68 Rapportens slutsats 
+är bland annat att ”de [läkarintygen] mycket dåligt motsvarar Försäkringskassans krav” vad gäller beskrivning av arbetsförmågan. Endast 10 procent av 
+intygen innehöll en någorlunda fyllig beskrivning av arbetsförmågan, vilken 
+bedömdes motsvara Försäkringskassans krav. Därutöver innehöll 34 procent 
+en summarisk beskrivning av arbetsförmågan.
+ Vidare har en studie visat att det förekommer att läkare tar andra hänsyn 
+än medicinska när de utfärdar intyg. En enkätundersökning riktad till läkare 
+under 2006 visade att nästan vart tionde av de intyg läkarna utfärdade var 
+medicinskt omotiverat, att 65 procent av läkarna tog hänsyn till patientens 
+motivation att återgå i arbete och att 50 procent av läkarna angav att de tar 
+hänsyn till patientens hem- och familjesituation när de bedömer behovet av  
+sjukskrivning.69 Något stöd för sådana hänsyn inför beslut om sjukpenning 
+finns inte i regelverket.
+67 Söderberg E m.fl. (2004).
+68 Godtycke och rättsosäkerhet styr försörjning för sjuka. Granskning av 115 fall av avslag till sjukpenning från Försäkringskassan i Västernorrland. Handikappföreningarnas samarbetsorgan  
+ 2007.
+69 Arrelöv B (2006).
+
+31 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+3.5 Samband mellan kvalitet i läkarintyg och sjukfrånvaro
+Sambandet mellan kvaliteten på läkarintyget och sjukfrånvaron har studerats 
+i en rapport från Institutet för arbetsmarknadspolitisk utvärdering (IFAU), 
+där 977 intyg har granskats.70 Läkarintyg som har haft samtliga obligatoriska 
+fält ifyllda har bedömts vara av god kvalitet, utan att någon bedömning 
+gjorts av uppgifternas kvalitet. Med denna definition bedömdes 40 procent 
+av intygen inte vara av god kvalitet. Av dessa var det endast 17 procent som 
+hade återremitterats till läkaren för komplettering.
+ Studien fann att i de fall komplettering av läkarintyget gjordes förlängdes 
+sjukfrånvaron med i genomsnitt 22 dagar, vilket motsvarar 30 procent av den 
+genomsnittliga sjukskrivningstiden i populationen. 
+ Undersökningen fann vidare att begäran om komplettering är vanligare 
+för lågutbildade än för högutbildade. Komplettering förekommer också i högre grad vid läkarintyg för arbetslösa än för sysselsatta, vilket rapportförfattarna bedömer vara naturligt då arbetsförmågan i dessa fall behöver prövas 
+mot vanligt förekommande arbeten på arbetsmarknaden. Vidare är begäran 
+om komplettering vanligare vid psykiska sjukdomar och sjukdomar i rörelseorganen, trots att studien samtidigt fann att intyg vid psykiska diagnoser 
+generellt håller en god kvalitet. I rapporten konstateras också att det tycks 
+vara ovanligt att intyg av god kvalitet rekommenderar sjukskrivning på heltid. 
+70 Finns det något samband mellan sjukintygets kvalitet och sjukfrånvaro? IFAU 2008.
+
+32RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+
+33 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+4 Bakgrund om de försäkringsmedicinska  
+ rådgivarna
+Försäkringskassan beslutade under 2008 om delvis nya arbetssätt för de 
+dåvarande försäkringsläkarna och benämningen ändrades i samband med 
+det till försäkringsmedicinska rådgivare. Rådgivarna ska i högre utsträckning arbeta externt med bland annat utbildning riktad mot sjukvården, och 
+konsultativt mot Försäkringskassans handläggare. Tanken är att handläggarna inte ska få skriftliga yttranden från de försäkringsmedicinska rådgivarna i 
+samma utsträckning som tidigare, istället ska rådgivarna arbeta konsultativt 
+med handläggarna genom till exempel gruppdiskussioner. Om, och i så fall 
+hur, gruppdiskussionerna ska dokumenteras är ännu inte beslutat. Enligt 
+Försäkringskassan är bakgrunden till det nya arbetssättet att försäkringsläkarna fått eller tagit sig ett alltför stort beslutsutrymme i beslutsprocessen.71
+ Det har funnits kritik mot försäkringsläkarna i den allmänna debatten, 
+såväl från de försäkrade som från intygsskrivande läkare. Kritiken har bland 
+annat handlat om att försäkringsläkarens yttrande väger för tungt i beslutsprocessen givet att försäkringsläkaren inte träffar individen. Vidare har yttrandet setts som en överprövning av det medicinska underlag som utfärdas 
+av intygsskrivande läkare. 
+ Debatten om de försäkringsmedicinska rådgivarna har i hög grad handlat om att det saknas tillsyn. Varken Socialstyrelsen, Hälso- och sjukvårdens 
+ansvarsnämnd (HSAN) eller Justitieombudsmannen (JO) utövar tillsyn eller 
+granskar denna yrkesgrupp. HSAN tar inte upp dessa ärenden då det inte rör 
+sig om medicinsk behandling, samma argument som lett till att de försäkringsmedicinska rådgivarnas verksamhet ligger utanför Socialstyrelsens 
+tillsyn. JO anser sig inte ha kompetens att ta ställning till medicinska frågor 
+och hänvisar sådana frågor till HSAN. 
+ Utredningen om en översyn av processuella regler inom socialförsäkringen m.m. återgav i sitt betänkande socialförsäkringsutskottets uppfattning att en försäkringsläkares bedömning, i alla fall indirekt, kan prövas på 
+rättslig väg genom den möjlighet som finns att överklaga ett negativt beslut 
+till förvaltningsdomstol.72 Försäkringsläkaren är som tjänsteman vidare underställd JO:s tillsyn, även om den medicinska behandlingens innehåll inte 
+är föremål för bedömning. I utredningens betänkande konstateras även att  
+71 Uppgift från Försäkringskassan 2009-03-10.
+72 SOU 2001:47.
+
+34RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+eftersom försäkringsläkarens bedömning utgör en del av beslutsunderlaget 
+ska bedömningen dokumenteras skriftligt i enlighet med 15 § förvaltningslagen.
+ Socialstyrelsen utredde under 2004, på regeringens uppdrag, frågan om 
+tillsyn över försäkringsläkarna. Socialstyrelsen ansåg i sin rapport att försäkringsläkarna inte skulle ställas under Socialstyrelsens tillsyn.73 Även Patientsäkerhetsutredningen har behandlat frågan om försäkringsläkarna bör stå 
+under statlig tillsyn.74 Utredningen har i sitt betänkande ansett att tillsynsansvaret på hälso- och sjukvårdsområdet inte bör utvidgas till att omfatta de 
+försäkringsmedicinska rådgivarna och de har inte heller föreslagit att någon 
+annan aktör får ett tillsynsansvar.75 Betänkandet har nyligen remissbehandlats och ärendet bereds för närvarande i Regeringskansliet. 
+73 Tillsyn över försäkringsläkare; rapport med anledning av regeringsuppdrag, Socialstyrelsen 2004  
+ (dnr 00-10798/03).
+74 Kommittédirektiv 2007:57.
+75 SOU 2008:117.
+
+35 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5 Kvalitet i beslutsunderlagen  
+För att kunna besvara frågan om Försäkringskassan följer de regler som 
+finns för handläggning av sjukpenning fokuserar Riksrevisionen i kommande 
+kapitel på:
+• vilka beslutsunderlag har Försäkringskassan tillgång till? 
+• vilken kvalitet har beslutsunderlagen?
+• hur stor betydelse har de olika befintliga beslutsunderlagen för besluten? 
+• finns det omständigheter som inte bör påverka beslut om rätten till sjukpenning men som ändå gör det?
+Vi har även undersökt regeringens styrning av Försäkringskassan och sjukförsäkringen och studerat myndighetens förutsättningar att hantera sjukpenningärenden effektivt. 
+  I detta kapitel beskrivs Riksrevisionens iakttagelser rörande beslutsunderlagens förekomst och kvalitet. De resultat som redovisas är viktade och 
+avser således hela populationen, det vill säga sjukpenningärenden som pågått minst 90 dagar och som avslutats med bifallsbeslut respektive sjukpenningärenden som avslutats med avslags- eller indragsbeslut. Båda grupper 
+avser ärenden som avslutats under 2007. 
+ Granskningen syftar bland annat till att undersöka skillnader mellan 
+bifalls- och avslagsärenden vad gäller förekomst och kvalitet i underlagen. 
+Därför analyserar vi dessa var för sig. Skillnader mellan bifalls- och avslagsärenden som presenteras är signifikanta på 5-procentsnivån om inte annat 
+anges, det vill säga skillnaden mellan värdena beror med 95 procents säkerhet inte på slumpen.
+ Som bifall räknas när den försäkrade beviljats någon sjukpenning 
+överhuvudtaget, oavsett vilken grad av ersättning han eller hon har ansökt 
+om. Om den försäkrade till exempel har ansökt om heltidssjukpenning men 
+Försäkringskassan beslutat om halvtidssjukpenning räknas det alltså som 
+ett bifallsärende. Även om det hade varit teoretiskt möjligt har vi valt att inte 
+särskilja de individer som fått sin begäran endast delvis uppfylld. Orsaken är 
+att den ökade komplexiteten som detta hade medfört inte står i proportion 
+till de potentiella insikterna. Som avslagsärende räknas dels de som har fått 
+avslag direkt på sin ansökan, dels de som efter en period med sjukpenning 
+fått avslag på sin begäran om ytterligare sjukpenning.
+
+36RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ I kapitel 2 framgår vilka beslutsunderlag Försäkringskassan ska eller kan 
+ha tillgång till när man fattar beslut om sjukpenning eller fortsätter handläggningen.     
+5.1 De medicinska underlagen saknar viktig information
+I princip ska alla sjukpenningansökningar innehålla ett medicinskt underlag 
+från en läkare, vilket de ärenden vi har granskat också gör. Ofta innehåller 
+ett sjukpenningärende ett flertal medicinska underlag – ju längre sjukskrivningen pågår, desto fler underlag. Den analys som gjorts och som redovisas 
+gäller det sista medicinska underlaget i akten om inte annat anges. När det 
+endast finns ett medicinskt underlag (37 av de 355 ärendena) har detta definierats som det sista underlaget. 
+ Att vi har valt att granska det sista medicinska underlaget beror på 
+tidsaspekten, det sista underlaget är normalt utfärdat under 2007 eller 2006, 
+eftersom vi granskat ärenden som avslutats under 2007. Därmed kan vi 
+bedöma underlagen mot det då gällande regelverket. Ett sjukpenningärende 
+kan pågå under en längre tid och de första medicinska underlagen har upprättats vid olika tidpunkter, vilket gör det omöjligt att fastställa ett regelverk 
+som gäller samtliga dessa underlag. För jämförelsens skull redovisar vi dock 
+Riksrevisionens bedömning av behovet av komplettering även för de första 
+medicinska underlagen i avsnitt 5.1.1 nedan.   
+ Vid granskningen av det medicinska underlaget har dokumentet bedömts självständigt och fristående, det vill säga samtliga obligatoriska uppgifter ska finnas i dokumentet oavsett om uppgifterna förekommer i något 
+annat underlag i akten. Då granskningen bygger på kvalitativa bedömningar 
+finns det alltid risk för ett visst mått av subjektiv uppfattning. Det är ändå 
+Riksrevisionens bedömning att storleksordningen i resultaten ger en rättvisande bild.
+ Vissa uppgifter är obligatoriska i det medicinska underlaget för att Försäkringskassan enligt regelverket ska kunna bevilja sjukpenning. Om någon 
+av dessa uppgifter saknas behöver ärendet kompletteras. Andra uppgifter är 
+obligatoriska för fortsatt handläggning, det vill säga inte nödvändiga för att 
+kunna bevilja sjukpenning i ett första steg men för att kunna fortsätta handläggningen och bevilja ytterligare sjukpenning. Om någon av dessa saknas 
+har vi inte bedömt att ärendet är i behov av komplettering eftersom Riksrevisionens analys enbart avsett uppgifter som alltid är obligatoriska. Därutöver 
+finns uppgifter som är önskvärda för Försäkringskassans handläggning, men 
+inte formellt nödvändiga för att kunna fatta beslut.
+
+37 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5.1.1 En majoritet av de medicinska underlagen är otillräckliga 
+Granskningen visar att alltför många medicinska underlag är bristfälliga. 
+Enligt Riksrevisionens uppfattning är diagnos, nedsättning av funktionsförmåga och arbetsuppgifter de tre viktigaste obligatoriska uppgifterna. I 72 
+procent av de sista medicinska underlagen är minst en av dessa tre uppgifter 
+otillräcklig, det vill säga uppgiften saknas eller är inte av tillräcklig kvalitet. 
+Arbetsuppgifternas innehåll är den obligatoriska uppgift som oftast är otillräcklig. Samtliga obligatoriska uppgifter är dock enligt Riksrevisionens uppfattning nödvändiga såväl för att kunna göra en korrekt bedömning av rätten 
+till sjukpenning som för att kunna verifiera att lämnade uppgifter är riktiga.
+ Övriga obligatoriska uppgifter är inte bristfälliga i lika stor utsträckning. 
+Vid en bedömning av samtliga obligatoriska uppgifter är i 73 procent av 
+fallen en eller flera obligatoriska uppgifter i det sista medicinska underlaget 
+otillräckliga. Bristerna är större i bifallsärenden än i avslagsärenden. I bifallsärenden är en eller flera av de obligatoriska uppgifterna i det medicinska 
+underlaget otillräckliga i 75 procent av fallen, att jämföra med 50 procent i 
+avslagsärenden. Utfallet visar således att det finns större behov av kompletteringar i bifallsärenden. Resultatet stämmer överens med den bild som vi 
+har fått vid intervjuer med Försäkringskassans handläggare och ligger i linje 
+med en tidigare undersökning.76 Vid intervjuerna har handläggarna framfört 
+att de ofta är mer noggranna när de överväger avslagsbeslut, till exempel 
+rådfrågar de försäkringsläkare i större utsträckning än vid bifall. 
+ En analys av de första medicinska underlagen visar att en eller flera obligatoriska uppgifter är otillräckliga i 75 procent av fallen. I bifallsärendena är 
+77 procent av de medicinska underlagen bristfälliga, och motsvarande siffra 
+för avslagsärenden är 57 procent. Det är således lika stort behov av komplettering för första respektive sista medicinska underlag.
+ För att bedöma om Försäkringskassan kompletterar bristfälliga medicinska underlag har Riksrevisionen granskat ett slumpmässigt urval av de 
+ärenden där det sista medicinska underlaget bedömdes vara i behov av 
+komplettering. En tredjedel av dessa ärenden granskades utifrån den dokumentation som fanns i akten. Resultatet visar att kompletteringar görs i liten 
+omfattning, endast i 4 procent av fallen har det sista medicinska underlaget 
+kompletterats. Muntliga kompletteringar görs endast i mycket liten utsträckning utifrån den dokumentation som finns i akterna.
+ I syfte att bedöma hur ofta kompletteringar görs av medicinska underlag 
+har Riksrevisionen också jämfört a) gruppen där vi bedömt att det fanns 
+behov av att komplettera, respektive b) gruppen där vi bedömt att beslutsunderlaget var tillräckligt. Även detta resultat tyder på att Försäkringskassan  
+76 Nej till sjukpenning, vad hände sen?, Försäkringskassan 2007.
+
+38RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+sällan kompletterar bristfälliga medicinska underlag eller möjligen kompletterar muntligt. Den genomsnittliga handläggningstiden till beslut är något 
+kortare för de ärenden som behöver kompletteras jämfört med dem som 
+har ett tillräckligt underlag (44 respektive 49 dagar). Riksrevisionen har inte 
+hittat några möjliga förklaringar till varför handläggningstiden är kortare i de 
+ärenden där det medicinska underlaget bedöms behöva kompletteras. 
+ Riksrevisionen har inte heller funnit något som tyder på att Försäkringskassan i högre utsträckning begär in andra medicinska utlåtanden och 
+yttranden i de ärenden där de medicinska underlagen uppvisar brister och är 
+i behov av komplettering. Tvärtom visar resultaten att yttranden från försäkringsläkare förekommer signifikant oftare i de fall de medicinska underlagen 
+är kompletta, jämfört med de ärenden där de medicinska underlagen behöver kompletteras.
+ Riksrevisionen noterar att Försäkringskassan vidtagit vissa åtgärder 
+för att förbättra de medicinska underlagen. I december 2008 informerade 
+Försäkringskassan sin personal om att alla medicinska underlag som saknar 
+obligatoriska uppgifter ska sändas tillbaka till den intygsskrivande läkaren för 
+komplettering.77 Vidare finns det olika former för lokal samverkan som syftar 
+till ett bättre samarbete med hälso- och sjukvården. Till exempel har myndigheten utsett särskilda samverkansansvariga på lokal och regional nivå som 
+har till uppgift att samverka med olika aktörer, däribland hälso- och sjukvården. Det finns också handläggare som delvis är placerade på vårdcentraler. 
+Därutöver har försäkringsläkarna en roll i utbildningen av läkare i hälso- och 
+sjukvården.
+5.1.2 Det framgår inte alltid hur sjukdomen påverkar förmågan
+För att Försäkringskassan ska kunna göra en korrekt bedömning av rätten till sjukpenning är det viktigt att det finns en tydlig beskrivning av hur 
+sjukdomen begränsar den försäkrades förmåga/aktivitet. Enligt Försäkringskassans metodstöd är denna uppgift en av de viktigaste vid bedömning av 
+rätten till sjukpenning.78 I många av de fall där läkaren skrivit något om detta 
+är bedömningen enligt Riksrevisionens uppfattning otillräcklig. Fältet på 
+blanketten där informationen ska finnas kan vara ifylld men informationen är 
+otillräcklig. Efter att ha undersökt vad som står i fältet i de granskade akterna 
+bedömer Riksrevisionen att 9 procent av de medicinska underlagen i bifallsärenden, och 5 procent i avslagsärenden, har en otillräcklig bedömning av hur 
+sjukdomen påverkar funktionsförmågan. Skillnaden är dock inte statistiskt 
+säkerställd. Diagnos, som också är en obligatorisk uppgift, fanns angiven i 
+bifallsärendena men saknades i 2 procent av avslagsärendena. 
+77 Informationsmeddelande IM 2008:192, Försäkringskassan 2008.
+78 Metodstöd för kvalitetssäkring och komplettering av läkarintyg i sjukpenningärenden,  
+ Försäkringskassan 2007.
+
+39 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5.1.3 Majoriteten av intyg beskriver inte arbetsuppgifterna
+För att Försäkringskassan ska kunna värdera läkarens bedömning av patientens förmåga, och göra en bedömning av rätten till sjukpenning, behövs 
+information om vad läkarens bedömning av grad av arbetsförmåga relaterar till. När bedömningen görs i förhållande till nuvarande arbete ska den 
+försäkrades arbetsuppgifter anges. Om individen är arbetslös skulle bedömningen under 2007 göras mot arbete som är normalt förekommande på 
+arbetsmarknaden. Riksrevisionens analys visar att beskrivningen av arbetsuppgifterna var otillräcklig i 70 procent av bifallsärendena och i 47 procent 
+av avslagsärendena för personer med arbete. Eftersom arbetsuppgifternas 
+innehåll är den obligatoriska uppgift som oftast är otillräcklig i det medicinska underlaget blir det samma resultat som för det medicinska underlaget på övergripande nivå, det vill säga att det finns skillnader i kvaliteten i 
+beslutsunderlagen i bifallsrespektive avslagsärenden.
+ Det är vanligt att yrke snarare än faktiska arbetsuppgifter anges, vilket i 
+många fall ställer till problem för Försäkringskassans handläggare. I intervjuer med sjukpenninghandläggare har det också framkommit att det händer 
+att uppgifterna blir fel för arbetslösa eftersom bedömningen görs mot de 
+arbetsuppgifter som personen hade innan arbetslösheten istället för mot ett 
+arbete som är normalt förekommande på arbetsmarknaden. 
+5.1.4 Övriga obligatoriska uppgifter saknas i vissa fall
+Övriga obligatoriska uppgifter i det medicinska underlaget saknas i vissa fall. 
+Skillnaderna som finns mellan bifalls- och avslagsärenden för dessa uppgifter är inte statistiskt säkerställda. Uppgift om klinik/mottagning och läkarens 
+namn saknas i 4 procent av bifallsärendena och i 3 procent av avslagsärendena. Läkarens namnunderskrift är obligatorisk och saknas i 1 procent av 
+bifallsärendena och i 2 procent av avslagsärendena. 
+ I det medicinska underlaget finns också uppgifter som är obligatoriska 
+för fortsatt handläggning.79 Dessa uppgifter är inte nödvändiga för det första 
+beslutet om sjukpenning, men för att fortsätta handläggningen och därmed 
+för att kunna fatta beslut om eventuell ytterligare sjukpenning. En sådan 
+uppgift är status och objektiva undersökningsfynd på organnivå, det vill 
+säga vad läkaren har funnit vid undersökningen som stöd för diagnosen. 
+Granskningen visar att dessa uppgifter är otillräckliga i 21 procent av bifallsärendena och i 8 procent av avslagsärendena. Sedan 2008 är denna uppgift 
+obligatorisk för att kunna fatta ett första beslut om sjukpenning. 
+ En annan uppgift i det medicinska underlaget som är obligatorisk för 
+fortsatt handläggning är vad läkarens uppgifter baserar sig på − om det 
+79 Metodstöd för kvalitetssäkring och komplettering av läkarintyg i sjukpenningärenden,  
+ Försäkringskassan 2007.
+
+40RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+är på personlig kontakt, telefonkontakt, journalanteckningar eller annat.80 
+Orsaken är att handläggaren ska kunna värdera uppgifterna i det medicinska underlaget. Uppgiften saknas dock i 5 procent av såväl bifallsärendena 
+som avslagsärendena. Analysen visar också att de medicinska underlag som 
+ligger till grund för avslagsbeslut i högre grad baseras på personlig kontakt 
+mellan läkare och den försäkrade, medan motsvarande underlag i bifallsbeslut i högre utsträckning baseras på telefonkontakt. 
+ Härutöver ska läkaren även ange diagnoskod och lämna en prognos om 
+den försäkrade bedöms få tillbaka sin arbetsförmåga. Resultaten visar att 
+1 procent av bifallsärendena, och 2 procent av avslagsärendena, saknade 
+diagnoskod. Prognos av den försäkrades framtida arbetsförmåga saknas i 
+19 procent av bifallsärendena och i 20 procent av avslagsärendena. Läkaren 
+ska ange om individen helt, delvis eller inte alls kan återfå sin arbetsförmåga 
+(uppgiften lämnas i form av ett kryss i fältet). En sådan prognos kan vara till 
+hjälp för handläggaren vid bedömning och planering av individens återgång i 
+arbete.
+5.2 De försäkrade har inte alltid beskrivit hur sjukdomen  
+ påverkar möjligheten att arbeta 
+För att en individ ska kunna beviljas sjukpenning ska denne alltid lämna en 
+skriftlig försäkran för sjukpenning med uppgifter om sjukdom, en beskrivning av arbetsuppgifter och en egen bedömning av arbetsförmåga. 
+ Granskningen visar att underlaget från den försäkrade i 7 procent av 
+såväl bifallssom avslagsärendena saknar en beskrivning av hur sjukdomen 
+påverkar möjligheten att arbeta. I ytterligare 12 respektive 14 procent av bifalls- respektive avslagsärendena är detta enligt vår bedömning endast delvis 
+beskrivet. Grad av arbetsoförmåga, det vill säga om ansökan gäller heltids- 
+eller deltidsjukskrivning, har så gott som alla angivit, uppgiften saknas i 3 
+procent av avslagsärendena och i mindre än 1 procent av bifallsärendena.
+5.3 Yttrande från försäkringsläkare finns oftare i avslagsärenden 
+Utöver de medicinska underlagen och den försäkrades sjukförsäkran, som 
+är obligatoriska underlag vid beslut om sjukpenning, kan Försäkringskassan 
+ha tillgång till bland annat yttrande från försäkringsläkare. Granskningen 
+visar att det betydligt oftare finns yttrande från försäkringsläkare i avslagsärenden än i bifallsärenden (78 respektive 36 procent). En förklaring som 
+80 Metodstöd för kvalitetssäkring och komplettering av läkarintyg i sjukpenningärenden,  
+ Försäkringskassan 2007.
+
+41 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+framkommit vid intervjuer med Försäkringskassans handläggare är att försäkringsläkare ofta kopplas in när handläggaren överväger avslag och/eller 
+vid tveksamhet till den intygsskrivande läkarens bedömning.
+ Det finns en möjlighet för försäkringsläkaren att begära in kompletterande uppgifter från den intygsskrivande läkaren om underlaget är otillräckligt eller svårförståeligt. Resultaten visar dock att försäkringsläkaren inte 
+begär komplettering från intygsskrivande läkare särskilt ofta, endast i cirka 4 
+procent av såväl bifallsärenden som avslagsärenden. 
+ I de sjukpenningärenden där yttrande finns delar försäkringsläkaren inte 
+den intygsskrivande läkarens bedömning av individens förmåga i 63 procent 
+av avslagsärendena. Motsvarande siffra för bifallsärenden är 4 procent.  
+ Femton procent av yttrandena innehåller latinska eller medicinska termer 
+som inte förklaras, vilket strider mot Försäkringskassans riktlinjer.    
+5.4 Försäkringsläkarens bedömning väger tungt 
+Utöver att studera vilka underlag Försäkringskassan har tillgång till när de 
+fattar beslut om sjukpenning samt underlagens kvalitet har Riksrevisionen 
+uppskattat vilken betydelse olika medicinska underlag har när beslut fattas.
+ Särskilt läkarutlåtande eller läkarutlåtande om hälsotillstånd kan hämtas 
+in om Försäkringskassans handläggare anser att det behövs ett mer utförligt 
+medicinskt underlag. I förhållande till ordinarie medicinska underlag innehåller läkarutlåtandena generellt fylligare redogörelser av symtom relaterade till 
+arbetsförmåga. I 42 procent av bifallsärendena och i 35 procent av avslagsärendena har läkarutlåtande om hälsotillstånd inhämtats. Skillnaden är dock 
+inte statistiskt säkerställd. Förekomsten av särskilt läkarutlåtande i akterna 
+har inte granskats, och i intervjuer med Försäkringskassans handläggare har 
+det framkommit att dessa används ytterst sällan. Yttrande från försäkringsläkare fanns i 36 respektive 78 procent av bifallsrespektive avslagsärendena. 
+Både läkarutlåtande och yttrande från försäkringsläkare fanns i 24 respektive 
+29 procent av bifalls- och avslagsärendena. 
+ En kvalitativ genomgång har gjorts av samtliga ärenden där läkarutlåtande om hälsotillstånd och/eller yttrande från försäkringsläkare har funnits. 
+I dessa fall har det sista medicinska underlaget, läkarutlåtande och yttrande 
+från försäkringsläkare studerats kompletterat med en genomgång av den 
+försäkrades uppgift om hur sjukdomen påverkar arbetsförmågan. Resultaten 
+i den kvalitativa genomgången Riksrevisionen har genomfört är inte viktade. 
+ Genomgången visar att yttrande från försäkringsläkare har stor betydelse 
+för hur Försäkringskassan beslutar i ett ärende där det finns skilda uppfattningar. I 88 procent av de avslagsärenden där yttrande från försäkringsläkare 
+finns överensstämmer Försäkringskassans beslut med försäkringsläkarens 
+
+42RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+bedömning. I resterande 12 procent av fallen valde Försäkringskassan 
+således att gå emot yttrandet från försäkringsläkaren och avslå ansökan om 
+sjukpenningansökan. Vad gäller bifallsärenden där yttrande från försäkringsläkare finns överensstämmer Försäkringskassans beslut med försäkringsläkarens bedömning i 92 procent av fallen.  
+ I 5 procent av avslagsärendena fanns endast läkarutlåtanden och inga 
+yttranden från försäkringsläkare. I de flesta av dessa ärenden gick Försäkringskassan emot läkarutlåtandets bedömning och beslutade om avslag. 
+Den kvalitativa genomgången visar även att läkarutlåtanden om hälsotillstånd och medicinska underlag ofta brister i bedömningen av arbetsförmåga, medan yttranden från försäkringsläkare ofta har en tydlig sådan bedömning. Läkare som utfärdar läkarutlåtande respektive medicinskt underlag 
+träffar normalt individen, medan försäkringsläkare endast baserar sina 
+yttranden på befintliga medicinska underlag och utlåtanden. 
+ Genomgången visar även att bedömningen i läkarutlåtandena i princip 
+inte skiljer sig från den försäkrades eller den tidigare behandlande läkarens 
+bedömning. Läkarutlåtande om hälsotillstånd utfärdas normalt av den 
+intygsskrivande läkaren, vilket kan förklara resultatet för denna typ av läkarutlåtande.
+5.5 Avslag sakkunniggranskas inte alltid
+Beslutsunderlaget vid avslag ska normalt granskas av en annan sakkunnig 
+tjänsteman med särskild behörighet.81 Vid vissa direktavslag, där den försäkrade till exempel inte uppfyller något av grundkriterierna för sjukpenning, 
+behöver sakkunniggranskning inte göras. Granskningen visar att sakkunniggranskning skett i 78 procent av avslagsärendena. I den grupp som fått 
+avslag efter en tid med sjukpenning har sakkunniggranskning skett i 81 procent av ärendena, medan sådan granskning skett i 69 procent av de ärenden 
+som fått direktavslag. 
+ Vid intervjuer har det framkommit att det finns olika uppfattning bland 
+handläggarna om vad som ska kvalitetssäkras vid sakkunniggranskning, 
+det vill säga om granskningen ska omfatta såväl om ärendet har tillräckligt 
+beslutsunderlag som att beslutet är korrekt. I nuvarande regelverk anges 
+endast att granskningen ska säkerställa att beslutsunderlaget är tillräckligt. 
+Vid intervju med representanter för Försäkringskassans huvudkontor har det 
+dock framförts att granskningen ska avse bägge delar. Riksrevisionen noterar 
+att de skriftliga riktlinjerna för sakkunniggranskning skiljer sig från riktlinjerna för kvalitetsverktyget Qben II där det särskilt anges att kontrollen avser 
+såväl tillräckligt beslutsunderlag som korrekt beslut.
+81 Handläggning när sjukpenning inte ska betalas ut, Försäkringskassan 2007.
+
+43 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5.6 Andra typer av beslutsunderlag förekommer sällan och  
+ upprättas sent i de fall de finns
+Granskningen visar att det i många sjukpenningärenden saknas andra typer 
+av beslutsunderlag utöver sjukförsäkran och medicinskt underlag. Försäkringskassan har hållit avstämningsmöte i 32 procent av bifallsärendena och 
+i 18 procent av avslagsärendena. Vidare finns rehabiliteringsunderlag från 
+arbetsgivare i 43 procent av bifallsärenden och i 28 procent av avslagsärenden. Försäkringskassan har genomfört en så kallad SASSAM-kartläggning i 
+36 procent av bifallsärendena och 18 procent av avslagsärendena, men i 42 
+procent av de ärenden där SASSAM har genomförts är det inte dokumenterat vad den lett till.82   
+Tabell 1. Andel bifallsrespektive avslagsärenden där Försäkringskassan har tillgång till 
+andra beslutsunderlag utöver sjukförsäkran och det medicinska underlaget. Procent
+Bifallsärenden Avslagsärenden Signifikant
+Yttrande från försäkringsläkare 36 78 Ja
+Läkarutlåtande om hälsotillstånd 42 35 Nej
+Avstämningsmöte 32 18 Ja 
+Rehabiliteringsunderlag från  
+arbetsgivaren 
+43 28 Ja
+SASSAM-kartläggning 36 18 Ja
+Plan för återgång i arbete/ 
+rehabiliteringsplan 
+43 15 Ja
+Vidare kan Försäkringskassan ha tillgång till en plan för återgång i arbete 
+eller rehabiliteringsplan när man fattar beslut om sjukpenning.83 Resultatet 
+visar att någon av dessa planer finns i 43 procent av bifallsärendena och i 15 
+procent av avslagsärendena. Om rehabiliteringsplan har upprättats i de fall 
+där det är obligatoriskt, det vill säga i de fall där åtgärder som berättigar till 
+rehabiliteringsersättning övervägs, går inte att bedöma utifrån det insamlade 
+materialet.
+ Att det finns fler beslutsunderlag i bifallsärenden jämfört med avslagsärenden kan förklaras av att bifallsärenden pågår under längre tid än avslagsärenden. I de granskade bifallsärendena är den genomsnittliga tiden mellan 
+första och sista journalanteckning 434 dagar. Motsvarande siffra för indragsärenden är 235 dagar och för direktavslagsärenden 44 dagar. Det enda 
+beslutsunderlag som förekommer signifikant oftare i avslagsärenden än i 
+bifallsärenden är yttrande från försäkringsläkare, medan det inte finns någon 
+säkerställd skillnad mellan bifalls- och avslagsärenden vad gäller läkarutlåtanden om hälsotillstånd. 
+82 SASSAM är en förkortning av Strukturerad Arbetsmetodik för Sjukfallshantering och SAMordnad  
+ rehabilitering.
+83 En plan för återgång i arbete ska innehålla alla de åtgärder och insatser som behövs för att den 
+ försäkrade ska kunna få tillbaka sin arbetsförmåga. Planen innehåller samma uppgifter som  
+ rehabiliteringsplanen men även uppgifter om andra insatser än de som ger rehabiliteringsersättning.
+
+44RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Granskningen visar även att det tar lång tid innan Försäkringskassan 
+genomför olika aktiviteter och insatser för den försäkrade. Den långa handläggningstiden ser Riksrevisionen som en aspekt på kvaliteten i underlagen. 
+Exempelvis är den genomsnittliga tiden från att sjukförsäkran inkommit till 
+att yttrande från försäkringsläkare kommer in i genomsnitt drygt ett år. Även 
+läkarutlåtande tycks efterfrågas sent i sjukfallen, i genomsnitt inkommer 
+läkarutlåtande 488 dagar efter att sjukförsäkran inkommit till Försäkringskassan. Det kan bero på att denna typ av utlåtanden ofta används inför övervägande om att bevilja stadigvarande sjuk- och aktivitetsersättning. 
+Tabell 2. Genomsnittlig handläggningstid från det sjukförsäkran inkommit till  
+Försäkringskassan till olika insatser genomförs
+Antal dagar*
+Yttrande från försäkringsläkare 375
+Läkarutlåtande om hälsotillstånd 488
+Avstämningsmöte 332
+SASSAM-kartläggning 204
+Plan för återgång i arbete/rehabiliteringsplan 165
+* Det kan noteras att granskningen omfattat ärenden som pågått minst 90 dagar,  
+med undantag av ärenden som fått direktavslag.
+I de fall avstämningsmöten förekommer hålls de sent i sjukskrivningsprocessen, i genomsnitt elva månader efter att sjukförsäkran inkommit. För 12 
+procent av de individer som haft avstämningsmöte har det dröjt mer än två 
+år innan mötet genomförts. Detta trots att syftet med ett avstämningsmöte 
+enligt Försäkringskassans vägledning är att ”tidigt fånga upp individens 
+eventuella möjlighet att återgå i arbete och behov av stöd för att underlätta 
+detta”.84 
+ Försäkringskassan mäter sedan 2007 antalet avstämningsmöten som 
+hålls under de första 90 dagarna efter inkommen sjukförsäkran. Riksrevisionen har dock inte funnit att Försäkringskassan kvantifierat antal eller andel 
+ärenden där avstämningsmöten bör hållas. I vår granskning var andelen avstämningsmöten som hållits inom 90 dagar under den studerade perioden 
+33 procent.
+ Även tiden från att sjukförsäkran inkommit till att SASSAM-kartläggning 
+respektive plan för återgång i arbete/rehabiliteringsplan upprättas är lång 
+(204 respektive 165 dagar). I 14 procent av de sjukfall där en sådan plan upprättats skedde det först när sjukskrivningen pågått ett år eller längre.  
+ I sjukfall som pågått lång tid har Försäkringskassan normalt fattat flera 
+beslut baserat på medicinska underlag för olika tidsperioder. Det finns därmed flera tillfällen för Försäkringskassan att överväga olika insatser för den 
+försäkrade. Insatserna är inte beroende av varandra utan kan genomföras 
+separat.
+84 Sjukpenning och samordnad rehabilitering, version 7, Försäkringskassan 2007.
+
+45 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5.7 Utformningen av Försäkringskassans blanketter brister
+Sjukförsäkran och det medicinska underlaget är de två viktigaste underlagen 
+vid beslut om sjukpenning. Särskilda blanketter används för dessa ändamål. 
+ Vad gäller det medicinska underlaget ska läkaren ange ”hur sjukdomen 
+begränsar patientens förmåga/aktivitet” i fält 5 på blanketten.85 I Försäkringskassans metodstöd anges att denna information är en av de viktigaste 
+uppgifterna vid bedömningen av rätten till sjukpenning och att det ska finnas 
+en tydlig beskrivning av hur sjukdomen begränsar förmåga och aktivitet i det 
+dagliga livet. 
+ Utifrån Försäkringskassans metodstöd bedömer Riksrevisionen att det 
+är funktionsförmåga som avses. Vi har i intervjuer med handläggare dock 
+kunnat konstatera att det råder delade meningar om det är funktions- eller 
+arbetsförmåga som ska anges i fältet. Skillnaden är viktig eftersom en nedsättning av funktionsförmågan inte behöver betyda att arbetsförmågan 
+är helt eller delvis nedsatt. Det finns likaså skillnader i handläggarnas uppfattning om det överhuvudtaget är läkarens uppgift att ange arbetsförmåga 
+eller om den bedömningen enbart ska göras av Försäkringskassan utifrån 
+uppgift om funktionsförmågan. Handläggarna konstaterar samtidigt, oavsett 
+vad de anser vara läkarens uppgift i sammanhanget, att detta fält på blanketten ofta är otillräckligt ifyllt och i behov av komplettering. 
+ Blanketten för sjukförsäkran har nyligen ändrats, och vid våra intervjuer 
+har det framförts att utformningen av den nya blanketten har medfört att 
+uppgift om antal ersättningsdagar ofta blir fel. Tidigare skulle den försäkrade 
+ange från och med vilket datum den försäkrade tror sig vara frisk, idag ska 
+den försäkrade istället ange till och med vilket datum han/hon begär ersättning, det vill säga slutdatum för sjukskrivningen. Ofta anger den försäkrade 
+datumet för återgång i arbete, vilket därför kan medföra för hög ersättning. I 
+blanketten för fortsatt sjukförsäkran har formuleringen däremot inte ändrats 
+– här ska den försäkrade fortfarande ange datumet för när sjukskrivningen 
+ska upphöra. 
+85 Granskningen har utgått från blankett RFV 7263 som användes under 2007. Motsvarande  
+ formulering finns i den blankett som används idag (FK 7263), med tillägget ”…på individnivå  
+ (aktivitetsbegränsning)”.
+
+46RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+5.8 Sammanfattande iakttagelser
+Riksrevisionen har gjort följande väsentliga iakttagelser:
+• En stor andel av de medicinska underlagen är bristfälliga och saknar  
+ viktig information. Enligt Riksrevisionens bedömning är en eller flera  
+ obligatoriska uppgifter otillräckliga i 73 procent av de medicinska  
+ underlagen. Bristerna är större i bifallsärenden än i avslagsärenden.  
+ Riksrevisionen har funnit att bristfälliga medicinska underlag ytterst  
+ sällan kompletteras inför beslut om sjukpenning.
+• Även övriga beslutsunderlag uppvisar brister, till exempel är uppgiften i  
+ sjukförsäkran om hur sjukdomen påverkar arbetsförmågan bristfällig i  
+ vart femte fall. 
+• I de fall yttrande från försäkringsläkare finns har dessa stor betydelse  
+ för hur Försäkringskassan beslutar i ett ärende. I 88 procent av de  
+ avslagsärenden där ett sådant yttrande finns överensstämmer  
+ Försäkringskassans beslut med försäkringsläkarens bedömning. 
+• Läkarutlåtanden och medicinska underlag brister ofta i bedömningen  
+ av arbetsförmåga, medan yttrande från försäkringsläkare ofta har en  
+ tydlig sådan bedömning. Blanketten för de medicinska underlagen är  
+ utformad på ett sådant sätt att beskrivning av arbetsförmåga inte  
+ behöver lämnas. 
+• Försäkringskassan genomför olika insatser för den försäkrade sent i sjukskrivningsprocessen. Exempelvis dröjer det i genomsnitt cirka elva  
+ månader innan avstämningsmöte genomförs, och för 14 procent av  
+ de sjukskrivna individerna dröjer det längre än ett år till plan för återgång  
+ i arbete/rehabiliteringsplan upprättas.
+
+47 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+6 Likformighet i sjukpenningärenden 
+En grundläggande princip vid Försäkringskassans handläggning av ansökan 
+om sjukpenning är att handläggarna endast ska beakta relevant information, 
+det vill säga information som med stöd i regelverken ska eller får påverka 
+beslut om rätt till sjukpenning. I linje med den principen ska alla försäkrade 
+behandlas lika vid Försäkringskassans handläggning och inga ovidkommande hänsyn ska tas.
+6.1 Vissa skillnader i beslut och beslutsunderlag för olika  
+ grupper 
+Riksrevisionen har undersökt om det finns skillnader i Försäkringskassans beslut och beslutsunderlag med avseende på kön, ålder, födelseland, 
+inkomst och typ av diagnos. I analysen har Riksrevisionen endast studerat 
+förhållandet mellan två variabler och därmed inte tagit hänsyn till andra faktorer som skulle kunna påverka utfallet. Att det finns skillnader behöver inte 
+betyda att ovidkommande hänsyn tas – medvetet eller omedvetet. Riksrevisionen har inte kunnat avgöra om det finns skillnader som beror på oönskad 
+särbehandling.  
+ Beträffande Försäkringskassans beslut visar resultaten att höginkomsttagare (inkomster över 300 000 kronor per år) i högre utsträckning än 
+låginkomsttagare (inkomster under 200 000 kronor per år) får sina sjukpenningansökningar beviljade, medan låginkomsttagare i högre utsträckning får 
+avslag. En tänkbar förklaring till dessa resultat som framkommit i intervjuer 
+med handläggare på Försäkringskassan är att låginkomsttagare i större 
+utsträckning har fysiskt krävande arbeten. De kan i många fall ha arbetsförmåga i ett mindre tungt arbete. En annan förklaring som framförts är att 
+låginkomsttagare är överrepresenterade bland dem som är arbetslösa, och 
+det förekommer att arbetslösa sjukanmäler sig för att spara a-kassedagar. 
+Den senare förklaringen har också stöd i forskning som har visat att sjukanmälningar bland arbetslösa ökar när a-kasseperioden närmar sig sitt slut.86 
+Vi har inte funnit några signifikanta skillnader i besluten vad gäller övriga 
+bakgrundsvariabler.
+86 Sick of being unemployed? Interactions between unemployment and sickness insurance in  
+ Sweden, IFAU 2002 samt Arbetslösa som blir sjuka och sjuka som inte bli arbetslösa, Socialförsäkringsutredningen 2007.
+
+48RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Vi har även undersökt om det finns några skillnader mellan olika grupper 
+när det gäller förekomsten av beslutsunderlag vid beslut om sjukpenning. De 
+underlag vi studerat är yttrande från försäkringsläkaren, läkarutlåtande om 
+hälsotillstånd, avstämningsmöte, SASSAM-kartläggning, plan för återgång i 
+arbete/rehabiliteringsplan och rehabiliteringsunderlag från arbetsgivaren.
+ Analysen visar att det finns vissa skillnader mellan olika grupper. För 
+individer med psykiska diagnoser hålls avstämningsmöte och utarbetas 
+rehabiliteringsplan oftare än för andra diagnoser. Vidare finns yttrande från 
+försäkringsläkare oftare när den försäkrade är låginkomsttagare jämfört med 
+när han eller hon är höginkomsttagare. Vi har däremot inte funnit några 
+signifikanta skillnader med avseende på kön, ålder eller födelseland.
+ Vi har inte undersökt om det finns geografiska skillnader vad gäller 
+underlagens kvalitet. Det har dock framkommit vid intervjuer med Försäkringskassans handläggare att det finns kvalitetsskillnader i de medicinska 
+underlagen mellan olika län. Skillnaderna indikerar att det kan ha funnits 
+regionala olikheter i hur Försäkringskassan tidigare har hanterat otillräckliga 
+medicinska underlag. Eftersom Försäkringskassan idag har centraliserat 
+verksamheten med bland annat nationella och lokala försäkringscenter torde 
+dock de regionala skillnaderna ha minskat.
+6.2 Skillnader i handläggningstid mellan olika grupper
+Granskningen visar att det finns skillnader mellan olika grupper när det gäller handläggningstider. Det handlar om hur snabbt Försäkringskassan fattar 
+beslut och om inom vilken tidsram beslutsunderlag tas fram. Vad gäller 
+beslut är den genomsnittliga tiden från det första medicinska underlaget till 
+det första beslutet längre för personer i åldern 30–49 år jämfört med gruppen 50–64 år.
+ Vad gäller beslutsunderlag hålls avstämningsmöte cirka två månader 
+senare för män än för kvinnor. Även när det gäller ålder finns det tydliga 
+skillnader. Den genomsnittliga tiden fram till såväl avstämningsmöte som 
+plan för återgång i arbete/rehabiliteringsplan är betydligt längre för personer 
+i åldersgruppen 50–64 år. Exempelvis är tiden till avstämningsmöte 384 dagar för personer i åldersgruppen 50–64 år, medan den är 144 dagar kortare 
+för personer i åldern 20–29 år. En tänkbar förklaring skulle kunna vara att 
+Försäkringskassan prioriterar snabba insatser för yngre. 
+ Resultaten visar också att det finns skillnader i handläggningstider med 
+avseende på födelseland. Tiden till såväl SASSAM-kartläggning som avstämningsmöte tycks vara cirka två månader längre för svenskfödda (356 dagar) 
+jämfört med utrikesfödda (296 dagar).
+
+49 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Tabell 3. Genomsnittlig handläggningstid för olika grupper 
+Antal dagar  
+mellan första 
+medicinska 
+underlag och 
+Försäkringskassans första 
+beslut 
+Antal dagar 
+mellan första 
+medicinska underlag och plan 
+för återgång i 
+arbete/ rehabiliteringsplan
+Antal dagar 
+mellan första 
+medicinska 
+underlag och 
+SASSAM
+Antal dagar 
+mellan första 
+medicinska 
+underlag och 
+avstämningsmöte
+Kön 
+Kvinnor 43 173 176 325
+Män 49 187 249 388
+Ålder
+20–29 år 46 146 166 240
+30–49 år 50 164 211 325
+50–64 år 40 200 203 384
+Födelseland
+Svenskfödd 45 180 216 356
+Utrikesfödd 46 166 160 296
+Sjukskrivningsdiagnos
+Sjukdomar i  
+rörelseorganen
+45 198 275 414
+Psykiska  
+sjukdomar
+46 181 203 325
+Andra sjukdomar 46 155 153 266
+Inkomst
+Låginkomsttagare 
+(< 200 000 kr/år)
+53 224 203 299
+Höginkomsttagare
+(>300 000 kr/år)
+55 101 222 316
+Samtliga 45 178 204 343
+För personer med sjukdomar i rörelseorganen tar det i genomsnitt 414 dagar 
+till ett avstämningsmöte, vilket är 90 dagar längre än genomsnittet för personer med psykiska besvär och cirka 150 dagar längre än för personer med 
+övriga sjukdomar. Även tiden från det första medicinska underlaget till plan 
+för återgång i arbete/rehabiliteringsplan respektive SASSAM-kartläggning är 
+längre för personer med besvär i rörelseorganen.
+ Den genomsnittliga tiden skiljer sig också åt beroende på inkomstnivå. 
+Tiden från första medicinska underlag till plan för återgång i arbete/rehabiliteringsplan är mer än dubbelt så lång för låginkomsttagare som för höginkomsttagare (224 respektive 101 dagar). Tiden till avstämningsmöte respektive SASSAM-kartläggning är dock något kortare för låginkomsttagare.  
+
+50RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+6.3 Sammanfattande iakttagelser
+Riksrevisionen har utifrån en bivariat analys funnit vissa skillnader mellan 
+olika grupper såväl vad gäller Försäkringskassans beslut som beslutsunderlag. Även den tid det tar för Försäkringskassan att fatta beslut och ta fram 
+beslutsunderlag skiljer sig mellan olika grupper. Exempel på skillnader som 
+framkommer i granskningen:
+• Vad gäller beslut visar resultaten att höginkomsttagare i högre  
+ utsträckning får sina sjukpenningansökningar beviljade jämfört med  
+ låginkomsttagare. 
+• Tiden till plan för återgång i arbete/rehabiliteringsplan är klart längre för  
+ äldre personer, för personer med sjukdomar i rörelseorganen och för  
+ låginkomsttagare. När det gäller tiden till avstämningsmöte är den  
+ längre för äldre och för personer med sjukdomar i rörelseorganen.
+Utifrån datamaterialet kan Riksrevisionen inte dra några slutsatser om  
+skillnaderna beror på att avsteg gjorts från kravet på likabehandling.
+
+51 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+7 Regeringens styrning av kvaliteten i  
+ beslutsunderlagen  
+En genomgång av budgetpropositioner och regleringsbrev för 2005 och 
+framåt visar att regeringens övergripande styrning av kvaliteten i underlagen 
+för beslut om sjukpenning har varit tämligen likartad vad avser frågor som 
+rör beslutsunderlagen inom sjukförsäkringen. 
+ I regleringsbreven till Försäkringskassan anges övergripande bland annat 
+att kvaliteten ska öka och att handläggningen ska präglas av hög kvalitet. 
+Även likformighet, rättssäkerhet och effektivitet betonas. 
+ Regeringen angav i budgetpropositionen för 2007: ”De svagheter som 
+Försäkringskassan har konstaterat när det gäller brister i beslutsunderlagen 
+för vissa förmåner är oacceptabla.”87 Regeringen lämnade dock inte något 
+särskilt uppdrag, eller vidtog annan åtgärd, i regleringsbreven för 2007 eller 
+2008 med anledning av bristerna i beslutsunderlagen. 
+ I årsredovisningen för 2007 redovisade Försäkringskassan en marginell 
+resultatförbättring på totalnivå vad gäller tillräckligt beslutsunderlag för inkluderade förmånsslag mellan 2006 och 2007, medan motsvarande siffra för 
+sjukpenning visade på en viss kvalitetsförsämring under perioden. I budgetpropositionen för 2008 valde regeringen att enbart konstatera att ”den osäkerhet som funnits tidigare gällande kvaliteten i ärendehandläggningen till 
+viss del kvarstår”.88 Regeringen konstaterar i budgetpropositionen för 2009, 
+som en uppföljning av verksamhetsmålet för sjukskrivningsprocessen, att 
+Försäkringskassans kvalitetskontroller visar förbättringar vad gäller andelen 
+ärenden som har tillräckliga underlag och ärenden där rätt beslut fattats.89 
+Samtidigt anges i analysavsnittet i samma proposition att det fortfarande 
+finns brister i beslutsunderlagen för bedömning av rätten till sjukpenning. 
+ Socialdepartementet har enligt uppgift diskuterat bristerna i beslutsunderlagen med Försäkringskassan utifrån de generella målen om kvalitet och 
+rättssäkerhet, dels i mål- och resultatdialogen, dels i den löpande dialogen 
+med myndighetens ledning.
+ I regleringsbrevet för 2009 gav regeringen Försäkringskassan bland 
+annat i uppdrag att redovisa kvaliteten på intyg och utlåtanden från läkare 
+(resultaten från rapporten återges i avsnitt 3.4). Ett uppdrag om att utvärdera instrumenten för bedömning av arbetsförmåga har också lämnats. En 
+delrapport ska lämnas i augusti 2009 och en slutrapport i april 2010.90 
+87 Prop. 2006/07:1, utg.omr. 10, bet. 2006/07:SfU1, rskr. 2006/07:75.
+88 Prop. 2007/08:1, utg.omr. 10, bet. 2007/08:SfU1, rskr. 2007/08:68.
+89 Prop. 2008/09:1, utg.omr. 10, bet. 2008/09:SfU1, rskr. 2008/09:138.
+90 Uppdrag att utvärdera instrument för bedömning av arbetsförmåga (S2008/5571/SF).
+
+52RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Två större förändringar i sjukskrivningsprocessen har genomförts under 
+senare delen av 2007 och under 2008. Dessa reformer har dock inte ingått 
+som en del av granskningen. En av dem är ett så kallat försäkringsmedicinskt beslutsstöd som Socialstyrelsen och Försäkringskassan har utarbetat 
+på regeringens uppdrag.91 Beslutsstödet innehåller bland annat övergripande 
+principer vid sjukskrivningsbedömningar och specifika rekommendationer 
+för sjukskrivningstider vid olika diagnoser. Rekommendationerna ska vara 
+vägledande för läkarens bedömning men avsteg kan göras om läkaren kan 
+lämna en motivering till detta. Beslutsstödet publicerades i oktober 2007, 
+men började användas i större utsträckning under 2008.
+ Riksdagen har på regeringens förslag beslutat att införa en så kallad 
+rehabiliteringskedja med fasta tidpunkter för prövning av arbetsförmågan.92 
+Beslutet trädde i kraft vid halvårsskiftet 2008. Tidpunkterna för prövning 
+är normalt vid dag 90 respektive dag 180 i en sjukperiod. Vid det senare 
+tillfället ska en prövning av arbetsförmågan normalt ske mot den reguljära 
+arbetsmarknaden.
+ Sammantaget anser Riksrevisionen att regeringens styrning vad gäller beslutsunderlagen i sjukförsäkringen i huvudsak varit adekvat. Det är 
+dock förvånande att regeringen inte följde upp de ”oacceptabla” bristerna i 
+beslutsunderlagen i den formella styrningen riktad mot Försäkringskassan 
+under 2007. 
+91 Försäkringsmedicinskt beslutsstöd – vägledning för sjukskrivning, Socialstyrelsen 2007.
+92 Prop. 2007/08:136 En reformerad sjukskrivningsprocess för ökad återgång i arbete, bet.  
+ 2007/08:SfU12, rskr. 2007/08:225.
+
+53 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+8 Slutsatser och rekommendationer 
+8.1 Försäkringskassan saknar ofta underlag av tillräcklig  
+ kvalitet vid beslut om sjukpenning
+Granskningen visar att det i en stor andel av de granskade underlagen i sjukpenningärenden saknas information som borde finnas inför beslut om rätt 
+till sjukpenning. Det är därför Riksrevisionens bedömning att Försäkringskassan vid beslut om sjukpenning ofta saknar underlag av tillräcklig kvalitet. 
+8.1.1 Det medicinska underlaget
+Granskningen visar att alltför många medicinska underlag (läkarintyg) är 
+bristfälliga. Dels saknar underlagen ofta obligatoriska uppgifter, dels är 
+uppgifterna många gånger inte av tillräcklig kvalitet. Enligt Riksrevisionens 
+uppfattning är diagnos, nedsättning av funktionsförmåga och beskrivning 
+av arbetsuppgifter de tre viktigaste obligatoriska uppgifterna i det medicinska underlaget. Granskningen visar att minst en av dessa tre uppgifter är 
+otillräcklig i 72 procent av de sista medicinska underlagen. I 73 procent av 
+de granskade ärendena är en eller flera av de sju obligatoriska uppgifterna i 
+de medicinska underlagen otillräckliga. Uppgifterna är enligt Riksrevisionens 
+uppfattning nödvändiga såväl för att kunna göra en korrekt bedömning av 
+rätten till sjukpenning som för att kunna verifiera att lämnade uppgifter är 
+riktiga. Försäkringskassan ska enligt regelverket inte fatta beslut om sjukpenning om någon av de sju obligatoriska uppgifterna saknas. 
+ Arbetsuppgifternas innehåll är den uppgift i det medicinska underlaget som i allra största utsträckning saknas eller är bristfällig (68 procent). 
+Även om arbetsuppgifterna kan framgå av andra underlag i akten – främst i 
+sjukförsäkran – är uppgiften i det medicinska underlaget en förutsättning för 
+att kunna värdera utifrån vilken information läkaren gjort sin bedömning av 
+arbetsförmågan. 
+ Riksrevisionen har funnit att bristfälliga medicinska underlag sällan 
+kompletteras. Konsekvensen av att underlagen inte kompletteras är att 
+risken ökar för att individer felaktigt beviljas sjukpenning. Då en större andel 
+av avslagsärendena är kompletta är risken relativt sett mindre att en individ 
+felaktigt nekas sjukpenning. 
+
+54RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionen anser att det är viktigt att Försäkringskassan ställer höga 
+krav på det medicinska underlaget redan från början. I detta sammanhang 
+noterar Riksrevisionen att Försäkringskassan i december 2008 informerat 
+personalen om att samtliga otillräckliga medicinska underlag ska skickas 
+tillbaka till läkarna för komplettering. Vidare har Försäkringskassan utvecklat 
+ett samarbete med hälso- och sjukvården i syfte att förbättra de medicinska 
+underlagen.
+ Idag delar Försäkringskassan in uppgifterna i det medicinska underlaget 
+i tre grupper: obligatoriska, obligatoriska för fortsatt handläggning samt 
+önskvärda. Riksrevisionen anser att det finns en otydlighet i hanteringen av 
+de uppgifter som är obligatoriska för fortsatt handläggning. Ett första beslut 
+om sjukpenning kan fattas utan att dessa uppgifter finns, men uppgifterna 
+ska enligt regelverket kompletteras. Det är dock oklart hur inkomna kompletteringar ska användas eftersom beslutet redan fattats och det ändå 
+behövs nya uppgifter för ytterligare beslut. Riksrevisionen ser ett behov av 
+förtydligande av hur dessa uppgifter ska hanteras. Det kan finnas skäl att 
+istället dela in samtliga uppgifter i det medicinska underlaget i två grupper: 
+obligatoriska respektive önskvärda. Försäkringskassan skulle kunna välja att 
+låta vissa uppgifter vara obligatoriska för ett första beslut om sjukpenning 
+och i senare beslut utöka antalet obligatoriska uppgifter. Det är Riksrevisionens uppfattning att de uppgifter som idag är obligatoriska från början även 
+fortsättningsvis bör vara det.
+8.1.2 Övriga beslutsunderlag
+Vad gäller andra underlag som kan förekomma i ett sjukpenningärende visar 
+granskningen bland annat att: 
+• var femte försäkrad har inte eller endast delvis beskrivit hur sjukdomen  
+ nedsätter arbetsförmågan, 
+• i fyra av tio fall där SASSAM-kartläggning har genomförts framgår inte  
+ vad kartläggningen lett till, 
+• i sju av tio ärenden har inte avstämningsmöte genomförts,
+• sakkunniggranskning saknas i nästan var femte avslagsärende.  
+Vad gäller sakkunniggranskning anser Riksrevisionen att det är viktigt att 
+det i regelverket tydligt framgår att kvalitetssäkringen avser såväl att beslutsunderlaget är tillräckligt som att beslutet är korrekt. Beträffande SASSAM-
+kartläggningar och avstämningsmöten kan Riksrevisionen konstatera att 
+Försäkringskassan inte har formulerat när sådana ska upprättas respektive 
+genomföras.  
+
+55 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionen har bland annat undersökt om det finns skillnader i 
+förekomst och kvalitet i beslutsunderlagen i de ärenden som avslutas med 
+bifall jämfört med de ärenden som avslutas med avslag. Skillnader har visat 
+sig förekomma mellan bifalls- och avslagsärenden vad gäller det medicinska underlaget. Obligatoriska uppgifter är oftare bristfälliga i bifallsärenden 
+(75 procent) än i avslagsärenden (50 procent). Vad gäller andra typer av 
+beslutsunderlag finns det fler underlag i bifallsärenden än i avslagsärenden. 
+Ett undantag från detta är yttrande från försäkringsläkare som oftare finns i 
+avslagsärenden. Eftersom bifallsärenden pågår längre tid än avslagsärenden 
+är det svårt att dra några slutsatser av resultaten vad gäller andra typer av 
+beslutsunderlag.
+ Sammanfattningsvis visar granskningens resultat att Försäkringskassans handläggare ofta fattar beslut på otillräckligt underlag. Riksrevisionen 
+anser att det är anmärkningsvärt att obligatoriska uppgifter i det medicinska 
+underlaget i så stor utsträckning saknas eller är otillräckliga och att de dessutom sällan kompletteras. Försäkringskassan ska enligt regelverket inte fatta 
+beslut om sjukpenning när obligatoriska uppgifter saknas. Att bristfälliga 
+underlag sällan kompletteras ger sämre förutsättningar för att besluten blir 
+korrekta och rättssäkra. Risken ökar för att individer som har rätt till sjukpenning inte blir beviljad sådan, medan individer som inte har rätt till sjukpenning ändå får det. Att obligatoriska uppgifter oftare saknas eller är bristfälliga 
+när sjukpenning beviljas kan tyda på att den senare risken är större. Felaktiga 
+beslut kan i förlängningen leda till att trovärdigheten för sjukförsäkringen 
+minskar.
+8.2 Alltför många underlag kan användas för samma typ av  
+ bedömning
+Riksrevisionen kan konstatera att det finns en rad olika underlag som Försäkringskassan kan ha tillgång till vid beslut om sjukpenning, och samtliga 
+dessa används idag för att i princip göra en och samma bedömning. Detta 
+lämnar en stor frihet för den enskilda handläggaren att själv avgöra vilket 
+eller vilka underlag som ska inhämtas och användas. Vid intervjuer med Försäkringskassan har det också framkommit att handläggarna använder olika 
+metoder och underlag för att inhämta information inför beslut. Risken är 
+därför att handläggningen varierar, vilket i sin tur kan försvåra enhetligheten i 
+besluten om rätten till sjukpenning. En varierande tillämpning av regelverket 
+och dess instrument kan medföra bristande rättssäkerhet.
+ Riksrevisionen välkomnar därför den utvärdering av olika beslutsunderlag som Försäkringskassan ska genomföra på regeringens uppdrag, liksom 
+det arbete om metoder och bedömning av arbetsförmåga som bedrivs i 
+
+56RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Arbetsförmågeutredningen. Det är viktigt att syftet med respektive underlag 
+– och skillnaderna mellan dessa – tydliggörs och renodlas.
+8.3 Bristande underlag vid bedömning av arbetsförmåga  
+De underlag för medicinsk bedömning som Försäkringskassan kan ha 
+tillgång till har alla samma huvudsakliga syfte – att bedöma funktionsnedsättningen och dess inverkan på arbetsförmågan.93 Utifrån en kvalitativ 
+bedömning av olika medicinska underlag kan Riksrevisionen konstatera att 
+underlagen i varierande grad uppfyller sitt syfte.
+ Riksrevisionen anser att det medicinska underlaget brister vad gäller 
+läkarens bedömning av individens arbetsförmåga. Givet att den behandlande läkaren ska ha i uppgift att bedöma individens arbetsförmåga måste 
+denna uppgift vara tydlig. Läkaren ska idag beskriva hur sjukdomen påverkar funktionsförmågan, medan någon beskrivning av konsekvenser för 
+arbetsförmågan inte behöver göras. Samtidigt ska läkaren i intyget bedöma 
+graden av arbetsförmåga. Försäkringskassan får därmed uppgift om graden 
+av arbetsförmåga men ingen information om vad uppgiften baserar sig på. 
+Det är Riksrevisionens uppfattning att det även är viktigt med en beskrivning 
+av arbetsförmågan i det medicinska underlaget. Riksrevisionen anser att en 
+sådan beskrivning skulle underlätta Försäkringskassans bedömning av rätten 
+till sjukpenning. 
+ Vidare visar genomgången att läkarutlåtanden om hälsotillstånd och 
+medicinska underlag ofta brister i bedömningen av arbetsförmåga, medan 
+yttranden från försäkringsläkare ofta har en tydlig sådan bedömning. Det 
+betyder att den läkare som skriver det för Försäkringskassan många gånger 
+mest användbara underlaget inte träffar den försäkrade. Riksrevisionens 
+granskning visar också att försäkringsläkarens yttrande väger tungt i beslutsprocessen. Eftersom försäkringsläkaren är hänvisad till andra läkares 
+medicinska underlag finns det en risk för att yttrandet bygger på bristfälligt 
+underlag. Konsekvensen kan bli att handläggarna ges sämre förutsättningar 
+att fatta korrekta beslut. Vidare blir det svårare för individen att förstå och acceptera försäkringsläkarens bedömning, i synnerhet vid ett avslag, då dessa 
+läkare inte träffar den försäkrade.  
+ De granskade läkarutlåtandena brister ofta i beskrivningen av arbetsförmåga, vilket är förvånande då blanketten som används efterfrågar sådan 
+information. Läkarutlåtande om hälsotillstånd utfärdas normalt av den läkare 
+som utfärdat det medicinska underlaget. Särskilt läkarutlåtande utfärdas av 
+läkare med särskild behörighet och utbildning i försäkringsmedicin. Enligt 
+Försäkringskassan är särskilt läkarutlåtande förhållandevis ovanligt. 
+93 Medicinskt underlag, läkarutlåtande om hälsotillstånd, särskilt läkarutlåtande och yttrande från  
+ försäkringsläkare. 
+
+57 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Riksrevisionen anser att Försäkringskassan i högre grad än idag bör 
+använda sig av särskilt läkarutlåtande, dels för att få en annan läkares 
+bedömning, dels för att få en bedömning av en läkare som har försäkringsmedicinsk kompetens. Därmed skulle särskilt läkarutlåtande även kunna 
+användas som alternativ till yttrande från försäkringsmedicinsk rådgivare. 
+Fördelen skulle vara att läkaren baserar sin bedömning på en undersökning 
+av individen. Nackdelen är att det är resurskrävande såväl för Försäkringskassan som för hälso- och sjukvården.
+8.4 Försäkringsmedicinska rådgivarens roll måste vara tydlig  
+De försäkringsmedicinska rådgivarna arbetar idag bland annat med att på 
+initiativ av Försäkringskassans handläggare yttra sig över den försäkrades 
+medicinska situation utifrån det medicinska underlaget.
+ Frågan om tillsyn av de försäkringsmedicinska rådgivarna har varit 
+aktuell under lång tid. Aktgranskningen visar att yttranden från försäkringsmedicinska rådgivare väger tungt i beslutsprocessen. Resultatet ligger i linje 
+med den uppfattning som framförts i den allmänna debatten om att de 
+försäkringsmedicinska rådgivarna har en stark roll. Frågan om tillsyn över 
+försäkringsläkarna bereds för närvarande i Regeringskansliet utifrån Patientsäkerhetsutredningens betänkande. 
+ Försäkringskassan har nyligen beslutat om en förändrad roll för de 
+försäkringsmedicinska rådgivarna. Tanken är att dagens skriftliga yttranden 
+på sikt ska tas bort, och istället ska den försäkringsmedicinska rådgivaren 
+vid behov endast fungera som konsultativt stöd vid handläggarens beslut 
+om sjukpenning. Därmed kan den försäkringsmedicinska rådgivarens roll 
+komma att förändras. Det är i nuläget är oklart om, och i så fall hur, dokumentationen av handläggarens kontakter med den försäkringsmedicinska 
+rådgivaren ska ske om de skriftliga yttrandena försvinner. Det är Riksrevisionens uppfattning att en dokumentation bör finnas för att kunna bedöma hur 
+ett beslut har fattas och vilka överväganden som gjorts. Dokumentationen 
+bör också omfatta vilka underlag som ligger till grund för den försäkringsmedicinska bedömningen. Detta är viktigt för att få tillräckligt underlag för 
+omprövning och överprövning i domstol.
+ De försäkringsmedicinska rådgivarnas roll i nuvarande beslutsprocess är 
+tydlig och deras bedömningar dokumenteras i yttranden till handläggarna. 
+Den nya inriktningen på de försäkringsmedicinska rådgivarnas arbete riskerar att göra rollen otydlig. Riksrevisionen anser därför att det är viktigt att 
+arbetet även fortsättningsvis organiseras på ett tydligt och transparent sätt. 
+
+58RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+8.5 Övriga beslutsunderlag saknas ofta och upprättas sent i  
+ de fall de finns
+Granskningen visar att det i många sjukpenningärenden saknas andra typer 
+av beslutsunderlag utöver sjukförsäkran och medicinskt underlag. Exempelvis har Försäkringskassan endast hållit avstämningsmöte i 31 procent av 
+sjukfallen, medan plan för återgång i arbete/rehabiliteringsplan upprättats i 
+41 procent. 
+ Riksrevisionen kan även konstatera att det dröjer oacceptabelt lång tid 
+innan Försäkringskassan genomför olika aktiviteter och insatser för den som 
+är sjukskriven eller den som ansökt om sjukpenning. Till exempel tar det i 
+genomsnitt nästan ett år (332 dagar) från att sjukförsäkran inkommit till att 
+avstämningsmöte hålls. För 12 procent av de individer som har haft avstämningsmöte har det dröjt mer än två år innan mötet genomförts. Denna typ av 
+möten är viktiga för att utredningen av sjukfallet ska gå framåt och individen 
+så snabbt som möjligt ska kunna återgå i arbete. Vidare tar det i genomsnitt 
+165 dagar till att plan för återgång i arbete/rehabiliteringsplan upprättas. I 
+14 procent av de sjukfall där en sådan plan upprättats skedde det först när 
+sjukskrivningen pågått ett år eller längre. Det av Försäkringskassan uppsatta 
+målet om att plan för återgång i arbete ska upprättas inom 90 dagar i aktiva 
+ärenden har sålunda inte alls uppnåtts.94  
+ Riksrevisionen konstaterar således att insatser genomförs – och beslutsunderlag upprättas – påfallande sent i sjukskrivningsprocessen. De långa 
+handläggningstiderna innebär att de försäkrade inte får den hjälp som de behöver för att snabbt kunna återgå i arbete. Riksrevisionen anser att det är ytterst viktigt att insatser för den försäkrade genomförs tidigt så att individens 
+återgång i arbete inte fördröjs i de fall en sådan återgång är aktuell. Tidiga 
+insatser är dessutom viktiga så att kostnaderna för sjukförsäkringen kan hållas så låga som möjligt. Den långa tiden till att Försäkringskassan genomför 
+olika insatser innebär i förlängningen att trovärdigheten för sjukförsäkringen 
+minskar.
+8.6 Skillnader i beslut, beslutsunderlag och handläggningstid  
+ finns mellan olika grupper
+Riksrevisionen har i en bivariat analys funnit skillnader mellan olika grupper 
+såväl vad gäller Försäkringskassans beslut som beslutsunderlag. Även den 
+tid det tar för Försäkringskassan att fatta beslut och ta fram beslutsunderlag 
+skiljer sig mellan olika grupper. 
+94 Under 2008 ändrades målet till 60 dagar.
+
+59 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Vad gäller beslut visar resultaten att det finns signifikanta skillnader mellan olika inkomstgrupper. Höginkomsttagare får i högre utsträckning sina 
+sjukpenningansökningar beviljade jämfört med låginkomsttagare. Däremot 
+finns inga skillnader i beslut som beror på kön, ålder, födelseland eller diagnos.
+ Vidare finns det vissa skillnader vad gäller förekomst av olika beslutsunderlag mellan olika diagnosgrupper och inkomstgrupper. Bland annat 
+förekommer avstämningsmöte, SASSAM-kartläggning och plan för återgång 
+i arbete/rehabiliteringsplan signifikant oftare för personer med psykiska diagnoser jämfört med personer med andra diagnoser. Inga signifikanta skillnader finns dock vad gäller kön, ålder och födelseland.
+ Handläggningstiden från det första medicinska underlaget till beslut är 
+längre för personer i åldern 30–49 år, jämfört med personer i övriga åldersgrupper. Tiden till avstämningsmöte och plan för återgång i arbete/rehabiliteringsplan är klart längre för personer i åldern 50–64 år, för personer med 
+sjukdomar i rörelseorganen och för låginkomsttagare. 
+ Utifrån datamaterialet kan Riksrevisionen inte dra några slutsatser om 
+skillnaderna beror på att avsteg gjorts från kravet på likabehandling. Riksrevisionen konstaterar dock att det är viktigt att Försäkringskassan systematiskt 
+analyserar om det förekommer några skillnader i beslut och beslutsunderlag 
+mellan olika grupper och i förekommande fall även studerar vad orsaken är. 
+Det är viktigt att Försäkringskassan undersöker om väntan på insatser och 
+beslut är olika för olika grupper. Rättssäkerhetsaspekten är viktig här, lika fall 
+ska bedömas lika. Obefogade skillnader behöver uppmärksammas, eventuella skillnader i bedömning minimeras och kravet på likabehandling säkerställas.
+8.7 Riksrevisionens avslutande kommentarer
+Riksrevisionen har i granskningen funnit att Försäkringskassan ofta fattar 
+beslut på otillräckliga underlag och att handläggningen inte alltid fungerar 
+effektivt. I huvudsak bedömer Riksrevisionen att de förbättringar som behöver göras på området inte innebär ökade totala kostnader. Att genomföra 
+insatser och ta fram beslutsunderlag i ett tidigt skede kan komma att medföra ökade administrativa kostnader, men det är Riksrevisionens uppfattning 
+att denna kostnad mer än väl motsvarar den besparing som kan göras för 
+sjukförsäkringen som helhet. Det är Försäkringskassans ansvar att handläggningen av sjukpenningärenden sker effektivt, medan regeringen har ett 
+styrnings- och uppföljningsansvar. 
+
+60RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+8.8 Rekommendationer
+Utifrån granskningens iakttagelser och slutsatser rekommenderar  
+Riksrevisionen att Försäkringskassan:
+• säkerställer att det finns underlag av tillräcklig kvalitet i ett tidigt skede  
+ vid varje beslut om sjukpenning, 
+• ändrar blanketten för det medicinska underlaget i syfte att få en  
+ beskrivning av arbetsförmågan av läkaren, 
+• i större utsträckning använder sig av särskilt läkarutlåtande i syfte att  
+ få en bedömning av en annan läkare som dessutom har försäkringsmedicinsk kompetens, 
+• säkerställer att den nya rollen för de försäkringsmedicinska rådgivarna  
+ inte medför att dokumentationen blir bristfällig,
+• systematiskt analyserar skillnader mellan olika grupper vad gäller beslut,  
+ beslutsunderlag och handläggningstider samt i förekommande fall även  
+ studerar vad orsaken är.
+
+61 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Källförteckning
+ Lagar och förordningar
+Lag (1962:381) om allmän försäkring.
+Förordning (2007:1235) med instruktion för Försäkringskassan.
+ Regeringens propositioner
+Prop. 2002/03:89 Förändringar inom sjukförsäkringen för ökad hälsa i  
+arbetslivet.
+Prop. 2006/07:1 Budgetpropositionen för 2007, utg.omr. 10.
+Prop. 2006/07:59 Vissa sjukförsäkringsfrågor m.m.
+Prop. 2007/08:1 Budgetpropositionen för 2008, utg.omr. 10. 
+Prop. 2007/08:136 En reformerad sjukskrivningsprocess för ökad återgång i 
+arbete.
+Prop. 2008/09:1 Budgetpropositionen för 2009, utg.omr. 10.
+ Utskottsbetänkanden
+Bet. 1996/97:SfU12 Samverkan, socialförsäkringens ersättningsnivåer och  
+administration.
+Bet. 1997/98:SfU8 Socialförsäkringens administration.
+Bet. 2002/03:SfU10 Förändringar inom sjukförsäkringen för ökad hälsa i  
+arbetslivet.
+Bet. 2006/07:SfU1 Utgiftsområdena 10, 11 och 12 inom socialförsäkringsområdet.
+Bet. 2006/07:SfU9 Vissa sjukförsäkringsfrågor m.m. 
+Bet. 2007/08:SfU1 Utgiftsområdena 10, 11 och 12 inom socialförsäkringsområdet.
+Bet. 2007/08:SfU12 En reformerad sjukskrivningsprocess för ökad återgång i 
+arbete.
+Bet. 2008/09:SfU1 Utgiftsområdena 10, 11 och 12 inom socialförsäkringsområdet.
+
+62RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Statens offentliga utredningar
+SOU 2001:47 En handläggningslag – förfarandet hos försäkringskassorna. 
+SOU 2008:66 Arbetsförmåga? En översikt av bedömningsmetoder i Sverige och 
+andra länder.
+SOU 2008:117 Patientsäkerhet. Vad har gjorts? Vad behöver göras?
+ Regeringens beslut
+Försäkringskassans regleringsbrev för 2007.
+Försäkringskassans regleringsbrev för 2008.
+Försäkringskassans regleringsbrev för 2009.
+Kommittédirektiv: Patientsäkerhet och tillsyn m.m. (dir. 2007:57).
+Kommittédirektiv: Översyn av begreppen sjukdom och arbetsförmåga samt en 
+enhetlig bedömning av arbetsförmåga (dir. 2008:11).
+Kommittédirektiv: Tilläggsdirektiv till Utredningen om översyn av begreppen 
+sjukdom och arbetsförmåga samt en enhetlig bedömning av arbetsförmåga  
+(dir. 2009:33).
+Uppdrag till Försäkringskassan och Socialstyrelsen om att utforma en mer  
+kvalitetssäkrad, enhetlig och rättssäker sjukskrivningsprocess (S2005/9201/SF).
+Uppdrag att utvärdera instrument för bedömning av arbetsförmåga 
+(S2008/5571/SF).
+ Material från Försäkringskassan
+De gemensamma metoderna – hur blev det? Försäkringskassan 2007  
+(Redovisar 2007:8).
+Försäkringskassans årsredovisning 2006. Försäkringskassan 2007. 
+Försäkringskassans årsredovisning 2007. Försäkringskassan 2008.
+Försäkringskassans årsredovisning 2008. Försäkringskassan 2009.
+Handläggning när sjukpenning inte ska betalas ut. Försäkringskassan 2007 
+(Metodstöd 2007).  
+Kvaliteten på intyg och utlåtanden från läkarna. Försäkringskassan 2009  
+(dnr 31507-2009-FPSS).
+Medicinska underlag som inte innehåller tillräckliga uppgifter ska sändas tillbaka 
+för komplettering. Försäkringskassan 2008 (Informationsmeddelande IM 
+2008:192).
+Metodstöd för handläggare och försäkringsläkare i sjukförsäkringsärenden.  
+Försäkringskassan 2007.
+Metodstöd för kvalitetssäkring och komplettering av läkarintyg i sjukpenningärenden. Försäkringskassan 2007.
+Mäter Försäkringskassan kvalitet tillförlitligt? En analys av handläggningen 
+
+63 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+av sjukpenningärenden. Försäkringskassan 2008 (Socialförsäkringsrapport 
+2008:16).
+Nej till sjukpenning, vad hände sen? Försäkringskassan 2007 (Analyserar 
+2007:1).
+När kunskap ger resultat – utvärdering av QBen II. Försäkringskassan 2008.
+Sjukpenning och samordnad rehabilitering. Försäkringskassan 2007  
+(Vägledning 2004:2, version 7).
+Sjukpenning och samordnad rehabilitering. Försäkringskassan 2008  
+(Vägledning 2004:2, version 9).
+Sjukpenning och samordnad rehabilitering. Försäkringskassan 2008  
+(Vägledning 2004:2, version 11).
+Strukturerad Arbetsmetod för Sjukfallsutredning och SAMordnad rehabilitering – 
+SASSAM. Försäkringskassan 2007 (Metodstöd 2007).
+Uppföljning av nej till sjukpenning. Försäkringskassan 2005  
+(dnr 114045/2005).
+ Publikationer från andra myndigheter
+Arbetslösa som blir sjuka och sjuka som inte bli arbetslösa, Socialförsäkringsutredningen 2007 (Samtal om Socialförsäkring nr 16).
+Den nya Försäkringskassan, delrapport 1. Statskontoret 2006 (2006:1). 
+Den nya Försäkringskassan, delrapport 2. Statskontoret 2007 (2007:4).
+Den nya Försäkringskassan, delrapport 4. Statskontoret 2008 (2008:19).
+Domstolsstatistik 2007, Domstolsverket 2007.
+Finns det något samband mellan sjukintygets kvalitet och sjukfrånvaro?  
+IFAU 2008 (rapport 2008:27).
+Försäkringsmedicinskt beslutsstöd – vägledning för sjukskrivning. Socialstyrelsen 
+2007.
+Initiativärende mot Östergötlands läns allmänna försäkringskassa angående 
+handläggningstiderna för ärenden rörande utbetalning av sjukpenning.  
+Justitieombudsmännen 2000 (JO-beslut dnr 982-2000). 
+Justitieombudsmännens ämbetsberättelse 1977/78, Justitieombudsmännen  
+(JO 1977/78).
+Omställningskrav i sjukförsäkringen – att pröva sjukas förmåga i annat arbete. 
+Riksrevisionen 2009 (RiR 2009:1).
+Regeringsrättens årsbok 2006, Regeringsrätten (RÅ 2006:15).
+Sick of being unemployed? Interactions between unemployment and sickness 
+insurance in Sweden. IFAU 2002 (Working Paper 2002:6).
+Sjukskrivningsprocessen i hälso- och sjukvården – sammanfattning av  
+Socialstyrelsens tillsynsprojekt 2003–2007. Socialstyrelsen 2008.
+Sjukskrivningsprocessen i primärvården – återföring av tillsynsbesök 2004.  
+Socialstyrelsen 2005.
+
+64RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Styrning och kontroll av regeltillämpningen inom socialförsäkringen.  
+Riksrevisionen 2006 (RiR 2006:20).
+Tas sjukskrivnas arbetsförmåga till vara? – Försäkringskassans kontakter med 
+arbetsgivare. Riksrevisionen 2007 (RiR 2007:19).
+Tillsyn över försäkringsläkare; rapport med anledning av regeringsuppdrag.  
+Socialstyrelsen 2004 (dnr 00-10798/03).
+ Övrig litteratur
+Arrelöv B (2006), Läkarna i sjukskrivningsprocessen. I Sjukförsäkring Kultur 
+och Attityder, Försäkringskassan 2006 (Analyserar 2006:16), Stockholm.
+Godtycke och rättsosäkerhet styr försörjning för sjuka. Granskning av 115 fall  
+av avslag till sjukpenning från Försäkringskassan i Västernorrland. Handikappföreningarnas samarbetsorgan 2007, Härnösand.
+Ragnemalm H (2007), Förvaltningsprocessens grunder, upplaga 8, Stockholm. 
+Söderberg E & Alexanderson K (2005), Sickness certificates as a basis for 
+decisions regarding entitlement to sickness insurance benefits, Scandinavian 
+Journal of Public Health, 2005; 33:314–320. 
+Söderberg E m.fl. (2004), Utfärdade läkarintyg i två län – en jämförande  
+studie ur ett sjukförsäkringsperspektiv. Försäkringsmedicinskt centrum och 
+Linköpings universitet (Rapport 2004:2), Linköping och Östersund.
+ Intervjuer
+Intervjuer har genomförts med företrädare för Försäkringskassan och  
+Socialdepartementet.
+
+65 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Bilaga 1 Metodbeskrivning för granskning  
+   av sjukpenningärenden
+Riksrevisionen har studerat ett antal sjukfallsärenden i syfte att granska kvaliteten i Försäkringskassans underlag vid beslut om sjukpenning. För varje 
+sjukpenningärende har Riksrevisionen undersökt vilka underlag som finns 
+i akten och i vissa fall uppgifternas kvalitet. Riksrevisionen har inte bedömt 
+om beslutet i sjukpenningärendet varit korrekt. 
+ Riksrevisionen har haft tillgång till Försäkringskassans ärendehanteringssystem (ÄHS), vilket innehåller samtliga sjukfallsakter. Akterna ska innehålla 
+dokumentation av alla beslutsunderlag som haft betydelse för beslut om 
+sjukpenning (exempelvis sjukförsäkran, medicinskt underlag, protokoll från 
+avstämningsmöte, SASSAM-kartläggning och rehabiliteringsunderlag från 
+arbetsgivaren). Aktgranskningen har genomförts av Riksrevisionen på Försäkringskassans huvudkontor under juni 2008.
+ Försäkringskassan har på Riksrevisionens begäran gjort ett urval bland 
+sjukpenningakter utifrån två ärendetyper. Den första ärendetypen består av 
+sjukpenningärenden som pågått minst 90 dagar och som någon gång under 
+år 2007 avslutats med beslut om att bevilja sjukpenning med 25, 50, 75 eller 
+100 procent. Dessa ärenden kallas för bifallsärenden. Den andra typen består 
+av ärenden där Försäkringskassan någon gång under år 2007 sa nej till sjukpenning redan från början alternativt efter en tid med sjukpenning. Både nej 
+från början och efter en tid med sjukpenning kallas avslagsärenden. 
+ Antalet sjukfall som uppfyllde kriteriet för bifallsärenden eller avslagsärenden var enligt Försäkringskassan 175 458. I samråd med Statisticon AB 
+drogs sedan ett urval av 400 akter. I syfte att få tillräckligt många avslagsärenden för att kunna dra slutsatser om hela populationen gjordes ett stratifierat urval av avslagsärenden. Urvalet stratifierades även utifrån kön och 
+ålder. 
+ Av urvalets 400 akter visade sig 45 akter vara felkodade. De tillhörde 
+således inte någon av de två ärendetyperna. Antalet sjukfallsakter som denna 
+granskning baserar sig på är därmed 355 (vilket motsvarar en population på 
+157 849 ärenden). Av de 355 sjukpenningärendena var 264 bifallsärenden och 
+91 avslagsärenden. Bland avslagsärendena var 63 avslag som skedde direkt 
+utan att det föregicks av en tidigare period av beviljad sjukpenning, medan 
+28 ärenden avsåg indrag, det vill säga sådana som efter en tid med sjukpenning fått avslag.   
+
+66RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Efter att urvalet dragits skickades samtliga ärenden med bakgrundsuppgifter (exempelvis kön och ålder), uppgift om ärendetyp (bifall eller avslag) 
+och löpnummer till Statisticon AB. De skapade en viktvariabel, vilken möjliggör att slutsatser dras för hela populationen. Om inte annat anges har denna 
+variabel sedan använts genomgående i analysen.
+ Analysen görs separat för bifallsrespektive avslagsärenden. De skillnader vi redovisar i rapporten är signifikanta på 5-procentsnivån, vilket innebär 
+att skillnaderna mellan de två grupperna med 95 procents säkerhet inte beror 
+på slumpen. 
+ De underlag som studeras i rapporten är:
+• den försäkrades begäran om sjukpenning,
+• medicinskt underlag,
+• yttrande från försäkringsläkare,
+• läkarutlåtande om hälsotillstånd,
+• SASSAM-kartläggning,
+• protokoll från avstämningsmöte,
+• plan för återgång i arbete/rehabiliteringsplan, och
+• rehabiliteringsunderlag från arbetsgivare.
+Den analys som gjorts av medicinska underlag och som redovisas gäller det 
+sista medicinska underlaget i akten om inte annat anges. I de sjukfall där det 
+endast finns ett medicinskt underlag (37 av 355 ärenden) har detta fått representera både det första och det sista underlaget.
+ För att bedöma om Försäkringskassan kompletterar bristfälliga medicinska underlag har Riksrevisionen i särskild ordning granskat ett slumpmässigt 
+urval av de 237 ärenden där det sista medicinska underlaget bedömdes vara i 
+behov av komplettering. En tredjedel av dessa ärenden studerades.
+ Härutöver har en kvalitativ genomgång gjorts av samtliga ärenden där 
+läkarutlåtande om hälsotillstånd och/eller yttrande från försäkringsläkare har 
+funnits. I dessa fall har det sista medicinska underlaget, läkarutlåtande och 
+yttrande från försäkringsläkare studerats och kompletterats med en genomgång av den försäkrades uppgift om hur sjukdomen påverkar arbetsförmågan. 
+
+67 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Bilaga 2 Frågeformulär aktgranskning
+1. Löpnummer
+2. Kön
+ o Man  o Kvinna
+3. Datum för första journalanteckning  _____________________________
+4. Datum för sjukfallets avslut ____________________________________
+ (Om pågående lämnas fältet tomt.)
+ Den försäkrade
+5. Datum för försäkran __________________________________________
+6. Den försäkrades födelseår _____________________________________
+7. Har den försäkrade beskrivit hur sjukdomen påverkar hans/hennes  
+ möjligheter att arbeta?
+ o Ja   o Nej   o Delvis
+8. Den försäkrades arbetsstatus vid ansökan om sjukpenning,  
+ flera svar möjliga
+ o Anställd 
+ o Arbetslös
+ o Sjukskriven
+ o Studerande
+ o Rehabiliteringspenning
+ o Egen företagare
+ o Ekonomiskt bistånd
+ o Skyddat arbete
+ o Övrigt
+9. SGI  _______________________________________________________
+10. Utbildning – högsta avslutade
+ o Grundskola
+ o Gymnasieutbildning
+ o Högskola
+11. Beskrivning av hur sjukdomen påverkar den försäkrades möjligheter  
+ att arbeta.
+12. Arbetsförmågebedömning
+ o 0
+ o ¼
+ o ½
+ o ¾
+ o 1
+
+68RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Medicinskt underlag (Första och sista medicinska underlaget)
+13. Datum på underlaget _________________________________________
+14. Finns uppgift om klinik eller mottagning och läkarens namn? 
+	 o Ja   o Nej
+15. Finns uppgift om diagnos/-er eller symtom? (fält 2) 
+	 o Ja   o Nej
+16. Finns uppgift om diagnoskod?
+	 o Ja   o Nej 
+17. Ange diagnoskod ____________________________________________
+	 o Rörelseorganens sjukdomar
+	 o Psykiska diagnoser
+	 o Övriga diagnoser
+18. Finns uppgift om anamnes? 
+	 o Ja   o Nej
+19. Finns uppgift om status, objektiva undersökningsfynd (fält 4)? 
+	 o Ja   o Nej
+20. Uppgifterna baseras på
+ A. o Personlig kontakt
+ A. o Telefonkontakt
+ A. o Journaluppgifter
+ A. o Annat, vad _____________________________________________
+21. Finns uppgift om hur sjukdomen begränsar patientens  
+ förmåga/aktivitet? (fält 5) 
+	 o Ja   o Nej
+22. Finns en tydlig beskrivning av hur sjukdomen begränsar den försäkrades  
+ förmåga/aktivitet?
+	 o Ja   o Nej
+23. Fyll i klartext. (fält 5)
+	 o Diagnos
+	 o Nedsättning av funktionsförmåga
+24. Går det att utläsa arbetsuppgifternas art? (Yrke ej tillräckligt).
+	 o Ja   o Nej   o Ej aktuellt
+25. Medicinskt underlag – Arbetsförmågebedömning
+	 o 0
+	 o ¼
+	 o ½
+	 o ¾
+	 o 1
+
+69 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+26. Finns uppgift om medicinsk bedömning av i vilken grad funktionsnedsättningen begränsar patientens förmåga? (fält 8)
+	 o Ja   o Nej
+ Om helt nedsatt, besvara frågorna nedan. (fält 8)
+27. Finns uppgift om deltid kan vara olämplig av psykosociala skäl? 
+	 o Ja   o Nej
+28. Finns uppgift om anpassade arbetsuppgifter kan möjliggöra 
+ sysselsättning på deltid/heltid? 
+	 o Ja   o Nej
+29. Finns uppgift om deltid kan vara skadlig för sjukdomens förlopp? 
+	 o Ja   o Nej
+30. Finns uppgift om deltid i nuvarande sysselsättning kan vara möjlig  
+ med hänsyn till symtom? 
+	 o Ja   o Nej
+31. Finns uppgift om deltid kan förbättra prognosen för återgång i arbete? 
+	 o Ja   o Nej
+32. Finns uppgift om deltidsarbete på annat sätt kan vara skadligt? 
+	 o Ja   o Nej
+33. Finns uppgift om prognos hur länge sjukskrivningen behöver vara?  
+ (fält 9) 
+	 o Ja   o Nej   o kan ej bedömas
+34. Finns uppgift om namn?
+	 o Ja   o Nej
+35. Finns uppgift om underskrift?
+	 o Ja   o Nej
+ Läkarutlåtande om hälsotillstånd
+36. Finns läkarutlåtande om hälsotillstånd?
+	 o Ja   o Nej
+37. Datum på läkarutlåtande  ______________________________________
+38. Finns uppgift om hur det medicinska tillståndet påverkar  
+ funktionsförmågan?
+	 o Ja   o Nej
+39. Om ja, hur påverkar enligt utlåtandet det medicinska tillståndet  
+ funktionsförmågan fysiskt och/eller psykiskt? (fält 14)
+	 o Diagnos
+	 o Nedsättning av funktionsförmåga
+
+70RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Försäkringsläkarens yttrande
+40. Finns yttrande från försäkringsläkare?
+	 o Ja   o Nej
+41. Datum på yttrande ___________________________________________
+42. På vilket sätt begränsar sjukdomen eller symtomen aktiviteten på  
+ organ- och individnivå?
+	 o Diagnos
+	 o Nedsättning av funktionsförmåga
+43. I vilken omfattning sätter sjukdomen eller aktivitetsbegränsningen enligt  
+ underlaget ned arbetsförmåga?
+ Ordinarie:
+	 o 0
+	 o ¼
+	 o ½
+	 o ¾
+	 o 1
+ Annat arbete:
+	 o 0
+	 o ¼
+	 o ½
+	 o ¾
+	 o 1
+44. Förekommer latinska eller medicinska termer?
+	 o Ja   o Nej
+45. Om ja, förklaras de i så fall?
+	 o Ja   o Nej
+46. Har FL begärt komplettering från läkaren som skrivit det medicinska  
+ underlaget?
+	 o Ja   o Nej
+47. Har FL redovisat på vilket underlag yttrandet är grundat?
+	 o Ja   o Nej
+48. Har FL redovisat sjukdomens konsekvenser för den försäkrades  
+ aktivitetsbegränsning och arbetsförmåga? 
+	 o Ja   o Nej
+ Vilka uppgifter finns?
+	 o Diagnos
+	 o Nedsättning av funktionsförmåga
+	 o Nedsättning av arbetsförmåga
+49. Har FL besvarat de frågor som handläggaren formulerat speciellt för det  
+ aktuella ärendet? 
+	 o Ja   o Nej
+
+71 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+ Försäkringskassans beslut
+50. Datum på beslut (första utbetalning) ____________________________
+	 o Avslag
+	 o Indrag
+	 o Nedsättning
+ Beviljar sjukpenning med:
+	 o ¼
+	 o ½
+	 o ¾
+	 o 1
+51. Har avstämningsmöte hållits?
+	 o Ja   o Nej
+52. Datum för avstämningsmöte ___________________________________
+53. Är mötet dokumenterat?
+	 o Ja   o Nej
+54. Finns underlag från arbetsgivaren?
+	 o Ja   o Nej
+55. Har rehabiliteringsplan upprättats?
+	 o Ja   o Nej
+56. Datum för rehabiliteringsplan __________________________________
+57. Har plan för återgång i arbete upprättats?
+	 o Ja   o Nej
+58. Datum för plan för återgång i arbete _____________________________
+59. Har en SASSAM-kartläggning gjorts?
+	 o Ja   o Nej
+60. Datum för SASSAM __________________________________________
+61. Vad ledde SASSAM-kartläggningen till?
+	 o Oklart
+	 o Förslag till åtgärder
+62. Sjukfallets senaste status
+	 o Avslag
+	 o Indrag
+	 o Nedsättning
+	 o Sjuk- och aktivitetsersättning
+ Beviljar sjukpenning med:
+	 o ¼
+	 o ½
+	 o ¾
+	 o 1
+	 o Övrigt
+	 o Uppgift saknas
+
+72RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+
+73 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+Bilaga 3 Resultat från aktgranskning
+Tabell B1. Andel bifallsrespektive avslagsärenden i det senaste medicinska underlaget 
+där olika obligatoriska uppgifter saknas. Procent
+Bifallsärenden Avslagsärenden Signifikant
+Diagnos 0 2 Ja, p<0,01
+Riksrevisionens bedömning av diagnos 0 2 Ja, p<0,01
+Hur sjukdomen begränsar den  
+försäkrades förmåga/aktivitet
+3 3 Nej
+Riksrevisionens bedömning av den  
+försäkrades förmåga/aktivitet 
+9 5 Nej
+Riksrevisionens bedömning av arbetsuppgifternas innehåll 
+70 47 Ja, p<0,01
+Bedömning av i vilken grad arbetsförmågan påverkas av funktionsnedsättningen 
+0 2 Ja, p<0,05
+Klinik och läkarens namn 4 3 Nej
+Datum och namnunderskrift 1 2 Nej
+Medicinska underlaget saknar minst en 
+obligatorisk uppgift
+75 50 Ja, p<0,01
+Tabell B2. Andel bifallsrespektive avslagsärenden i det senaste medicinska underlaget 
+där olika uppgifter som behövs för den fortsatta handläggningen saknas. Procent
+Bifallsärenden Avslagsärenden Signifikant
+Diagnoskod 1 2 Nej
+Status, objektiva undersökningsfynd 21 8 Ja, p<0,05
+Vad uppgifterna om status baseras på 5 5 Nej
+Prognos om den försäkrade bedöms 
+återfå arbetsförmågan
+19 20 Nej
+Tabell B3. Andel bifallsrespektive avslagsärenden där uppgifter från den försäkrade 
+saknas. Procent
+Bifallsärenden Avslagsärenden Signifikant
+Beskrivning av hur arbetsförmågan  
+påverkas av sjukdomen
+7 7 Nej
+Grad av arbetsoförmåga 0,48 3 Nej
+Tabell B4. Olika uppgifters förekomst i medicinska utlåtanden. Procent
+Bifallsärenden Avslagsärenden Signifikant
+Försäkringsläkarens yttrande: instämmer 
+med intygsskrivande läkares bedömning 
+90 32 Ja, p<0,01
+Latinska och/eller medicinska termer 
+som förekommer förklaras inte
+16 10 Nej
+Försäkringsläkaren har begärt komplettering från intygsskrivande läkare
+4 4 Nej
+Försäkringsläkaren har redovisat på vilket 
+underlag yttrandet är grundat
+81 88 Nej
+Läkarutlåtande: finns uppgift om
+hur det medicinska tillståndet påverkar 
+funktionsförmågan
+41 35 Nej
+
+74RIKSREVISIONEN Beslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+
+75 RIKSREVISIONENBeslut om sjukpenning – har Försäkringskassan tillräckliga underlag?
+

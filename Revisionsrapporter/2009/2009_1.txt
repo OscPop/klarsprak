@@ -1,0 +1,4050 @@
+RiR 2009:1 
+
+Omställningskrav i sjukförsäkringen 
+
+− att pröva sjukas förmåga i annat arbete 
+
+
+ISBN 978 91 7086 171 0 
+RiR 2009:1 
+Tryck: Riksdagstryckeriet, Stockholm 2009 
+
+
+Regeringen Datum 2009-02-05 
+Socialdepartementet Dnr 31-2007-0929 
+
+Omställningskrav i sjukförsäkringen – att pröva 
+sjukas förmåga i annat arbete 
+
+Riksrevisionen har granskat Försäkringskassans bedöming av sjukskrivnas 
+arbetsförmåga i annat arbete. Resultatet av granskningen redovisas i denna 
+granskningsrapport. 
+
+Företrädare för Regeringskansliet och Försäkringskassan har fått tillfälle 
+att faktagranska och i övrigt lämna synpunkter på utkast till rapport. 
+
+Rapporten överlämnas till regeringen i enlighet med 9 § lagen (2002:1022) 
+om revision av statlig verksamhet m.m. Rapporten överlämnas samtidigt till 
+Riksrevisionens styrelse. 
+
+Rapporten innehåller slutsatser och rekommendationer som avser 
+Försäkringskassan och regeringen. Riksrevisionen kommer att följa upp 
+granskningen. 
+
+Riksrevisor Karin Lindell har beslutat i detta ärende. Revisionsdirektör 
+Pia Fagerström har varit föredragande. Revisionsledare Josefina Selin och 
+revisionsdirektör Anders Viklund har medverkat vid den slutliga 
+handläggningen. 
+
+Karin Lindell Pia Fagerström 
+
+För kännedom: 
+
+Försäkringskassan 
+
+
+Innehåll 
+
+Sammanfattning 7 
+
+1 Inledning 15 
+
+1.1 Motiv till granskningen 15 
+1.2 Revisionsfråga 16 
+1.3 Bedömningsgrunder 16 
+
+1.4 Metoder och avgränsningar 18 
+1.5 Disposition 19 
+
+2 Bakgrund 21 
+2.1 Sjukförsäkringen 21 
+2.2 Stegmodellen 22 
+
+2.3 Attityder till sjukförsäkringen 24 
+
+3 Försäkringskassans handläggning 27 
+
+3.1 Många får sjuk- och aktivitetsersättning – få ställer om 28 
+
+3.2 Bedömningen i steg 5 görs sällan 29 
+
+3.3 Underlag vid arbetsförmågebedömning 30 
+
+3.4 Bedömd arbetsförmåga efter rehabilitering 33 
+
+3.5 Sammanfattande iakttagelser 33 
+
+4 Skillnader i resultatet av arbetsförmågebedömningen 35 
+
+4.1 Skillnader mellan anställda, arbetslösa och egenföretagare 35 
+
+4.2 Inslag av yrkesförsäkring 38 
+
+4.3 Skillnader mellan åldersgrupper 38 
+
+4.4 Skillnader mellan kvinnor och män 40 
+
+4.5 Skillnader mellan kommungrupper 41 
+
+4.6 Skillnader mellan diagnosgrupper 42 
+
+4.7 Sammanfattande iakttagelser 43 
+
+5 Förutsättningar för Försäkringskassans handläggning 45 
+
+5.1 Regeringens styrning i budgetpropositionen 45 
+
+5.2 Regeringens styrning i regleringsbrev 46 
+
+5.3 Försäkringskassans styrning 47 
+
+5.4 Samverkan med andra aktörer 48 
+
+5.5 Sammanfattande iakttagelser 48 
+
+6 Tänkbara effekter av nya regler 49 
+
+6.1 Rehabiliteringskedjan har införts 49 
+
+6.2 Tidsbegränsad sjukersättning har tagits bort 53 
+
+6.3 Ventil i form av andra hänsyn har tagits bort 54 
+
+6.4 Sammanfattande iakttagelser 55 
+
+
+7 Slutsatser och rekommendationer 57 
+7.1 Brister i handläggningen 57 
+7.2 Brister i förutsättningarna 59 
+7.3 Effekter av rehabiliteringskedjan 60 
+7.4 Rekommendationer 61 
+
+Källförteckning 63 
+
+Metodbilaga 65 
+Normbilaga 77 
+
+Ordlista 83 
+
+riksrevisionen 6 Omställningskrav i sjukförsäkringen 
+
+
+Sammanfattning 
+
+Riksrevisionen har granskat om Försäkringskassan bedömer sjukskrivnas 
+arbetsförmåga i annat arbete. Bedömningen av arbetsförmåga 
+i annat arbete är central för en korrekt tillämpning av den allmänna 
+sjukförsäkringen. 
+
+Kan man inte arbeta på grund av sjukdom kan man få ersättning 
+från sjukförsäkringen. Grundläggande för sjukförsäkringens funktion 
+och förtroende är att sjukpenning enbart betalas ut till dem som har 
+rätt till sjukpenning. Det vill säga – kan man arbeta ska man inte få 
+sjukpenning. 
+
+I början av sjukperioden bedömer Försäkringskassan om man kan 
+arbeta i det arbete man redan har. De allra flesta är sjukskrivna under 
+kortare tid och återgår sedan till det de gjorde innan sjukskrivningen, 
+vilket normalt är arbete men för vissa är det arbetslöshet eller studier. 
+
+För att få ersättning från sjukförsäkringen räcker det inte alltid med 
+att sjukdom förhindrar arbete inom det yrke man utbildat sig för eller 
+utövat. Finns arbetsförmåga i annat arbete ska sjukpenning upphöra. 
+Ett sätt att uttrycka saken är att sjukförsäkringen inte är en yrkesförsäkring. 
+
+
+Den som inte kan återvända till sin tidigare arbetsgivare men 
+som kan klara ett annat arbete, behöver ett nytt arbete. Eftersom det i 
+många fall torde vara svårt att ordna detta omedelbart är det i många 
+fall ett nödvändigt ont att vägen tillbaka till arbetslivet gå via arbetslöshet. 
+Hittills har antalet personer som går från sjukskrivning till arbetslöshet 
+varit påtagligt lågt, vilket kan vara ett tecken på att omställningen 
+i sjukförsäkringen inte fungerar särskilt väl. Andra tecken på att 
+omställningen i sjukförsäkringen inte fungerar är att sjukfrånvaron 
+varierar mellan olika delar av landet och att sjukfrånvaron, åtminstone 
+tidigare, har samvarierat med arbetslösheten. Riksrevisionen har 
+tidigare visat att prövningen av arbetsförmågan i något arbete hos 
+arbetsgivaren tenderar att pågå under lång tid. 
+
+En korrekt arbetsförmågebedömning bidrar till omställning och 
+ökad rörlighet på arbetsmarknaden. Riksrevisionen anser att det är 
+angeläget att undersöka hur Försäkringskassan bedömer sjukskrivnas 
+arbetsförmåga i annat arbete. Riksrevisionen har därför genomfört en 
+granskning av bedömningen inom ramen för den så kallade stegmodell 
+som fanns innan juli 2008. Riksrevisionen har inte granskat kvaliteten i 
+de beslutsunderlag som Försäkringskassan haft tillgång till eller om 
+besluten i själva sjukpenningfrågan är korrekta. 
+
+Omställningskrav i sjukförsäkringen 7 riksrevisionen 
+
+
+I dag är stegmodellen ersatt med en rehabiliteringskedja. Resultatet 
+av granskningen, som baseras på situationen 2007, är dock möjlig att 
+relatera till dagens situation. 
+
+Brister i handläggningen 
+
+Riksrevisionen har i granskningen funnit vissa brister i Försäkringskassans 
+tillämpning av stegmodellens steg 5, 6 och 7. I steg 5 ska 
+Försäkringskassan bedöma om den försäkrade har någon arbetsförmåga 
+i annat arbete. I steg 6 ska det bedömas om arbetsförmåga i 
+annat arbete kan finnas eller höjas efter rehabilitering. Steg 7 innebär 
+en prövning av rätten till sjuk- eller aktivitetsersättning1. 
+
+Förmågan i annat arbete prövas inte regelmässigt 
+
+Granskningen visar att de som inte längre kan arbeta i sitt nuvarande 
+arbete sällan lämnar sjukförsäkringen. Av dem som varit sjukskrivna i 
+minst 90 dagar och nått steg 5 är det 18 procent som lämnar sjukförsäkringen, 
+det vill säga inte beviljas sjuk och aktivitetsersättning när 
+sjukpenningen upphör. 
+
+Handläggarna ska alltid pröva arbetsförmågan mot annat arbete i 
+steg 5. Granskningen visar att handläggarna gör så i 77 procent av 
+ärendena. Anställdas arbetsförmåga i annat arbete bedöms i 71 procent 
+av fallen, medan de arbetslösas arbetsförmåga så gott som alltid 
+bedöms. 
+
+Det finns indikationer på att sjukförsäkringen fungerar som en 
+yrkesförsäkring. Det är förståligt att den som är sjukskriven i många 
+fall vill behålla anknytningen till arbetsmarknaden och sin arbetsgivare. 
+Försäkringskassans handläggare bidrar till att anknytningen bibehålls 
+eftersom de inte alltid bedömer anställdas arbetsförmåga mot hela 
+arbetsmarknaden. När bedömningen görs har dessutom sjukskrivningen 
+ofta pågått orimligt länge. Även den behandlande läkaren fortsätter 
+ofta att bedöma arbetsförmågan mot det ursprungliga yrket även när 
+den sjukskrivne blir arbetslös eller inte längre bedöms kunna fortsätta i 
+yrket. Det finns vidare indikationer på att när sjukfall avslutas i steg 5 
+eller 6 återgår anställda ofta till sin tidigare arbetsgivare. Det kan tolkas 
+som att Försäkringskassan har gjort en felaktig bedömning eller som 
+att arbetsgivaren låter den anställde komma tillbaka trots nedsatt 
+arbetsförmåga. 
+
+1 Före detta förtidspension 
+
+riksrevisionen 8 Omställningskrav i sjukförsäkringen 
+
+
+Granskningen visar att i de fall Försäkringskassan gjort en arbetsförmågebedömning 
+mot annat arbete är omställning vanligare och 
+sjukperioden kortare. 
+
+Möjligheten till rehabilitering prövas sällan 
+
+Det är sällan som handläggare bedömer möjligheten att arbetsförmågan 
+i annat arbete kan bli större efter rehabilitering. Av dem som 
+passerar steg 5 – det vill säga inte bedöms klara annat arbete, i alla fall 
+inte utan att först få rehabilitering – får endast 39 procent en sådan 
+bedömning trots att det alltid ska göras enligt regelverket. 
+
+Bedömningen görs sent 
+
+Arbetslösa ska alltid få sin arbetsförmåga bedömd mot annat arbete. 
+Naturligtvis behöver Försäkringskassan få in en ansökan och ett läkarintyg 
+innan bedömningen i praktiken kan göras. Således kan inte en 
+bedömning göras första dagen. Vår granskning visar dock att det för 
+arbetslösa som varit sjukskrivna i minst 90 dagar i genomsnitt tar ett 
+halvt år innan bedömningen mot hela arbetsmarknaden görs. År 2007 
+fanns det ingen regel för när bedömningen skulle göras men Riksrevisionen 
+anser att ett halvt år är orimligt lång tid. 
+
+Anställda och egenföretagare som varit sjukskrivna i minst 90 dagar 
+är sjukskrivna i 1,5 år innan bedömningen görs (i de fall den över huvud 
+taget görs). Riksrevisionen kan konstatera att bedömningen 2007 i flertalet 
+fall gjordes långt senare än vad tidsgränsen i rehabiliteringskedjan 
+anger. 
+
+Skillnader i bedömningar analyseras inte 
+
+Granskningen visar skillnader i sannolikheten för att en arbetsförmågebedömning 
+mot annat arbete görs, vad bedömningen resulterar i, och 
+efter hur lång tid den görs. Skillnaderna varierar beroende på ålder, 
+kön, sysselsättning, kommungrupp och diagnosgrupp. För några av 
+skillnaderna har vi inte hittat några rimliga förklaringar, utifrån den 
+information om sjukfallen vi haft tillgång till. 
+
+Var och en för sig behöver skillnaderna inte vara ett uttryck för 
+bristande likabehandling. Granskningen visar dock att Försäkringskassan 
+inte tillräckligt undersöker skillnaderna. Enligt Riksrevisionen 
+är detta en brist då det kan handla om att kraven på likabehandling inte 
+uppfylls. Tänkbara orsaker till olika behandling behöver undersökas. 
+Om omställningskrav ställs i olika hög grad gentemot olika grupper kan 
+
+Omställningskrav i sjukförsäkringen 9 riksrevisionen 
+
+
+det till exempel tyda på att Försäkringskassan gör prioriteringar som 
+det inte finns utrymme för i regelverket. 
+
+Brister i förutsättningarna 
+
+Ärendehanteringssystemet försvårar tillämpningen 
+
+Försäkringskassan har ansvar för att ha ett användarvänligt IT-system 
+som det går att hämta information om arbetsförmågebedömningen 
+ifrån. 
+
+Det ärendehanteringssystem som Försäkringskassans handläggare 
+använder, visar inte var i stegmodellen ett ärende befinner sig. Enda 
+sättet att få den informationen är genom att titta i akten. Det finns inte 
+heller någon möjlighet att plocka ut aggregerad information kring 
+arbetsförmågebedömningen. 
+
+Läkarnas motstridiga roller 
+
+Försäkringskassans bedömning av arbetsförmågan mot hela arbetsmarknaden 
+underlättas om det finns medicinska underlag som 
+innehåller en bedömning mot annat arbete. För arbetslösa ska det alltid 
+finnas underlag med en sådan bedömning eftersom dem alltid ska 
+bedömas mot hela arbetsmarknaden. I 38 procent av samtliga sjukfall 
+som Riksrevisionen har granskat fanns ett sådant underlag från 
+behandlande läkare. 
+
+Enligt Försäkringskassans enkätundersökning har många läkare 
+problem med att kombinera sin roll som behandlande läkare med 
+rollen som sjukskrivande läkare. Hela 70 procent av läkarna upplever 
+att det är svårt att bedöma arbetsförmågan. Enkäten visar även att 
+handläggare har svårt att få in intyg och att bedöma ”riktigheten” i 
+intygen. 
+
+Intervjuer med Försäkringskassans handläggare och aktstudien 
+visar att handläggarna måste ägna mycket tid åt att få in intyg från 
+läkare. Intervjuerna bekräftar även att läkarna står på patientens sida. 
+Sammantaget finns det en del som talar för att läkarens roll kan behöva 
+förändras i syfte att undvika bristfälliga intyg och minska onödig 
+tidsspillan. 
+
+riksrevisionen 10 Omställningskrav i sjukförsäkringen 
+
+
+Regeringen vet för lite om omställning och arbetsförmågebedömningar 
+
+
+Regeringen har uppmärksammat frågan om omställning och gett ett 
+antal direktiv till bland annat Försäkringskassan. I det avseendet finns 
+det inte skäl att rikta någon kritik mot regeringens insatser. Däremot 
+kan Riksrevisionen konstatera att regeringen inte begärt in eller fått 
+någon återrapportering av hur stegmodellen generellt har tillämpats. 
+Regeringen har därmed inte skaffat sig en samlad bild av utvecklingen. 
+
+Effekter av rehabiliteringskedjan 
+
+Riksrevisionen har granskat arbetsförmågebedömningen i förhållande 
+till stegmodellen. Stegmodellen ersattes den 1 juli 2008 av en rehabiliteringskedja. 
+Den viktigaste skillnaden, för anställda och egenföretagare, 
+är att bedömningen mot hela arbetsmarknaden nu ska göras inom en 
+angiven tid, senast dag 181. Riksrevisionen anser att det är fullt möjligt 
+att diskutera rehabiliteringskedjan i ljuset av granskningens resultat. 
+
+Det faktum att rehabiliteringskedjan har tidsgränser medför 
+rimligen att handläggare kommer att göra arbetsförmågebedömningarna 
+tidigare. Eftersom bedömningarna dessutom ska göras mot fler 
+typer av arbeten – till exempel arbetsmarknadspolitiska åtgärder – 
+kommer sannolikt fler sjukskrivna än tidigare bedömas ha 
+arbetsförmåga. 
+
+Sjukfall som kännetecknas av aktivitet – till exempel samverkan 
+med arbetsgivare, handlingsplanssamverkan och arbetsförmågebedömningar 
+– avslutas tidigare än andra sjukfall. För att rehabiliteringskedjan 
+ska bli framgångsrik räcker det dock inte med mer aktivitet. 
+Försäkringskassan behöver dessutom tidigare än i stegmodellen få 
+tillgång till underlag med en bedömning av arbetsförmåga i annat 
+arbete. Granskningen visar att det ofta tar lång tid att få in underlag. 
+Rehabiliteringskedjan har dock inte inneburit att Försäkringskassan fått 
+nya sanktionsmöjligheter eller förändrade krav på sin handläggning. 
+
+Granskningen visar på ett gap mellan situationen 2007 och hur 
+rehabiliteringskedjan är tänkt att fungera. 2007 tog det i snitt 1,5 år 
+innan Försäkringskassan gjorde en arbetsförmågebedömning i annat 
+arbete för en anställd som varit sjukskriven i minst 90 dagar. Detta kan 
+jämföras med att efter första juli 2008 ska den bedömningen göras 
+efter 6 månader. Frågan är om det är tillräckligt stor skillnad på drivkrafterna 
+i rehabiliteringskedjan jämfört med i den tidigare stegmodellen 
+för att tro att rehabiliteringskedjan ska kunna förändra verkligheten 
+så mycket som det är tänkt. Frågan kvarstår även när övriga reformer 
+och regeländringar beaktas. 
+
+Omställningskrav i sjukförsäkringen 11 riksrevisionen 
+
+
+Det finns två scenarier om inte fler förändringar genomförs. 
+Antingen kommer Försäkringskassans handläggare att, för att klara 
+tidsgränserna, ta beslut om sjukpenning på färre eller sämre underlag 
+än i dag. Försäkringskassan är beroende av andra aktörer och det är 
+tveksamt om läkare, arbetsförmedlare, arbetsgivare, med flera kommer 
+att (kunna) tillgodose önskemålen från Försäkringskassan så mycket 
+snabbare än i dag. 
+
+Alternativet är att Försäkringskassan följer kraven på utredningsskyldighet 
+och skaffar in tillräckligt med underlag innan beslut. Då finns 
+det en risk att många sjukskrivna kommer att begära och få förlängd 
+sjukpenning efter 365 dagar, trots att det enligt rehabiliteringskedjan 
+normalt inte ska betalas ut sjukpenning längre än ett år. 
+
+En annan förändring utöver rehabiliteringskedjan är att möjligheten 
+till tidsbegränsad sjuk- och aktivitetsersättning (SA) tagits bort. I första 
+hand personer med psykiska sjukdomsdiagnoser och de i åldersgruppen 
+35–54 år har tidsbegränsad sjukersättning i större utsträckning än 
+andra. Det är oklart om de kommer att uppfylla kraven på stadigvarande 
+nedsatt arbetsförmåga eller om de kommer att bli utan 
+ersättning. 
+
+Rekommendationer 
+
+Riksrevisionens bedömning är att Försäkringskassan inte har 
+säkerställt att handläggningen uppfyller kravet att bedöma 
+arbetsförmågan mot hela arbetsmarknaden. Riksrevisionen 
+rekommenderar därför Försäkringskassan följande: 
+
+• 
+Säkerställ att en prövning av sjukskrivnas arbetsförmåga mot hela 
+arbetsmarknaden alltid görs. 
+• 
+Säkerställ att en prövning av möjligheten till rehabilitering för 
+sjukskrivna i syfte att höja arbetsförmågan alltid görs. 
+• 
+Analysera mer systematiskt de skillnader i bedömning av 
+arbetsförmåga i annat arbete som finns och åtgärda de skillnader 
+som inte har stöd i regelverket. 
+• 
+Utveckla ärendehanteringssystemet så att användbar information 
+om arbetsförmågebedömningar enkelt kan tas fram. 
+Med tanke på regeringens starka betoning av arbetslinjen bör 
+regeringen ha bättre kunskaper om Försäkringskassans bedömningar 
+av arbetsförmåga mot annat arbete. Riksrevisionen rekommenderar 
+regeringen följande: 
+
+riksrevisionen 12 Omställningskrav i sjukförsäkringen 
+
+
+• 
+Följ upp rehabiliteringskedjan noga med avseende på arbetsförmågebedömningar. 
+Särskilt bör de grupper som i störst utsträckning 
+riskerar att bli utan ersättning från sjukförsäkringen följas upp. 
+Det finns indikationer på att läkarnas dubbla roller att behandla 
+patienten och samtidigt för sjukförsäkringens räkning bedöma 
+arbetsförmågan skapar problem. Riksrevisionen rekommenderar 
+regeringen följande: 
+
+• 
+Se över möjligheten att skilja läkarnas uppgift att bedöma 
+arbetsförmågan mot annat arbete från uppgiften att behandla 
+sjukdom. 
+Omställningskrav i sjukförsäkringen 13 riksrevisionen 
+
+
+Inledning 
+
+1.1 Motiv till granskningen 
+Sjukförsäkringen är i ekonomiska termer en betydande försäkring. Försäkringskassan 
+betalade ut nära 28 miljarder kronor i sjukpenning, fattade nära 
+760 000 beslut för personer som sökt sjukpenning och avslutade 580 000 
+sjukpenningfall under 2007. Sjuk- och aktivitetsersättning (SA) är en annan 
+del av sjukförsäkringen och utgifterna för den uppgick till 66 miljarder 
+kronor 2007. 
+
+De allra flesta ansökningar om sjukpenning beviljas men under senare år 
+
+har diskussionen om vad sjukförsäkringen kan och ska kräva av de försäkra
+
+
+de tilltagit. I medierna har enskilda fall uppmärksammats och Försäkrings
+
+
+kassan har gått ut med budskapet att det är arbetsförmågan som är mest 
+
+intressant – inte sjukdomen i sig. Medan många sjukskrivna och debattörer 
+
+menat att Försäkringskassan blivit för hård i sin bedömning, har Försäk
+
+
+ringskassan hävdat att man blivit bättre på att tillämpa reglerna. Riksdag och 
+
+regering har också gjort ett antal förändringar i sjukförsäkringens regelverk, 
+
+och regeringen har tillsatt en utredning i syfte att klargöra begreppet 
+
+arbetsförmåga och hur arbetsförmåga kan mätas.2 
+
+Det är känt att svenska folket har en mer generös inställning till 
+
+sjukförsäkringen än vad lagen ger stöd för och människors attityder till 
+
+sjukförsäkringen påverkar dess förutsättningar att fungera.3 Ett annat 
+
+problem är att ohälsotalen varierar på regional nivå, delvis till följd av att 
+
+försäkringen inte tillämpas lika för alla.4 
+
+Sjukförsäkringen är ingen yrkesförsäkring. Ändå är det få som går från 
+sjukförsäkringen till arbetslöshet5 vilket kan tyda på att försäkringen inte 
+tillämpas på det sätt som var avsett. Försäkringskassan har ingen kunskap 
+om i vilken utsträckning kravet att lämna sjukförsäkringen vid arbetsförmåga 
+i annat arbete tillämpas. Riksrevisionen finner därför att det är angeläget att 
+granska om, och i så fall hur, Försäkringskassan gör bedömningen av om en 
+sjukskriven trots sin sjukdom kan klara ett annat arbete. För det pågående, 
+och det eventuellt fortsatta, reformarbetet inom sjukförsäkringen är det 
+
+2 Arbetsförmågeutredningen SOU 2008:01. 
+3 Försäkringskassan analyserar 2006:16, Sjukförsäkring – Kulturer och attityder. 
+4 Försäkringskassans statistik 2007:2, Nybeviljade sjukersättningar och aktivitetsersättningar – 
+
+Fördelning på län och diagnos, 2006. 
+
+5 Socialförsäkringsutredningen Arbetslösa som blir sjuka och sjuka som inte blir arbetslösa, 
+Samtal om socialförsäkring nr 16. 
+
+Omställningskrav i sjukförsäkringen 15 riksrevisionen 
+
+
+viktigt att förstå hur den svåra och viktiga uppgiften sköts och vilka förutsättningar 
+Försäkringskassan har. 
+
+Försäkringskassan bör ha god kännedom om läget i sjukpenning
+
+
+ärendena, bland annat vad gäller arbetsförmågebedömning i förhållande till 
+
+annat arbete. År 2007 fanns det inga tidsgränser för när en arbetsförmåge
+
+
+bedömning i annat arbete skulle vara gjord. I och med att rehabiliterings
+
+
+kedjan infördes 2008 finns numera sådana tidsgränser och bedömningen 
+
+ska göras mot en bredare definition av arbetsmarknaden än tidigare. 
+
+Rehabiliteringskedjans tidsgränser ökar behovet för Försäkringskassan att 
+
+ha kännedom om läget i sjukpenningärendena. 
+
+I arbetslöshetsförsäkringen finns ännu tydligare krav på de försäkrade på 
+
+geografisk och yrkesmässig rörlighet. Det handlar om att, om så krävs för att 
+
+kunna få ett nytt arbete, söka arbete inom nya sektorer eller yrken och om 
+
+att söka arbete på orter som kräver pendling eller flytt. Riksrevisionen har för 
+
+avsikt att i en granskningsrapport våren 2009 besvara frågan om regeringen 
+
+och arbetsmarknadsmyndigheterna säkerställer att kraven i arbetslöshetsför
+
+
+säkringen att byta arbetsuppgifter och arbetsort efterlevs. 
+
+1.2 Revisionsfråga 
+Bedömer Försäkringskassan sjukskrivnas arbetsförmåga i annat arbete? 
+Frågan kan brytas ner i ett antal delfrågor: 
+
+• 
+I vilken utsträckning bedömer Försäkringskassan arbetsförmåga mot 
+normalt förekommande arbete på arbetsmarknaden? 
+• 
+Vad blir resultatet av prövningen? 
+• 
+Vad beror eventuella brister på och vad blir konsekvenserna? 
+• 
+Har regeringen styrt Försäkringskassan i tillräcklig utsträckning? 
+Ytterligare ett syfte är att diskutera resultaten i ljuset av de regler som träder 
+i kraft 1 juli 2008. Vilka svårigheter kan regelförändringarna möta och vilka 
+effekter kan de nya reglerna ge? 
+
+1.3 Bedömningsgrunder 
+Riksrevisionens aktgranskning har gjorts med utgångspunkt från följande 
+bedömningsgrunder. 
+
+Arbetslinje och återgång i arbete 
+
+Utgångspunkten för granskningen av Försäkringskassans handläggning 
+är de ambitioner som statsmakterna har uttryckt när det gäller att betona 
+
+riksrevisionen 16 Omställningskrav i sjukförsäkringen 
+
+
+arbetslinjen. Den förra regeringen lyfte fram denna ambition i budgetpropositionerna 
+2005 och 2006, och ambitionen har förstärkts av den nuvarande 
+regeringen i de budgetpropositioner som därefter presenterats. 
+
+I budgetpropositionerna sägs att arbetslinjen och tillvaratagande av 
+
+arbetsförmåga ska vara vägledande i sjukskrivningsprocessen. Fokuseringen 
+
+på att ta tillvara människors arbetsförmåga och åstadkomma bättre samspel 
+
+mellan arbetsplatsen, sjukvården och sjukförsäkringen ska öka. Rätten till 
+
+rehabilitering ska förstärkas, samtidigt som individens skyldighet att aktivt 
+
+delta i rehabilitering lyfts fram. 
+
+Även riskerna med passivitet i sjukskrivningsprocessen och mer 
+
+permanent utanförskap och utslagning framhålls. Regeringen framhåller 
+
+vidare att i de fall då den försäkrade inte kan återgå till sitt gamla arbete på 
+
+hel- eller deltid ska åtgärder som syftar till övergång till annat arbete vidtas. I 
+
+dessa delar krävs, förutom en aktiv medverkan från den enskilde försäkrade, 
+
+ett stöd från arbetsgivaren och från berörda myndigheter. 
+
+Regeringen har sålunda varit tydlig kring det önskvärda med att eventuell 
+
+kvarvarande arbetsförmåga tas till vara, även om det skulle krävas en 
+
+omställning i form av ny arbetsgivare. 
+
+1.3.1 Närmare bestämmelser om de olika stegen 
+Riksrevisionen har även använt lagen (1962:381) om allmän försäkring (AFL) 
+som bedömningsgrund för att granska om Försäkringskassan bedömer 
+arbetsförmåga mot normalt förekommande arbete på arbetsmarknaden. 
+
+Här framgår att alla sjukskriva som passerat steg 4 i modellen ska 
+
+bedömas mot hela arbetsmarknaden i steg 5. Vid steg 6 ska alla få en 
+
+bedömning av om rehabiliteringsinsatser kan öka chanserna att kunna 
+
+utföra ett annat arbete. 
+
+1.3.2 Likformig prövning 
+Försäkringskassan ska alltid göra en individuell bedömning av rätten till 
+sjukpenning. Fram till den 1 juli 2008 kunde Försäkringskassan ta hänsyn 
+till andra faktorer än endast medicinska om särskilda skäl förelåg. 
+
+Om det finns särskilda skäl för det, får vid bedömningen av arbetsförmågans 
+nedsättning beaktas den försäkrades ålder samt bosättningsförhållanden, 
+utbildning, tidigare verksamhet och andra liknande omständigheter beaktas 
+när arbetsförmågans nedsättning bedöms. 6 
+
+I dag finns alltså inte längre någon sådan möjlighet. 
+
+6 
+
+3 kap. 7 § sjätte stycket AFL 
+
+Omställningskrav i sjukförsäkringen 17 riksrevisionen 
+
+
+Även regeringen har pekat på vikten av att handläggningen är likformig. 
+
+Inriktningen för politikområdet är att sjukförsäkringen ska ge inkomsttrygghet 
+för den som drabbas av sjukdom eller skada. Samtidigt ska den ge motiv och 
+möjlighet att återgå till arbete. Försäkringshandläggningen ska präglas av 
+kvalitet och likformighet.7 
+
+1.3.3 Tillgång till beslutsunderlag 
+Försäkringskassan ska ha tillräckligt underlag för att besluta om rätt till 
+sjukpenning. Exakt vilka underlag som krävs i enskilda fall är inte angivet. 
+Riksrevisionens utgångspunkt är att det är rimligt att Försäkringskassan 
+inför en bedömning av huruvida en person som är sjuk kan arbeta med 
+något annat, har tillgång till åtminstone ett underlag där en bedömning av 
+hälsa och arbetsförmåga gjorts. Det går naturligtvis att göra korrekta 
+bedömningar utan relevant beslutsunderlag – precis som det går att göra 
+fel trots gott om relevant beslutsunderlag. Det förefaller dock rimligt att 
+Försäkringskassan införskaffar relevanta beslutsunderlag innan beslut. 
+
+1.4 Metoder och avgränsningar 
+Vi bygger våra iakttagelser, slutsatser och rekommendationer på en aktstudie, 
+på intervjuer med företrädare för Försäkringskassan och Socialdepartementet 
+samt på en enkätundersökning. 
+
+Enkäten gjordes av Försäkringskassan 2005. Vi återanvänder enkätens 
+
+resultat kring vad allmänhet, arbetsledare, försäkringskassehandläggare och 
+
+arbetsgivare anser om sjukförsäkringen och dess tillämpning bland annat 
+
+avseende yrkesmässig och geografisk rörlighet.8 
+
+Aktstudien är gjord 2008 av Riksrevisionen. Sjukpenningärenden har 
+
+granskats med avseende på Försäkringskassans bedömning av arbetsför
+
+
+måga i annat arbete. Urvalet är gjort bland de sjukfall som pågått över 90 
+
+dagar och som avslutades under fjärde kvartalet 2007. Vi har stratifierat 
+
+urvalet för att få bättre information om hur arbetsförmågebedömningen görs 
+
+uppdelat på kön, ålder och region. För uppdelningen på region har vi valt att 
+
+använda Sveriges kommuners och landstings indelning i kommungrupper.9 
+
+7 Budgetpropositionen för 2008, politikområde 19. 
+8 Försäkringskassan analyserar 2006:16, Sjukförsäkring – Kulturer och attityder. 
+9 Se metodbilaga. 
+
+riksrevisionen 18 Omställningskrav i sjukförsäkringen 
+
+
+Vi drog ett slumpmässigt urval på 870 ärenden och av dessa avslutades 
+
+258 med beslut om SA och har därför passerat steg 5 och 6. Två av Försäk
+
+
+ringskassans handläggare granskade de 612 akter som inte avslutats med 
+
+beslut om SA för att identifiera vilka som avslutats i steg 5 eller 6. Samman
+
+
+taget granskades 311 akter som passerat steg 4. Såväl Försäkringskassan 
+
+som en tidigare granskning10 pekar på att ärenden som är kvar i stegen 1–4 
+
+borde befinna sig i steg 5–7. Detta gör att det sannolikt borde varit fler än 311 
+
+som uppfyllde vårt kriterium. De brister som vi identifierar i granskningen är 
+
+därför sannolikt en underskattning av de egentliga problemen. 
+
+Riksrevisionen har studerat om Försäkringskassan explicit har bedömt 
+
+om den försäkrade kan klara ett (annat) arbete som normalt förekommer på 
+
+arbetsmarknaden. Vårt kriterium har varit att det tydligt ska framgå av sjuk
+
+
+penningakten att ansvariga handläggare på Försäkringskassan har gjort en 
+
+bedömning. Handläggaren ska alltså tydligt ha skrivit att hon eller han gjort 
+
+en bedömning, och resultatet av bedömningen ska framgå. Det kan ge oss 
+
+två felkällor. För det första kan handläggaren ha gjort en bedömning som 
+
+inte är dokumenterad i akten. För det andra kan handläggaren ha skrivit in 
+
+en bedömning trots att någon sådan inte gjorts. Den förstnämnda osäker
+
+
+heten utgör en större risk, men Riksrevisionens bedömning är att akterna 
+
+numera i princip innehåller allt som ska finnas där. Vi har dock inte bedömt 
+
+om arbetsförmågebedömningen var korrekt. I samband med bedömningen 
+
+har vi sett vilka underlag som fanns för handläggarna att tillgå och vilka 
+
+bedömningar som gjorts. Vi har också studerat hur, när och i vilken form 
+
+som sjukfallen avslutats. 
+
+Granskningens fokus ligger på stegen 5 och 6 där bedömning av arbets
+
+
+förmåga i annat arbete ska ske. Riksrevisionen har tidigare granskat Försäk
+
+
+ringskassans arbete i förhållande till stegen 3 och 4.11 I metodbilagan 
+
+beskrivs aktgranskningen närmare. 
+
+1.5 Disposition 
+I kapitel 2 beskrivs sjukförsäkringen och den undersökning som Försäkringskassan 
+genomförde kring attityder till sjukförsäkringen. I kapitel 3 och 4 
+presenteras resultatet av aktgranskningen. Kapitel 3 fokuserar på Försäkringskassans 
+handläggning, kapitel 4 på de skillnader vi funnit med 
+avseende på bland annat ålder och kön. 
+
+I kapitel 5 beskrivs förutsättningarna för Försäkringskassans handlägg
+
+
+ning i form av regeringens och Försäkringskassans styrning samt externa 
+
+aktörers påverkan. I kapitel 6 analyserar vi resultatet av granskningen i 
+
+10 Tas sjukskrivnas arbetsförmåga tillvara?, (RiR 2007:19). 
+11 Tas sjukskrivnas arbetsförmåga tillvara?, (RiR 2007:19). 
+
+Omställningskrav i sjukförsäkringen 19 riksrevisionen 
+
+
+relation till de relativt nyligen ändrade reglerna kring sjukpenning och 
+arbetsförmågebedömning. 
+
+Avslutningsvis presenterar vi Riksrevisionens huvudsakliga slutsatser 
+och rekommendationer i kapitel 7. 
+
+Med rapporten följer bilagor om metod, normer och källor samt en 
+ordlista. 
+
+riksrevisionen 20 Omställningskrav i sjukförsäkringen 
+
+
+Bakgrund 
+
+2.1 Sjukförsäkringen 
+Sjukförsäkringen utgörs av de förmåner som sjukförsäkringsavgiften enligt 
+lagen om fördelning av socialavgifter ska finansiera.12 Försäkringen syftar till 
+att ersätta bortfallet av inkomst vid arbetsoförmåga på grund av sjukdom. 
+Sjukförsäkringen kan sägas bestå av två delar: ett skydd mot tillfällig arbetsoförmåga 
+(sjukpenning eller rehabiliteringspenning) och ett skydd mot 
+varaktig arbetsoförmåga (sjuk- och aktivitetsersättning, tidigare kallat förtidspension). 
+För att få ersättning från sjukförsäkringen i form av sjukpenning 
+eller rehabiliteringspenning måste den nedsättning av arbetsförmågan som 
+sjukdomen orsakat motsvara minst en fjärdedel av den normala arbetsförmågan. 
+
+
+Med normal arbetsförmåga avses den arbetsförmåga som skulle finnas 
+
+om det inte vore för sjukdomen. Vid bedömningen av om sjukdom föreligger 
+
+ska bortses från arbetsmarknadsmässiga, ekonomiska, sociala och liknande 
+
+förhållanden. 
+
+För att kunna få sjukpenning eller rehabiliteringspenning krävs att man 
+
+är försäkrad. Eftersom det är obligatoriskt att vara försäkrad är de allra flesta 
+
+anställda och egenföretagare det. Flertalet arbetslösa som arbetade innan de 
+
+blev arbetslösa omfattas också av sjukförsäkringen. 
+
+Flertalet som beviljas sjukpenning återgår i arbete hos samma arbets
+
+
+givare efter en relativt kort tid.13 Andra återvänder efter att arbetsuppgifterna 
+
+anpassats till sjukdomen. I vissa fall omöjliggör sjukdomen en återgång till 
+
+tidigare arbete eller arbetsgivare. Då ska arbetsförmågan prövas mot hela 
+
+arbetsmarknaden. Från och med den 1 juli 2008 finns tidsgränser för när 
+
+denna prövning ska göras. Den enda tidsgräns som fanns i regelverket 
+
+tidigare angav att en prövning av rätt till sjukersättning skulle vara 
+
+genomförd när sjukskrivningen pågått i ett år. 
+
+En förändring som gjorts är att formuleringen kan försörja sig själv genom 
+
+förvärvsarbete på den reguljära arbetsmarknaden i övrigt ersatt den tidigare 
+
+formuleringen försörja sig själv genom sådant förvärvsarbete som är normalt 
+
+förekommande på arbetsmarknaden. Detta innebär att den försäkrade ska 
+
+12 Lagen (2000:981) om fördelning av socialavgifter: Sjukpenning, rehabiliteringspenning och andra 
+rehabiliteringsersättningar, närståendepenning, havandeskapspenning, inkomstrelaterad sjuk- 
+och aktivitetsersättning samt ålderspensionsrätter i samband med förmånerna ovan. 
+
+13 40 procent av sjukfallen avslutas inom 30 dagar och 70 procent avslutas inom 90 dagar från 
+första sjukskrivningsdagen. Källa: Försäkringskassans webbplats 2008-10-22. 
+
+Omställningskrav i sjukförsäkringen 21 riksrevisionen 
+
+
+bedömas mot en bredare definition av arbetsmarknaden än tidigare, vilket 
+innebär att fler torde bedömas ha en arbetsförmåga jämfört med tidigare. 
+Regeringen har betonat arbetslinjen och krav på omställning.14 En 
+tillämpning av omställningskrav kan i sjukförsäkringen innebära att sjuk
+
+
+penningen upphör. Vad som händer med den som mister sin sjukpenning 
+
+för att det bedömts vara möjligt att arbeta med något annat är egentligen 
+
+inte en fråga för sjukförsäkringen. Den försäkrade kan bli arbetslös, börja 
+
+studera, starta eget, hitta ett arbete hos någon annan arbetsgivare eller 
+
+återvända till sitt tidigare arbete eller till andra arbetsuppgifter hos tidigare 
+
+arbetsgivare. 
+
+2.2 Stegmodellen 
+Vid den tidpunkt vår aktgranskning avser, gällde den så kallade 
+stegmodellen. Den fanns reglerad i 3 kap. 7 § AFL. 
+
+Om den försäkrade inte kan antas kunna återgå till sitt vanliga arbete 
+eller till annat arbete hos arbetsgivaren, skall vid bedömningen av 
+arbetsförmågans nedsättning särskilt beaktas om den försäkrade kan försörja sig 
+genom sådant arbete efter åtgärd som avses i 7 b § eller 
+22 kap. 
+
+Om det efter prövning bedöms att den försäkrade inte kan återgå till arbete hos 
+arbetsgivaren eller försörja sig själv genom annat förvärvsarbete som är normalt 
+förekommande på arbetsmarknaden, skall vid bedömningen av arbetsförmågans 
+nedsättning särskilt beaktas om den försäkrade efter åtgärder kan försörja sig 
+själv genom sådant förvärvsarbete som är normalt förekommande på 
+arbetsmarknaden, eller genom annat lämpligt arbete som är tillgängligt för den 
+försäkrade. 
+
+2.2.1 Den modell som gällde till och med första halvåret 2008 
+I Försäkringskassas vägledning finns en beskrivning av stegmodellen: 
+
+Steg 1. Kan den försäkrade utföra sitt vanliga arbete efter nödvändig 
+behandling och konvalescens? 
+Steg 2. Kan den försäkrade utföra sina nuvarande arbetsuppgifter efter viss 
+
+rehabilitering eller anpassning av arbetsuppgifterna? 
+Steg 3. Kan den försäkrade utföra och få andra arbetsuppgifter hos sin 
+arbetsgivare utan extra insatser? 
+
+14 Proposition 2005/06:1. 
+
+riksrevisionen 22 Omställningskrav i sjukförsäkringen 
+
+
+Steg 4. Kan den försäkrade få andra arbetsuppgifter hos sin arbetsgivare 
+
+efter viss utbildning eller rehabiliterande insatser? 
+Steg 5. Kan den försäkrade klara annat på arbetsmarknaden normalt 
+förekommande arbete, utan extra insatser? Om den försäkrade, trots sin 
+sjukdom, kan klara ett på arbetsmarknaden normalt förekommande arbete 
+har hon eller han inte rätt till ersättning från sjukförsäkringen. Den 
+försäkrade bedöms vara arbetsför även om arbetet inte finns direkt 
+tillgängligt för henne eller honom. 
+
+Steg 6. Kan den försäkrade klara annat på arbetsmarknaden normalt 
+förekommande arbete efter vissa rehabiliterande insatser? 
+Steg 7. Är den försäkrade arbetsoförmögen för minst ett år eller varaktigt? 
+
+Blev svaret på frågorna i steg 1–4 nej men ja i steg 5 skulle ersättningen 
+upphöra. Vid prövningen av egna företagare skulle steg 3 och 4 hoppas över 
+och arbetslösa skulle bedömas direkt i steg 5. Var svaret på frågan i steg 5 
+nej men ja i steg 6 skulle sjuk- och rehabiliteringspenning betalas ut så länge 
+rehabiliteringen pågick (dock längst ett år), och när rehabiliteringen var avslutad 
+skulle sjuk- och rehabiliteringspenningen upphöra givet att rehabiliteringen 
+hade gett förväntad effekt. Om rehabiliteringen inte höjde eller 
+återställde arbetsförmågan skulle rätten till sjuk- eller aktivitetsersättning 
+prövas (steg 7). 
+
+2.2.2 Nya regler från den 1 juli 2008 
+Från och med den 1 juli 2008 infördes nya regler för bedömning av arbetsförmåga 
+som ersätter lagtexten i 3 kap. 7 § i AFL. Den så kallade rehabiliteringskedjan 
+har tidsgränser för hur lång tid efter sjukperiodens början som prövningen 
+av den försäkrades arbetsförmåga ska ske utifrån dennes ordinarie 
+arbete, annat arbete hos den ordinarie arbetsgivaren respektive hela arbetsmarknaden. 
+Den bedömning av arbetsförmågan i förhållande till de tidigare 
+arbetsuppgifterna som ligger i stegmodellens steg 1 och 2 är nu aktuell 
+endast de första 90 dagarna. Efter 90 dagar ska Försäkringskassan börja 
+beakta om den försäkrade kan försörja sig efter en omplacering till annat 
+arbete hos arbetsgivaren (steg 3–4). 
+
+När 180 dagar passerats vidgas prövningen, om det inte finns särskilda 
+
+skäl mot det, till att även beakta om den försäkrade har sådan förmåga så att 
+
+han eller hon kan försörja sig själv genom förvärvsarbete på den reguljära 
+
+arbetsmarknaden i övrigt, eller genom annat lämpligt arbete som är tillgäng
+
+
+ligt för den försäkrade. Särskilda skäl kan som längst beaktas fram till och 
+
+med dag 365 i sjukperioden. Efter denna tidpunkt sker prövningen alltid på 
+
+ett sätt som i stort motsvarar steg 5 och 6 i stegmodellen. 
+
+Omställningskrav i sjukförsäkringen 23 riksrevisionen 
+
+
+Liksom tidigare gäller att inriktningen ska vara att arbetslivsinriktad 
+
+rehabilitering som ger ersättning i form av rehabiliteringspenning inte ska 
+
+pågå längre än ett år. 
+
+Rehabiliteringskedjan gäller fullt ut bara för den som har en anställning. 
+För företagare ska Försäkringskassan bedöma arbetsförmågan i förhållande 
+till de vanliga arbetsuppgifterna fram till och med dag 180, och efter det 
+bedöms arbetsförmågan i förhållande till hela den reguljära arbetsmarknaden. 
+För arbetslösa ska arbetsförmågan bedömas i förhållande till hela den 
+reguljära arbetsmarknaden redan från början av sjukperioden. 
+
+2.3 Attityder till sjukförsäkringen 
+Försäkringskassan gjorde 2005 en enkätundersökning om olika aktörers 
+attityder till sjukförsäkringen.15 Attityderna till sjukförsäkringen påverkar 
+försäkringens möjlighet att fungera och dess legitimitet. 
+
+Försäkringskassans undersökning tog sikte på hela sjukförsäkringen där 
+
+rätten till sjukpenning utgör en del. I enkäten finns inte några frågor som 
+
+direkt rör krav på omställning eller prövning mot hela arbetsmarknaden. 
+
+Det finns dock iakttagelser som ändå är relevanta för Riksrevisionens 
+
+granskning. Undersökningen visar exempelvis på sjukskrivnas attityder till 
+
+att byta yrke, vad som påverkar sjukskrivningens längd och läkarnas roll. 
+
+2.3.1 En i vissa avseenden generös syn på rätten till sjukpenning 
+Försäkringskassans enkät har undersökt sociala faktorers påverkan och hur 
+attityder påverkar synen på sjukskrivning. Svenskarna har en mer generös 
+syn på när man får utnyttja sjukförsäkringen än vad lagen medger. Tydligast 
+är det vid situationer som man själv inte kan rå över. 
+
+Resultatet visar vidare att kvinnor, personer som har låg utbildningsnivå, 
+
+hög grad av allmänintresse eller som säger sig stå till vänster på den 
+
+politiska skalan i högre grad än övriga anser att det är legitimt att vara 
+
+sjukskriven till följd av personliga problem. 
+
+2.3.2 Sjukskrivnas attityder till att byta yrke 
+Sjukskrivna anger att de anser sig ha svårt att byta arbetsplats och yrke. De 
+som inte är sjukskrivna är mer öppna för förändring och mer positiva till 
+möjligheten att få nytt arbete. 
+
+15 Försäkringskassan analyserar 2006:16, Sjukförsäkring – Kulturer och ttityder. 
+
+riksrevisionen 24 Omställningskrav i sjukförsäkringen 
+
+
+2.3.3 Läkarnas roll 
+Läkarna säger sig ha svårt att hantera rollen som patienternas behandlande 
+läkare och samtidigt vara intygsutfärdare till Försäkringskassan. Två av tre 
+läkare säger sig ta hänsyn till patientens motivation att återgå till arbete vid 
+en sjukskrivning. Ungefär 70 procent av läkarna anser att det är svårt att 
+bedöma i vilken grad patienten kan arbeta trots sjukdom. Lika många läkare 
+anser att det är svårt att hantera sjukskrivningsärenden där man tvivlar på 
+patientens bedömning av arbetsförmågan i relation till beskrivna besvär. 
+Läkarna anser att de själva och sjukvården som helhet skulle kunna göra mer 
+för att förkorta eller undvika sjukskrivningar. En stor andel av de tillfrågade 
+anger bland annat att bättre samarbete mellan hälso- och sjukvårdens 
+verksamheter, kortare utredningstid och väntetider skulle bidra till detta. 
+
+Försäkringskassans handläggare uppger att det är svårt att få in begärda 
+
+handlingar från läkare. Av handläggarna uppger 80 procent att det är svårt 
+
+att hantera ärenden där man upplever att läkaren sjukskrivit enbart utifrån 
+
+den försäkrades egna uppfattningar om sjukdom och arbetsförmåga. 
+
+2.3.4 Samband mellan antal sjukskrivna och attityder 
+I enkäten visas ett samband mellan sjukskrivningstal och restriktivitet i 
+tillämpningen av systemet i olika län. Rapporten visar att i glesbygd har 
+man en mer tillåtande attityd till sjukfrånvaro och högre sjuktal, medan 
+Stockholm och Uppsala har en mer restriktiv attityd och lägre sjuktal. 
+
+2.3.5 Samstämmighet mellan aktörer 
+Enligt Försäkringskassan tenderar län med låg grad av samstämmighet i 
+attitydsvaren från läkare, arbetsledare och handläggare att ha högre 
+ohälsotal än andra län. Även i län där aktörerna har en generös attityd 
+är ohälsotalen högre. Försäkringskassan menar att kulturella skillnader 
+påverkar skillnader i länens ohälsotal. 
+
+Omställningskrav i sjukförsäkringen 25 riksrevisionen 
+
+
+Försäkringskassans handläggning 
+
+För att få kunskap om hur ofta Försäkringskassans handläggare gör 
+bedömning av arbetsförmåga i annat arbete och hur bedömningen går till 
+har Riksrevisionen granskat akter för personer som hade sjukpenning och 
+där ärendena avslutades under fjärde kvartalet 2007. 
+
+Arbetsförmågebedömning enligt den stegmodell som gällde då innebär 
+att Försäkringskassan avgör om den försäkrade kan försörja sig själv genom 
+förvärvsarbete som är normalt förekommande på arbetsmarknaden, eller 
+genom annat lämpligt arbete som är tillgängligt för den försäkrade.16 Vi 
+använder i rapporten uttrycket annat arbete för att beskriva denna arbetsförmågebedömning. 
+
+
+Aktgranskningen avser, som vi beskriver närmare i metodbilagan, 
+personer som varit sjukskrivna mer än 90 dagar. Det medför att de sjukfall 
+som Riksrevisionen granskat skiljer sig relativt samtliga sjukfall. De som 
+fortfarande har sjukpenning när de passerat steg 4 har rimligtvis en nedsättning 
+av arbetsförmågan som i genomsnitt är svårare att åtgärda än för 
+dem som avslutar sin sjukperiod tidigare i stegmodellen. Enligt Försäkringskassan17 
+finns det sjukfall som ”fastnar” i steg 1–4 trots att det saknas 
+förutsättningar att återgå i arbete hos befintliga arbetsgivare. Detta innebär 
+att resultatet av granskningen underskattas vad gäller andelen ärenden som 
+borde få, men inte får, en bedömning mot annat arbete. Ingen vet dock hur 
+många som ”fastnat” i steg 1–4. Detta fångas inte in av denna granskning 
+som endast berör steg 5–7. Riksrevisionen har tidigare visat att anpassningen 
+av arbetsplatsen och arbetsuppgifterna samt rehabiliteringen av de sjukskrivna 
+i vissa fall pågår under mycket lång tid utan att de sjukskrivna återgår 
+i ordinarie arbete. Många beviljas SA utan att deras arbetsförmåga i 
+anpassade eller nya arbetsuppgifter hos befintlig arbetsgivare har prövats 
+ordentligt.18 
+
+21 procent av de 311 sjukskrivna vars akter vi granskat hade någon andel 
+sjuk- och aktivitetsersättning när sjukfallet startade, 74 procent hade en 
+anställning, 22 procent var arbetslösa och knappt 5 procent var egna företagare.
+19 De som kommer till steg 5 är i snitt äldre än dem vars sjukskrivning 
+
+16 I dagens rehabiliteringskedja ska arbetsförmågan bedömas genom att man avgör om den 
+
+försäkrade kan försörja sig själv genom förvärvsarbete på den reguljära arbetsmarknaden i övrigt, 
+
+eller genom annat lämpligt arbete som är tillgängligt för den försäkrade. 3 kap. 7§ AFL. 
+17 Intervju vid Försäkringskassan 2008-11-28. 
+18 Tas sjukskrivnas arbetsförmåga till vara?, RiR 2007:19. 
+19 Att procentsatserna summerar till över 100 procent beror på att de olika alternativen går att 
+
+kombinera. Exempelvis är det vanligt att ha partiell SA samtidigt som man har en anställning. 
+
+Omställningskrav i sjukförsäkringen 27 riksrevisionen 
+
+
+avslutas före steg 5. Kvinnor är överrepresenterade inom hela sjukförsäkringen 
+och är det i lika hög utsträckning bland dem som når steg 5. 
+
+I aktgranskningen har vi bedömt att Försäkringskassan genomfört en 
+
+bedömning av arbetsförmåga i annat arbete när det tydligt framgår av akten. 
+
+Det är enbart i dessa fall vi har granskat ärendet. Naturligtvis kan arbets
+
+
+förmåga i annat arbete vara bedömd utan att det framgår av akten, samtidigt 
+
+som en bedömning inte behöver vara gjord enbart för att den har beskrivits i 
+
+akten. Riksrevisionen har inte heller bedömt kvaliteten på Försäkrings
+
+
+kassans bedömning av arbetsförmåga. 
+
+3.1 Många får sjuk- och aktivitetsersättning – få ställer om 
+Flertalet av de granskade ärendena avslutas med beslut om SA. Den därefter 
+vanligaste vägen ut ur sjukpenning är en återgång till den sysselsättning 
+man hade före sjukskrivningen; det vill säga arbete, studier eller 
+arbetslöshet. 
+
+Nedan visas i vilket steg sjukfallen avslutas. Knappt vart femte sjukfall 
+
+som pågått i 90 dagar och passerat steg 4 avslutas som ”omställare”, det 
+
+vill säga avslutas i steg 5 eller 6. Resten avslutas i steg 7 där utbyte till SA 
+
+prövas. Riksrevisionen använder beteckningen ”omställare” för dem som 
+
+inte längre får sjuk- eller rehabiliteringspenning och inte heller övergår till 
+
+SA. Varför personerna går från sjukpenning eller vad de gör efter avslut går 
+
+inte alltid att avgöra genom att läsa akterna. 
+
+En betydligt högre andel av omställarna fick sin arbetsförmåga bedömd 
+
+mot annat arbete i steg 5, nämligen 93 procent jämfört med 73 procent för 
+
+dem som inte ställer om. Det är möjligt att tolka det som att aktiv handlägg
+
+
+ning från Försäkringskassan kan medverka till omställning. 
+
+Tabell 3.1 Fördelning av sjukfallen som avslutades i steg 5–7 
+
+Steg 5 Steg 6 Steg 7 
+Andel 13% 5 % 81 % 
+
+För 1 procent av sjukfallen i granskningen har vi inte kunnat utläsa i vilket steg 
+det avslutas. 
+
+De allra flesta av de granskade sjukfallen avslutas i steg 7, där handläggare 
+bedömer om det är aktuellt med utbyte av sjukpenning till SA. Försäkringskassans 
+handläggare bedömde nästan alltid (99,75 procent) att villkoren för 
+SA var uppfyllda. Det hände alltså i princip aldrig att den som bedömts i steg 
+7 inte bedömts uppfylla villkoren för SA. De som avslutas i steg 7 kan trots 
+
+riksrevisionen 28 Omställningskrav i sjukförsäkringen 
+
+
+detta bli utan SA eftersom själva beslutet om SA vid tidpunkten för vår 
+granskning togs av den lokala socialförsäkringsnämnden. I de allra flesta 
+ärenden, 95 procent, delade socialförsäkringsnämnden handläggarens 
+bedömning och beviljade SA. 
+
+Det är sällan sjukfall avslutas i steg 6. I steg 6 ska Försäkringskassans 
+
+handläggare bedöma vilka möjligheter det finns att arbetsförmågan i annat 
+
+arbete kan bli tillräckligt stor efter rehabilitering. För arbetslösa är steg 6 det 
+
+enda tillfälle då rehabilitering bedöms. För anställda ska en bedömning av 
+
+om rehabilitering kan öka arbetsförmågan även göras i steg 2 och i steg 4. 
+
+För egna företagare ska möjligheten till rehabilitering ha bedömts i steg 4. 
+
+Arbetsförmågebedömningen i steg 6 beskrivs närmare i avsnitt 3.4. 
+
+3.2 Bedömningen i steg 5 görs sällan 
+Försäkringskassan har bedömt arbetsförmågan i annat arbete i tre av fyra 
+fall. Eftersom det rör sig om sjukpenningärenden som avslutats borde det 
+enligt regelverket ha gjorts i samtliga fall. I de fall handläggaren gör en 
+bedömning anses två av tre sjukskrivna helt sakna arbetsförmåga. 
+
+3.2.1 Arbetsförmågebedömning mot annat arbete 
+En sjukskrivens arbetsförmåga i annat arbete ska bedömas i steg 5 enligt 
+stegmodellen. För en arbetslös ska den bedömningen göras från dag 1 i 
+sjukskrivningen, för egna företagare när bedömningen i steg 2 har avslutats, 
+och för personer med anställning först när det står klart att det inte är 
+möjligt att gå tillbaka till något arbete hos arbetsgivaren. Alla som kommer 
+till steg 5 ska anses vara ”presumtivt arbetslösa”20. 
+
+Aktgranskningen visar att handläggare gör en bedömning av arbetsförmåga 
+i annat i arbete i 77 procent av sjukfallen. Bedömningen har gjorts i 
+genomsnitt 14 månader efter att sjukskrivningen startade. För 65 procent av 
+de sjukskrivna blir handläggarens bedömning att det helt saknas arbetsförmåga. 
+30 procent av de sjukskrivna anses ha partiell arbetsförmåga och 
+2 procent anses ha full arbetsförmåga. 
+
+20 Intervju med handläggare på Försäkringskassan, november 2007. 
+
+Omställningskrav i sjukförsäkringen 29 riksrevisionen 
+
+
+3.3 Underlag vid arbetsförmågebedömning 
+Den behandlande läkaren ska på ett formulär som Riksförsäkringsverket 
+fastställt i samråd med Socialstyrelsen21 uttala sig om den försäkrades 
+medicinska status och i vilken omfattning och på vilket sätt sjukdomen 
+förorsakar arbetsförmåge- och aktivitetsbegränsning. Den behandlande 
+läkaren bör även ange den försäkrades arbetsuppgifter och arbetsförmågans 
+nedsättning i relation till dessa. 
+
+Riksrevisionen har funnit att Försäkringskassans handläggare vid sin 
+
+bedömning av arbetsförmåga i annat arbete i hälften av sjukfallen saknar 
+
+underlag från läkare som innehåller en bedömning av arbetsförmågan i 
+
+förhållande till hela arbetsmarknaden. 
+
+3.3.1 Vilka underlag finns vid bedömningen? 
+Försäkringskassans handläggare ska ta in de underlag de behöver för att 
+kunna göra en korrekt bedömning. Det finns således inga krav på ett visst 
+antal underlag. Däremot finns det anledning att anta att det är bättre att ha 
+tillgång till bra beslutsunderlag än att inte ha det. 
+
+När Försäkringskassans handläggare gör en arbetsförmågebedömning 
+
+mot annat arbete har de i 83 procent av ärendena beskrivit vad de grundat 
+
+sin bedömning på. Ofta hänvisar de till det medicinska underlaget, men det 
+
+behöver inte alltid vara fallet. Riksrevisionen har sammanställt vilka underlag 
+
+som fanns tillgängliga för Försäkringskassans handläggare vid den aktuella 
+
+tidpunkten för bedömningen. 
+
+I så gott som samtliga ärenden finns ett medicinskt underlag från sjuk
+
+
+skrivande läkare och den sjukskrivnes försäkran om sjukdom och nedsatt 
+
+arbetsförmåga. Båda dessa underlag krävs också för att Försäkringskassan 
+
+ska kunna betala ut sjukpenning.22 När Försäkringskassan gör en arbetsför
+
+
+mågebedömning vid tidpunkten för steg 5-bedömningen finns det vanligtvis 
+
+ytterligare ett till två underlag. Övriga underlag som kan finnas är SASSAM-
+
+kartläggning, plan för återgång i arbete, särskilt läkarutlåtande, försäkrings
+
+
+medicinsk rådgivares intyg, externa utredningar eller dokumentation från 
+
+avstämningsmöte.23 
+
+21 9 § Riksförsäkringsverkets föreskrifter (RFFS 1998:13) om kontroll i sjukpenningärenden och 
+ersättning för merutgifter till och från arbete m.m. 
+
+22 3 kap. 8 § AFL. 
+
+23 Se ordlista för förklaring av respektive underlag. Medicinskt underlag benämns ofta läkarintyg. 
+
+riksrevisionen 30 Omställningskrav i sjukförsäkringen 
+
+
+Diagram 
+till vid o 
+Av diag 
+bedöm 
+läkarut 
+Fö 
+förlopp 
+handli 
+ningst 
+Me 
+ringsm 
+arbetsf 
+arbetsm 
+arbetsf 
+unders 
+24 Obse 
+steg. 
+steg 6 
+25 Plan 
+26 Riksr 
+vad d
+m 3.1 Andelen a 
+olika bedömnin 
+grammet ova 
+mning i steg 6 
+tlåtande och 
+rsäkringskas 
+p. I vår grans 
+ngsplanssam 
+id. 
+edicinska und 
+medicinska rå 
+förmåga i för 
+marknaden. Ä 
+förmåga i an 
+sökt.26 
+ervera att de unde 
+Det är betydligt 
+gick inte vidare 
+för återgång i arb 
+evisionen komm 
+de innehåller och
+akter med respe 
+ngspunkter i sju 
+an kan man s 
+jämfört me 
+SASSAM-kar 
+ssans aktivite 
+skning ser vi t 
+mverkan25 me 
+derlag från b 
+ådgivare bör i 
+rhållande till 
+Även andra u 
+nat arbete, m 
+erlag som redovi 
+färre individer so 
+e till steg 7. Flera 
+bete är en del av 
+mer dock under 20 
+hur de används 
+ektive underlag 
+ukfallen24 
+se att samtlig 
+d steg 5. Stör 
+rtläggning. 
+et i ett ärende 
+till exempel a 
+d Arbetsförm 
+ehandlade lä 
+steg 5 och 6 
+arbeten som 
+underlag kan 
+men hur vanli 
+isas avser individ 
+om ligger till gru 
+gick från steg 5 
+handlingsplanss 
+009 att särskilt g 
+inom sjukförsäk 
+Omst 
+g som Försäkri 
+ga underlag v 
+rst är skillnad 
+e verkar påve 
+att det finns e 
+medlingen oc 
+äkare och yttr 
+innehålla en 
+m är normalt f 
+innehålla en 
+igt det är har 
+der som fått en b 
+nd för steg 6. Sam 
+till steg 7 utan at 
+samverkan. 
+ranska vilka besl 
+kringen. 
+tällningskrav i sjukförs 
+ngskassan haft 
+var mer frekv 
+den för särsk 
+rka sjukfallet 
+ett samband 
+h kortare sju 
+randen från f 
+n bedömning 
+förekomman 
+n bedömning 
+r Riksrevision 
+bedömning i resp 
+mtliga som bedö 
+tt bli bedömda i 
+utsunderlag som
+säkringen 31 
+ft tillgång 
+venta vid 
+kilt 
+ts 
+mellan 
+kskrivförsäkg 
+av 
+nde på 
+g av 
+nen inte 
+pektive 
+ömts i 
+steg 6. 
+m finns, 
+riksrevisionen 
+
+3.3.2 Behandlande läkare bedömer ofta inte mot annat arbete 
+
+Som frramgår ovan finns i princip alltid ett mmedicinskt unnderlag27. I 388 
+procennt av dem finns det en arbbetsförmågebbedömning mmot annat arbete. 
+
+3..3.3 Försäkkringsmedicinsk rådgivaare bedömerr oftast mot annat arbete 
+
+Försäkkringskassanss handläggarre har möjlighet att be en av Försäkrinngskassann 
+anställd läkare, försäkrinngsmedicinsk rådgivare, oom ett yttrannde. 
+
+I 442 procent av sjukfallen finnns det ett ytttrande från een 
+
+försäkrringsmedicinnsk rådgivare och i 82 proocent av dem har arbetsföörmågan 
+
+i annatt arbete bedöömts. 
+
+3..3.4 Handlläggares stöd för arbetsfförmågebeddömning i mmedicinska uunderlag 
+
+I drygt hälften av sjjukfallen där Försäkringskkassans handdläggare gjorrt en 
+bedömmning av arbeetsförmåga i annat arbetee har de saknat en sådan 
+bedömmning av arbeetsförmågan från en behaandlande läkaare eller från en 
+försäkrringsmedicinnsk rådgivare. 
+
+Diagramm 3.2 Andel sjukfall där Försäkringskassan vvid sin bedömning haft tillgång till 
+underlag med läkares bedömning avv arbetsförmågaa i annat arbetee 
+
+18% 
+8% 
+20% 54% 
+Saknaas 
+
+Finns i både intyg occh yttrande 
+
+I försääkringsmedicinnskt syfte 
+I behandlande läkarees intyg 
+
+27 Läkarrintyg. 
+
+riksrrevisionen 32 Ommställningskrav i sjukföörsäkringen 
+
+
+Om sjukskrivande läkare i större utsträckning gjorde en arbetsförmågebedömning 
+i annat arbete skulle Försäkringskassan förmodligen mindre 
+ofta be försäkringsmedicinska rådgivare om kompletterande yttranden. Det 
+skulle i sin tur kunna korta handläggningstiden. 
+
+3.4 Bedömd arbetsförmåga efter rehabilitering 
+I steg 6 ska Försäkringskassan bedöma om rehabilitering kan öka den 
+försäkrades arbetsförmåga i annat arbete. Vi har tidigare konstaterat28 att 
+steg 6 är det minst nyttjade steget i stegmodellen. Av de sjukfall som inte 
+avslutas efter steg 5 får 39 procent en bedömning i steg 6. Med en bedömning 
+menas här att det av akten framgår att Försäkringskassans handläggare 
+har gjort en bedömning av om rehabilitering är aktuell eller inte för att förbättra 
+arbetsförmågan i annat arbete. 
+
+I 23 procent av de sjukfall som bedömdes i steg 6 blev bedömningen att 
+
+rehabilitering kan förbättra arbetsförmågan i annat arbete. 40 procent av 
+
+dem som fick någon form av rehabilitering lämnade sjukförsäkringen. Mot
+
+
+svarande siffra för dem som prövades i steg 6 men där rehabilitering inte 
+
+bedömdes hjälpa är 0 procent. Riksrevisionen ser två tänkbara förklaringar 
+
+till att så många som 40 procent av de sjukfall som avslutades i steg 6 blev 
+
+föremål för omställning. En är att Försäkringskassan bedömer sjukskrivna i 
+
+steg 6 med god precision men avstår från bedömning där det är tydligt att 
+
+rehabilitering inte kommer att förbättra arbetsförmåga i annat arbete. Den 
+
+andra förklaringen är att aktivitet – bedömning och rehabilitering – leder till 
+
+omställning, och att Försäkringskassans bristande aktivitet i detta avseende 
+
+kan leda till att färre ställer om än vad som skulle vara fallet om handlägg
+
+
+arna, i enlighet med regelverket, prövade alla i steg 6. 
+
+3.5 Sammanfattande iakttagelser 
+• 
+Av de sjukfall som passerat steg 4 avslutas 18 procent med omställning, 
+det vill säga att deras sjukpenning upphör och de beviljas inte SA. I 
+resten av fallen prövas rätten till SA och i så gott som samtliga fall 
+beviljas ansökan. 
+• 
+Alla som når steg 5 ska få sin arbetsförmåga bedömd mot hela 
+arbetsmarknaden. Så sker i 77 procent av de fall vi granskat. 
+28 Tabell 3.1. 
+
+Omställningskrav i sjukförsäkringen 33 riksrevisionen 
+
+
+• 
+Alla som når steg 6 ska få en bedömning av om rehabilitering kan höja 
+arbetsförmågan i arbete på hela arbetsmarknaden. Så sker endast i 39 
+procent av de fall vi granskat. Därmed uppfyller inte Försäkringskassan 
+kraven i vare sig steg 5 eller 6. 
+• 
+Bedömningen i steg 5 görs i genomsnitt efter 14 månaders sjukskrivning 
+och bedömningen i steg 6 görs i genomsnitt efter ytterligare 7 månader. 
+• 
+Det finns inga krav på att Försäkringskassans bedömning av arbetsförmåga 
+mot annat arbete ska vila på läkares medicinska bedömning av 
+denna arbetsförmåga. Vi har funnit att en sådan bedömning från läkare 
+finns i knappt hälften av fallen. 
+riksrevisionen 34 Omställningskrav i sjukförsäkringen 
+
+
+4 Skillnader i resultatet av 
+arbetsförmågebedömningen 
+
+Försäkringskassan ska alltid göra en individuell bedömning av rätten till 
+sjukpenning. Avgörande för rätten till sjukpenning är om arbetsförmågan 
+är nedsatt på grund av sjukdom. 
+
+Utgångspunkten för Riksrevisionens granskning är att lika behandling 
+
+ska gälla. Riksrevisionen har funnit att resultatet av Försäkringskassans 
+
+bedömningar skiljer sig mellan ålder, kön, sysselsättning, kommun och 
+
+diagnos. Skillnaderna är så stora att det finns anledning att anta att 
+
+bedömningarna varierar mer än vad som är motiverat med anledning av 
+
+individuella hänsynstaganden och särskilda skäl.29 Riksrevisionen har dock 
+
+inte närmare undersökt orsakerna till dessa skillnader. 
+
+4.1 Skillnader mellan anställda, arbetslösa och 
+egenföretagare 
+4.1.1 Arbetslösa fick minst ofta SA 
+Det är en större andel arbetslösa som ställer om jämfört med anställda och 
+egenföretagare, vilket framgår av tabellen nedan. 
+
+Tabell 4.1 Andel sjukfall som avslutas i steg 5, 6 respektive 7 
+
+Anställd Arbetslös Egenföretagare 
+
+Steg 5 13 % 12 % 12 % 
+Steg 6 5 % 8 % 0 % 
+Steg 7 81 % 77 % 88 % 
+
+Notera att det inte alltid har gått att utläsa i vilket steg ett sjukfall har avslutats. 
+
+Arbetslösas sjukfall avslutas något oftare i steg 6. En förklaring är sannolikt 
+att detta är det första tillfället då frågan om rehabilitering ska övervägas för 
+arbetslösa sjukskrivna. 
+
+De allra flesta sjukfall som pågått i minst 90 dagar och nått steg 5 
+avslutas (82 procent) i steg 7. Tabellen nedan visar vilken sysselsättning de 
+
+29 Försäkringskassan kunde vid tiden för vår aktgranskning beakta särskilda skäl för att mildra 
+kraven på omställning. Försäkringskassan kunde i första hand ta hänsyn till ålder, men även väga 
+in bosättningsförhållanden, utbildning, tidigare verksamhet och andra omständigheter i sin 
+bedömning. Sedan den 1 juli 2008 har denna ”ventil” tagits bort. 
+
+Omställningskrav i sjukförsäkringen 35 riksrevisionen 
+
+
+sjukskrivna har efter sjukfallets avslut fördelat efter den sysselsättning de 
+hade när de blev sjukskrivna. En person kan ha mer än en sysselsättning. 
+
+Tabell 4.2 Sysselsättning före och efter sjukskrivning 
+
+Avslut 
+
+Anställd 
+Arbetslös 
+Egenföretagare 
+SA 
+Föräldraledig 
+Studier 
+
+Ursprunglig sysselsättning 
+
+Anställd Arbetslös Egenföretagare 
+43 % 8 % 14 % 
+12 % 34 % 30 % 
+1 % 0 % 33 % 
+81 % 82 % 88 % 
+0 % 0 % 0 % 
+0 % 0 % 0 % 
+
+Tabellen visar att 43 procent av dem som gick in i sjukfallet som anställda 
+har en anställning även när sjukfallet avslutas och att 12 procent har blivit 
+arbetslösa. Knappt någon har blivit föräldraledig eller börjat studera. 
+
+Många anställda har vid sidan av ett deltidsarbete partiell SA eller a-
+kassa när sjukfallet avslutas. 
+
+4.1.2 Arbetslösa bedöms oftare 
+Arbetslösa får en arbetsförmågebedömning av Försäkringskassan i så gott 
+som samtliga fall, medan enbart 71 procent av de anställda får en bedömning. 
+Det innebär att 29 procent av dem som är anställda inte bedöms mot 
+hela arbetsmarknaden trots att de i steg 4 inte bedömts kunna gå tillbaka till 
+något arbete hos sin arbetsgivare. 
+
+Försäkringskassans bedömning i steg 5 resulterade i två av tre fall i att 
+
+den sjukskrivna ansågs vara helt arbetsoförmögen. Att bedömas vara helt 
+
+arbetsoförmögen är vanligast för arbetslösa. En förklaring till att arbetslösa 
+
+bedöms vara mer oförmögna till arbete än övriga i steg 5 kan vara att det är 
+
+den första gången en arbetsförmågebedömning görs för arbetslösa. 
+
+Tabell 4.3 Försäkringskassans arbetsförmågebedömning i steg 5 
+
+Helt Partiellt Full 
+arbetsoförmögen arbetsförmögen arbetsförmåga 
+
+Anställd 55 % 40 % 5 % 
+Arbetslös 91 % 9 % 0 % 
+Egenföretagare 34 % 54 % 13 % 
+Samtliga 65 % 31 % 4 % 
+
+riksrevisionen 36 Omställningskrav i sjukförsäkringen 
+
+
+4.1.3 Bedömningen görs sent för arbetslösa 
+Arbetslösa har i genomsnitt varit sjukskrivna i ett halvt år när arbetsförmågebedömning 
+mot annat arbete görs. Enligt stegmodellen ska den bedömningen 
+idealt göras redan första dagen i sjukperioden, även om det i 
+praktiken tar tid att få tillgång till relevant beslutsunderlag. För anställda och 
+egenföretagare dröjer det ytterligare ett år innan motsvarande bedömning 
+görs. Att bedömningen av arbetsförmåga i annat arbete sker först efter ett 
+halvår innebär inte att utbetalning dröjer lika länge. Även om det i stegmodellen inte fanns tidsgränser för när bedömningen skulle göras är ett 
+halvt, respektive ett och ett halvt år en alltför lång tid. 
+
+4.1.4 Behandlande läkare bedömer oftare arbetslösa 
+Det finns betydande skillnader i hur ofta behandlande läkare bedömer 
+arbetsförmåga i annat arbete. Hur ofta det görs varierar beroende på om de 
+sjukskrivna är anställda, arbetslösa eller egenföretagare när sjukfallet startar. 
+I 67 procent av de medicinska underlagen från behandlande läkare saknas 
+arbetsförmågebedömning mot annat arbete. Bedömningen görs oftast för 
+arbetslösa (65 procent), men mer sällan för anställda (23 procent) och 
+egenföretagare (19 procent). 
+
+4.1.5 Försäkringsmedicinsk rådgivare bedömer mer sällan anställda 
+I 42 procent av sjukfallen finns det ett yttrande från en försäkringsmedicinsk 
+rådgivare. 80 procent av yttrandena innehåller en bedömning mot annat 
+arbete. Liksom för intygen från behandlande läkare är det vanligare att 
+bedömning mot hela arbetsmarknaden saknas för anställda även om 
+skillnaden är betydligt mindre. 
+
+4.1.6 Bedömning av rehabilitering vanligast för arbetslösa 
+Det är vanligare att Försäkringskassan gör en bedömning av om 
+rehabilitering kan förbättra arbetsförmågan i annat arbete för arbetslösa. För 
+arbetslösa görs bedömningen i 65 procent av ärendena. Motsvarande siffror 
+för anställda och egenföretagare är 30 respektive 19 procent. Bland dem som 
+avslutas i steg 6 är två av tre arbetslösa vilket som nämnts torde förklaras 
+med att steg 6 är det första tillfälle då arbetslösas rehabiliteringsbehov ska 
+bedömas. 
+
+Omställningskrav i sjukförsäkringen 37 riksrevisionen 
+
+
+4.2 Inslag av yrkesförsäkring 
+Alla sjukskrivningar som når steg 5 ska prövas mot hela arbetsmarknaden. 
+För nästan en fjärdedel av de försäkrade görs inte någon sådan prövning. 
+Andelen skiljer sig beroende på vilken sysselsättning den försäkrade hade 
+när sjukfallet startade. 99 procent av de arbetslösa fick en arbetsförmågebedömning 
+mot annat arbete i steg 5. Motsvarande siffra för anställda var 
+knappt 71 procent. 
+
+Det är sannolikt att den sysselsättning som den försäkrade har vid sjuk
+
+
+fallets början påverkar om och när arbetsförmågebedömning görs och vad 
+
+den resulterar i. De försäkrade som har en anställning bedöms relativt ofta 
+
+kunna arbeta deltid medan de arbetslösa nästan alltid bedöms vara helt 
+
+arbetsoförmögna. De som hade en anställning vid början av sjukfallet hade 
+
+också oftare en anställning efter det att sjukfallet avslutats. Det är mindre 
+
+troligt att de som varit sjukskrivna haft möjlighet att skaffa ett nytt arbete 
+
+under sjukskrivningsperioden, vilket tyder på att de flesta går tillbaka till 
+
+sin gamla arbetsgivare trots att detta inte bedömts möjligt i steg 4. Denna 
+
+hypotes stöds av rapporter från Försäkringskassan30 samt av en intervju 
+
+med företrädare för Försäkringskassan.31 
+
+Det faktum att 29 procent av dem som har en arbetsgivare aldrig 
+
+bedöms mot annat arbete och att de som bedöms nästan alltid anses 
+
+som arbetsoförmögna tyder på att Försäkringskassan tar hänsyn till den 
+
+försäkrades yrkesidentitet. Som tidigare visats bedömer även läkarna 
+
+anställda mer sällan mot hela arbetsmarknaden. 
+
+4.3 Skillnader mellan åldersgrupper 
+Aktgranskningen visar att den försäkrades ålder har betydelse för om den 
+försäkrade får en bedömning mot hela arbetsmarknaden i steg 5 och 6. Såväl 
+Försäkringskassans handläggare som behandlande läkare gör olika bedömningar 
+för olika åldersgrupper. Åldern påverkar vidare längden på sjukfallet 
+och omfattningen på SA vid sjukfallets slut. Yngre får i högre utsträckning en 
+bedömning mot hela arbetsmarknaden, får handlingsplanssamverkan, 
+tidsbegränsad SA och ställer om. Detta tyder på att Försäkringskassan är 
+mer aktiv i handläggningen av yngre. 
+
+30 
+31 
+Nej till sjukpenning – vad hände sedan, socialförsäkringsrapport 2008:10. 
+Rapporten är en uppföljning av en rapport från 2006 med i princip samma resultat. 
+Intervju vid Försäkringskassan, december 2007. 
+riksrevisionen 38 Omställningskrav i sjukförsäkringen 
+
+
+4.3.1 Yngre bedöms oftare mot arbetsmarknaden än äldre 
+Det är vanligare att en bedömning görs mot hela arbetsmarknaden för yngre 
+än för äldre. För yngre görs nästan alltid en bedömning (98 procent) medan 
+en bedömning saknas för var fjärde person över 35 år (74 procent). Det är 
+även fler yngre än äldre som ställer om, det vill säga vars sjukfall avslutas i 
+steg 5 och 6. 
+Den behandlande läkaren bedömer arbetsförmågan mot hela arbetsmarknaden 
+i högre grad för åldersgruppen 16–34 år (51 procent) jämfört 
+med åldersgruppen 35–54 år (39 procent) och äldre än 55 år (21 procent). 
+
+4.3.2 Fler äldre bedöms ha arbetsförmåga 
+Unga bedöms sällan ha arbetsförmåga. Det är i gruppen som är äldre än 
+55 år som flest bedöms ha arbetsförmåga. 
+
+Tabell 4.4 Försäkringskassans arbetsförmågebedömning i steg 5 per åldersgrupp 
+
+Helt arbetsoförmögen Partiellt Full arbetsförmåga 
+arbetsförmögen men med restriktioner 
+
+16–34 år 80 % 19 % 1 % 
+35–54 år 67 % 31 % 2 % 
+55 år– 58 % 36 % 6 % 
+
+Det kan tyckas motsägelsefullt att äldre skulle ha arbetsförmåga i annat 
+arbete oftare än yngre, sannolikt är de dock så att de som är yngre oftare är 
+allvarligt sjuka när de sjukskrivs. 
+
+4.3.3 Yngre får oftare handlingsplanssamverkan 
+I de fall Försäkringskassan och Arbetsförmedlingen har genomfört en handlingsplanssamverkan32 
+är sjukfallet i genomsnitt kortare. Handlingsplanerna 
+rör samarbete för att få sjuka som inte kan återvända till sin arbetsgivare i 
+arbete på annat sätt.33 Det är betydligt vanligare att en handlingsplanssamverkan genomförs för åldersgruppen 16–34 år (40 procent) än för äldre 
+(ca 20 procent). 
+
+4.3.4 Yngre får oftare tidsbegränsad ersättning 
+Åldersgruppen 35–54 år får tidsbegränsad SA oftare än de som är äldre. Att 
+gruppen 16-34 får tidsbegränsad SA så ofta beror på att personer upp till 
+
+32 För beskrivning av handlingsplanssamverkan se ordlistan. 
+33 Försäkringskassans årsredovisning 2007. 
+
+Omställningskrav i sjukförsäkringen 39 riksrevisionen 
+
+
+30 år endast kan få aktivitetsersättning, och den ska enligt regelverket alltid 
+vara tidsbegränsad. 
+
+Tabell 4.5 Andel försäkrade som får SA tillsvidare eller tidsbegränsad i steg 7 
+
+ Tillsvidare SA Tidsbegränsad SA 
+16–34 12 % 87 % 
+35–54 35 % 62 % 
+55– 85 % 16 % 
+
+4.3.5 Äldre har kortare sjukfall 
+För sjukskrivna över 55 år pågår sjukfallet kortare tid än för övriga åldersgrupper 
+med en genomsnittlig tid på 728 dagar. Längst tid pågår sjukfallen 
+för åldersgruppen 35–54 år 968 dagar. 
+
+4.4 Skillnader mellan kvinnor och män 
+4.4.1 Kvinnor och män bedöms olika 
+De behandlande läkarna bedömer mäns arbetsförmåga i annat arbete oftare 
+(39 procent) än kvinnors (28 procent). Skillnaderna förklaras inte av att män 
+exempelvis är yngre eller oftare psykiskt sjuka. Trots att fler män får en bedömning 
+mot annat arbete är det fler kvinnor som ställer om. Förklaringen till 
+detta är att det finns kvinnor som lämnar sjukförsäkringen i steg 5 utan 
+bedömning av arbetsförmåga i annat arbete – något som nästan inte alls 
+förekommer för män. 
+
+4.4.2 Kvinnor får oftare SA vid tidig bedömning 
+Försäkringskassan skulle enligt reglerna som gällde 2007 senast efter ett år 
+göra en bedömning av om sjukskrivna uppfyllde villkoren för att få SA. 
+Bedömningen skulle göras oavsett vilket steg den sjukskrivne befann sig i. 
+
+Granskningen visar att Försäkringskassan gjort en bedömning i 38 
+
+procent av de sjukfall som varat i ett år eller längre. Kvinnor får i högre 
+
+utsträckning än män sjukpenning utbytt mot SA, 18 procent jämfört med 
+
+0 procent. 
+
+riksrevisionen 40 Omställningskrav i sjukförsäkringen 
+
+
+4.5 Skillnader mellan kommungrupper 
+Arbetsförmågebedömningen ser olika ut beroende på var i landet den görs. 
+Det finns skillnader i hur ärendena dokumenteras, i hur arbetsförmåga 
+bedöms mot normalt förekommande arbeten på arbetsmarknaden samt i 
+hur den försäkrades rätt till SA bedöms. 
+
+Attitydundersökningen från Försäkringskassan visar att det finns 
+skillnader mellan glesbygdskommuner och stora städer vad gäller attityder 
+till sjukpenning och sjuktalen i kommunerna.34 Aktgranskningen visar dock 
+inga signifikanta skillnader mellan glesbygd och storstad varken vad gäller i 
+vilken utsträckning arbetsförmåga bedöms eller hur många som får SA. 
+
+Indelningen i kommungrupper finns beskriven i metodbilagan. 
+
+4.5.1 Vanligast med SA i större städer 
+Det finns skillnader på kommungruppsnivå vad gäller i vilken utsträckning 
+handläggarna bedömer att de försäkrade har rätt till SA. I pendlingskommuner 
+får 75 procent av de försäkrade någon form av SA vid sjukfallets 
+slut. I större städer får 93 procent någon form av SA och sjukfallen avslutas 
+där i lägst utsträckning i steg 5 eller 6. 
+
+Tabell 4.6 Andel försäkrade som får SA vid sjukfallets slut 
+
+Större städer 93 % 
+Glesbygd och små kommuner 83 % 
+Storstad och förort 82 % 
+Varuproducerande kommuner 81 % 
+Pendlingskommuner 75 % 
+Övriga kommuner 77 % 
+
+4.5.2 Bedömningar görs mer sällan i varuproducerande kommuner 
+Det finns skillnader mellan olika kommungrupper vad gäller hur ofta 
+handläggarna gör en bedömning av mot annat arbete. I ”övriga kommuner” 
+görs en bedömning mot hela arbetsmarknaden i 91 procent av fallen jämfört 
+med 61 procent i ”varuproducerande kommuner”. 
+
+34 Försäkringskassan analyserar 2006:16, Sjukförsäkring – Kulturer och attityder. 
+
+Omställningskrav i sjukförsäkringen 41 riksrevisionen 
+
+
+Tabell 4.7 Andel sjukfall där Försäkringskassans handläggare bedömer arbetsförmåga 
+mot hela arbetsmarknaden i olika kommungrupper 
+
+Större städer 76 % 
+Glesbygd och små kommuner 73 % 
+Storstad och förort 71 % 
+Pendlingskommuner 68 % 
+Varuproducerande kommuner 61 % 
+Övriga kommuner 91 % 
+
+Eftersom ”övriga kommuner” saknar tydliga gemensamma egenskaper går 
+det inte att förklara varför just denna grupp avviker. Inte heller varför de 
+varuproducerande kommunerna ligger så lågt är enkelt att tolka. Övriga 
+skillnader är som framgår tämligen små. 
+
+4.5.3 Tydlig handläggning i Stockholm 
+Det finns skillnader mellan hur handläggare i olika kommungrupper dokumenterar 
+ärendena. Exempelvis följer ärenden som handläggs i Stockholm 
+i stor utsträckning den vägledning som Försäkringskassan tagit fram. I 
+akterna framgår tydligt vilken bedömning av arbetsförmåga som gjorts och 
+vad den baseras på. I andra kommuner är detta mindre tydligt. En tänkbar 
+delförklaring till skillnaden är att i Stockholm överlämnas ärendet till 
+särskilda handläggare efter steg 4. En sådan överlämning gör det extra 
+viktigt att bedömningen är tydlig. 
+
+4.6 Skillnader mellan diagnosgrupper 
+Inom en diagnosgrupp finns såväl allvarliga som mindre allvarliga sjukdomar. 
+Likväl kan skillnader mellan diagnosgrupper vad avser arbetsförmågebedömning 
+och sjukfallens längd vara intressanta att uppmärksamma. 
+I några diagnosgrupper ligger få observationer till grund för 
+resultatet, vilket gör att resultatet ska tolkas med försiktighet. I granskningen 
+används en indelning av sjukdomar som är framtagen av Socialstyrelsen. 
+I metodbilagan finns en beskrivning av diagnosgrupperna. 
+
+4.6.1 Få bedömningar vid sjukdomar i cirkulationsorganen 
+När det gäller den behandlande läkaren finns stora skillnader mellan 
+diagnosgrupperna. Vid sjukdomar i cirkulationsorganen har läkarna bedömt 
+mot hela arbetsmarknaden i 11 procent av fallen. Vid psykiska sjukdomar och 
+
+riksrevisionen 42 Omställningskrav i sjukförsäkringen 
+
+
+yttre skador/förgiftningar har läkaren bedömt mot arbetsmarknaden i 
+50 respektive 48 procent av fallen. 
+
+4.6.2 Skillnader i antalet underlag 
+Den försäkrades diagnos påverkar antalet underlag som Försäkringskassan 
+hämtar in. Flest antal underlag har försäkrade med sjukdom i cirkulationsorganen 
+med 4,5 underlag i snitt. Lägst antal underlag har diagnosgruppen 
+skador/förgiftningar med ett snitt på 2,6 underlag. De övriga diagnosgrupperna 
+har cirka 3 underlag i genomsnitt. 
+
+4.6.3 Längst sjukfall vid skador och förgiftningar 
+Sjukfallets längd varierar mellan olika diagnosgrupper. Längst sjukfall har 
+försäkrade med skador och förgiftningar med nästan tre år i genomsnitt. 
+Denna diagnosgrupp har trots det högst andel sjukfall som avslutas i steg 5 
+eller 6. Försäkrade med sjukdomar i cirkulationsorganen får sina sjukfall 
+avslutade efter i genomsnitt två år. 
+
+4.7 Sammanfattande iakttagelser 
+Riksrevisionen har funnit att alla grupper inte behandlas lika vad gäller i 
+vilken utsträckning arbetsförmågan bedöms mot hela arbetsmarknaden och 
+vad denna bedömning resulterar i: 
+
+• 
+Arbetslösa bedöms i princip alltid mot hela arbetsmarknaden och ställer 
+om i högre utsträckning än anställda och egenföretagare. Eftersom alla i 
+steg 5 ska betraktas som presumtivt arbetslösa finns det anledning att 
+tala om en yrkesförsäkring. 
+• 
+Yngre och kvinnor bedöms i högre utsträckning mot hela 
+arbetsmarknaden och ställer om i hög grad jämfört med äldre och män. 
+• 
+Aktgranskningen visar att Försäkringskassans handläggare gör olika 
+bedömningar i olika kommungrupper. 
+Omställningskrav i sjukförsäkringen 43 riksrevisionen 
+
+
+5 Förutsättningar för Försäkringskassans 
+handläggning 
+
+I föregående kapitel har vi visat resultatet av Riksrevisionens aktgranskning 
+med fokus på Försäkringskassans bedömning av sjukskrivnas arbetsförmåga 
+i annat arbete. I det här kapitlet koncentrerar vi oss på sådant som kan 
+påverka handläggarens arbete. 
+
+5.1 Regeringens styrning i budgetpropositionen 
+Det är av intresse att studera vad regeringen skrivit i budgetpropositionen 
+om Försäkringskassans uppgift att bedöma sjukskrivnas förmåga att klara 
+ett annat arbete. Även om propositioner riktar sig till riksdagen säger de 
+något om regeringens ambitioner och synsätt. 
+
+Det finns gott om uttalanden som visar att regeringen anser att utform
+
+
+ningen av sjukförsäkringen, förutom att ge ekonomisk trygghet, också syftar 
+
+till återgång i arbete. Några exempel: 
+
+Vidare kan regeringen konstatera att de nuvarande handläggningsreglerna 
+innebär risk för att bedömningen av den försäkrades förutsättningar att återgå 
+i arbete i alltför hög grad är kopplade till arbetsförhållandena hos den nuvarande 
+arbetsgivaren, vilket medför risk för att arbetsförmågan inte tas till vara i 
+önskvärd utsträckning. 
+
+Sammanfattningsvis anser regeringen att en ytterligare fokusering måste ske 
+på den försäkrades faktiska arbetsförmåga och potentiella möjligheter. […] En 
+bedömning bör även göras på ett tidigt stadium i vilken mån hälsoproblemen är 
+kopplade till förhållandena på den nuvarande arbetsplatsen samt om ett byte av 
+arbetsplats skulle kunna förändra situationen.35 
+
+I budgetpropositionen för 2006 upprepas samma sak med andra ord. 
+Begrepp som arbetslinje, omställning och utanförskap används, och 
+regeringen betonar också den enskildes aktiva medverkan. 
+
+Regeringen har betonat att arbetslinjen gäller. Alla som kan arbeta och bidra till 
+sin försörjning bör göra det efter förmåga. 
+
+Arbetslinjen i sjukförsäkringen innebär ofta att krav ställs på omställning och 
+förändring för den försäkrade. 
+
+35 Budgetpropositionen för 2005. 
+
+Omställningskrav i sjukförsäkringen 45 riksrevisionen 
+
+
+En ökad fokusering skall ske på att ta tillvara människors arbetsförmåga och 
+åstadkomma bättre samspel mellan arbetsplatsen, sjukvården och 
+sjukförsäkringen. Passivitet i sjukskrivningsprocessen innebär risker för mer 
+permanent utanförskap och utslagning. 
+
+I de fall den försäkrade inte kan återgå till sitt gamla arbete på hel- eller deltid 
+skall åtgärder som syftar till övergång till annat arbete vidtas. I dessa delar krävs, 
+förutom en aktiv medverkan från den enskilde försäkrade, ett positivt agerande 
+från arbetsgivaren och ett väl fungerande stöd från de berörda myndigheterna. 
+
+I budgetpropositionen för 2007 trycks hårdare på den enskildes ansvar 
+samtidigt som rätten till rehabilitering kommenteras. 
+
+Den enskildes inflytande över rehabiliteringsprocessen måste öka och rätten till 
+rehabilitering förstärkas. Samtidigt bör individens skyldighet att aktivt delta i 
+rehabilitering preciseras. 
+
+I budgetpropositionen för 2008 upprepas att ”arbetslinjen och tillvaratagande 
+av arbetsförmåga ska vara vägledande i sjukskrivningsprocessen” 
+samtidigt som rehabiliteringskedjan introduceras. 
+
+I budgetpropositionen för 2009 framhåller regeringen att ”det är av 
+
+största vikt att så många personer som möjligt kan försörja sig genom eget 
+
+arbete”, och rehabiliteringskedjan beskrivs som ett sätt att se till att den som 
+
+inte kan fortsätta arbeta hos tidigare arbetsgivare får stöd i denna förändring 
+
+till annat arbete. 
+
+Regeringen har alltså varit tydlig kring det önskvärda med att eventuell 
+
+kvarvarande arbetsförmåga tas till vara även om det skulle krävas en 
+
+omställning i form av ny arbetsgivare. Detta synsätt har funnits varje år 
+
+under den period vi studerat. 
+
+5.2 Regeringens styrning i regleringsbrev 
+I regleringsbrevet för 2006 fanns ett mål inom verksamhetsområdet Åtgärder 
+mot ohälsa som innebar att Försäkringskassan ska förhindra och förkorta 
+sjukskrivningarna och underlätta återgång i arbete. I övrigt fanns ingenting 
+med direkt bäring på uttalandena i budgetpropositionen. 
+
+I regleringsbrevet för 2007 hade målet ändrats till ”Försäkringskassan 
+
+skall verka för en väl fungerande sjukskrivningsprocess som – syftar till att 
+
+arbetsförmåga tillvaratas och återgång i arbete underlättas –.” 
+
+I regleringsbrevet för 2008 angavs som inriktning inom politikområdet 
+
+Ersättning vid arbetsoförmåga att ”Sjukförsäkringen skall syfta till att bevara 
+
+tryggheten för den som drabbas av sjukdom eller skada. Samtidigt skall den 
+
+ge motiv och möjlighet att återgå till arbete.” 
+
+riksrevisionen 46 Omställningskrav i sjukförsäkringen 
+
+
+Med anledning av införandet av rehabiliteringskedjan den 1 juli 2008 
+
+gjordes vissa ändringar i regleringsbrevet. Bland annat slogs fast att 
+
+”Arbetslinjen och tillvaratagandet av arbetsförmåga ska vara vägledande i 
+
+sjukskrivningsprocessen”. 
+
+Sedan 2006 regleras genom ett särskilt uppdrag i regleringsbrevet att 
+
+Försäkringskassan i samverkan med Arbetsförmedlingen bland annat ska 
+
+underlätta omställning till annat arbete för sjukskrivna anställda som 
+
+behöver byta anställning på grund av ohälsa. 
+
+5.2.1 Regeringens krav på uppföljning 
+Under senare år har regeringen begärt uppföljning och avrapportering av de 
+specifika projekt och uppdrag som regeringen lämnat till Försäkringskassan. 
+Däremot efterfrågas inte samlad och övergripande statistik över stegmodellen generellt eller för arbetsförmågebedömning i annat arbete. 
+
+5.3 Försäkringskassans styrning 
+Försäkringskassan blev en enda myndighet 2005 när de 21 försäkringskassorna 
+slogs ihop med Riksförsäkringsverket. Med en gemensam 
+organisation är det tänkt att möjligheten till styrning av socialförsäkringen 
+ökar. Försäkringskassan befinner sig nu i slutet av en omorganisation där 
+förmånernas handläggning koncentreras till ett antal platser i landet. Ett av 
+motiven är att öka enhetligheten i ärendehanteringen. 
+
+Vår granskning visar att Försäkringskassan har en tydlig och aktuell väg
+
+
+ledning. Den uppdateras kontinuerligt och innehåller exempel som täcker 
+
+olika situationer. Dessutom har Försäkringskassan flera användarvänliga 
+
+metodstöd för handläggare. 
+
+Försäkringskassan har ett eget kvalitetsmätningssystem, Qben, där 
+
+bland annat kvalitet i underlagen för de olika förmånerna mäts. Resultaten 
+
+av Qben redovisas också i årsredovisningen. För 2005 och 2006 bedömdes 
+
+att 80 procent av sjukpenningärendena hade tillräckligt beslutsunderlag. 
+
+Resultatet gäller för samtliga sjukpenningärenden från steg 1 till och med 7, 
+
+och därför kan resultatet skilja sig för den typ av ärenden som Riksrevisionen 
+
+har granskat. 2007 sjönk andelen till 75 procent, samtidigt som resultatet för 
+
+övriga förmåner förbättrades. Under 2008 har dock inte Qben varit i bruk 
+
+beroende på Försäkringskassans omorganisering. Av Qben framgår inte om 
+
+arbetsförmågebedömning har gjorts eller vad den resulterat i för 
+
+bedömning. Försäkringskassan har inte heller följt upp hur arbetsförmåge
+
+
+bedömningen i stegmodellen har genomförts. 
+
+Omställningskrav i sjukförsäkringen 47 riksrevisionen 
+
+
+5.3.1 
+
+5.4 
+
+5.5 
+
+Försäkringskassans ärendehanteringssystem 
+
+Försäkringskassan har ett ärendehandläggningssystem som i vissa 
+avseenden framstår som onödigt svåranvänt. Det går inte att följa hur 
+många som befinner sig i respektive steg, hur lång tid olika steg tagit eller 
+vad som varit framgångsfaktorer för återgång i arbete. Det enda sättet att 
+identifiera i vilket steg ett sjukfall befinner sig är att låta en handläggare titta 
+i akten. Handläggarna får därmed inte tillräcklig överblick över var de sjukskrivna 
+befinner sig i stegmodellen. Det försvårar också en överblick på 
+aggregerad nivå. 
+
+Samverkan med andra aktörer 
+
+I samband med Riksrevisionens genomgång av akter gjordes iakttagelser 
+som inte sammanställts statistiskt. En sådan iakttagelse är att det ofta förekommer 
+väntetider på underlag. Väntetiderna varierar beroende på sjukdomsdiagnos. 
+Exempelvis var väntetiderna särskilt långa vid psykiska 
+symptom. Försäkringskassan väntande antingen på att få en diagnos eller 
+på att få arbetsförmågan utredd. 
+
+Det är även vanligt att vissa underlag behöver kompletteras och förtydligas, 
+och det är stundtals svårt för Försäkringskassans handläggare att få 
+kontakt med dem som utfärdat underlaget. 
+
+Sammanfattande iakttagelser 
+
+• 
+Regeringen har lämnat flera olika uppdrag till Försäkringskassan kring 
+specifika insatser, projekt om sjukskrivning och arbetsförmåga. 
+Regeringen har dock inte efterfrågat någon uppföljning av arbetsförmågebedömningen 
+eller omställningen på aggregerad nivå. 
+• 
+Försäkringskassan har en bra vägledning och metodstöd, men har inte 
+följt upp arbetsförmågebedömningens tillämpning. 
+• 
+Handläggningen av sjukskrivning sker med hjälp av ett ärendehanteringssystem 
+som brister i användarvänlighet och som inte kan användas för 
+att få information om arbetsförmågebedömning och omställning på 
+aggregerad nivå ifrån. 
+• 
+Försäkringskassan har ett kvalitetssäkerhetssystem som visat att 
+kvaliteten i sjukpenningsärenden är sämre än för andra förmåner. Det 
+har inte gått att följa kvalitetens utveckling under 2008 då systemet inte 
+varit i bruk. 
+• 
+Aktgranskningen visar att arbetsförmågebedömningen ofta försenas när 
+Försäkringskassan får vänta på underlag från hälso- och sjukvården. 
+riksrevisionen 48 Omställningskrav i sjukförsäkringen 
+
+
+6 Tänkbara effekter av nya regler 
+
+I kapitlen 3 och 4 visade vi att något som i hög grad påverkar sjukskrivningens 
+längd för dem som befinner sig i steg 5 är de sjukskrivnas ålder. 
+Det spelar också roll om individen är arbetslös, anställd eller egen företagare 
+när sjukskrivningen påbörjas. 
+
+Regeringen har under det senaste året ändrat sjukförsäkringens regel
+
+
+verk på flera punkter. Det är för tidigt att uttala sig om vilka effekter de nya 
+
+reglerna ger, statistiken är ännu inte tillräckligt omfattande och det finns 
+
+övergångsregler som påverkar utfallet. Men det är ändå både möjligt och 
+
+relevant att relatera de nya reglerna till situationen sista kvartalet 2007, det 
+
+vill säga den tid vår aktgranskning avser. 
+
+6.1 Rehabiliteringskedjan har införts 
+Den största förändringen i regelverket är den rehabiliteringskedja som sedan 
+den 1 juli 2008 ersätter stegmodellen. Rehabiliteringskedjan infördes för att 
+”undvika passivitet i sjukskrivningsprocessen”. 36 Stegmodellen avskaffades 
+och ersattes med tidsgränser för när olika bedömningar och krav ska genomföras 
+och ställas. Enligt Socialdepartementet framstod själva stegmodellen 
+som en av anledningarna till att sjukskrivningarna tog så lång tid då den 
+byggde på att stegen skulle passeras och klaras av ett i taget.37 
+
+I korthet innebär rehabiliteringskedjan att senast efter 180 dagar ska, i 
+normalfallet, den sjukskrivnes försörjningsförmåga prövas mot arbeten på 
+den reguljära arbetsmarknaden. Rehabiliteringskedjan har undantag från 
+180-dagarsgränsen om det finns särskilda skäl, exempelvis medicinskt 
+underlag, som säger att den sjukskrivne snart kommer att kunna återgå till 
+sitt arbete. Möjligheten till undantag gäller dock enbart fram till dag 365. Är 
+man fortsatt sjuk kan man få förlängd sjukpenning i ytterligare maximalt 550 
+dagar. Den som har synnerliga skäl i form av en allvarlig sjukdom, kan i 
+stället få så kallad fortsatt sjukpenning från dag 365 och så länge som det 
+synnerliga skälet består. En skillnad mellan förlängd och fortsatt sjukpenning 
+är att den förstnämnda uppgår till 75 procent av den sjukpenninggrundande 
+inkomsten medan fortsatt sjukpenning mottsvarar 80 procent. Sjukersättning 
+kan beviljas enbart om arbetsförmågan är stadigvarande nedsatt. 
+
+Ett större ansvar har lagts på den sjukskrivne. Sedan tidigare ska den 
+som begär sjukpenning lämna ett läkarintyg och en egen försäkran. Från 
+
+36 Vägledning 2004:2 version 10, Försäkringskassan (ej tryckt) s. 57. 
+37 Intervju vid Socialdepartementet, oktober 2008. 
+
+Omställningskrav i sjukförsäkringen 49 riksrevisionen 
+
+
+årsskiftet ska den försäkrade, om så Försäkringskassan begär, även skaffa 
+ett utlåtande från sin arbetsgivare om andra möjligheter till arbete samt själv 
+ansöka om förlängd och fortsatt sjukpenning. 
+
+Rehabiliteringskedjan kan bara tillämpas i alla delar för försäkrade som 
+
+har en arbetsgivare. Arbetslösas arbetsförmåga bedöms liksom i stegmodell
+
+
+en i annat arbete från dag 1, medan egenföretagares arbetsförmåga i annat 
+
+arbete bedöms för första gången efter 180 dagar. 
+
+Efter 180 dagar ska Försäkringskassan bedöma samtligas arbetsförmåga 
+
+i annat arbete.En förändring i reglerna är, som vi nämnt i kapitel 1, att 
+
+arbetsmarknaden har utökats från ett arbete normalt förekommande på 
+
+arbetsmarknaden till ett arbete på den reguljära arbetsmarknaden i övrigt. 
+
+Förändringen innebär att det är fler arbeten än tidigare, till exempel ingår 
+
+här vissa subventionerade anställningar såsom nystartsjobb, som den 
+
+sjukskrivnes arbetsförmåga ska bedömas mot. 38 
+
+6.1.1 Arbetsförmågebedömning i annat arbete 
+Vi har i kapitlen 3 och 4 visat att det i genomsnitt tar över ett år innan 
+arbetsförmågan i annat arbete bedöms i stegmodellen. Enligt rehabiliteringskedjan 
+ska bedömningen i normalfallet göras dag 181 i sjukskrivningen. Vi 
+har relaterat resultatet av vår aktgranskning till rehabiliteringskedjans regler. 
+Arbetslösa ska, precis som tidigare, bedömas mot hela arbetsmarknaden 
+direkt, fast med skillnaden att i rehabiliteringskedjan är det fler jobb som en 
+sjukskriven ska bedömas mot. Anställda har ytterligare en bedömningstidpunkt 
+den 91:a sjukskrivningsdagen när arbetsförmågan ska bedömas 
+mot alla arbeten hos arbetsgivaren. 
+Diagram 6.1 visar den tid det tog för de sjukfall Riksrevisionen granskat 
+fram till bedömning i steg 5. Syftet är att visa hur tiderna när stegmodellen 
+gällde, förhåller sig till rehabiliteringskedjans tidsgräns för arbetsförmågebedömning. 
+Eftersom anställda, egenföretagare och arbetslösa har något 
+skilda regler i båda regelsystemen redovisas de var för sig. 
+
+38 Prop. 2007/08:136 s. 67. 
+
+riksrevisionen 50 Omställningskrav i sjukförsäkringen 
+
+
+6 
+Diagram 
+respekti 
+So 
+egna fö 
+revisio 
+dagar. 
+rehabi 
+Da 
+öka arb 
+bedöm 
+arbetsf 
+fick en 
+Motsv 
+dagar. 
+6.1.2 Vilka m 
+Vad ta 
+En sak 
+den ”s 
+eventu 
+Re 
+ningsp 
+förutsä 
+ansvar 
+den sju
+m 6.1 Tid innan 
+ive enligt rehab 
+m vi tidigare 
+öretagare i sn 
+onen granska 
+Det är tydlig 
+literingskedja 
+ag 181 i rehab 
+betsförmåga 
+mning enligt a 
+förmågebedö 
+steg 6-bedö 
+arande tid fö 
+möjligheter f 
+alar för tidiga 
+k som talar fö 
+törre” arbets 
+uella arbetsfö 
+geringen vill 
+process. Tids 
+ägbar och ska 
+r för återgång 
+ukskrivne red
+n arbetsförmåge 
+biliteringskedja 
+e beskrivit drö 
+nitt 1,5 år. En 
+t skulle ha kl 
+gt att beteend 
+ans tidsgräns 
+biliteringsked 
+n i annat arb 
+aktgransknin 
+ömningen i r 
+mning i aktg 
+ör arbetslösa 
+finns det at 
+are arbetsför 
+ör att det finn 
+smarknad i re 
+örmåga ska p 
+med rehabil 
+gränser och 
+a uppmuntra 
+g i arbete. De 
+dan från start
+ebedömningen 
+ans tidsgränser 
+öjer steg 5-be 
+nbart 4 proce 
+arat kravet at 
+deförändringa 
+ser ska klaras 
+djan ska även 
+bete bedömas 
+gen är därför 
+ehabilitering 
+granskningen 
+var 611 daga 
+t minska tid 
+rmågebedöm 
+ns möjlighet a 
+ehabiliterings 
+rövas mot. 
+iteringskedja 
+tidiga insatse 
+a den sjukskr 
+et är möjligt a 
+ten av sjuksk 
+Omst 
+n i steg 5 (aktgr 
+. 
+edömningen 
+nt av de sjuk 
+tt bedömas s 
+arna måste v 
+s. 
+rehabiliterin 
+s. Den tid det 
+r också releva 
+skedjan. För 
+tog det i gen 
+r och för ege 
+den? 
+mning? 
+att korta sjuk 
+skedjan som 
+an skapa en a 
+er ska göra s 
+rivne att känn 
+att även tidsg 
+krivningen ve
+tällningskrav i sjukförs 
+ranskningens re 
+för anställda 
+kfall som Riks 
+senast efter 1 
+vara betydand 
+ngens möjligh 
+t tog till en s 
+ant att jämfö 
+de anställda 
+nomsnitt 666 
+enföretagare 3 
+kskrivningstid 
+den sjukskri 
+aktivare sjuks 
+jukskrivninge 
+na ett tydligar 
+gränserna i s 
+t att prövnin
+säkringen 51 
+esultat) 
+a och 
+s- 
+80 
+de om 
+het att 
+teg 6- 
+öra med 
+a som 
+6 dagar. 
+368 
+den är 
+vnes 
+skriven 
+mer 
+re 
+ig – att 
+gen mot 
+riksrevisionen 
+
+annat arbete kommer efter ett halvt år – kommer att påskynda processen. 
+Den försäkrade får ett större ansvar än tidigare att förse Försäkringskassan 
+med underlag från arbetsgivaren om Försäkringskassan bedömer att det 
+finns ett sådant behov. 
+
+I rehabiliteringskedjan ingår också att sjukperioder läggs ihop om man 
+blir sjukskriven igen inom en tid. Regeln är att man kan få sjukpenning 
+maximalt 365 dagar inom en 450-dagarsperiod. Prövningen mot annat arbete 
+kan då komma mer eller mindre direkt efter en nyligen påbörjad sjukskrivningsperiod.
+39 I stegmodellen startade en sjukskrivning alltid i steg 1 oavsett 
+tidigare sjukskrivningshistoria. Försäkringskassan menar att det förekommit 
+att sjukskrivna inte gått vidare i stegmodellen utan återgått till sin arbetsgivare 
+under en period för att sedan återigen sjukskrivas. På det sättet har 
+färre än vad som borde varit fallet kommit till steg 5 och en arbetsförmågebedömning 
+mot annat arbete. Att den möjligheten nu är borta kan bidra till 
+färre sjukskrivna. 
+
+En rehabiliteringsgaranti har införts för att snabbare återskapa arbetsförmågan. 
+Garantin avser dels medicinsk bedömning och ställningstagande 
+till om patientens tillstånd innebär att hon eller han skulle vara betjänt av 
+medicinsk rehabilitering, dels behandling. Garantin gäller personer med lätta 
+eller medelsvåra psykiska besvär som ångest, depression och stress samt 
+personer med smärta i nacke och rygg. Dessa två stora diagnosgrupper 
+motsvarar 60 procent av alla sjukskrivna. En fungerande garanti kan korta 
+tiden till återgång i arbete för dem som har, eller med rätt åtgärder skulle 
+kunna få, tillräcklig arbetsförmåga. 
+
+En annan regelförändring som kan påverka återgången till arbete är 
+möjligheten att begära tjänstledighet under sjukskrivning för att prova annan 
+anställning. De relativt nya medicinska beslutsstöden från Socialstyrelsen 
+som ska fungera som riktlinjer för hur länge olika symptom och diagnoser 
+bör ge sjukskrivning kan också de komma att bidra till tidigare bedömningar. 
+Beslutsstödet kan bidra till att färre sjukskrivningar drar ut på tiden eftersom 
+sjukskrivande läkare ska motivera varför hon eller han förespråkar att sjukskrivningen 
+bör pågå längre än riktlinjerna förespråkar. 
+
+Vad talar emot att rehabiliteringskedjan kortar sjukskrivningstiden? 
+
+Vad som talar emot en betydande tidsminskning är att Försäkringskassans 
+möjligheter och skyldigheter inte har förändrats – kraven på handläggningen 
+är i princip desamma. 
+
+Försäkringskassans ansvar att ordna avstämningsmöte, se till att ytterligare 
+utredningsåtgärder genomförs, undersöka rehabiliteringsmöjligheter, 
+begära läkarutlåtande, göra förfrågan hos de aktörer som behövs samt 
+
+39 Vid sjukanmälning befinner man sig normalt på dag 1 i rehabiliteringskedjan, men har man 
+mellan två sjukperioder arbetat en kortare period än 90 dagar läggs sjukperioderna ihop. 
+
+riksrevisionen 52 Omställningskrav i sjukförsäkringen 
+
+
+besöka den försäkrade kvarstår.40 I Försäkringskassans vägledning, som 
+utgår från lagstiftningen, framgår det även att ”det är viktigt att Försäkringskassan 
+i samtliga sjukfall gör alla relevanta utredningar och bedömningar i 
+rätt tid och på rätt sätt”. Vidare framgår det att ”varje sjukpenningärende[…] 
+kräver att Försäkringskassan har det underlag som behövs”.41 
+
+Försäkringskassan är fortfarande skyldig att göra de utredningar som 
+
+behövs för att kunna fatta beslut om rätten till ersättning. Samtidigt tyder 
+
+Riksrevisionens granskning på att det tar tid för Försäkringskassan att få de 
+
+underlag som behövs för att göra en bedömning. I många fall behövs även 
+
+samverkan med andra aktörer som arbetsgivare och arbetsförmedling. Det 
+
+är långt ifrån säkert att underlagen kommer tidigare i sjukskrivningen till 
+
+följd av de åtgärder som vidtagits – åtminstone inte så mycket tidigare som 
+
+kommer att krävas. 
+
+Den rehabiliteringsgaranti som beskrivs ovan kommer enligt uppgift från 
+
+flera landsting inte att kunna uppfyllas förrän till våren 2009, vilket gör att 
+
+eventuella effekter låter vänta på sig. 
+
+Försäkringskassan skulle enligt lagen som gällde fram till 2007, utreda 
+
+om den försäkrade har rätt till SA senast ett år efter sjukanmälan. Denna 
+
+skyldighet har tagits bort, men bedömningen gjordes bara i 38 procent av de 
+
+sjukfall som pågick längre än ett år. När bedömningen gjordes blev beslutet i 
+
+82 procent av fallen att det var för tidigt att göra ett utbyte. Den försäkrade 
+
+fick därför fortsatt sjuk- eller rehabiliteringspenning. Eftersom Försäkrings
+
+
+kassan i de flesta fall bedömde att det var för tidigt att göra bedömning om 
+
+utbyte till SA efter ett år, uppkommer frågan om det är möjligt att göra en 
+
+arbetsförmågebedömning redan efter ett halvt år som rehabiliteringskedjan 
+
+anger. 
+
+Om Försäkringskassan måste ta beslut tidigare än i dag, kommer de då 
+
+ta beslut på mindre omfattande underlag än tidigare? Aktgranskningen visar 
+
+att det fanns något fler underlag vid steg 5-bedömningen än de två besluts
+
+
+underlag som är obligatoriska för att Försäkringskassan ska kunna betala ut 
+
+sjukpenning. Om Försäkringskassan inte väljer att ta beslut med färre under
+
+
+lag än tidigare finns det anledning att tro att undantagen från rehabiliterings
+
+
+kedjans 180-dagarsgräns för arbetsförmågebedömning blir många. 
+
+6.2 Tidsbegränsad sjukersättning har tagits bort 
+Om arbetsförmågan är nedsatt och om möjligheterna till rehabilitering för 
+tillfället är uttömda kan Försäkringskassan byta ut sjukpenningen mot SA. 
+
+40 3 kap. 8–8 a §§ AFL. 
+41 Vägledning 2004:2 version 10, Försäkringskassan, otryckt version. 
+
+Omställningskrav i sjukförsäkringen 53 riksrevisionen 
+
+
+Från och med den 1 juli 2008 kan den sjukskrivne endast få SA när 
+arbetsförmågan bedöms vara nedsatt för överskådlig framtid. Tidigare kunde 
+SA även beviljas för en tidsbegränsad period men den ersättningsformen är 
+avskaffad. Dock har sjukskrivna som är yngre än 30 år fortfarande möjlighet 
+att få aktivitetsersättning och den är alltid tidsbegränsad. 
+
+Aktgranskningen visar att 41 procent av sjukfallen slutade med någon 
+form av tidsbegränsad SA. Det är svårt att bedöma hur de nya kraven om 
+stadigvarande nedsatt arbetsförmåga kan påverka antalet personer som 
+beviljas varaktig SA respektive bedöms ha arbetsförmåga i annat arbete. 
+
+Tabell 6.2 Försäkringskassans bedömning i steg 7 
+
+SA – tidsbegränsad 41 % 
+SA – tillsvidare 58 % 
+Fortsatt sjukpenning eller rehabiliteringspenning 0 % 
+Annat 1 % 
+
+I åldersgruppen 34–54 år får 62 procent tidsbegränsad SA. För åldersgruppen 
+över 55 år kommer de nya reglerna inte att ha lika stor inverkan då 
+85 procent får SA tillsvidare. 
+
+Tabell 6.3 Resultatet av Försäkringskassans bedömning vid utbyte av SA utifrån ålder 
+
+16–34 
+35–54 
+55– Samtliga 
+
+
+SA 
+tidsbegränsad 
+89 
+% 
+63 
+% 
+16 
+% 
+41 
+% 
+SA 
+tillsvidare 
+11 
+% 
+35 
+% 
+84 
+% 
+58 
+% 
+
+
+Försäkrade med psykiska sjukdomar, skador och förgiftningar samt sjukdomar 
+i nervsystem får i större utsträckning än andra tidsbegränsad SA. 
+Försäkrade med sjukdomar i muskler och bindväv får oftare än andra SA 
+tillsvidare. Olika diagnosgrupper kommer alltså att påverkas olika av att 
+möjligheten att få tidsbegränsad sjukersättning försvunnit. Socialdepartementet 
+menar att sjukpenningen för flertalet som tidigare fått tidsbegränsad 
+SA, borde avslutas när maximalt antal dagar med sjukpenning har betalats 
+ut.42 
+
+6.3 Ventil i form av andra hänsyn har tagits bort 
+I en procent av de granskade akterna (vilket motsvarar fyra individer) har 
+andra skäl än medicinska angetts för fortsatt sjukpenning. I ett fall hänvisas 
+
+42 Intervju vid Socialdepartementet, oktober 2008. 
+
+riksrevisionen 54 Omställningskrav i sjukförsäkringen 
+
+
+till den försäkrades höga ålder. I två fall hänvisas till livssituation, utbildning 
+och arbetserfarenhet. I ett fjärde fall hänvisas till särskilda skäl, utan att 
+motivera vilka dessa var. Såväl Försäkringskassan som Socialdepartementet 
+bedömer att särskilda skäl har påverkat bedömningen i fler fall än som 
+specifikt uttryckts i akterna. Resultat som visar att bedömningen skiljer sig 
+exempelvis beroende på ålder kan tyda på det. 
+
+Möjligheten att hänvisa till särskilda skäl har tagits bort från den 1 juli 
+
+2008. Trots att det är ovanligt att hänvisa till ventilen är det sannolikt att 
+
+dess borttagande fungerar som en signal till handläggare och försäkrade och 
+
+därmed kan det påverka bedömningen om rätt till sjukpenning. 
+
+6.4 Sammanfattande iakttagelser 
+• 
+Enligt rehabiliteringskedjan ska arbetsförmåga i annat arbete 
+bedömas senast efter 180 dagar. Enbart 4 procent av de sjukfall som 
+Riksrevisionen granskat skulle ha klarat kravet. 
+• 
+Granskningen visar att av de sjukfall som avslutas med SA avslutas 41 
+procent med tidsbegränsad SA. Yngre, arbetslösa och de med psykiska 
+diagnoser fick tidsbegränsad SA i större utsträckning än andra grupper. 
+• 
+Vissa faktorer talar för att rehabiliteringskedjan kan korta sjukskrivningarna. 
+Dels ska arbetsförmåga i annat arbete bedömas mot fler 
+arbeten än tidigare. Dels kan de nya tidsgränserna, som ger tydliga 
+förväntningar på vad rehabiliteringskedjan innebär, sätta press på bland 
+annat Försäkringskassans handläggare och de försäkrade. 
+• 
+Andra faktorer talar emot att rehabiliteringskedjan kommer att leda 
+till kortade sjukskrivningstider. Försäkringskassans skyldigheter och 
+förutsättningar är i grunden desamma. Många gånger tar det tid att 
+utreda och få in underlag inför en arbetsförmågebedömning. 
+Riksrevisionens granskning visar att det tog 1,5 år för Försäkringskassan 
+att göra en sådan bedömning för en anställd, och utan ytterligare 
+förändringar kan det bli svårt att göra den efter de 180 dagar som 
+rehabiliteringskedjan anger. 
+Omställningskrav i sjukförsäkringen 55 riksrevisionen 
+
+
+7 Slutsatser och rekommendationer 
+
+Riksrevisionen har genomfört en granskning av hur Försäkringskassan 
+bedömer sjukskrivnas arbetsförmåga i annat arbete, motsvarande steg 5–6 i 
+den så kallade stegmodellen. Utgångspunkten för granskningen är de 
+ambitioner som regeringen har när det gäller att betona arbetslinjen och att 
+sjukskrivna i så hög grad som möjligt ska kunna återgå till någon form av 
+arbete. Granskningen visar att av dem som inte längre kan arbeta i sitt 
+nuvarande arbete är det 18 procent som till slut lämnar sjukförsäkringen. 
+
+Det bör framhållas att även vid en framgångsrik handläggning är det inte 
+
+realistiskt att tro att alla, eller ens de flesta, som når steg 5 ska kunna återgå 
+
+till arbetsmarknaden. I granskningen har dock framkommit brister som, om 
+
+de åtgärdas, bör kunna leda till ett bättre utfall. Det handlar om såväl brister 
+
+i handläggningen som bristande förutsättningar för handläggningen. 
+
+Huvudslutsatsen är att en av de viktigaste uppgifterna för en effektiv 
+
+sjukförsäkring, nämligen att bedöma hur sjukdom påverkar förmågan att 
+
+arbeta i annat arbete, inte fullgörs på ett tillfredsställande sätt. Försäkrings
+
+
+kassans och regeringens kunskap om hur uppgiften klaras av är därtill 
+
+bristfällig. 
+
+7.1 Brister i handläggningen 
+Riksrevisionen har i granskningen funnit vissa brister i Försäkringskassans 
+tillämpning av stegmodellen. 
+
+7.1.1 Förmågan i annat arbete prövas inte regelmässigt 
+Handläggarna ska alltid pröva arbetsförmågan mot annat arbete i steg 5. 
+Granskningen visar att handläggarna, för de som varit sjukskrivna i minst 
+90 dagar, gör så i 77 procent av ärendena. Anställda bedöms i 71 procent 
+av fallen, medan arbetslösa så gott som alltid bedöms. 
+
+Riksrevisionen ser flera förklaringar till detta utfall. Den attitydunder
+
+
+sökning som Försäkringskassan genomförde 2005 visar att sjukskrivna 
+
+vanligen vill behålla anknytningen till arbetsmarknaden och sin arbetsgivare 
+
+och anser sig ha svårt att byta arbetsplats och yrke. Försäkringskassans 
+
+handläggare bedömer också inte alltid anställda mot hela arbetsmarknaden 
+
+och när bedömningen görs dröjer den orimligt länge. Granskningen visar 
+
+även att den behandlande läkaren oftast inte bedömer arbetsförmåga mot 
+
+annat arbete. Mycket tyder på att när sjukfall avslutas i steg 5 eller 6 återgår 
+
+Omställningskrav i sjukförsäkringen 57 riksrevisionen 
+
+
+7.1.2 
+
+7.1.3 
+
+7.1.4 
+
+anställda till sin tidigare arbetsgivare, vilket antingen kan tolkas som att 
+Försäkringskassan har gjort en felaktig bedömning eller att arbetsgivaren 
+låter den anställde komma tillbaka trots sin nedsatta arbetsförmåga. 
+Sammantaget framträder en bild av en sjukförsäkring med tydliga inslag av 
+yrkesförsäkring. 
+
+Granskningen visar att när Försäkringskassan gör en arbetsförmågebedömning 
+mot annat arbete ökar sannolikheten för omställning samtidigt 
+som sjukperioden blir kortare. 
+
+Möjligheten till rehabilitering prövas sällan 
+
+Rehabiliteringens möjlighet att höja arbetsförmåga i annat arbete ska 
+bedömas i steg 6. Det är sällan som handläggare bedömer vilka 
+möjligheterna är för det. För dem som passerar steg 5 görs en sådan 
+bedömning i 39 procent av ärendena trots att det alltid ska göras enligt 
+regelverket. 
+
+Bedömningen görs sent 
+
+Arbetslösa ska i princip redan från första dagen få sin arbetsförmåga 
+bedömd mot annat arbete. Vår granskning visar dock att det för dem som 
+är sjukskrivna i minst 90 dagar i genomsnitt tar ett halvår innan bedömningen 
+mot hela arbetsmarknaden görs. Motsvarande siffra för anställda 
+och egenföretagare är 1,5 år. Även om det 2007 inte fanns några tidsgränser 
+kan konstateras att det tog lång tid innan bedömningen gjordes. 
+
+Skillnader i bedömningar analyseras inte 
+
+Granskningen har visat att det finns ett flertal skillnader i resultatet av 
+handläggningen av steg 5–7. Bedömningarna skiljer sig med avseende på 
+ålder, kön, sysselsättning, kommungrupp och diagnosgrupp. Vi har inte 
+hittat några rimliga förklaringar till vissa skillnader utifrån den information 
+om sjukfallen som vi har tillgång till. Skillnaderna behöver inte vara ett 
+uttryck för någon allvarligare brist på likabehandling. Bakom dessa 
+variationer kan dock dölja sig skillnader i bedömningar som innebär att 
+kravet på likabehandling inte tillgodoses. 
+
+Orsakerna till skillnaderna behöver undersökas. I granskningen har 
+framkommit att Försäkringskassan inte systematiskt undersöker denna typ 
+av variationer. 
+
+riksrevisionen 58 Omställningskrav i sjukförsäkringen 
+
+
+7.2 Brister i förutsättningarna 
+7.2.1 Ärendehanteringssystemet försvårar tillämpningen 
+Försäkringskassan har ansvar för att ha ett användarvänligt IT-system som 
+det även går att hämta information om arbetsförmågebedömningen ifrån. 
+Det ärendehanteringssystem som Försäkringskassans handläggare 
+
+använder ger dock inte information om var i stegmodellen ett ärende 
+
+befinner sig. Enda sättet att få reda på i vilket steg en sjukskriven befinner 
+
+sig i är att titta i akten, vilket bland annat gör det svårare när man byter 
+
+handläggare. 
+
+Det har inte heller funnits någon möjlighet att inhämta aggregerad 
+
+information. Det har inte gått att följa hur många sjukfall som befunnit sig 
+
+i respektive steg, hur lång tid respektive steg har tagit eller vad som varit 
+
+framgångsfaktorer för återgång i arbete. 
+
+7.2.2 Läkarnas motstridiga roller 
+För att kunna bedöma sjukskrivnas arbetsförmåga mot hela arbetsmarknaden 
+bör det finnas medicinska underlag som innehåller en sådan 
+bedömning. 
+
+Enligt Försäkringskassans enkätundersökning har många läkare problem 
+
+med att kombinera sin roll som behandlande läkare och utfärdare av under
+
+
+lag till Försäkringskassan inför beslut om sjukpenning. Så många som 70 
+
+procent av läkarna upplever att det är svårt att bedöma arbetsförmågan. Det 
+
+förekommer att läkarna sjukskriver på patientens begäran, trots att det inte 
+
+föreligger medicinsk grund. Enkäten visar även att handläggare har svårt att 
+
+få in intyg och har svårt att bedöma ”riktigheten” i intygen. Granskningen 
+
+visar att läkaren gör en bedömning av arbetsförmågan i annat arbete i 38 
+
+procent av sjukfallen. För anställda är siffran ännu lägre – 22 procent. Minst 
+
+lika anmärkningsvärt är dock att endast 65 procent av de arbetslösa får en 
+
+sådan bedömning. 
+
+Såväl intervjuer med Försäkringskassans handläggare som aktstudien 
+
+visar att handläggarna måste ägna mycket tid åt att få in intyg från läkare. 
+
+Intervjuerna bekräftar bilden att läkarna står på patientens sida. Det finns 
+
+därmed argument för att läkarens roll kan behöva förändras i syfte att 
+
+undvika felaktiga intyg och tidsspillan. 
+
+7.2.3 Försäkringskassan och regeringen vet för lite 
+Bedömningen av arbetsförmåga i annat arbete är central för en korrekt 
+tillämpning av sjukförsäkringen. Försäkringskassan har styrt mot 
+
+Omställningskrav i sjukförsäkringen 59 riksrevisionen 
+
+
+bedömningar av arbetsförmåga med hjälp av ett metodstöd som Riksrevisionen 
+bedömer vara tydligt. Försäkringskassan har dock inte tagit reda 
+på hur arbetsförmågebedömningen tillämpats i praktiken. Eftersom Försäkringskassan 
+inte har skaffat sig tillräcklig kunskap om vilka bristerna är, har 
+de inte heller kunnat åtgärdas. Detta har drabbat försäkringen och enskilda 
+försäkrade. 
+
+Regeringen anser att omställning är prioriterad och har gett en antal 
+
+direktiv till Försäkringskassan. I denna mening finns det inte skäl att rikta 
+
+någon kritik mot regeringens insatser. Däremot kan Riksrevisionen 
+
+konstatera att regeringen inte ställt några återrapporteringskrav när det 
+
+gäller hur stegmodellen generellt har tillämpats. Regeringen har således inte 
+
+skaffat sig en samlad bild av Försäkringskassans arbetsförmågebedömning. 
+
+7.3 Effekter av rehabiliteringskedjan 
+Riksrevisionen har granskat arbetsförmågebedömningen inom ramen 
+
+ för stegmodellen. Den 1 juli 2008 infördes en rehabiliteringskedja, men 
+
+ändringarna är inte större än att rehabiliteringskedjan kan diskuteras i ljuset 
+
+av resultatet från vår granskning. 
+
+Det faktum att rehabiliteringskedjan har tidsgränser medför att handläggare 
+kan förväntas att göra arbetsförmågebedömningarna tidigare. 
+Eftersom bedömningarna dessutom ska göras mot fler typer av arbeten – till 
+exempel arbetsmarknadspolitiska åtgärder – kan fler komma att bedömas ha 
+arbetsförmåga. 
+
+En rehabiliteringsgaranti införs för de två stora diagnosgrupperna – 
+sjukdomar i rörelseorganen och psykiska sjukdomar. Om fler sjukskrivna 
+genomgår en rehabilitering kan förhoppningsvis fler lämna sjukförsäkringen 
+tack vare ökad arbetsförmåga. 
+
+Det medicinska beslutsstödet innebär en hjälp för såväl läkare som 
+
+handläggare att bedöma hur mycket och hur länge arbetsförmågan kan 
+
+anses vara nedsatt. 
+
+Granskningen visar att sjukfall som kännetecknas av aktivitet – till 
+exempel samverkan med arbetsgivare, handlingsplanssamverkan och 
+arbetsförmågebedömningar – avslutas tidigare än övriga sjukfall. En tidigare 
+bedömning kan leda till att sjukfallen pågår under kortare tid. 
+
+För att rehabiliteringskedjan ska bli framgångsrik krävs dock att Försäkringskassan 
+tidigt får tillgång till underlag som innehåller en bedömning av 
+arbetsförmåga i annat arbete. Granskningen visar att det ofta tar lång tid att 
+få in underlag. Försäkringskassan har inte fått nya sanktionsmöjligheter eller 
+förändrade krav på sin handläggning. Ett tecken på att Försäkringskassan 
+
+riksrevisionen 60 Omställningskrav i sjukförsäkringen 
+
+
+har svårt att göra tidiga bedömningar av arbetsförmågan är att man sällan 
+prövade utbyte till SA efter ett år. 
+
+Granskningen visar på en stor skillnad mellan hur verksamheten har 
+
+bedrivits 2007 och hur rehabiliteringskedjan är tänkt att fungera. Frågan 
+
+kan därför ställas om det är tillräckligt stor skillnad på drivkrafterna i rehabili
+
+
+teringskedjan jämfört med i den tidigare stegmodellen så att handlägg
+
+
+ningen ska kunna uppfylla de nya kraven. Frågan kvarstår även när övriga 
+
+reformer och regeländringar beaktas. 
+
+Det finns två scenarier om inte fler förändringar genomförs. Antingen 
+
+kommer Försäkringskassans handläggare att behöva ta beslut om sjuk
+
+
+penning på färre underlag än i dag. Försäkringskassan är beroende av andra 
+
+aktörer, och det är tveksamt om arbetsförmedlare, läkarna och andra 
+
+kommer att (kunna) tillgodose önskemålen från Försäkringskassan så 
+
+mycket bättre än de gör i dag. 
+
+Alternativet är att Försäkringskassan följer kraven på utredningsskyldig
+
+
+het och skaffar in tillräckligt med underlag innan beslut. Då finns det risk att 
+
+handläggningstiden kommer att bli längre och att beslut inte kommer att 
+
+fattas i tid. En följd av det kan bli att många sjukskrivna kommer att begära 
+
+och få förlängd sjukpenning efter 365 dagar. 
+
+Ytterligare en omständighet är den borttagna möjligheten till tids
+
+
+begränsad SA. Vissa grupper har tidsbegränsad sjukersättning i större 
+
+utsträckning än andra. Det gäller i första hand personer med psykiska 
+
+sjukdomsdiagnoser och dem i åldersgruppen 35–54 år. Den ersättnings
+
+
+formen är borttagen från och med 2008, och det är oklart om dessa 
+
+personer kommer att uppfylla kraven på stadigvarande nedsatt 
+
+arbetsförmåga eller om de kommer att bli utan ersättning. 
+
+7.4 Rekommendationer 
+Riksrevisionens bedömning är att Försäkringskassan inte har säkerställt att 
+handläggningen uppfyller kravet att bedöma arbetsförmågan mot hela 
+arbetsmarknaden. Riksrevisionen rekommenderar därför Försäkringskassan 
+följande: 
+
+• 
+Säkerställ att en prövning av sjukskrivnas arbetsförmåga mot hela 
+arbetsmarknaden alltid görs. 
+• 
+Säkerställ att en prövning av möjligheten till rehabilitering för sjukskrivna 
+i syfte att höja arbetsförmågan alltid görs. 
+• 
+Analysera mer systematiskt de skillnader i bedömning av arbetsförmåga 
+i annat arbete som finns och åtgärda de skillnader som inte har stöd i 
+regelverket. 
+Omställningskrav i sjukförsäkringen 61 riksrevisionen 
+
+
+• 
+Utveckla ärendehanteringssystemet så att användbar information om 
+arbetsförmågebedömningar enkelt kan tas fram. 
+Med tanke på regeringens starka betoning av arbetslinjen bör regeringen ha 
+bättre kunskaper om Försäkringskassans bedömningar av arbetsförmåga 
+mot annat arbete. Riksrevisionen rekommenderar regeringen följande: 
+
+• 
+Följ upp rehabiliteringskedjan noga med avseende på arbetsförmågebedömningar. 
+Särskilt bör de grupper som i störst utsträckning riskerar 
+att bli utan ersättning från sjukförsäkringen följas upp. 
+Det finns indikationer på att läkarnas dubbla roller att behandla patienten 
+och samtidigt för sjukförsäkringens räkning bedöma arbetsförmågan skapar 
+problem. Riksrevisionen rekommenderar regeringen följande: 
+
+• 
+Se över möjligheten att skilja läkarnas uppgift att bedöma arbetsförmågan 
+mot annat arbete från uppgiften att behandla sjukdom. 
+riksrevisionen 62 Omställningskrav i sjukförsäkringen 
+
+
+Källförteckning 
+
+Lagar 
+
+Lag om allmän försäkring 1962:381 
+
+Regeringens propositioner 
+
+Proposition 2005/06:1 
+Proposition 2006/07:1 
+Proposition 2007/08:1 
+Proposition 2008/09:1 
+Proposition 2007/08:136 En reformerad sjukskrivningsprocess för ökad 
+
+återgång i arbete 
+
+Statens offentliga utredningar 
+
+SOU 2007:35 Flyttning och pendling i Sverige, bilaga 3 Långtidsutredningen 
+2008 
+
+SOU 2008:01 Arbetsförmågeutredningen 
+
+Delegationen mot felaktiga utbetalningar Vem fuskar och varför? 
+Om attityder till bidragsfusk i Sverige Rapport 6, november 2007. 
+
+Delegationen mot felaktiga utbetalningar Vad kostar felen? Omfattning 
+av felaktiga utbetalningar från trygghetssystemen Rapport 7, 
+november 2007. 
+
+SOU 2006:86 Socialförsäkringsutredningen Mera försäkring och mera 
+arbete 
+Socialförsäkringsutredningen Arbetslösa som blir sjuka och sjuka som inte 
+blir arbetslösa Samtal om socialförsäkring nr 16 
+Socialförsäkringsutredningen Nya siffror om socialförsäkringarna Samtal 
+om socialförsäkring nr 14 
+
+Regeringens regleringsbrev och uppdrag 
+
+Regleringsbrev till Försäkringskassan 2006–2008 
+
+Material från Försäkringskassan 
+
+Vägledning (2004:2) version 9 
+Vägledning (2004:2) version 10 
+Försäkringskassan analyserar. Att leva på kassan – Allmän försäkring och 
+
+lokal kultur (2005:4) 
+
+Omställningskrav i sjukförsäkringen 63 riksrevisionen 
+
+
+Nej till sjukpenning – Vad hände sedan, Socialförsäkringsrapport 
+(2008:10) 
+
+Försäkringskassan analyserar, Sjukförsäkring – Kulturer och attityder (2006:16) 
+
+Försäkringskassans statistik 2007:2, Nybeviljade sjukersättningar/aktivitetsersättningar, 
+fördelning på län och diagnos, 2006 
+
+Metodstöd för handläggare och försäkringsläkare i sjukförsäkringsärenden 
+2007-12-04 
+
+Metodstöd Dokumentation i sjukförsäkringsärenden 2007-12-04 
+
+Metodstöd för kvalitetssäkring och komplettering av läkarintyg i 
+sjukpenningärenden Rätt förmån – Rätt ersättning 2003-12-08 
+
+Metodstöd Avstämningsmöte 2007-11-20 
+
+Metodstöd Handläggning när sjukpenning inte ska betalas ut Rätt 
+förmån – rätt ersättning 2007-05-24 
+
+Mål och måttkarta 2007-08-10 
+
+Material från myndigheter 
+
+Statskontoret Individuella handlingsplaner vid arbetsförmedlingen rapport 
+2004:15 
+
+IAF IAF:s föreskrift om tillämpningen av 11 § lagen (1997:238) om 
+arbetslöshetsförsäkring gällande lämpligt arbete (2004:3) 
+
+AMS AMS föreskrifter om individuella handlingsplaner (2004:11) 
+
+AMS Arbetsmarknadsrapport (2007:2) 
+
+Riksrevisionen Tas sjukskrivnas arbetsförmåga tillvara? (RiR 2007:19) 
+
+Elin Ekbladh, Linköping universitet, Return to work – Assessment of 
+Subjective Psychosocial and Environmental Factors, doktorsavhandling 
+2008 
+
+Intervjuer 
+
+Intervjuer har genomförts med representanter för Socialdepartementet, 
+2008-10-15 
+
+Intervjuer har genomförts med representanter för Försäkringskassan, 
+2008-03-05, 2008-03-10, 2008-05-22, 2008-11-12 och 2008-11-28 
+
+Övriga referenser 
+
+Försäkringskassans webbplats 
+SCB:s webbplats 
+
+riksrevisionen 64 Omställningskrav i sjukförsäkringen 
+
+
+Metodbilaga 
+
+Metodbeskrivning för granskning av akter 
+
+För att få kunskap om i vilken utsträckning och hur Försäkringskassans 
+arbetsförmågebedömning sker har Riksrevisionen granskat akter för 
+personer med sjukpenning. Akterna valdes ut bland de nära 37 000 sjukfall 
+som avslutades under fjärde kvartalet 2007 där sjukpenning betalats ut i 
+minst 90 dagar. Populationen stratifierades på region i form av kommungrupp 
+samt ålder och kön. 870 akter valdes ut. Syftet med stratifieringen var 
+att öka möjligheten att granska akter som i tillräcklig omfattning avsåg olika 
+kommungrupper, åldrar samt kvinnor respektive män. Att sjukförsäkringen 
+nyttjas i olika hög grad beroende på ålder och kön är känt sedan tidigare. 
+
+Med hjälp av Försäkringskassans register valdes, av de 870 sjukfallen, 
+
+de sjukfall ut som slutade i någon form av sjuk- och aktivitetsersättning 
+
+eftersom de då per definition har avslutats i steg 7 och passerat steg 5 och 6. 
+
+Därefter bedömde två av Försäkringskassans sjukpenninghandläggare övriga 
+
+akter och identifierade dem som avslutats i steg 5 eller 6. Resultatet blev att 
+
+311 sjukfall borde ha fått en arbetsförmågebedömning mot ett normalt före
+
+
+kommande arbete på arbetsmarknaden. Om inte annat anges avser resultat 
+
+som redovisas dessa 311 sjukfall. Samtliga uppgifter kommer från Försäk
+
+
+ringskassans ärendehanteringssystem (ÄHS), och från de granskade 
+
+akterna. De skillnader vi redovisar har en signifikans på minst 5 procent, 
+
+det vill säga skillnaderna beror med 95 procents säkerhet inte på slumpen. 
+
+Riksrevisionen har bedömt om Försäkringskassan aktivt har gjort en 
+
+bedömning av den försäkrades arbetsförmåga i annat arbete. Vi har dock 
+
+inte bedömt kvaliteten på arbetsförmågebedömningen. 
+
+Arbetsförmågebedömning enligt stegmodellen handlar om ifall den 
+försäkrade kan försörja sig själv genom sådant förvärvsarbete som är normalt 
+förekommande på arbetsmarknaden, eller genom annat lämpligt arbete som 
+är tillgängligt för den försäkrade. I dagens rehabiliteringskedja handlar 
+bedömningen om ifall det finns förmåga att försörja sig själv genom 
+förvärvsarbete på den reguljära arbetsmarknaden i övrigt, eller genom annat 
+lämpligt arbete som är tillgängligt för den försäkrade. Vi använder i 
+rapporten uttrycket annat arbete för att beskriva arbetsförmågebedömning 
+både i stegmodellen och i rehabiliteringskedjan. 
+
+De resultat vi presenterar och kommenterar i kapitel 3 och 4 har en 
+
+signifikans på minst 5 procent, det vill säga att skillnader mellan de olika 
+
+grupperna med 95 procents säkerhet inte beror på slumpen. 
+
+Omställningskrav i sjukförsäkringen 65 riksrevisionen 
+
+
+Populationen 
+
+Undersökningspopulationen består av sjukpenningärenden som avslutats 
+under fjärde kvartalet 2007 och som haft en varaktighet om minst 90 dagar. 
+Sjukfallet kan ha avslutats med sjuk- eller rehabiliteringspenning i olika 
+omfattning (25, 50, 75 respektive 100 %). Därtill ska ärendena ha nått steg 5 
+i Försäkringskassans sjustegsmodell. 
+
+Det finns ingen möjlighet att direkt ur datasystemen välja ut de ärenden 
+som har nått steg 5. Därför krävdes att Försäkringskassan manuellt plockade 
+fram ”rätt” ärenden. 
+
+Bland samtliga sjukfall i ramurvalet är det 31 procent av ärendena som 
+gått till sjuk- eller aktivitetsersättning vid sjukfallets slut. Avslutas ärenden 
+med SA har de per definition bedömts i steg 7 och därmed ska de enligt 
+stegmodellen även ha passerat steg 5 och 6. Eftersom det inte går att identifiera 
+vilket steg ett ärende befinner sig i utan att titta i akten måste vi i förväg 
+uppskatta hur många akter som behöver väljas ut för granskningen. Utifrån 
+denna beräkning har det antagits att 35 procent av ärendena har passerat 
+steg 5. Denna procentandel har använts som underlag för att göra en 
+uppskattning av det totala antalet ärenden som behöver väljas ut för att hitta 
+det önskade antalet ärenden som ska granskas. 
+
+Indelning i kommungrupper 
+
+Sjuktalen har delats in i sex olika kommungrupper. Några lokalkontor har 
+inte varit möjliga att dela in i kommungrupp, till exempel specialkassor som 
+Sjömanskontoret. Sammanlagt är det fyra kontor med 65 ärenden (mindre 
+än 1 procent av det totala antalet ärenden). 
+
+Tabell 1 Sjukpenningärenden över 90 dagar, avslutade fjärde kvartalet 2007 
+
+Antal som 
+borde vara i 
+Kommungrupp* Antal ärenden steg 5-7 (35%) 
+Förort & storstad 11 676 4 087 
+Större städer 12 833 4 492 
+Pendling 1591 557 
+Glesbygd och övriga små 1255 439 
+Varuproducerande 1601 560 
+Övriga mellan och större 7 924 2 773 
+Samtliga 36 880 12 908 
+
+* Sjukfall som inte kan kommungruppsbestämmas har tagits bort. 
+riksrevisionen 66 Omställningskrav i sjukförsäkringen 
+
+
+Steg i urval och granskning 
+
+Ett slumpmässigt urval av individer har gjorts stratifierat efter 
+kommungrupper. 
+
+Steg 1 Personnummerlistor över avslutade ärenden över 90 dagar sammanställdes 
+av Försäkringskassan för urval. I listan fanns bakgrundsuppgifter: 
+ålder, kön, längd på sjukfallet, lokalkontorstillhörighet, kommungrupp, 
+genomsnittlig dagpenning 2007, i vilken omfattning sjukfallet avslutades 
+och om personen nu har sjuk- eller aktivitetsersättning eller ej. Alla 
+ärenden tilldelades dessutom ett löpnummer. 
+Steg 2 Ett slumpmässigt urval gjordes av Försäkringskassan. Riksrevisionen 
+delade in lokalkontoren efter SKL:s kommunindelning och lämnade 
+denna indelning och uppgift om antalet ärenden som skulle slumpas 
+ut i varje kommungrupp. 
+Steg 3 Efter urval skickades listan med samtliga ärenden (720 stycken) med 
+bakgrundsuppgifter och löpnummer till Riksrevisionen (Statisticon). 
+Denna fil innehöll inte personnummer. 
+Steg 4 Ärendena på listan granskades i ett första steg av Försäkringskassans 
+handläggare för att sortera bort de ärenden som avslutats före steg 5. 
+Listan kompletterades med uppgiften om ärendet hade avförts från 
+fortsatt granskning eller inte (1/0). 
+Steg 5 Riksrevisionen granskade ärenden i ÄHS på plats på Försäkringskassans 
+huvudkontor(maj och juni 2008). 
+
+36 880 personer 
+
+Sjukfall som pågått minst 90 dagar och som avslutades under fjärde kvartalet 2007 (1 okt t.o.m. 31 dec). 
+
+
+870 personer 
+
+Sjukfall som valts ut för att aktgranskningen ska kunna göras. Målet är att stratifiera för kön, ålder och 
+kommungrupp samt finna cirka en tredjedel akter för sjukfall som avslutats i steg 5, 6 eller 7. De valda 
+akterna skulle motsvara de 36 880 personerna i hela populationen. 
+
+
+311 personer 
+
+Vi drog ett slumpmässigt urval på 870 ärenden. 258 av dessa avslutades med beslut om SA och har därför 
+passerat steg 5 och 6. Två av Försäkringskassans handläggare granskade de 612 akter som inte avslutats 
+med beslut om SA för att identifiera vilka som avslutats i steg 5 eller 6. Sammantaget granskades 311 akter 
+som passerat steg 4. De granskade akterna har ett väntevärde på 12 617 personer från populationen. 
+
+Omställningskrav i sjukförsäkringen 67 riksrevisionen 
+
+
+Variabelbeskrivning för aktgranskning vid 
+Försäkringskassan 
+
+I samtliga 870 akter fanns uppgifter för första delen av variablerna nedan. 
+När det gäller resten av uppgifterna som gäller sjukfallen och arbetsförmågan 
+finns dessa för de 311 granskade akterna i den mån de gick att 
+besvara. 
+
+Variabel Innehåll Beskrivning 
+1 Basuppgifter om sjukfallet 
+lopnr LÖpnr Löpnr 1-870 
+del Del 
+aldersgrupp Åldersgrupp 
+kon Kön 
+lk_kod Län + kommunkod 
+Lokalkontor Handläggande kontor 
+Kassa_kod Kod för kassa 
+kassa Kassa 
+Kommungrupp_RiR Kommungrupp 
+langdklass Sjukfallets längd 
+Dagbelopp Dagbelopp 
+Dagbeloppklass Dagbeloppsklass 
+from_datum Sjukanmälningsdatum 
+
+tom_datum Slutdatum för sjukskrivningsperioden 
+omfattning Omfattning 
+SA_fore SA Före 
+SA_Under SA Under 
+SA_Efter SA Efter 
+lillan Antal i urval 
+storan Antal i population 
+
+vikt Vikt 
+
+2 Sjukfallet startar 
+
+f21 2.1 Diagnoskod 
+
+f22 2.2 Arbetsstatus vid sjukfallets början 1 = Anställd, 2 = Arbetslös, 
+3 = Egen företagare, 4 = Övrigt 
+f23_txt 2.3 Yrke, klartext 
+
+f23 2.3 Yrke, framgår ej 1 = Framgår ej 
+
+f24_d 2.4 Startdatum 
+
+riksrevisionen 68 Omställningskrav i sjukförsäkringen 
+
+
+3 Bedömningen i steg 5 
+f31 3.1 Har handläggaren bedömt om 1 = Ja, 2 = Nej 
+den sjukskrivne har arbetsförmåga i 
+annat på arbetsmarknaden normalt 
+förekommande arbete? 
+f32 3.2 Framgår av ställningstagandet 1 = Ja, 2 = Nej 
+varför handläggaren kom fram till 
+detta? 
+f32_d 3.2 Datum för bedömningen 
+f33_1 3.3 Vilka underlag finns att tillgå vid 1 = Läkarintyg 
+bedömningstillfället? – Läkarintyg 
+f33_2 3.3 Vilka underlag finns att tillgå vid 1 = Läkarutlåtande 
+bedömningstillfället? – 
+Läkarutlåtande 
+f33_3 3.3 Vilka underlag finns att tillgå vid 1 = Försäkringsläkares underlag 
+bedömningstillfället? – 
+Försäkringsläkares underlag 
+f33_4 3.3 Vilka underlag finns att tillgå vid 1 = Avstämningsmöte med 
+bedömningstillfället? – arbetsgivare /AF 
+Avstämningsmöte med arbetsgivare 
+/AF 
+f33_5 3.3 Vilka underlag finns att tillgå vid 1 = Plan för återgång i arbete 
+bedömningstillfället? – Plan för 
+återgång i arbete 
+f33_6 3.3 Vilka underlag finns att tillgå vid 1 = SASSAM-kartläggning 
+bedömningstillfället? – SASSAM-
+kartläggning 
+f33_7 3.3 Vilka underlag finns att tillgå vid 1 = Den försäkrades uppgifter 
+bedömningstillfället? – Den 
+försäkrades uppgifter 
+f33_8 3.3 Vilka underlag finns att tillgå vid 1 = Extern utredning 
+bedömningstillfället? – Extern 
+utredning 
+f33_9 3.3 Vilka underlag finns att tillgå vid 1 = Övrigt 
+bedömningstillfället? – Övrigt 
+f33_txt 3.3 Vilka underlag finns att tillgå vid Fritext 
+bedömningstillfället? – Övrigt, ange 
+f34 3.4 Vad blev Försäkringskassans 1 = Helt arbetsoförmögen, 
+bedömning? 2 = Delvis arbetsförmåga, 
+3 = Kan klara speciellt arbete/ 
+särskilt anordnat arbete, 4 = Full 
+arbetsförmåga men med restriktioner 
+till arbetets innehåll, 5 = Full 
+arbetsförmåga, 6 = Framgår ej 
+
+Omställningskrav i sjukförsäkringen 69 riksrevisionen 
+
+
+f36 
+f37_txt 
+3.6 Finns uppgift om att andra 
+faktorer än medicinska sätter ned 
+arbetsförmågan? 
+3.7 Fritext för steg 5 
+1 = Ja, 2 = Nej 
+4 Medicinska underlag 
+f41 4.1 Är bedömningen av 
+arbetsförmågan relaterad till hela 
+arbetsmarknaden? – Behandlande 
+läkare 
+1 = Ja, 2 = Nej 
+f42_d 4.2 Datum för bedömningen 
+
+f43 4.3 Är bedömningen av 
+arbetsförmågan relaterad till hela 
+arbetsmarknaden? – 
+1 = Ja, 2 = Nej, 3 = Ej aktuellt 
+Försäkringsläkare 
+f44_d 4.4 Datum för bedömningen 
+f45_txt 4.5 Fritext för medicinska underlag 
+
+5 Aktörer – arbetsförmågebedömning mot hela arbetsmarknaden 
+
+f51 5.1 Den sjukskrivne 1 = Full arbetsförmåga, 
+2 = Delvis arbetsförmåga, 
+3 = Ingen arbetsförmåga, 
+4 = Framgår ej 
+
+f52 5.2 Behandlande läkare 1 = Full arbetsförmåga, 
+2 = Delvis arbetsförmåga, 
+3 = Ingen arbetsförmåga, 
+4 = Framgår ej 
+f53 5.3 Försäkringsläkare 1 = Full arbetsförmåga, 
+2 = Delvis arbetsförmåga, 
+3 = Ingen arbetsförmåga, 
+4 = Framgår ej 
+f54 5.4 Försäkringskassan 1 = Full arbetsförmåga, 
+2 = Delvis arbetsförmåga, 
+3 = Ingen arbetsförmåga, 
+4 = Framgår ej 
+f55_txt 5.5 Fritext arbetsförmågebedömning 
+6 Aktiva åtgärder, FK:s handläggning av ärendet 
+f61 6.1 Finns uppgift om att 1 = Ja, 2 = Nej 
+avstämningsmöte ägt rum? 
+f61_d 6.1 Finns uppgift om att 
+avstämningsmöte ägt rum? – Datum 
+f62 6.2 Finns uppgift om att SASSAM1 
+= Ja, 2 = Nej 
+kartläggning ägt rum? 
+f62_d 6.2 Finns uppgift om att SASSAM-
+kartläggning ägt rum? – Datum 
+
+riksrevisionen 70 Omställningskrav i sjukförsäkringen 
+
+
+f63 6.3 Finns uppgift om att 
+handlingsplanssamverkan med 
+Arbetsförmedlingen är genomförd? 
+1 = Ja, 2 = Nej 
+f63_d 6.3 Finns uppgift om att 
+handlingsplanssamverkan med 
+Arbetsförmedlingen är genomförd? – 
+Datum 
+f64 6.4 Finns uppgift om att 
+överlämningsmöte tillsammans med 
+AF har erbjudits? 
+1 = Ja, 2 = Nej 
+f64_d 6.4 Finns uppgift om att 
+överlämningsmöte tillsammans med 
+AF har erbjudits? – Datum 
+
+f65 6.5 1-årsregeln: Har handläggaren 
+bedömt om utbyte av sjukpenning till 
+sjuk- eller aktivitetsersättning ska 
+göras? 
+1 = Ja, 2 = Nej 
+f65b 6.5b Vad blev Försäkringskassans 
+bedömning? 
+1 = Hel sjuk/aktivitetsersättning – 
+tillsvidare, 
+2 = Hel sjuk/aktivitetsersättning – 
+tidsbegränsad, 
+3 = Partiell sjuk/aktivitetsersättning 
+– tillsvidare, 4 = Partiell sjuk/
+aktivitetsersättning – tidsbegränsad, 
+5 = Fortsatt sjukpenning eller 
+rehabiliteringspenning, 6 = Annat 
+f65b_txt 6.5b Vad blev Försäkringskassans 
+bedömning? – Annat, ange 
+
+7 Bedömning i steg 6 
+f71 7.1 Har handläggaren bedömt om 
+den försäkrade har arbetsförmåga för 
+ett på arbetsmarknaden normalt 
+förekommande arbete efter viss 
+rehabilitering eller utbildning? 
+1 = Ja, 2 = Nej 
+f72_d 7.2 Datum för bedömningen 
+f73_1 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Läkarintyg 
+1 = Läkarintyg 
+f73_2 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Läkarutlåtande 
+1 = Läkarutlåtande 
+f73_3 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? -
+Försäkringsläkares underlag 
+1 = Försäkringsläkares underlag 
+f73_4 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? – Avstämningsmöte 
+med arbetsgivare /AF 
+1 = Avstämningsmöte med 
+arbetsgivare /AF 
+
+Omställningskrav i sjukförsäkringen 71 riksrevisionen 
+
+
+f73_5 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Plan för 
+återgång i arbete 
+1 = Plan för återgång i arbete 
+f73_6 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - SASSAM-
+kartläggning 
+1 = SASSAM-kartläggning 
+f73_7 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Den 
+försäkrades uppgifter 
+1 = Den försäkrades uppgifter 
+f73_8 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Extern 
+utredning 
+1 = Extern utredning 
+f73_9 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Övrigt 
+1 = Övrigt 
+f73_txt 7.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Övrigt, ange 
+
+f74 7.4 Vad blev Försäkringskassans 1 = Rehabilitering kan hjälpa för att 
+bedömning? återfå arbetsförmåga, 2 = Rehabilitering 
+inte möjlig, 3 = Framgår inte 
+f75_txt 7.5 Fritext för steg 6 
+
+8 Bedömning i steg 7 
+f81 8.1 Har handläggaren bedömt om 
+utbyte av sjukpenning till sjuk- eller 
+aktivitetsersättning ska göras? – 
+Avser inte 1-årsregeln utan utbyte i 
+”ren” steg 7 
+1 = Ja, 2 = Nej 
+f82_d 8.2 Datum för bedömningen 
+f83_1 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Läkarintyg 
+1 = Läkarintyg 
+f83_2 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Läkarutlåtande 
+1 = Läkarutlåtande 
+f83_3 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? -
+Försäkringsläkares underlag 
+1 = Försäkringsläkares underlag 
+f83_4 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? -
+Avstämningsmöte med arbetsgivare 
+/AF 
+1 = Avstämningsmöte med 
+arbetsgivare /AF 
+f83_5 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Plan för 
+återgång i arbete 
+1 = Plan för återgång i arbete 
+f83_6 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - SASSAM-
+kartläggning 
+1 = SASSAM-kartläggning 
+
+riksrevisionen 72 Omställningskrav i sjukförsäkringen 
+
+
+f83_7 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Den 
+försäkrades uppgifter 
+1 = Den försäkrades uppgifter 
+f83_8 8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Extern 
+utredning 
+1 = Extern utredning 
+
+f83_9 
+f83_txt 
+f84 
+8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? – Övrigt 
+8.3 Vilka underlag finns att tillgå vid 
+bedömningstillfället? - Övrigt, ange 
+8.4 Vad blev Försäkringskassans 
+bedömning? 
+1 = Övrigt 
+1 = Hel sjuk/aktivitetsersättning – 
+tillsvidare, 2 = Hel sjuk/aktivitetsersättning 
+– tidsbegränsad, 
+3 = Partiell sjuk/aktivitetsersättning 
+– tillsvidare, 4 = Partiell sjuk/
+aktivitetsersättning – tidsbegränsad, 
+5 = Fortsatt sjukpenning 
+eller rehabiliteringspenning, 
+6 = Annat 
+f84_txt 
+f85_txt 
+8.4 Vad blev Försäkringskassans 
+bedömning? Annat, ange 
+8.5 Fritext för steg 7 
+9 Sjukfallets avslut 
+f91_1 9.1 Arbetsstatus vid sjukfallets avslut 
+– Anställd 
+1 = Anställd 
+f91_2 9.1 Arbetsstatus vid sjukfallets avslut 
+– Arbetslös 
+1 = Arbetslös 
+f91_3 
+f91_4 
+f91_5 
+9.1 Arbetsstatus vid sjukfallets avslut 
+– Egenföretagare 
+9.1 Arbetsstatus vid sjukfallets avslut 
+- Föräldraledig 
+9.1 Arbetsstatus vid sjukfallets avslut 
+- Studier 
+1 = Egenföretagare 
+1 = Föräldraledig 
+1 = Studier 
+f91_6 9.1 Arbetsstatus vid sjukfallets avslut 
+- Sjuk- eller aktivitetsersättning 
+1 = Sjuk- eller aktivitetsersättning 
+f91_7 
+f92 
+f92_d 
+f93 
+9.1 Arbetsstatus vid sjukfallets avslut 
+- Framgår ej av underlagen 
+Slutdatum 
+Slutdatum - datum 
+9.3 I vilket steg avslutades sjukfallet? 
+1 = Framgår ej av underlagen 
+1 = Sjukpenning, 2 = 
+Rehabiliteringspenning 
+1 = Steg 5, 2 = Steg 6, 3 = Steg 7, 4 
+= Framgår ej 
+f94 9.4 I vilken omfattning avslutades 
+sjukfallet (sjukpenning, 
+rehabiliteringspenning, ej SA) 
+1 = Hel omfattning, 2 = 75 procent, 
+3 = 50 procent, 4 = 25 procent 
+
+Omställningskrav i sjukförsäkringen 73 riksrevisionen 
+
+
+Kommungruppsindelning 
+
+Urvalet i aktgranskningen gjordes stratifierat efter kommungrupp. 
+Riksrevisionen har skapat sex kommungrupper: 
+
+1. Storstäder och förortskommuner i en grupp 
+2. Övriga kommuner med över 25 000 invånare, slogs ihop med 
+övriga kommuner med 12 500–25 000 invånare 
+3. Glesbygdskommuner slogs ihop med övriga kommuner med 
+mindre än 12 500 invånare 
+4. Varuproducerande kommuner 
+5. Större städer 
+6. Pendlingskommuner 
+Den ursprungliga kommungruppsindelningen har gjorts av Svenska 
+kommunförbundet. Indelningen har gjorts i nio grupper efter vissa 
+strukturella egenskaper, som bland annat befolkningsstorlek, 
+pendlingsmönster och näringslivsstruktur. Kommungrupperna är: 
+
+1. Storstäder (3 kommuner) 
+Kommun med en folkmängd som överstiger 200 000 invånare. 
+2. Förortskommuner (38 kommuner) 
+a. Kommun där mer än 50 procent av nattbefolkningen pendlar till 
+arbetet i någon annan kommun. Det vanligaste utpendlingsmålet 
+skall vara någon av storstäderna. 
+3. Större städer (27 kommuner) 
+Kommun med 50 000–200 000 invånare samt en tätortsgrad 
+överstigande 70 procent. 
+4. Pendlingskommuner (41 kommuner) 
+Kommun där mer än 40 procent av nattbefolkningen pendlar till arbetet 
+i någon annan kommun. 
+5. Glesbygdskommuner (39 kommuner) 
+Kommun med mindre än 7 invånare per kvadratkilometer och mindre än 
+20 000 invånare. 
+6. Varuproducerande kommuner (40 kommuner) 
+Kommun med mer än 40 procent av nattbefolkningen mellan 16 och 64 
+år, anställda inom varutillverkning och industriell verksamhet(SNI92). 
+1. 
+Övriga kommuner, över 25 000 inv. (34 kommuner) 
+Kommun som inte hör till någon av tidigare grupper och har mer än 
+25 000 invånare. 
+riksrevisionen 74 Omställningskrav i sjukförsäkringen 
+
+
+2. 
+Övriga kommuner, 12 500–25 000 inv. (37 kommuner) 
+Kommun som inte hör till någon av tidigare grupper och har 12 50025 
+000 invånare. 
+3. 
+Övriga kommuner, mindre än 12 500 inv. (31 kommuner) 
+Kommun som inte hör till någon av tidigare grupper och har mindre 
+än 12 500 invånare. 
+Diagnosgrupper 
+
+De olika diagnoserna som föranlett sjukskrivningarna har Riksrevisionen 
+efter Socialstyrelsens indelning delat in i följande grupper: 
+
+• 
+Psykiska sjukdomar och syndrom – här ingår diagnoser som 
+paniksyndrom, ångest eller depression. 
+• 
+Muskler och bindväv – höftledsoperation, cancer i muskler och bindväv, 
+skelettinfektioner. 
+• 
+Sjukdomar i cirkulationsorganen – hjärtattack, stroke, hjärt- och 
+kärlsjukdomar. 
+• 
+Nervsystem – sjukdomstillstånd såsom migrän, Parkinsons och epilepsi. 
+Resterande diagnoser har placerats i gruppen ”Övriga”. 
+
+Omställningskrav i sjukförsäkringen 75 riksrevisionen 
+
+
+Normbilaga 
+
+Nedan redogörs för reglerna vad gäller rätten till sjukpenning (stegmodellen 
+respektive rehabiliteringskedjan), Försäkringskassans utredningsskyldighet, 
+förlängd sjukpenning samt fortsatt sjukpenning. Även särskilda skäl för rätt 
+till sjukpenning behandlas. 
+
+Grundläggande förutsättningar för sjukpenning 
+
+De grundläggande förutsättningarna för sjukpenning har inte ändrats i de 
+nya reglerna 1 juli 2008. I 3 kap. 7 § förstatredje styckena lagen om allmän 
+försäkring (AFL) anges att sjukpenning utges vid sjukdom som sätter ned den 
+försäkrades arbetsförmåga med minst en fjärdedel. Vid bedömningen av om 
+sjukdom föreligger ska bortses från arbetsmarknadsmässiga, ekonomiska, sociala 
+och liknande förhållanden. Med sjukdom jämställs ett tillstånd av nedsatt 
+arbetsförmåga, som orsakats av sjukdom för vilken sjukpenning utgetts och 
+som fortfarande kvarstår efter det att sjukdomen upphört. 
+
+Saknar den försäkrade arbetsförmåga utges hel sjukpenning. Om 
+
+arbetsförmågan inte saknas helt men är nedsatt med minst tre fjärdedelar utges 
+
+tre fjärdedels sjukpenning. Är arbetsförmågan nedsatt i mindre grad men med 
+
+minst hälften utges halv sjukpenning. I annat fall utges en fjärdedels sjukpenning. 
+
+Vid bedömningen av om arbetsförmågan är nedsatt ska det beaktas om den 
+
+försäkrade på grund av sjukdomen är ur stånd att utföra sitt vanliga eller annat 
+
+lämpligt arbete som arbetsgivaren tillfälligt erbjuder den anställde. Om den 
+
+försäkrade på grund av sjukdomen behöver avstå från förvärvsarbete under 
+
+minst en fjärdedel av sin normala arbetstid en viss dag, ska hans eller hennes 
+
+arbetsförmåga anses nedsatt i minst motsvarande mån den dagen. 
+
+Stegmodellen och rehabiliteringskedjan 
+
+Enligt de gamla reglerna skulle arbetsförmåga bedömas i olika steg, den så 
+kallade stegmodellen. Arbetsförmågan skulle bedömas mot om den 
+försäkrade kunde försörja sig själv genom sådant förvärvsarbete som är 
+normalt förekommande på arbetsmarknaden. Detta framgick av dåvarande 
+3 kap. 7 § fjärde och femte styckena AFL: Om den försäkrade inte kan antas 
+kunna återgå till sitt vanliga arbete eller till annat arbete hos arbetsgivaren, 
+skall vid bedömningen av arbetsförmågans nedsättning särskilt beaktas om den 
+
+Omställningskrav i sjukförsäkringen 77 riksrevisionen 
+
+
+försäkrade kan försörja sig genom sådant arbete efter åtgärd som avses i 7 b § 
+eller 22 kap. 
+
+Om det efter prövning enligt fjärde stycket bedöms att den försäkrade 
+inte kan återgå till arbete hos arbetsgivaren eller försörja sig själv genom annat 
+förvärvsarbete som är normalt förekommande på arbetsmarknaden, skall vid 
+bedömningen av arbetsförmågans nedsättning särskilt beaktas om den försäkrade 
+efter åtgärd som avses i 7 b § eller 22 kap. kan försörja sig själv genom sådant 
+förvärvsarbete som är normalt förekommande på arbetsmarknaden, eller genom 
+annat lämpligt arbete som är tillgängligt för den försäkrade. 
+
+Från den 1 juli 2008 avskaffades stegmodellen. Försäkringskassan ska 
+fortfarande bedöma arbetsförmåga i förhållande till i första hand arbetsgivaren 
+och sedan mot om den försäkrade kan försörja sig själv genom 
+något annat förvärvsarbete. Bestämmelserna i 3 kap. 7 § fjärde–sjätte 
+styckena AFL som har trätt i kraft den 1 juli 2008 har följande ordalydelse: 
+Från och med den tidpunkt då den försäkrade har haft nedsatt arbetsförmåga 
+under 90 dagar ska det även beaktas om den försäkrade kan försörja sig efter en 
+omplacering till annat arbete hos arbetsgivaren. 
+
+Från och med den tidpunkt då den försäkrade har haft nedsatt 
+arbetsförmåga under 180 dagar ska det dessutom, om det inte finns särskilda skäl 
+mot det, beaktas om den försäkrade har sådan förmåga så att han eller hon kan 
+försörja sig själv genom förvärvsarbete på den reguljära arbetsmarknaden i övrigt, 
+eller genom annat lämpligt arbete som är tillgängligt för den försäkrade. 
+
+Från och med den tidpunkt då den försäkrade har haft nedsatt arbetsförmåga 
+under 365 dagar ska det alltid beaktas om den försäkrade har sådan 
+förmåga som anges i femte stycket…/ 
+
+Skillnaden från de gamla reglerna är att ”stegen” kan bedömas parallellt 
+och att bedömningstillfällena är tidsatta. Bedömningen ska även göras mot 
+en större arbetsmarknad i och med att begreppet ”normalt förekommande 
+arbete” har ersatts med ”den reguljära arbetsmarknaden”. Detta förtydligas 
+även i Försäkringskassans vägledning: 
+
+I förarbetena till den tidigare lagstiftningen sägs att den försäkrades arbetsförmåga 
+skulle bedömas gentemot varje typ av arbete som är förekommande på 
+arbetsmarknaden, men att en sådan bedömning skulle leda alltför långt enligt 
+propositionen. Vid bedömningen mot ett arbete på den reguljära arbetsmarknaden 
+ska däremot bedömningen göras mot varje typ av arbete, och det ska räcka 
+att den försäkrade kan utföra något sådant arbete på den reguljära arbetsmarknaden. 
+Detta innebär att begreppet den reguljära arbetsmarknaden är vidare, det 
+vill säga det är fler arbeten son omfattas av detta begrepp än vad som omfattas 
+av begreppet normalt förekommande arbete.43 
+
+43 Försäkringskassans vägledning 2004:2 version 10 s. 117. 
+
+riksrevisionen 78 Omställningskrav i sjukförsäkringen 
+
+
+Om det finns särskilda skäl kan bedömningen mot hela 
+arbetsmarknaden efter 180 dagar skjutas upp: 
+
+Om det finns särskilda skäl mot det behöver en bedömning av arbetsförmågan 
+i förhållande till den reguljära arbetsmarknaden dock inte göras trots att det har 
+gått 180 dagar i sjukperioden (3 kap. 7 § femte stycket AFL). Det kan komma 
+ifråga om det är stor sannolikhet att den försäkrade kan återgå i arbete hos 
+arbetsgivaren i tidigare omfattning. Om den försäkrade inom kort kan återgå 
+i arbete hos arbetsgivaren skulle det riskera att i det närmaste bli en formalitet 
+att den försäkrade anmäler sig som arbetssökande hos Arbetsförmedlingen i 
+avvaktan på att han eller hon kan börja arbeta hos sin arbetsgivare igen. Det 
+är dock viktigt att undantagen inte blir till huvudregel. (Prop. 2007/08:136 s. 68 
+och s. 101)44 
+
+Särskilda skäl 
+
+I den gamla lagen fanns det utrymme att ta hänsyn till andra faktorer än den 
+försäkrades arbetsförmåga. 
+
+Om det finns särskilda skäl för det, får den försäkrades ålder samt bosättningsförhållanden, 
+utbildning, tidigare verksamhet och andra liknande omständigheter 
+beaktas när arbetsförmågans nedsättning bedöms. (3 kap. 7 § sjätte stycket 
+AFL). 
+
+För att beakta särskilda skäl skulle den försäkrades arbetsförmåga vara 
+nedsatt med minst en fjärdedel i hennes eller hans ordinarie arbete eller i 
+ett på arbetsmarknaden normalt förekommande arbete. Först om detta var 
+uppfyllt kunde Försäkringskassan beakta särskilda skäl. Det är åldern som 
+var den starkaste faktorn, men Försäkringskassan kunde även väga in bosättningsförhållanden, 
+utbildning, tidigare verksamhet och andra omständligheter i sin bedömning.”45 
+
+Denna möjlighet har alltså tagits bort i den nya lagen. 
+
+Utredningsskyldighet 
+
+Försäkringskassan ansvarar för att ärendena blir tillräckligt utredda. 
+
+Inom socialförsäkringsområdet finns specialregler i AFL om Försäkringskassans 
+utredningsskyldighet och den försäkrades skyldighet att medverka 
+i utredningen. I 3 kap. 8 § AFL anges vad som ingår i Försäkringskassans 
+underlag: 
+
+44 Försäkringskassans vägledning 2004:2 version 10 s. 120. 
+45 Försäkringskassans vägledning 2004:2 version 9. 
+
+Omställningskrav i sjukförsäkringen 79 riksrevisionen 
+
+
+Den försäkrade skall till Försäkringskassan ge in en skriftlig försäkran för 
+sjukpenning. Försäkran skall innehålla uppgifter om sjukdomen, en beskrivning 
+av den försäkrades arbetsuppgifter och den försäkrades egen bedömning av 
+arbetsförmågan. Uppgifterna i försäkran skall lämnas på heder och samvete. 
+
+Den försäkrade skall till Försäkringskassan ge in läkarintyg för att styrka 
+nedsättning av arbetsförmåga på grund av sjukdom senast från och med den 
+sjunde dagen efter sjukanmälningsdagen. 
+
+Den försäkrade skall om Försäkringskassan begär det till Försäkringskassan 
+ge in en särskild försäkran avseende nedsättningen av arbetsförmågan på grund 
+av sjukdom. Den särskilda försäkran skall innehålla en utförligare beskrivning av 
+den försäkrades arbetsuppgifter och egen bedömning av arbetsförmågan än 
+försäkran enligt första stycket. Uppgifterna i den särskilda försäkran skall lämnas 
+på heder och samvete. 
+
+Från och med den 1 januari 2009 tillkommer stycket nedan: 
+
+Den försäkrade ska om Försäkringskassan begär det till Försäkringskassan ge 
+in ett utlåtande av sin arbetsgivare. I utlåtandet ska det anges vilka möjligheter 
+som finns att ta till vara den försäkrades arbetsförmåga inom arbetsgivarens 
+verksamhet efter åtgärd som avses i 22 kap. 
+
+Det finns ytterligare regler för vad Försäkringskassan kan göra för att få 
+underlag. 3 kap. 8 a § första–tredje styckena AFL: 
+
+Försäkringskassan skall, om det behövs för att kunna bedöma i vilken mån den 
+försäkrades arbetsförmåga fortfarande är nedsatt på grund av sjukdom samt om 
+rehabilitering eller ytterligare utredningsåtgärder är nödvändiga, begära att han 
+eller hon genomgår utredning eller deltar i ett särskilt möte (avstämningsmöte) 
+för bedömning av hans eller hennes medicinska tillstånd, arbetsförmåga och 
+behov av och möjligheter till rehabilitering. 
+
+Försäkringskassan skall under sjukperioden, när det finns skäl till det, 
+undersöka om den försäkrade efter sådan åtgärd som avses i 7 b § eller 22 kap., 
+helt eller delvis kan försörja sig själv genom arbete. 
+
+Försäkringskassan skall, om det behövs för bedömningen av rätt till 
+sjukpenning eller åtgärder enligt 7 b § eller 22 kap., under sjukperioden 
+
+1. infordra ett särskilt läkarutlåtande eller ett utlåtande av viss läkare eller 
+annan sakkunnig, 
+2. göra förfrågan hos den försäkrade, den försäkrades arbetsgivare, läkare eller 
+någon annan som kan antas kunna lämna nödvändiga uppgifter, och 
+3. besöka den försäkrade. 
+I Försäkringskassans vägledning framgår hur Försäkringskassan ska gå 
+till väga om underlaget inte är tillräckligt: 
+
+Bedömningsgrunden för rätten till sjukpenning ändras vid dag 91 och 181 i 
+rehabiliteringskedjan (3 kap. 7 § AFL). Det innebär att Försäkringskassan måste 
+ha gjort en tillräcklig utredning för att kunna bedöma rätten till sjukpenning på 
+rätt grunder vid dessa tillfällen. I det fall detta inte varit möjligt ska dock 
+
+riksrevisionen 80 Omställningskrav i sjukförsäkringen 
+
+
+Försäkringskassan fortsätta betala ut sjukpenning om arbetsförmågan 
+fortfarande är nedsatt i förhållande till den tidigare bedömningsgrunden. Det 
+beror på att Försäkringskassan enligt förvaltningslagen är skyldig att göra de 
+utredningar som behövs för att kunna fatta beslut om rätten till ersättning. Det 
+är dock viktigt att slutföra de utredningar som behövs så snabbt som möjligt, så 
+att bedömningen görs i förhållande till rätt bedömningsgrund enligt lagen.46 
+
+Det framgår även av 20 kap. 3 § AFL att Försäkringskassan har rätt att 
+dra in sjukpenningen om den försäkrade inte medverkar. Ersättning enligt 
+denna lag får dras in eller sättas ned, om den som är berättigad till ersättningen 
+
+a)ådragit sig sjukdomen eller skadan vid uppsåtligt brott som han eller hon har 
+dömts för genom dom som har vunnit laga kraft; b) vägrar att genomgå undersökning 
+av läkare eller att följa läkares föreskrifter; c) underlåter att ge in ett 
+sådant läkarintyg eller en sådan försäkran som ska ges in till Försäkringskassan 
+enligt 3 kap.8 § eller vägrar ge in en särskild försäkran enligt tredje stycket eller 
+ett utlåtande av arbetsgivaren enligt fjärde stycket samma paragraf; d) medvetet 
+eller av grov vårdslöshet lämnar oriktig eller vilseledande uppgift angående 
+förhållande, som är av betydelse för rätten till ersättning. Vägrar en försäkrad 
+utan giltig anledning att genomgå sådan behandling, utredning eller rehabilitering 
+som avses i 3 kap. 7 b och 8 a §§, 7 kap. 3 b § eller 22 kap. 4, 5 och 7 §§ eller 
+delta vid ett sådant avstämningsmöte som anges i 3 kap. 8 a § får sjukpenning, 
+sjukersättning eller aktivitetsersättning helt eller delvis tills vidare förvägras 
+honom eller henne, under förutsättning att han eller hon erinrats om denna 
+påföljd. Om någon som är berättigad till ersättning enligt denna lag i annat fall 
+underlåter att lämna uppgifter i enlighet med vad som anges i 8 § eller vägrar 
+att ta emot besök som anges där, får ersättningen dras in eller sättas ned om 
+omständigheterna motiverar det. Lag (2008:480). 
+Ersättningens storlek och längd 
+
+Följande gäller för rätten till sjukpenning. 3 kap. 10 a § AFL: 
+
+ Om den försäkrades sjukpenning i fall som avses i 10 § svarar mot sjukpenninggrundande 
+inkomst av enbart anställning, gäller för dagar i sjukperioden som 
+den försäkrade skulle ha utfört förvärvsarbete om han inte hade varit sjuk 
+
+1. att sjukpenning inte lämnas för den första dagen, 
+2. att hel sjukpenning för de därpå följande 364 dagarna utgör 80 procent 
+av den sjukpenninggrundande inkomsten… 
+46 Försäkringskassans vägledning 2004:2 version 10 s. 115. 
+
+Omställningskrav i sjukförsäkringen 81 riksrevisionen 
+
+
+Följande gäller för rätten till förlängd sjukpenning. 3 kap. 10 a § AFL: 
+
+3. att hel sjukpenning för de därpå följande 550 dagarna utgör 75 procent av den 
+sjukpenninggrundande inkomsten och beräknas enligt fjärde och femte 
+styckena… 
+Följande gäller för fortsatt sjukpenning. 3 kap. 10 a § AFL: 
+
+4. att sjukpenning för de därpå följande dagarna inte lämnas. 
+… Om det finns synnerliga skäl får sjukpenning enligt första stycket 2 lämnas 
+efter ansökan av den försäkrade, trots att sådan sjukpenning redan har lämnats 
+för 364 dagar under ramtiden. 
+
+riksrevisionen 82 Omställningskrav i sjukförsäkringen 
+
+
+Ordlista 
+
+Förkortningar: 
+AFL Lagen (1962:381) om allmän försäkring 
+ARU Arbetslivsinriktad rehabiliteringsutredning 
+FKRS Försäkringskassans rättsliga ställningstagande 
+FL Förvaltningslagen (1986:223) 
+FMU Försäkringsmedicinsk utredning 
+SGI Sjukpenninggrundande inkomst 
+SofL Socialförsäkringslagen (1999:799) 
+SFS Svensk författningssamling 
+BP Budgetproposition 
+SA Sjuk- och aktivitetsersättning 
+Förklaringar47: 
+
+Den försäkrades uppgifter 
+
+Den som ansöker om sjukskrivning måste skicka in en sjukanmälan där man 
+uppger i vilken utsträckning som arbetsförmågan är nedsatt. 
+
+Läkarintyg 
+
+Med intyg avses handling som redogör för sakförhållanden. Eventuella 
+bedömningar eller förslag till åtgärder kan inte göras i ett intyg. Läkaren är 
+skyldig att utfärda intyg på begäran av patient om vård och behandling. 
+Skyldigheten är inte beroende av patientens samtycke. 
+
+Särskilt läkarutlåtande (SLU) 
+
+Ett SLU belyser sjukdomens konsekvenser i form av förmågebegränsning 
+och begränsning av aktivitet på individnivå och sätter dessa i förhållande till 
+olika arbetsuppgifter. Genom att lista begränsningarna och gradera hur 
+uttalade dessa är uppnås en ökad precision i bedömningen. 
+
+Behandlande läkares bedömning 
+
+För att Försäkringskassan ska kunna ta ställning till om patienten har rätt till 
+förmån från socialförsäkringen lämnar läkaren uppgifter om medicinska 
+sakförhållanden samt bedömning om eventuell arbetsoförmåga. Med bland 
+annat behandlande läkares bedömning som grund tar Försäkringskassan 
+ställning till om, och i så fall vilken, förmån eller ersättning som ska utgå. 
+
+47 Beskrivningarna är hämtade från Försäkringskassans webbplats 2008-12-09. 
+
+Omställningskrav i sjukförsäkringen 83 RIKSREVISIONEN 
+
+
+Försäkringsmedicinsk rådgivare 
+
+Försäkringsläkarna har bytt titel och inriktning. De försäkringsmedicinska 
+rådgivarna inriktar sig mer på information, intern och extern rådgivning och 
+konferenser tillsammans med de behandlande läkarna för att delge 
+kunskaper i försäkringsmedicin och för att öka samsynen. Syftet är att 
+behandlande läkare ska veta vad Försäkringskassan behöver för underlag för 
+att fatta beslut innan de utfärdar sina intyg. Försäkringskassans handläggare 
+kan dock vända sig till den försäkringsmedicinska rådgivaren för att få en 
+bedömning av den försäkrades arbetsförmåga. 
+
+Avstämningsmöte 
+
+Om man behöver klargöra det medicinska underlaget kallas till ett 
+avstämningsmöte (RFFS 2003:10). Här deltar Försäkringskassan, den 
+försäkrade, arbetsgivaren och behandlande läkare. 
+
+Plan för återgång i arbete 
+
+En plan för återgång i arbete upprättas i ärenden där det finns en risk att den 
+försäkrade inte kommer att kunna återgå i sitt vanliga arbete. 
+
+Handlingsplanssamverkan 
+
+Handlingsplanssamverkan är ett samarbete mellan Arbetsförmedlingen och 
+Försäkringskassan med rutiner för de fall där en person övergår från att vara 
+sjukskriven till att vara arbetssökande. Dessa rutiner ska underlätta den 
+omställning det innebär för den enskilde att övergå från sjukförsäkringen till 
+att söka nytt arbete, och den enskilde ska erbjudas ett förbättrat stöd av 
+Arbetsförmedlingen. Övergången sker normalt i form av ett 
+överlämningsmöte mellan Försäkringskassan och Arbetsförmedlingen. 
+
+SASSAM 
+
+Strukturerad Arbetsmetodik för Sjukfallshantering och SAMordnad 
+rehabilitering. Syftet med kartläggningen är att få en bild av individens 
+möjligheter och begränsningar. 
+
+Extern utredning 
+
+Inom sjukvården görs utredningar för att fastställa diagnos och därmed 
+kunna ge lämplig terapi. Det är inte givet att informationen från sjukvården 
+på ett tillräckligt sätt beskriver vilka resurser patienten har och vad som är 
+möjligt att ta tillvara i en arbetssituation. Försäkringskassan kan därför även 
+köpa tjänster. Det kan vara arbetsrehabiliteringsutredning, 
+funktionsutredning, försäkringsmedicinsk utredning m.m. 
+
+Pilaprojekt 
+
+Samarbete mellan Arbetsförmedlingen och Försäkringskassan för att 
+förstärka insatser för långtidssjukskrivna. 
+
+RIKSREVISIONEN 84 Omställningskrav i sjukförsäkringen 
+
+
+

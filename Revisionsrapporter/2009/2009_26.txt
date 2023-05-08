@@ -1,0 +1,2765 @@
+RiR 2009:26
+Statens garantier i 
+finanskrisen
+
+Riksrevisionens logotyp.
+
+ISBN 978 91 7086 199 4RiR 2009:26Tryck: Riksdagstryckeriet, Stockholm 2009
+
+För kännedom:
+RiksgäldskontoretExportkreditnämndenAB Svensk ExportkreditTill regeringenFinansdepartementetUtrikesdepartementetNäringsdepartementetDatum: 2009-12-10Dnr: 31-2009-0855
+Statens garantier i finanskrisen
+
+Riksrevisionen har granskat regeringens beslut, uppföljning och rapportering 
+till riksdagen om de statliga garantiåtagandena till följd av finanskrisen. 
+Resultatet av granskningen redovisas i denna granskningsrapport. 
+Företrädare för Regeringskansliet, Riksgälden, Exportkreditnämnden och 
+AB Svensk Exportkredit har fått tillfälle att faktagranska och i övrigt lämna 
+synpunkter på utkast till rapport. 
+Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse. Riksrevisionen kommer att följa upp 
+granskningen. 
+Riksrevisor Eva Lindström har beslutat i detta ärende. Revisionsdirektör 
+Claes Isander har varit föredragande. Revisionsrådet Tomas Nordström 
+och revisionsdirektören Birger Persson har medverkat vid den slutliga 
+handläggningen.
+Eva LindströmClaes Isander
+
+Innehåll
+
+Sammanfattning 7
+
+1 Granskningens bakgrund och inriktning 11
+1.1 Finanskrisen och kreditkrisen 11
+1.2 Motiv till granskningen 13
+1.3 Syfte och frågeställningar 13
+1.4 Vad granskas? 14
+1.5 Bedömningsgrunder 14
+1.6 Metoder 15
+1.7 Rapportens innehåll 16
+
+2 De statliga garantierna under finanskrisen 17
+2.1 Den statliga garantimodellen 17
+2.2 Lagstiftning 20
+2.3 Garantier och garantirisker 23
+
+3 Garantivillkor för banker och exportföretag 27
+3.1 Bankgarantin och insättningsgarantin 27
+3.2 Exportkrediter och exportkreditgarantier 30
+3.3 Riksrevisionens iakttagelser om garantivillkoren 34
+3.4 Sammanfattande iakttagelser och slutsatser 38
+
+4 Statens risker för framtida kostnader 39
+4.1 Om bedömning av risker 39
+4.2 Riskbedömningar vid myndigheter och bolag 40
+4.3 Regeringens underlag för beslut 42
+4.4 Regeringens bedömning och uppföljning av riskerna 44
+4.5 Riksrevisionens iakttagelser om statens risker 49
+4.6 Sammanfattande iakttagelser och slutsatser 53
+
+5 Riksdagens underlag och kontroll 55
+5.1 Krav på återrapportering 55
+5.2 Beräkningar av statens ekonomiska risk 58
+5.3 Riksrevisionens iakttagelser om återrapportering till riksdagen 59
+5.4 Sammanfattande iakttagelser och slutsatser 62
+
+6 Slutsatser och rekommendationer 63
+6.1 Slutsatser 63
+6.2 Rekommendationer 65
+
+Referenser 67
+
+Bilaga 1 Förordningar med koppling till garantiprogram 71
+Bilaga 2 Hanteringen av finanskrisen. Risker med och 
+förväntade kostnader för garantiprogrammen 73
+
+
+
+Sammanfattning 
+Utgångspunkter för granskningenLehman Brothers konkurs i USA i september 2008 sände chockvågor 
+genom det globala finansiella systemet. Även svenska banker påverkades 
+och detta minskade möjligheterna för företagen att få krediter på 
+rimliga villkor. Riksdagen beslutade på kort tid och med en extraordinär 
+berednings- och beslutsprocess i regering och riksdag om utökade ramar 
+för garantisystemen, från 800 miljarder kronor sommaren 2008 till omkring 
+drygt 3 000 miljarder kronor våren 2009. De viktigaste garantierna gällde 
+bankväsendets krediter och exportkrediterna. 
+Regeringens underlag för dessa beslut och regeringens återrapportering 
+till riksdagen av dessa omfattande statliga åtaganden är föremål för denna 
+granskning. 
+Granskningen syftar till att bedöma om regeringen har säkerställt: 
+• Garantivillkor som är rimliga med hänsyn till statens kostnader.
+• Underlag som möjliggör bedömningar av statens risker för framtida 
+kostnader.
+• En öppen och tydlig återrapportering till riksdagen.
+Det bör framhållas att Riksrevisionens granskning inte avser effekterna av 
+de statliga garantierna på den finansiella sektorn eller samhällsekonomin i 
+stort. 
+Riksrevisionens slutsatser 
+Om villkor och avgifter för garantiernaAvgifterna för bank- och insättningsgarantin täcker sannolikt de förväntade 
+kostnaderna för staten. De villkor och begränsningar som regeringen infört 
+bidrar till att hålla nere utgifterna och öka möjligheten till återvinning vid 
+eventuella förluster. 
+Vad gäller exportkrediter och upplåning för exportkrediter motsvarar de 
+garantivillkor och prissättning som tillämpas av Exportkreditnämnden (EKN) 
+och AB Svensk Exportkredit (SEK) den risk som staten påtar sig genom 
+
+garantierna. De processer som finns vid myndigheten och bolaget för att 
+bedöma risker och säkerställa tillräcklig fondering för att täcka eventuella 
+förluster fungerar väl. En mer utdragen lågkonjunktur kan emellertid 
+allvarligt försämra såväl EKN:s som SEK:s resultat. 
+Riksrevisionens bedömning är sammantaget att villkoren för garantierna 
+bidrar till att hålla ner statens kostnader för garantierna och ökar möjligheten 
+till återvinning. 
+Om regeringens bedömning av risker för framtida kostnaderRiksrevisionen kan konstatera att det saknades en samlad bedömning av 
+statens ekonomiska risk när regeringen begärde riksdagens bemyndiganden 
+för de mycket omfattande garantiåtagandena. I det kritiska läge som rådde 
+mellan oktober 2008 och januari 2009 är det förståeligt att beslut om 
+åtgärder måste fattas snabbt och delvis grundas på bristfälliga underlag. 
+Under det år som gått sedan krisåtgärderna infördes har emellertid 
+regeringen inte vidtagit tillräckliga åtgärder för att skapa en samlad bild 
+av de risker som staten övertagit från banker och andra företag för flera år 
+framåt. Riksgäldskontoret (RGK) har i en skrivelse till regeringen påpekat 
+att ett sådant utvecklingsarbete var planerat att ske i samråd med övriga 
+garantimyndigheter men att arbetet nedprioriterades på grund av den 
+finansiella turbulensen. Först i slutet av oktober 2009 gav regeringen 
+RGK i uppdrag att utvärdera regeringens stödåtgärder med avseende på 
+kreditförsörjningen. I uppdraget ingår dock inte att redovisa en samlad 
+bedömning av statens ekonomiska risker. 
+Då bankgarantin beslutades avstod regeringen från att försöka bedöma 
+de framtida kostnaderna, med hänvisning till att alternativkostnaden för 
+en eventuellt fördjupad kris i den reala ekonomin bedömdes vara mycket 
+stor. RGK framhåller att statens reella exponering gentemot det svenska 
+banksystemet vare sig är begränsad till de faktiskt utställda garantierna eller 
+till det maximala garantibeloppet 1 500 miljarder kronor. Riksrevisionens 
+tolkning av stödlagens krav på kostnadsminimering är att kostnaden 
+för det statliga stödet ska vara så låg som möjligt förutsatt att negativa 
+samhällsekonomiska konsekvenser undviks genom stödet. För att säkerställa 
+detta bör regeringen beräkna och redovisa risker och förväntade kostnader 
+för garantierna samt utforma processer för att löpande hantera, följa upp 
+och avveckla dem. 
+Regeringen har inte heller vidtagit några åtgärder för att beräkna 
+risken för framtida kostnader avseende statens garantiåtaganden inom 
+exportområdet. 
+Riksrevisionen anser sammanfattningsvis att regeringen inte har 
+säkerställt ett tillfredsställande underlag för bedömning av statens risker för 
+framtida kostnader inom garantiområdet. 
+
+Om redovisning till riksdagenRiksdagen har vid några tillfällen under 2009 efterfrågat en redovisning 
+av konsekvenserna av de vidtagna åtgärderna. Regeringen har påpekat 
+svårigheterna att beräkna riskerna med statens åtagande. Regeringen har 
+emellertid inte genom exempelvis uppdrag till berörda myndigheter och 
+bolag säkerställt ett underlag för en samordnad och samlad bedömning och 
+uppföljning av statens ekonomiska risker. Avsaknaden av sådana uppdrag är 
+sannolikt en orsak till bristen på information om statens ekonomiska risk i 
+budgetpropositioner och i annan rapportering till riksdagen. 
+En fördjupad analys av de risker som statens ökade utlåning och 
+olika garantiåtaganden är i högsta grad relevant i den situation som 
+uppstått. Någon sådan fördjupning har inte redovisats av regeringen. Även 
+Finanspolitiska rådet och konjunkturinstitutet har pekat på denna brist. 
+Riksrevisionen slutsats från granskningen är att regeringen inte har 
+lämnat en samlad och tydlig återrapportering till riksdagen. 
+Riksrevisionens rekommendationerMot bakgrund av de iakttagelser och slutsatser som redovisats vill 
+Riksrevisionen lämna följande rekommendationer:
+• Regeringen bör initiera utredningar och analyser om de ekonomiska 
+risker för staten och skattebetalarna som är förknippade med garantier 
+av den typ som införts under det senaste året. Analyserna bör göras 
+samordnat för samtliga statliga garantier. 
+• Regeringen bör redovisa en samlad bild, som både inkluderar 
+bank- och exportkreditgarantier av de ekonomiska riskerna för staten 
+och skattebetalarna. Årsredovisningen för staten skulle med lämpliga 
+tilläggsupplysningar om förväntad kostnad och risk för garantierna ge en 
+mer rättvisande bild av statens ekonomiska ställning och riskexponering. 
+• Riksrevisionen anser att behovet av en samlad redovisning av risker 
+och kostnader i anslutning till statens garantier bör beaktas i den 
+pågående översynen av budgetlagen.
+
+1 Granskningens bakgrund och inriktningRiksrevisionen har genomfört en granskning av regeringens program 
+för statliga garantier till banker och exportindustri under finanskrisen. 
+Granskningen avser perioden från senhösten 2008 till hösten 2009. I detta 
+inledande kapitel redogörs för granskningens bakgrund och inriktning.
+1.1 Finanskrisen och kreditkrisenLehman Brothers konkurs i USA i september 2008 sände chockvågor 
+genom det globala finansiella systemet. Hösten 2008 rådde en turbulens 
+på den globala finansmarknaden av historiska dimensioner. Den utlösande 
+orsaken till den finansiella krisen var fallande priser på den amerikanska 
+bostadsmarknaden som ledde till att bankerna tvingades skriva ned 
+hundratals miljarder dollar i nödlidande bostadslån. De krympande 
+balansräkningarna reducerade bankernas utlåningskapacitet, vilket ytterligare 
+förstärktes av att bankerna började bygga upp reserver som gardering för sin 
+fortsatta finansiering. Sammantaget medförde detta att utlåningen minskade 
+i förhållande till det egna kapitalet. 
+Osäkerheten om vilka låntagare som var kreditvärdiga ökade markant 
+under hösten 2008, vilket gav avtryck i det svenska banksystemet. Bankernas 
+finansieringskostnad ökade dramatiskt under hösten framför allt på lån 
+med längre löptider. De fick svårt att finansiera sig genom att emittera 
+bostadsobligationer eftersom handeln med dessa tidvis fungerade dåligt. 
+Bankernas likviditetsrisker ökade därför. Den internationella marknaden för 
+företagsobligationer kollapsade också. Farhågorna var att bankernas brist 
+på långsiktig finansiering, växande kreditförluster och strävan att stärka 
+balansräkningen skulle leda till att företag och hushåll fick allt svårare att 
+låna. I slutet av 2008 fördjupades konjunkturnedgången och bankerna 
+drabbades av kreditförluster och en försämrad avkastning på eget kapital. 
+Under det fjärde kvartalet 2008 redovisade de svenska storbankerna 
+kreditförluster på 7,1 miljarder kronor, vilket kan jämföras med 12,5 miljarder 
+kronor för hela 2008. Den svenska ekonomin försvagades ytterligare våren 
+2009 och ytterligare kreditförluster var att vänta.1 
+1 Studier i Svensk finanspolitik 2009/1. C Bergström. 
+
+Regeringen ansåg att osäkerheten på marknaderna kunde vara en 
+anledning till att lånekostnaden för svenska banker hade stigit märkbart 
+senhösten 2008, trots att bankernas ställning bedömdes vara stark i ett 
+internationellt perspektiv. Det minskade förtroendet mellan bankerna 
+resulterade i stigande räntor vid lån mellan banker (interbankräntor) samt 
+kraftigt ökade kostnader för deras upplåning. 
+Efter den svenska bankkrisen på 1990-talet övertog de stora 
+internationella bankerna i stor utsträckning finansieringen av industrins 
+långsiktiga exportkrediter, medan svenska banker drog sig tillbaka från 
+exportfinansieringen. Som en effekt av globaliseringen i början av 2000-talet 
+fick industrin i ökad utsträckning tillträde till tillväxtmarknader i till exempel 
+Brasilien, Indien och Malaysia. Banker som Citibank, Deutsche Bank eller 
+ABN Amro kom att i stor utsträckning finansiera svensk export.2 
+I samband med Lehman Brothers konkurs drog sig de internationella 
+bankerna ur svensk exportfinansiering. Enligt en uppgift från en av 
+storbankerna hade svenska företags låneramar utomlands reducerats 
+under 2008 med 300 miljarder kronor.3 Det fanns också tecken på att 
+företag inte kunnat finansiera sina exportaffärer och att det fanns företag 
+som tvingats ställa in sina betalningar i brist på finansiering. 4 De största 
+svenska exportörerna hade akuta finansieringsbehov i storleksordningen 
+100 miljarder kronor. Finansieringsgapet på längre sikt kunde enligt en 
+bedömning röra sig om 1 000 miljarder kronor.5 Samtidigt noterades ett 
+starkt ökat behov av rörelsekreditgarantier. 
+Regeringens åtgärder inriktades främst mot att tillgodose två syften. 
+Det ena syftet var att upprätthålla likviditeten och stabiliteten i det svenska 
+finansiella systemet. Det andra syftet var att motverka den allvarliga 
+försämringen av tillgången till långfristig finansiering för exportindustrin.6 
+Beslut om vissa åtgärder har tagits i internationellt samarbete inom 
+och utom EU. Bland annat enades Europeiska rådet i oktober 2008 om 
+samordnade åtgärder för att hantera krisen. 
+2 Intervju M Höglund, AB SEK, 2009-07-03. Internationella banker svarade för uppskattningsvis 
+80 - 90 procent av svensk exportfinansiering. 
+3 Studier i Svensk finanspolitik 2009/1. C Bergström. 
+4 Penningpolitisk rapport. Riksbanken, februari 2009. 
+5 Intervju VD AB SEK 2009-07-03. Denna bedömning framfördes enligt uppgift till regeringen. 
+6 Regeringen formulerar detta i prop. 2008/09:86, s. 3, så att ”det minskade utbudet av långfristiga 
+krediter är särskilt bekymmersamt” samt ”Möjligheterna att finansiera affärer med medelfristiga 
+eller längre återbetalningstider har minskat väsentligt.” 
+
+1.2 Motiv till granskningenDe garantiramar som riksdagen bemyndigat regeringen att utnyttja och 
+de garantier som regeringen ställt ut under hösten 2008 och våren 2009 
+innebär enligt Riksrevisionen mycket stora åtaganden genom att staten går i 
+borgen för betalningsförpliktelser hos banker och företag. 
+I slutet av oktober 2008 beslutade riksdagen att godkänna regeringens 
+förslag till en stabilitetsplan och en ny lag om statligt stöd till kreditinstitut 
+innehållande bestämmelser om en stabilitetsfond. Med stöd av lagen 
+beslutade regeringen om ett garantiprogram för bankernas upplåning med 
+en total ram om 1 500 miljarder kronor och att höja insättningsgarantin för 
+bankernas inlåning från 250 000 till 500 000 kronor.7 
+Garantin beräknades av regeringen motsvara behållningar på konton 
+om cirka 740 miljarder kronor.8 I december 2008 höjde regeringen 
+Exportkreditnämndens garantiram från disponibla 175 till 350 miljarder 
+kronor.9 Samtidigt beviljades AB Svensk Exportkredit en låneram i 
+Riksgäldskontoret om 100 miljarder kronor. Regeringen fick också 
+bemyndigande att ge Svensk Exportkredit en garanti för bolagets upplåning 
+om högst 450 miljarder kronor.10 
+Sammantaget beslutade riksdagen på kort tid och med en extraordinär 
+berednings- och beslutsprocess i regering och riksdag om garantiramar för 
+de största garantisystemen som ökade från 800 miljarder kronor sommaren 
+2008 till omkring drygt 3 000 miljarder kronor våren 2009. 
+Regeringens underlag för dessa beslut och regeringens återrapportering 
+till riksdagen av dessa omfattande statliga åtagande är föremål för denna 
+granskning.
+1.3 Syfte och frågeställningarGranskningen behandlar om regeringen har säkerställt följande:
+• Garantivillkor som är rimliga med hänsyn till statens kostnader.
+• Underlag som möjliggör bedömningar av statens risker för framtida 
+kostnader.
+• En öppen och tydlig återrapportering till riksdagen.
+7 Genom ändringar som trädde i kraft den 30 juni 2009 gäller garantin alternativt 50 000 euro om 
+detta är ett högre belopp.
+8 Årsredovisning för staten för år 2008. I Finanspolitiska rådets rapport Studier i finanspolitik 
+beräknas garantin uppgå till mellan 900 och 1 000 miljarder kronor. 
+9 EKN har sedan 2002 fått disponera 175 miljarder kronor av den fastställda årliga ramen om 
+200 miljarder kronor.
+10 I budgetpropositionen för 2010 föreslogs garantiramarna för 2010 bli 250 miljarder kronor för 
+AB SEK samt 500 miljarder kronor för EKN.
+
+1.4 Vad granskas?
+Granskningen avgränsas till de fyra största garantiprogrammen: 
+bankgarantin, insättningsgarantin, exportkreditgarantin samt 
+upplåningsgarantin för AB Svensk Exportkredit. Granskningen avser 
+regeringens underlag för åtgärder i dessa program sedan oktober 2008. 
+Det bör framhållas att Riksrevisionens granskning inte avser syftet med 
+eller effekterna av de statliga garantierna på den finansiella sektorn eller 
+samhällsekonomin i stort. 
+Berörda departement är främst Finans- och Utrikesdepartementen. 
+De garantiansvariga myndigheter och bolag som berörts av granskningen 
+är Riksgäldskontoret och Exportkreditnämnden samt bolaget AB Svensk 
+Exportkredit. Dessa har berörts av granskningen genom att deras 
+riskbedömningar utgör ingångsvärden för regeringens bedömning av 
+förväntade kostnader på statsbudgeten. 
+1.5 BedömningsgrunderHändelseutvecklingen under hösten 2008 överraskade de flesta bedömare 
+genom den styrka och snabbhet med vilken krisen utvecklades. Det är 
+därför förståeligt att redovisningen av statens finansiella risk inledningsvis 
+var ofullständig. Det är emellertid nu ett år sedan krisens utveckling krävde 
+omedelbara åtgärder, och behov finns att utveckla analysen av de risker som 
+staten har tagit genom sina garantiåtaganden. 
+Garantivillkor som är rimliga med hänsyn till statens kostnader 
+De bedömningsgrunder för granskningen som avser garantivillkoren är 
+i huvudsak styrda av internationella avtal och svensk lag. Detta framgår 
+av EU:s statsstödsregler11, budgetlagen12, insättningsgarantilagen13, 
+insättningsgarantidirektivet14 samt stödlagen för bankerna.15 Även andra 
+uttalanden om styrande principer från riksdagen och regeringen i samband 
+med krisberedskap, krishantering och ekonomiska kriser ger visst stöd för 
+bedömningarna.16 
+11 Dir 2009/14/EG.
+12 Lag (1996: 1059) om statsbudgeten.
+13 Lag (1995:1571) om insättningsgaranti14 Dir 1994/19/EG.
+15 Lag (2008:814) om statligt stöd till kreditinstitut. 
+16 Budgetpropositionen för 1997 om motiv för införande av en garantimodell, budgetpropositionen 
+för 2009, UO 6, om risk och sårbarhet i samhällets krisberedskap.
+
+Underlag som möjliggör bedömningar av statens risker för framtida 
+kostnaderRegeringens ansvar för att hantera en allvarlig samhällskris kan utläsas 
+av regeringsformens 1 kap 6§. Bedömningen av regeringens underlag om 
+statens risker för framtida kostnader görs med följande modell. Regeringen, 
+som har det övergripande ansvaret för samhällsekonomin och statens 
+hantering av ekonomiska kriser, bör vid sina bedömningar utgå från 
+garantiansvariga myndigheters och bolags modeller och uppföljningar för att 
+beräkna, hantera och begränsa statens risk i de åtaganden som har gjorts. 
+Regeringen bör säkerställa att den får på ett likartat sätt gjorda bedömningar 
+av statens risk i de olika garantisystemen samt att dessa sammantaget 
+kan ligga till grund för regeringens samlade bedömning av nödvändiga 
+garantiramar och förväntade förluster. 
+En öppen och tydlig återrapportering till riksdagenVi använder också bedömningskriterier och berättigade krav som i övrigt 
+kan ställas på regeringens uppföljning och återrapportering till riksdagen 
+vid åtaganden av den exceptionella storleksordning som gäller för statliga 
+garantier under finanskrisen. Det är rimligt att riskbedömningar för sådana 
+stora garantiåtaganden som det nu gäller successivt förbättras vartefter 
+krisen fortgår. Regeringen behöver följa upp utvecklingen under krisens 
+gång och successivt förbättra sitt underlag för bedömningar. Eftersom 
+garantiramar lämnas till regeringen genom riksdagens bemyndigande bör 
+återrapportering till riksdagen ske om hur stor del av garantiramarna som 
+utnyttjats, deras effekter i samhällsekonomin samt vilka kvarstående risker 
+för framtida kostnader för staten som utfärdade garantier medför. 
+1.6 MetoderGranskningen bygger på studier av dokument såsom författningar, 
+utskottsbetänkanden, budgetpropositioner, interna arbetspapper vid 
+Utrikes- och Finansdepartementen, rapporter och utredningar framtagna 
+vid Riksgäldskontoret (RGK), Exportkreditnämnden (EKN) och AB 
+Svensk Exportkredit (SEK). Dessutom har vi använt vissa rapporter från 
+Finansinspektionen och Riksbanken avseende det finansiella systemets 
+stabilitet. 
+Som komplement till dokumentstudierna har vi genomfört ett 
+tjugotal intervjuer med enhetschefer och handläggare vid Utrikes- och 
+Finansdepartementen och med personer vid tre berörda garantiansvariga 
+myndigheter och bolag. Utrikes- och Finansdepartementen har i särskild 
+ordning sammanställt svar på granskningens väsentligaste frågor.
+
+Ernst & Young har anlitats för att granska underliggande modeller och 
+deras tillämpning vid RGK, EKN och SEK för hantering av ekonomisk risk i 
+statens åtagande, riskreducerande åtgärder och avsättningar för förväntade 
+och oförväntade förluster. 
+Professor Clas Bergström vid Handelshögskolan i Stockholm har 
+anlitats för att granska de underlag och bedömningar som gjorts av RGK 
+och Internationella valutafonden (IMF) om statens sammantagna risker i 
+garantiprogrammen. Clas Bergström har också anlitats för kvalitetssäkring 
+av rapporten tillsammans med en finansanalytiker Jens Albråten. 
+1.7 Rapportens innehållKapitel 2 beskriver inledningsvis de statliga garantierna och aktörerna inom 
+området. Därefter beskrivs den lagstiftning och de internationella regler som 
+styr garantisystemens utformning samt regeringens ansvar för att hantera 
+en ekonomisk kris. Kapitlet behandlar också frågan om vilka risker som 
+finns med att lämna garantier och hur dessa återspeglas i det pris som en 
+garantitagare får betala. 
+Av kapitel 3 framgår de villkor som staten ställer för att lämna garantier till 
+banker och exportföretag. Här analyseras frågan om regeringen säkerställt 
+garantivillkor som är rimliga med hänsyn till statens kostnader. 
+Kapitel 4 behandlar frågan om statens risker för framtida kostnader. Här 
+redovisas vilka bedömningar som ansvariga myndigheter och bolag har 
+gjort samt vilka underlag regeringen har haft för sina åtgärder. Regeringens 
+övergripande bedömningar av utvecklingen redovisas också. Avslutningsvis 
+diskuteras frågan om regeringen säkerställt underlag som möjliggör 
+bedömningar av statens risker för framtida kostnader.
+Kapitel 5 behandlar frågan om regeringens uppföljning och återrapportering 
+till riksdagen.
+I kapitel 6 redovisas Riksrevisionens sammanfattande slutsatser och 
+rekommendationer. 
+
+2 De statliga garantierna under 
+finanskrisen2.1 Den statliga garantimodellen2.1.1 Garantimodellen infördes för att få kontroll på utgifternaEtt statligt garantiåtagande innebär att staten går i borgen för någon annans 
+betalningsförpliktelser. Mot slutet av 1990-talet bedömde regeringen att 
+de statliga garantierna genom åren hade medfört betydande kostnader för 
+staten. Riskbedömningarna och försöken att styra och förutse kostnaderna 
+hade varit otillräckliga. Utgifterna hade belastat statsbudgeten i efterhand på 
+icke beloppssatta förslagsanslag. I och med att budgetlagen och utgiftstak 
+infördes krävdes ändringar i den statliga garantigivningen för att få en 
+bättre utgiftskontroll. Den 1 januari 1998 infördes därför den så kallade 
+garantimodellen som ställer krav på full kostnadstäckning och innebär att 
+risken i varje engagemang ska beräknas.17 
+2.1.2 Garantier ska finansieras och risker kontrollerasRiksdagen beslutade att införa garantimodellen fullt ut för alla nya garantier 
+och dess tillämpning reglerades i budgetlagen.18 
+Enligt budgetlagen får regeringen ställa ut kreditgarantier och göra 
+andra liknande åtaganden för det ändamål och med högst det belopp som 
+riksdagen bestämmer. Det bör redan inledningsvis påpekas att bankgarantin 
+och insättningsgarantin inte faller under den allmänna garantimodellen utan 
+regleras av speciallagstiftning. Ett särskilt undantag finns också för dessa 
+garantier i garantiförordningen.19 En av Riksrevisionens utgångspunkter 
+är emellertid att den överblick som garantimodellen förutsätter är väl 
+motiverad.
+17 Prop. 2001/02:1, s. 171 samt prop. 1996/97:1, s. 87 - 92. 
+18 Lag (1996:1059) om statsbudgeten. prop. 1996/97:1, rskr. 1996/97:53.19 Garantiförordning (1997:1006) 2 §.
+
+Enligt budgetlagen ska en garantiavgift tas ut som motsvarar statens 
+ekonomiska risk och övriga kostnader för åtagandet, om inte riksdagen 
+beslutar annat. Avgiften ska täcka de förväntade kostnaderna för utfärdade 
+garantier och för administration. Garantiavgifterna samlas i en garantireserv 
+som redovisas på räntebärande konto i RGK för varje garantiområde.20 
+Garantiverksamheten förutsätts på så sätt vara självfinansierad på lång sikt. 
+Kontrollen av statens risk sker genom att garantimyndigheterna som 
+administrerar de statliga garantierna beräknar och prissätter den risk som 
+enskilda garantier eller grupper av garantier medför. De ska också genom 
+avtal och säkerhetsarrangemang reducera riskerna i garantiåtagandet. Vid 
+skada (det vill säga att garantin infrias) ska garantimyndigheten begränsa 
+statens kostnad genom att återvinna så stor del som möjligt. 
+2.1.3 Garantimyndigheterna har ansvar för att kraven uppfyllsDe garantier som ingår i denna granskning hanteras av två myndigheter: 
+Riksgäldskontoret (RGK) och Exportkreditnämnden (EKN). Eftersom 
+riksdagen har bemyndigat regeringen att garantera upplåningen hos 
+AB Svensk Exportkredit (SEK) har också detta bolags kreditverksamhet 
+inkluderats i granskningen. 
+Bankgarantin 
+Bankgarantin infördes i oktober 2008 och omfattar den 
+värdepappersupplåning som banker och bostadsinstitut använder för att 
+finansiera sin verksamhet. Garantin regleras genom en överenskommelse 
+inom EU för att värna den finansiella stabiliteten och genom lagen om 
+statligt stöd till kreditinstitut. Regeringen beslutade i oktober 2009 att 
+förlänga garantiprogrammet en andra gång. Efter EU-kommissionens 
+godkännande löper nu programmet fram till den 30 april 2010. 
+Bankgarantin syftar till att upprätthålla utlåning till investeringar och 
+industriell verksamhet som hotades av brist på långsiktiga krediter. Garantin 
+innebär att staten träder in om ett institut inte kan betala de garanterade 
+lånen. RGK har sedan oktober 2008 i uppdrag att utfärda garantier. De 
+finansieras i princip genom avgifter från de banker och kreditinstitut som 
+tecknar avtal med RGK. 
+RGK är garantimyndighet för bankgarantin. RGK har en finans- 
+och riskpolicy för garantier och krediter inom de ramar som ges av 
+garantimodellen. Policyn omfattar inte bankstödet, men kommer att 
+kompletteras på detta område. 
+20 Garantireserven är föranledd av budgetlagen för att minska risken för att staten inte kan stå för 
+sina garantiåtaganden utan att begära extra anslag för att infria en garanti. 
+
+InsättningsgarantinInsättningsgarantin infördes genom ett EU-direktiv redan 1995 och regleras 
+genom lagen om insättningsgaranti. Direktivet ändrades i mars 2009 varvid 
+täckningsnivån höjdes till 50 000 euro. Insättningsgarantin syftar till att 
+stärka skyddet för allmänhetens insättningar hos banker och vissa företag 
+med inlåning enligt Finansinspektionens tillstånd. Garantin innebär att 
+staten ersätter kontohavaren med ett belopp intill täckningsnivån om en 
+bank med inlåningskonto inte kan täcka kontobehållningen efter en konkurs. 
+Garantin syftar till att förhindra panikreaktioner, så kallade bankruns, och 
+därmed bidra till stabiliteten i det finansiella systemet. Garantin finansieras 
+genom avgifter från samtliga banker och kreditinstitut med inlåningskonto. 
+RGK är garantimyndighet för insättningsgarantin. 
+Exportkreditgarantier 
+Exportkreditgarantier lämnas i syfte att underlätta exportföretagens 
+upplåning för sin verksamhet genom bankkrediter.21 Garantin innebär att 
+garantitagaren delvis får en ersättning för förlust till följd av att en köpare 
+inte har betalt en avtalsenlig fordran. Därvid ska konkurrensneutralitet 
+råda mellan olika statsstödda exportkredit- och investeringsgarantisystem 
+inom OECD och EU. EKN är garantimyndighet för exportkreditgarantierna 
+och dess verksamhet regleras genom förordning och instruktion. 
+Exportkreditgarantier kan utfärdas om de ligger inom ramarna för de 
+regelverk som OECD och EU fastställt för statliga garantier inom området. 
+EKN ska enligt regeringens mål för verksamheten begränsa riskerna i de 
+garantier som ställs ut genom bland annat riskdelning. Vid nya affärer ska 
+hänsyn tas till EKN:s aktuella riskspridning.22 
+EKN följer den statliga garantimodellen och beräknar riskexponeringen 
+med hänsyn till om det finns en koncentrationsrisk i affärerna avseende 
+både enskilda länder och engagemangens storlek. Riskklassificeringen 
+påverkar besluten om garantiutfästelse, beräkning av risk för förväntade 
+förluster samt risken för så kallade oförväntade förluster.23 Myndigheten 
+gör avsättningar för att täcka den beräknade garantirisken och vidtar 
+riskreducerande åtgärder i form av återförsäkringsavtal på den privata 
+marknaden och hos andra exportkreditinstitut. 
+21 EKN har även garantier om ca 30 miljarder kronor där AB SEK är garantitagare. 
+22 Exportkreditnämnden. Årsredovisning 2008 samt förordning (2007:1217) med instruktion för 
+Exportkreditnämnden.
+23 Oförväntade förluster är ett mått på koncentrationen av risker i en portfölj. Med detta avses 
+att riskerna beloppsmässigt är koncentrerade, och i vissa fall korrelerade, till ett fåtal länder, 
+gäldenärer och garantier. 
+
+ExportkrediterStaten tillhandahåller medel- och långfristiga krediter för exportaffärer 
+och infrastruktur genom SEK, som sedan 2003 är ett helägt statligt bolag. 
+Bolaget bildades gemensamt av staten och de svenska affärsbankerna 
+1962 i syfte att ge den svenska industrin bättre tillgång till långfristig 
+finansiering och därigenom öka dess konkurrenskraft. SEK:s uppdrag är 
+att säkerställa tillgång till finansiella lösningar för export och infrastruktur. 
+SEK kan engagera sig i svensk internationell finansieringsverksamhet på 
+kommersiella grunder. För att säkerställa bolagets långfristiga upplåning 
+fick regeringen våren 2009 riksdagens bemyndigande att lämna bolaget en 
+statsgaranti på kommersiella villkor för sin upplåning. 
+SEK erbjuder främst långfristiga finansieringslösningar och använder 
+riskreducerande åtgärder för att kontrollera olika risker. Bolaget använder 
+ratingmetoder för att åsätta sina motparter kreditbetyg och utnyttjar 
+kreditgarantier och kreditderivat24 för att minska kreditriskerna. Bolaget 
+använder också olika tekniker för att reducera ränteriskerna och för att 
+hantera risker hos motparter med låg kreditvärdighet. 
+Bolaget tillämpar de regler för hantering av risker i finansiella 
+institutioner som gäller inom EU, där en viktig del är att företagen ska hålla 
+ett kapital som står i relation till företagens riskprofiler (Basel II). Bolaget har 
+modeller för att beräkna och hantera risker som rör utlåningens kreditrisker, 
+marknadsrisker och operativa risker25 samt deras effekter på bolagets 
+kapitalkrav.262.2 Lagstiftning2.2.1 EU-reglerna bestämmer ramarna 
+Anmälan om statsstöd till eukommissionen 
+Av artikel 88.3 i EG-fördraget följer att statligt stöd ska anmälas till EU-
+kommissionen för godkännande innan det får verkställas. För att säkerställa 
+att garantisystem inte snedvrider konkurrensen i den inre marknaden har EU 
+beslutat att statliga garantier i vissa fall kan ses som statsstöd och därmed 
+ska följa statsstödsreglerna inom unionen. Åtgärder som faller under 
+statsstödsreglerna ska anmälas till kommissionen, som prövar 
+24 Kreditderivat är ett instrument för att återförsäkra en fordran.
+25 Risken för förluster som följd av misslyckade processer, mänskliga fel, felaktiga system eller 
+externa händelser.
+26 SEK årsredovisning 2008. Riskrapport.
+
+om åtgärderna kan anses förenliga med EG-fördraget. I samband med 
+kommissionens prövning finns utrymme för medlemsstaterna att vid 
+behov justera villkoren för en åtgärd så att kommissionen ska kunna 
+lämna sitt godkännande. De särskilda reglerna om statliga garantier anger 
+ett antal villkor för att en garanti inte ska anses innehålla något element 
+av subvention, och därmed inte omfattas av den anmälningsskyldighet 
+som gäller för statsstöd enligt artikel 88.3 i EG-fördraget. Regelverket 
+anger att garantitagare ska ha en sund finansiell ställning och 
+betala ”marknadsorienterade” premier för garantin. Vidare krävs att 
+garantiåtagandet inte får vara obegränsat till tid och belopp samt att 
+garantitagaren ska bära viss del av risken genom att garantin inte täcker hela 
+den finansiella förpliktelsen.27 
+Eu:s regler för insättnings- och bankgarantiÅr 1995 införde EU ett direktiv där insättningar på konto som regel ska 
+omfattas av nationella garantisystem. I förtroendeskapande syfte ändrade 
+Europaparlamentet och rådet detta direktiv i mars 2009 vad gäller 
+täckningsnivån som höjdes till 50 000 euro. Tidsfristen för utbetalning efter 
+konkurs minskades från 3 månader till 20 dagar.28 EU:s direktiv kräver dock 
+inte harmonisering av avgifterna. Denna fråga utreds för närvarande av 
+kommissionen som förväntas komma med förslag i början av nästa år. 
+Den 12 oktober 2008 deklarerade gruppen av EU-länder anslutna till 
+den gemensamma valutan, att en gemensam europeisk räddningsaktion 
+för det finansiella systemet skulle genomföras. Den 13 oktober presenterade 
+EU-kommissionen ett meddelande om krisstöd till banker. Den 14 oktober 
+aviserade regeringen ett svenskt stabilitetspaket. 
+Europeiska rådet beslutade under ett möte den 15 - 16 oktober 2008 att 
+samtliga medlemsstater skulle införa program för att värna den finansiella 
+stabiliteten. I kommissionens tillämpningsföreskrifter29 nämns bland annat 
+att beslut om offentliga ingripanden i banksystemet måste fattas av de 
+enskilda medlemsstaterna, men samfällt och grundat på gemensamma 
+EU-principer. Stödet ska vara temporärt, medlemsstaterna ska tillvarata 
+skattebetalarnas intressen och berörda aktieägare bör bära kostnaderna. 
+27 Kommissionens tillkännagivande om tillämpningen av artiklarna 87 och 88 i EG-fördraget på 
+statligt stöd i form av garantier (2008/C 155/02).
+28 Europaparlamentets och rådets direktiv 94/19/EG samt 2009/14/EG.
+29 Tillämpning av reglerna om statligt stöd på åtgärder till förmån för finansinstitut med anledning 
+av den globala finanskrisen. Meddelande från kommissionen (2008/C 270/02).
+
+Eu:s regler för exportkrediter och exportkreditgarantierEU-kommissionen införde temporärt under perioden fram till slutet av 
+2010 ett ramverk som underlättar stöd för att minska kreditproblemens 
+effekter på den reala ekonomin.30 Bland annat kan medlemsstaterna utan 
+föregående notifiering ge lånegarantier och annan finansiell hjälp till små 
+och medelstora företag upp till ett belopp om 500 000 euro.31 
+Avseende exportkreditgarantier beslutade kommissionen samtidigt om 
+tillfälligt undantag från de tidigare reglerna. Undantaget innebär att statliga 
+exportkreditgarantier även kan lämnas för så kallade marknadsrisker.32 
+Villkoret för denna undantagsklausul är att medlemslandet till 
+kommissionen visar att privat garantigivning inte är tillgänglig. Det tillfälliga 
+undantaget är giltigt till och med den 31 december 2010. 
+2.2.2 Svenska lagar och förordningarI detta avsnitt redovisas de lagar och förordningar som främst reglerar 
+statliga garantier eller som är av betydelse genom sin koppling till statliga 
+garantiåtaganden i den aktuella finanskrisen. Relevanta förordningar 
+redovisas översiktligt i bilaga 1 och refereras i övrigt till i avsnitten 3 - 5. 
+Lag (1995:1571) om insättningsgarantiEnligt denna lag skyddas insättningar hos banker och vissa 
+värdepappersföretag som har Finansinspektionens tillstånd att ta emot 
+kunders medel på konto. Ersättning till kontohavare betalas ut senast 3 
+månader efter beslut om konkurs för banken. Från den 6 oktober 2008 
+ersätter garantin upp till 500 000 kronor per kund (tidigare 250 000 kronor) 
+och från den 30 juni 2009 ersätts ett belopp motsvarande 50 000 euro om 
+det är högre än 500 000 kronor. 
+Lag (1996:1059) om statsbudgeten (budgetlagen)
+Lagen inleds med kravet att hög effektivitet ska efterstävas och god 
+hushållning ska iakttas i statens verksamhet. I lagen regleras även statliga 
+garantier. Regeringen får ställa ut kreditgarantier och göra liknande 
+åtaganden för det ändamål och med högst det belopp som riksdagen 
+bestämmer. En garantiavgift ska tas ut som motsvarar statens ekonomiska 
+risk och övriga kostnader för åtagandet, om inte riksdagen bestämmer annat 
+för ett visst åtagande. 
+30 Kommissionens meddelande benämnt Tillfällig gemenskapsram för statliga stödåtgärder för att 
+främja tillgången till finansiering i den aktuella ekonomiska och finansiella krisen (2009/C 83/01).
+31 Motsvarande cirka 5 miljoner kronor.
+32 Marknadsrisker definieras av kommissionen i direktivet som kommersiella och politiska risker 
+med risktider under två år för affärer inom EU:s medlemsländer eller OECD-länderna Australien, 
+Island, Japan, Kanada, Norge, Nya Zeeland, Schweiz och USA. 
+
+Lag (2008:814) om statligt stöd till kreditinstitut (stödlagen)
+Lagen innehåller bestämmelser om stöd till kreditinstitut, inlösen av aktier 
+i sådana institut och en särskild fond för stabiliteten på kreditmarknaden. 
+Stöd kan lämnas genom garantier, kapitaltillskott eller på annat sätt. 
+Beslut om stöd enligt denna lag fattas av regeringen, eller den 
+myndighet som regeringen bestämmer (stödmyndigheten). RGK är 
+stödmyndighet. Stödet får endast lämnas till kreditinstitut som är livskraftiga 
+eller för att underlätta en rekonstruktion eller avveckling av institut som inte 
+kan förväntas uppnå lönsamhet på lång sikt. 
+Stöd bör förenas med villkor som syftar till att det stödmottagande 
+kreditinstitutet och dess ägare i första hand ska bära uppkomna förluster. 
+Stödet ska så långt som möjligt utformas på ett affärsmässigt sätt och så att 
+en otillbörlig snedvridning av konkurrensen förhindras. Statens långsiktiga 
+kostnader för stödet ska hållas så låga som möjligt och stödet ska utformas 
+så att statens insatser i möjligaste mån kan återfås. Staten ska, om inte 
+synnerliga skäl finns, tillförsäkras ersättning eller annan kompensation för 
+sitt risktagande. Om det finns synnerliga skäl, får avsteg göras från 15 § 
+budgetlagen, som föreskriver att avgifternas storlek ska motsvara statens 
+ekonomiska risk och övriga kostnader för åtagandet, om inte riksdagen för 
+ett visst åtagande beslutar annat.33 
+I stödlagens 7 kap. redogörs för stabilitetsfonden. Inbetalda avgifter 
+enligt stödlagen ska föras till ett räntebärande konto i RGK. Till kontot ska 
+även föras medel som staten återfått och som avser lämnat stöd enligt 
+lagen. De medel som tillförts kontot utgör stabilitetsfonden, tillsammans 
+med de övriga tillgångar som anskaffats med stöd av lagen. Statens utgifter 
+för stödet och för stödmyndighetens förvaltningskostnader ska täckas från 
+kontot. 
+FörordningarDe statliga garantierna regleras av en rad förordningar. En beskrivning av de 
+viktigaste förordningarna återfinns i bilaga 1. 
+2.3 Garantier och garantirisker 
+Garantier 
+Granskningen avser de fyra största garantiprogrammen: bankgarantin, 
+insättningsgarantin, exportkreditgarantin samt garantin för AB Svensk 
+Exportkredits upplåning. Med riksdagens beslut under oktober till 
+december 2008 utökades statens borgensåtagande kraftigt. Den utökade 
+33 Avsteg från EU:s statsstödsregler ska godkännas efter notifiering enligt kommissionens 
+meddelande (2008/C 270/02).
+
+betalningsförpliktelsen för de fyra garantierna framgår av tabell 1. Av 
+de beslutade ramarna har lägre belopp utnyttjats som regeringen eller 
+myndigheter beslutat om . Dessa framgår av tabellens sista kolumnen 
+”Utnyttjat”.
+Tabell 1. Beviljade och utnyttjade garantiramar, miljarder kronor 34 35 36 37
+Av riksdagen 
+beviljade ramarFöre 
+1 juli 2008Efter 
+31 dec. 2008Enligt prop 
+sept. 2009Utnyttjat 
+sept. 2009Insättningsgaranti639740 -1 000 740-100034 886Bankgaranti01 5001 5003530836Exportkreditgaranti200350 50024837Upplåningsgaranti450 250 0SUMMA avrundat8153040-3300 2 990-3250 1 442
+
+Åtaganden för bankernas garantiprogram och exportföretagens krediter 
+gäller för lån som förfaller flera år framåt i tiden. Figur 1 visar statens 
+garantiåtaganden under förutsättning att inga nya garantier ställs ut och att 
+inga nya exportkreditgarantier avtalas. Beloppen är ungefärliga och baseras 
+på det underlag som lämnats från RGK och EKN.
+Figur 1. Utställda garantier fördelade på år då krediterna förfaller. Miljarder kronor.
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 
+BankgarantierExportgarantierSumma 
+Källa: Riksrevisionens beräkningar baserade på underlag från EKN, RGK.
+34 Regeringen har i Årsredovisning för staten angett den lägre siffran. I studier i finanspolitik anger 
+Finanspolitiska rådet att utvidgningen till fler kontotyper gör att garantiåtagandet kan vara så 
+högt som 900 till 1 000 miljarder kronor.
+35 Förlängt enligt regeringsbeslut den 8 oktober 2009 till april 2010.36 Enligt RGK:s hemsida november 2009. 
+37 Regeringen anger siffran 252 miljarder kronor för utnyttjade exportkreditgarantier i 
+budgetpropositionen september 2009. Här anges i stället den uppgift som EKN rapporterar i 
+delårsbokslutet om vad som utnyttjats per den 30 september 2009. 
+
+Dessa belopp ska ses som miniminivåer för statens åtaganden och 
+förutsätter att inga nya garantier avtalas. EKN hade per den 30 september 
+2009 också 194 miljarder kronor i obundna engagemang (utfästelser 
+om garanti) där exportavtal ännu inte slutits. Om exportavtal tecknas så 
+utfärdas garantin enligt det belopp som utfästelsen gäller, annars inte. Bland 
+dessa obundna engagemang om 194 miljarder kronor återfinns tio stora 
+om sammantaget cirka 95 miljarder kronor med bedömda kredittider på 
+mellan 5 och 15 år. Dessa belopp ska läggas till kurvorna i figuren i samma 
+utsträckning som exportaffärerna blir av och EKN omvandlar utfästelserna 
+till förbindelser. De nu utställda garantierna är åtaganden för staten många 
+år framåt och på en väsentligt högre nivå än före krisen. 
+Risker för samhällsekonominMotivet för införande av insättnings- och bankgarantier är att minska 
+risken för finansiell instabilitet. Insättningsgarantin har även ett 
+konsumentskyddssyfte. De befarade konsekvenserna av finanskrisen 
+för svensk export och de bedömda riskerna för den reala ekonomin 
+är det bakomliggande motivet för den utvidgade ramen för EKN:s 
+kreditgarantigivning till exportaffärer. Samma motiv ligger bakom den 
+statsgaranti som ger SEK en vidgad ram för långfristig utlåning till 
+exportindustrin. 
+Statens ekonomiska risk 
+Risken för staten som garantigivare är att de utställda garantierna måste 
+infrias. För bankgarantin och insättningsgarantin innebär detta att genom 
+stödåtgärder i form av kapitaltillskott eller övertagande säkerställa det 
+finansiella systemets funktion. Sådana åtgärder belastar statsbudgeten. 
+Genom de villkor som ställs på stödmottagande kreditinstitut försöker 
+staten säkerställa att i första hand ägarna ska bära uppkomna förluster. 
+Garantier för exportkrediter innebär att staten garanterar att banker och 
+andra kreditinstitut som finansierar exportföretagens medel- och långsiktiga 
+lån också får betalt. Om detta inte kan ske exempelvis beroende på 
+betalningsinställelse av köparen har staten genom sin garanti en skyldighet 
+att betala banken. Ett sådant utfall finansierar garantiorganen genom en 
+fondering av premier för garantin. Premierna sätts olika beroende på den 
+risk som garantigivaren bedömer finns då garantin avtalas. 
+Priset för garantiernaSyftet med garantiregleringen i budgetlagen är att garantiavgifterna ska 
+motsvara statens ekonomiska risk och övriga kostnader för åtagandet. 
+Detta gäller även för garantier under stödlagen om inte synnerliga skäl 
+
+föreligger. Avgiften för insättningsgarantin är reglerad i lag och institutens 
+sammanlagda årliga avgifter ska uppgå till ett belopp som motsvarar 0,1 
+procent av insättningarna. 
+Avgifterna för EKN:s garantier är satta för att täcka förväntad 
+kostnad, varvid beräkningen av förväntad kostnad bland annat bygger på 
+ratingföretagens bedömningar. 
+”Moral hazard”
+De garantier som ställts ut innebär mycket stora åtaganden genom att 
+staten går i borgen för företagens betalningsförpliktelser. Garantierna 
+innebär att sannolikheten för att insättare eller andra långivare till en större 
+bank ska förlora pengar blir mycket låg även om banken skulle misskötas. 
+Långivarna känner mindre tryck att värdera bankens risktagande eftersom 
+de hålls skadeslösa om banken får problem. Kostnaderna för att öka 
+risktagandet minskar, vilket också minskar incitamenten för att investera i 
+riskkontroll.38 Garantiprogrammen för bankerna kan därför ge upphov till så 
+kallad moral hazard, det vill säga ett högre risktagande i utlåningen än vad 
+som är samhällsekonomiskt effektivt, och leda till att marknadsdisciplinen 
+försvagas. 
+Gränsen mellan explicita och implicita statliga åtaganden kan vara svår 
+att dra. Problem med moralhazard kan uppkomma även om garantierna är 
+implicita. Detta är ett avgörande skäl för att banker är särskilt reglerade med 
+krav på bland annat kapitaltäckning och fungerande riskkontroll. 
+På motsvarande sätt kan exportindustrin och dess långivare bli benägna 
+att ta större risker vid avtal med kunder eller länder. Svagare solvens 
+än normalt kan komma att accepteras trots att det kan strida mot en 
+strikt affärsmässig bedömning. Detta kan motverkas genom självrisker i 
+garantigivningen för att exportören ska göra en prövning av sitt risktagande. 
+38 Finansinspektionen, Effekterna av de statliga stabilitetsåtgärderna, femte rapporten 2009. 
+
+3 Garantivillkor för banker och 
+exportföretagI detta avsnitt beskrivs de villkor som staten ställer för att lämna garantier till 
+banker och exportföretag. Här analyseras frågan om regeringen säkerställt 
+villkor som är rimliga med hänsyn till statens kostnader.
+3.1 Bankgarantin och insättningsgarantin 
+InsättningsgarantinErsättningsrätt enligt insättningsgarantin inträder först efter bankens 
+konkurs. RGK är utbetalande myndighet och erhåller regressrätt39 gentemot 
+banken. Avgift utgår med 0,1 procent av de totala garanterade insättningarna 
+i landet. Garantisumman fördelas mellan instituten, och avgiften varierar 
+mellan bankerna beroende på kapitaltäckningsgraden jämfört med övriga 
+banker. Avgiften sätts enligt lagen med minimum 0,06 procent och 
+maximum 0,14 procent av det garanterade beloppet. 
+BankgarantinFör garantier som utfärdas under stödlagen ska det stöd som lämnas 
+förenas med villkor som säkerställer kredittagarnas eget ansvar. Statens 
+långsiktiga kostnader för stödet ska minimeras och staten ska som regel 
+få ersättning för sitt risktagande och del i en eventuell värdestegring i det 
+institut som stödet avser.40 Om det finns synnerliga skäl, får avsteg göras 
+från det som föreskrivs om avgifter i budgetlagen. Garantin regleras i detalj i 
+förordningen om statliga garantier till banker med flera.41 
+RGK meddelar föreskrifter för bankgarantin42 och upprättar avtal. Ett 
+institut som önskar delta i garantin måste ansöka om detta och därefter 
+teckna ett garantiavtal med staten. Institutet måste vara ett bankaktiebolag, 
+39 Regressrätten innebär att garantigivaren, sedan ersättning betalats ut, övertar långivarens fordran 
+på låntagaren.
+40 Prop. 2008/09:61 Stabilitetsstärkande åtgärder för det svenska finansiella systemet. Dessa 
+principer anges gälla stöd i olika former till kreditinstitut och avser specifikt risker för allvarlig 
+störning i det finansiella systemet. 
+41 Förordning (2008:819). 
+42 Riksgäldens föreskrifter till förordning om statliga garantier till banker m.fl. (RGKFS 2008:1) och 
+Riksgäldens föreskrifter om ändring av föreskrifter (RGKFS 2008:2) med bilaga. 
+
+sparbank eller medlemsbank alternativt ett kreditmarknadsbolag som har en 
+betydande utlåning mot säkerhet i form av panträtt eller har en betydande 
+utlåning till svenska kommuner. Banken måste uppfylla de lagstadgade 
+kapitaltäckningskraven. För att få teckna garanti krävs också att banken 
+begränsar sin marknadsföring och ersättningarna till bankledningen. 
+Efter tecknandet av ett övergripande garantiavtal kan staten ställa ut 
+enskilda kreditgarantier. Garanterat belopp för en enskild bank får inte 
+överstiga summan av förfallande skuldförbindelser under en viss period 
+eller 20 procent av institutets inlåning på konto från allmänheten den 1 
+september 2008. Garantin kan avse i princip alla typer av skuldförbindelser, 
+så länge de inte är efterställda (har sämre förmånsrätt i en konkurs), med 
+undantag för komplexa och strukturerade produkter. 43 Skuldförbindelserna 
+ska ha en löptid på mer än 90 dagar, men inte längre än 5 år. 
+Det samlade programmet begränsas till 1 500 miljarder kronor. Maximalt 
+500 miljarder kronor av denna ram får avse lån med 3 års löptid eller längre. 
+Avgifter för bankgarantin 
+Avgifterna för bankgarantin har fastställts av RGK. De är riskdifferentierade 
+och bygger på en modell som har tagits fram av Europeiska centralbanken 
+(ECB).44 Avgiften baseras på marknadspris för så kallade kreditswappar 
+(credit default swaps, CDS).45 Underlaget för avgiftssättningen har tagits 
+fram av Riksbanken. 
+Avgiften för upplåning med en löptid på upp till ett år uppgår 
+till 0,5 procent av det garanterade beloppet, lika för alla institut. För 
+skuldförbindelser med löptider längre än ett år baseras avgiften på medianen 
+av marknadspriset för femåriga kreditswappar för det aktuella institutet 
+under perioden från den 1 januari 2007 till den 31 augusti 2008 med ett 
+tillägg på 0,5 procentenheter. Den valda tidsperioden syftar till att om möjligt 
+återspegla priset på kreditrisk under ”normala marknadsförhållanden”. Det 
+är endast för de fyra storbankerna som det finns CDS-spreadar.46 Spreadarna 
+för dessa banker varierar mellan 0,25 och 0,33 procentenheter. 
+För garantier till institut där marknadspris på kreditswappar saknas 
+– eller där priset inte är tillförlitligt – ska avgiften beräknas enligt en 
+schablonmetod baserad på rating. Avgifterna för dessa institut varierar 
+mellan 0,24 och 0,45 procentenheter, med tillägg av 0,5 procentenheter. 
+43 En strukturerad produkt är ett värdepapper som består av flera olika typer av finansiella 
+instrument. De kan till exempel användas för att överföra risker mellan olika investerare.
+44 Europeiska Centralbanken. Recommendations On Government Guarantees On Bank Debt, 
+20 oktober 2008.45 Ett värdepapper som gör det möjligt att överföra kreditrisk till någon annan än den som 
+ursprungligen beviljade krediten.
+46 De priser som bankerna får betala för att försäkra sig mot kreditrisk.
+
+Om ett institut saknar både tillförlitlig CDS-data och rating ska den högsta 
+avgiften enligt schablonmetoden användas. 
+För säkerställda obligationer ska avgiften utgå från schablonmetoden, 
+men tillägget ska vara 0,25 procentenheter i stället för 0,5 procentenheter. 
+Finansdepartementets syn på garantiprisetI sitt skriftliga svar till Riksrevisionen framhåller Finansdepartementet 47 att, 
+”Prissättningen av garantiprogrammet utgår från en modell som tagits fram 
+av ECB. Den speglar inte specifikt svenska statens risk i de olika åtagandena, 
+men är riskdifferentierad med avseende på historisk risk mätt som historiska 
+CDS-spreadar”. 
+Efter att beslut tagits om att ett garantiprogram skulle införas 
+diskuterades olika metoder för garantiprissättning med RGK. Avsikten var 
+att ta fram en prissättning som kunde ligga någonstans mellan priset i en 
+normal marknadssituation och de av krisen överdrivet höga nivåer som 
+rådde när marknaden kollapsade. Det stod snabbt klart att ECB tagit fram en 
+prismodell med betydligt högre nivåer än den förväntade kostnaden och den 
+marknadsrelaterade avgift som hade diskuterats av Finansdepartementet. 
+Finansdepartementet konstaterade att det inte skulle gå att sätta lägre 
+avgifter än EU bestämt, eftersom det skulle kunna komma att betraktas som 
+otillåtet statsstöd. Någon egen prismodell togs därför inte fram.48 
+Bankgarantins villkor för att minimera skattebetalarnas kostnaderI stödlagen anges att villkoren för stöd ska utformas på ett ”affärsmässigt” 
+sätt. Det innebär inte nödvändigtvis att stöd ska ges på marknadsmässiga 
+villkor utan att gängse affärsvillkor gäller för stödet, samt att det inte går 
+att få garanti för vissa låneformer. Om marknadsmässiga villkor skulle vara 
+tillräckligt så hade inte ett statligt ingripande behövts. RGK tar fram avtalen 
+för bankgarantin. Avtalen remitteras till Finansdepartementet. De innehåller 
+bland annat regressrätt, straffränta vid ickebetalning och liknande villkor 
+”som säkerställer att statens kostnader för garantier minimeras”.49 
+Stödlagen gör klart att uppkomna förluster i första hand ska bäras 
+av instituten och ägarna samt att staten om möjligt ska återfå utgivna 
+medel. Garantier lämnas inte för riskkapital, det vill säga det som ingår 
+i institutets kapitalbas skyddas inte. Om institutet inte betalar får staten 
+en regressfordran och rätt till straffränta. Vid konkurs kommer i första 
+hand ägarna att bära förluster eftersom staten har en mer prioriterad 
+47 Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om garantiprogrammet.
+48 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+49 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+
+fordran. Finansdepartementet framhåller att för systemviktiga banker finns 
+det anledning att tro att staten ingriper redan innan en konkurs inträffar 
+eftersom det annars finns en risk för allvarliga störningar av det finansiella 
+systemet. Garantin kommer då inte att utlösas. Aktieägarna kommer i stället 
+att betala vid det ingripande som sker i enlighet med mandatet i stödlagen, 
+till exempel genom en nyemission i vilken staten mot aktier tillskjuter kapital 
+eller genom ett fullständigt statligt övertagande av banken. 
+Finansdepartementet bedömer att avgifterna för garantiprogrammet 
+överstiger en uppskattad ersättning för statens ekonomiska risk och övriga 
+kostnader för åtagandet.50 
+Vad gäller frågan om garantivillkoren är rimliga med hänsyn till statens 
+kostnader hänvisar Finansdepartementet till RGK. Myndigheten följer 
+kvartalsvis upp intäkterna av avgifterna och rapporterar till regeringen.51 
+Regeringen kan sedan följa upp att staten tillförsäkras kompensation för de 
+risker som övertas. 
+I övrigt framhåller Finansdepartementet följande begränsningar i 
+regelverket som bidrar till att statens kostnader hålls så låga som möjligt: 
+• Garantiramen är begränsad till 1 500 miljarder kronor.
+• Varje institut får en ram beräknad på förfallande skuldförbindelser eller 
+20 procent av inlåningen den 1 september 2008. 
+• Stödberättigade institut är banker och bostadsinstitut, vilket är en 
+snävare krets än alla kreditinstitut som banklagen omfattar.
+• Inte alla typer av skuldförbindelser garanteras. Vare sig riskkapital, 
+interbanklån mellan banker eller strukturerade produkter omfattas av 
+garantin. 
+• Garantiavtalen ger staten en regressfordran på banken.
+• Garantiprogrammet är tidsbegränsat.
+3.2 Exportkrediter och exportkreditgarantierEU-kommissionen har angett villkor för hur statliga garantier till företag 
+ska vara utformade för att inte utgöra statsstöd. Då kommissionen i 
+december 2008 beslutade om ett tillfälligt regelverk för att hantera krisen 
+kompletterades dessa regler. Medlemsstaterna kan enligt det tillfälliga 
+regelverket 52 bevilja garantier till december 2010 med följande villkor. 
+50 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+51 Riksgäldens åtgärder för att stärka stabiliteten i det finansiella systemet (2009:K3). 
+52 Artikel 87.3 (b)
+
+• För mindre och medelstora företag kan medlemsstaterna bevilja en 
+reduktion upp till 25 procent av den årliga premien för nya garantier.53 
+• För större företag tillåts en reduktion upp till 15 procent av premien.
+• Det reducerade garantipriset får tillämpas under maximalt två år.
+• Lånesumman får inte överskrida den årliga lönesumman för 2008 och 
+garantin får inte överstiga 90 procent av lönesumman.
+• Garantin får avse både investeringar och rörelsekapital. 
+• Reglerna gäller företag (dock ej banker) som inte ”var i svårigheter” den 
+1 juli 2008.
+Det tillfälliga regelverket innehåller också specifika bestämmelser 
+om exportkreditförsäkring. Tidigare regler syftade till att undvika att 
+exportkreditorgan verksamma för statens räkning kunde snedvrida 
+konkurrensen avseende så kallade marknadsmässiga risker. Detta kunde 
+ske genom att ett statligt exportkreditorgan har finansiella fördelar av att ha 
+statens finansiella styrka som garant. Innebörden av de bestämmelser som 
+infördes 2008 var att medlemsstaternas bevisbörda avseende bristande 
+tillgänglighet på den privata marknaden för sådan marknadsmässig 
+exportkreditförsäkring lindrades något. 
+Vad gäller allmänna svenska regler för garantier är de tydligast uttryckta 
+i propositionerna 1996/97:1 och 2001/02:1.54 Där framgår att krav ställs på 
+full kostnadstäckning, vilket innebär att risken i varje garantiengagemang 
+eller grupp av engagemang ska beräknas. Med utgångspunkt från denna 
+beräkning bestäms en avgift som debiteras garantitagaren. 
+Riksdagen kan besluta att för ett visst åtagande ska en lägre avgift 
+eller ingen avgift alls debiteras. Om full kostnadstäckning inte erhålls 
+från garantitagaren är det fråga om en statlig subvention och medel 
+för kostnadstäckning ska anvisas på statsbudgeten. Avgiftsinkomster, 
+anslagsmedel och eventuella återvinningar från tidigare infriade garantier 
+förs till en garantireserv i RGK. Reserven ska finansiera skadeutfall och 
+administrationskostnader och vara långsiktigt självbärande. 
+ExportkreditgarantiernaEKN:s premiesättning är föremål för överstatliga och mellanstatliga 
+överenskommelser. Exportkreditgaranti ska beviljas i överensstämmelse med 
+Sveriges internationella åtaganden om statsstödd exportfinansiering. Den 
+övergripande regleringen av EKN:s prissättning framgår av förordningen om 
+exportgaranti.55 Av 9§ framgår följande. ”För exportkreditgaranti betalas en 
+premie som är avpassad med hänsyn till olika inverkande omständigheter 
+53 Upp till 25 % av premiens säkerhetsnivå 3,8 %. 
+54 Prop. 1996/97:1 Finansplan m.m. samt prop. 2001/02:1 Budgetpropositionen för 2002.55 Förordning (2007:656) om exportgaranti.
+
+såsom betalningsvillkor, förhållanden i importlandet och risker av annat 
+slag samt administrationskostnader. Premierna avpassas till målet att 
+verksamheten totalt sett skall vara självbärande över tiden. För utfästelse om 
+exportkreditgaranti får en avgift tas ut.” 
+Över tiden ska summan av premier motsvara uppkomna förluster och 
+administrationskostnader, så att EKN:s ackumulerade resultat närmar sig 
+noll. För rembursgaranti, motgaranti och rörelsekreditgaranti56 tillämpas 
+dock en prissättning som innebär att EKN:s premie utgår från ett prisbud 
+från den sökande banken. Premien ska återspegla den förväntade förlusten57 
+i affären plus EKN:s administrationskostnad. Detta innebär att oförväntad 
+förlust (risk för förlust till följd av koncentrationen av risker) inte beaktas vid 
+prissättning av en enskild affär i någon garantityp. 
+EKN:s prissättning utgår från en premiematris, som är indelad i 
+landklasser och riskklasser. Landklasserna är indelade i klasserna 0-7 där 0 
+är lägst risk. Alla länder hänförs till en landklass, som kan variera över tiden. 
+Ju högre landklass ett land placeras i, desto högre premie. Riskklasserna 
+är indelade i A - F där A avser centralbanker eller liknande och F avser 
+nystartade företag, ”svaga företag” eller projektrisker. Ju högre riskklass en 
+affär placeras i, desto högre premie. Av premiematrisen framgår även de 
+lägsta premier som enligt internationella överenskommelser (OECD) måste 
+tas ut, även om EKN i en enskild affär skulle bedöma att risken är mindre än 
+vad en minimipremie indikerar. Ur premiematrisen erhålls en årspremiesats 
+uttryckt i baspunkter (hundradels procent). Enligt Riksrevisionens 
+uppfattning speglar den befintliga premiematrisen väl det datamaterial som 
+erhållits från ratinginstitut. 
+EKN:s beslut om land- och riskklassificering prövas av en särskild 
+funktion i myndigheten. Beslut av större och principiell räckvidd fattas vid 
+styrelsemöten på förslag av generaldirektören. 
+En garantityp som ökat kraftigt i samband med finanskrisen är 
+rörelsekreditgarantier till större företag. För sådana garantier tillämpas inte 
+premiematrisen. En rörelsekreditgaranti är en riskdelningsprodukt mellan 
+en bank och EKN. Garantins omfattning är maximalt 75 procent av det 
+kreditbelopp som banken beviljat. EKN:s premie för rörelsekreditgarantier 
+baseras i stor utsträckning på den sökande bankens avgifter och ska normalt 
+motsvara bankens ersättning för administration och risk. Premien beräknas 
+vanligtvis som en ränta på utestående kreditbelopp. Utgångspunkten för 
+premien ska vara bankens räntemarginal och eventuell kontraktsränta. 
+56 Rembursgarantin innebär att banken kan dela risken med EKN när banken bekräftar ett 
+oåterkalleligt åtagande att betala säljaren då säljaren presenterar de dokument och uppfyller de 
+villkor som är angivna. Motgarantin används när exportörens kund begär kontraktsgaranti varvid 
+banken och EKN delar risken för att kontraktsgarantin tas i anspråk. Med rörelsekreditgarantin kan 
+banken dela risk med EKN när banken ger rörelsekrediter. 
+57 Förväntad förlust är en beräknad förlust för en viss typ av garantier enligt statistik från tidigare 
+engagemang. 
+
+Exportkrediter 
+SEK:s processer för kredit- och riskhantering ligger i linje med gängse praxis 
+på kreditmarknaden. Bolaget möter på övergripande nivå de krav som ställs 
+av Finansinspektionen. SEK har en organisation med tydligt definierade 
+mandat för tilldelning och utnyttjande av kreditlimiter och metoder för att 
+mäta och kontrollera risk. 
+I februari 2009 beslutade regeringen att bevilja SEK en låneram om 100 
+miljarder kronor i RGK för att förstärka svensk exportfinansiering. SEK har 
+dock ännu inte, senhösten 2009, begärt att få utnyttja låneramen. Således 
+har RGK i dagsläget ingen direkt kreditrisk mot SEK. Av rapportering till RGK 
+framgår dock att SEK bedömer att låneramen har haft ett betydande värde 
+genom att SEK tack vare tillgången till garanterad lång finansiering från RGK 
+har kunnat lämna offerter och exportkrediter, som annars inte hade varit 
+möjliga i den då rådande situationen på kreditmarknaden. 
+SEK har kunnat finansiera lämnade exportkrediter med kortfristig 
+upplåning, som under 2009 har varit billigare än långfristig finansiering. 
+I händelse av att kreditmarknaden skulle försämras ytterligare har SEK 
+möjlighet att ersätta den kortfristiga finansieringen med lång finansiering 
+inom RGK:s låneram. I händelse av detta skulle RGK exponeras för en 
+kreditrisk mot SEK. 
+UpplåningsgarantinSEK fick i slutet av 2008 ett kapitaltillskott om 5 miljarder kronor från staten. 
+SEK ansåg att bolaget kunde få svårt med sin långfristiga upplåning om 
+läget på kapitalmarknaderna skulle försämras ytterligare under våren 2009, 
+varför SEK begärde att få möjlighet att köpa garantier från staten. Riksdagen 
+beslutade att bemyndiga regeringen att inom en ram på 450 miljarder kronor 
+ge SEK en statsgaranti på kommersiella villkor för sin upplåning. 
+Regeringen har ännu inte utnyttjat sitt mandat och alltså inte tagit något 
+beslut om att låta SEK köpa en statsgaranti från staten. Det huvudsakliga 
+skälet till detta är att kapitalmarknaderna inte försämrades på det sätt 
+som SEK befarade. Regeringen har också i budgetpropositionen för 2010 
+föreslagit att ramen sänks till 250 miljarder kronor. 
+Utrikes- och finansdepartementens syn på prissättningenEKN:s verksamhet ska bedrivas med målet att totalt sett vara självbärande 
+över tiden. Inbetalade premier ska således täcka såväl förlustrisken som 
+kostnaderna för administration och de investeringar som behövs. Om 
+EKN bedömer att målet att nå ett balanserat ekonomiskt resultat på 
+sikt inte kan uppfyllas ska regeringen snarast meddelas.58 EKN har en 
+58 Regleringsbrev för budgetåret 2009 avseende Exportkreditnämnden. UF2008/11521/FIM.
+
+obegränsad upplåningsrätt i svensk och utländsk valuta i RGK för att vid 
+behov användas för utbetalning av skadeersättning. På upplånade medel 
+utgår ränta. Överskott från garantigivningen ska sättas in på räntebärande 
+konto i RGK. Medlen ska användas för reglering av skadeutfall. Underskott i 
+garantigivningen ska finansieras genom upplåning.59 
+EKN:s likvida medel uppgick per den 30 juni 2009 till 17,7 miljarder 
+kronor, vilket tillsammans med premier, återvinningar och finansiella intäkter 
+av UD bedöms utgöra en god täckning för eventuella skadeutbetalningar 
+i framtiden. Om skadeutbetalningar skulle överstiga likvida medel kan 
+EKN utnyttja sin låneram hos RGK. Sannolikheten för att ett sådant 
+upplåningsbehov skulle uppstå och i förlängningen belasta statsbudgeten 
+bedöms som liten av regeringen.60 
+Vad gäller SEK:s låneram är marknadsmässig prissättning ett villkor, 
+vilket innebar att statens förlustrisker ska täckas. Detta skulle också gälla 
+en upplåningsgaranti för SEK. RGK har ansvaret för att marknadsmässig 
+prissättning tillämpas.61 RGK:s utlåning till SEK ska ske mot ett 
+marknadsmässigt pris och att staten får betalt för den risk som tas. Även den 
+fasta avgiften för SEK:s möjlighet att låna i RGK ska vara marknadsmässig. 
+Fastställande av pris för varje enskilt lån ska beräknas och dokumenteras av 
+RGK. EU-kommissionen bedömdes inte behöva konsulteras då låneramen 
+infördes eftersom marknadsmässigheten innebär att det inte är fråga om 
+statsstöd.62 
+3.3 Riksrevisionens iakttagelser om garantivillkoren 
+Bankerna 
+Avgiften för insättningsgarantin är inte anpassad till risker eller kostnaderAvgiften för insättningsgarantin fastställdes i lagen om insättningsgaranti63. 
+Det ursprungliga syftet var att under en tioårsperiod bygga upp en fond 
+om 2,5 procent av garantiåtagandet. Från början togs en avgift mellan 0,1 
+och 0,3 procent av det totala åtagandet. När fonden nådde den målsatta 
+nivån fortsatte man att ta ut 0.1 procent. Avgiften har således aldrig varit 
+riskanpassad. Garantivillkoren förändrades i detaljer och till belopp i 
+59 UD UF2008/11521/FIM. Regleringsbrev för budgetåret 2009 avseende Exportkreditnämnden. 
+60 Mail UD/FIM till Fi/BU, 2009-09-04, inför budgetproposition. Prop. 2009/10:1, sid 93. 
+61 Fi 2009/119.62 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+63 Lag (1995:1571) om insättningsgaranti.
+
+samband med den nuvarande krisen men avgiften är oförändrad. Regeringen 
+lät 2007 RGK64 utreda frågan om kostnadsanpassning, men regeringen har 
+ännu inte tagit ställning i frågan. 
+Finansdepartementet uppger att ett förslag hade förberetts för 
+remittering hösten 2008, men att förslaget måste omarbetas i och med 
+de åtgärder som infördes med anledning av krisen. Inom EU pågår en 
+översyn av insättningsgarantierna som kommer att innefatta förslag om 
+prissättningen. Kommissionen har genomfört en konsultation bland 
+medlemsstaterna och förväntas komma med förslag under 2010. Sverige är 
+enligt Finansdepartementet ett av få länder i Europa som redan före krisen 
+hade en omfattande avgiftsfinansiering av insättningsgarantin. 
+En högre avgift för bankgarantin har krävts av EUEU-kommissionen måste enligt statsstödsreglerna i EG-fördraget 
+godkänna garantiprogrammet. Kommissionen meddelade tidigt att 
+prissättningen inte var förhandlingsbar utan skulle följa ECB:s riktlinjer. 
+Enligt Finansdepartementet hade kommissionen tagit fram en prismodell 
+med betydligt högre nivåer än den förväntade kostnaden från vilken det inte 
+går att avvika nedåt på grund av statstödsreglerna. Den av ECB framtagna 
+prismodellen var obligatorisk enligt den bedömning som gjordes av 
+Generaldirektoratet för konkurrens avseende stödprogrammen.65 
+Riksrevisionen har tagit del av en särskild e-post från ansvariga 
+tjänstemän på EU-kommissionen, som Finansdepartementet infordrat. Det 
+framgår att det ställdes krav på medlemsländerna under förhandlingarna 
+om garantiprissättningen att alla skulle följa samma prismodell. I e-posten66 
+framhålls: ”Enligt kommissionens praxis är en prissättning enligt ECB-
+modellen en av de främsta förutsättningarna för att en bankgaranti skall 
+kunna anses förenlig med EG-fördraget.”..”.. en prissättning som skulle 
+avvika från en medlemsstat till en annan skulle kunna undergräva den inre 
+marknaden.” Enligt Finansdepartementet ”..råder en viss oklarhet om 15 
+§ i budgetlagen tillåter uttag av en avgift som är högre än kostnaderna för 
+åtagandet, inklusive den ekonomiska risken, om detta är nödvändigt på 
+grund av tvingande EG-rätt. ”Med hänsyn härtill, och de förhållanden som 
+rådde då förordningen beslutades, torde under alla förhållanden enligt 2 kap. 
+2 § fjärde stycket i stödlagen synnerliga skäl ha förelegat för att avvika från 
+budgetlagens bestämmelser.”
+64 En modell med riskavspeglande avgifter för insättningsgarantin, Rapport 2007-09-28, 
+Dnr 2007/160065 DG Competition’s review of guarantee and recapitalisation schemes in the financial sector in the 
+current crisis, 7 August 2009.66 E-post. ECB/bankgarantier, From Salim Medghoul to Aino Bunge 2009-05-25.
+
+Detta är anledningen till att garantimodellens bestämmelser och 
+principer inte följdes när avgiften för bankgarantin konstruerades och 
+beslutades. 
+En historisk jämförelse kan ge en missvisande slutsatsVad gäller storleken på avgiften för bankgarantin bedömer 
+Finansdepartementet att avgiften – som bestämts av EU och ECB – är 
+betydligt högre än den förväntade kostnaden. 
+Bedömningen att den av EU bestämda avgiften är för hög bygger på en 
+jämförelse med historiska data. Metoden kan ifrågasättas mot bakgrund 
+av de exceptionella förhållandena som rådde under krisen. En historisk 
+jämförelse kan leda till missvisande slutsatser i en sådan bedömning av 
+avgiften för bankgarantin. Avsikten var att prissättningen skulle vara på en 
+sådan nivå att det var fördelaktigt för bankerna att gå med i programmet så 
+länge den akuta krisen kvarstod, men när situationen normaliserades och 
+kostnaden för finansiering närmade sig historiskt lugnare perioder skulle det 
+finnas incitament för instituten att återgå till marknadsfinansiering. 
+Garantivillkoren bidrar till att hålla nere utgifterna för bankgarantin och ökar 
+möjligheten till återvinningEnligt Riksrevisionens uppfattning bidrar sannolikt de begränsningar och 
+villkor regeringen infört till att både hålla nere utgifterna för garantierna och 
+öka möjligheten till återvinning. Ramen är i enlighet med bestämmelserna i 
+stödförordningen fastställd för att täcka utestående förfall för banksystemet 
+vid den tid garantiramen fastställdes. 
+Exportindustrin 
+Premierna för nya exportkreditgarantier motsvarar väl riskbedömningen 
+– detta gäller dock inte för befintliga affärer 
+EKN:s premiematris bygger på statistik från bland annat ratinginstitut. Den 
+uppdateras inte regelbundet till följd av upp- eller nergångar i den allmänna 
+konjunkturen. Konjunkturförändringar påverkar istället premiesättningen 
+genom att landklassen för ett land ändras, vilket innebär att premien för 
+nya garantier förändras. Dessutom justerar EKN vid behov bedömningen 
+av riskklass, vilket även det innebär att premien för nya affärer minskar 
+eller ökar. För befintliga affärer ändras emellertid inte premien, utan den 
+förändrade risken i ett engagemang beaktas vid riskreserveringarna. Detta 
+innebär till exempel att en affär under sin löptid kan åsättas en högre eller 
+lägre riskreserv i bokslutet än vad den uttagna premien representerar. 
+
+EKN balanserar risk genom reserveringarEKN bedömde att en expansion av garantigivningen under 2009 
+skulle kräva ökade riskreserveringar. Vid årsskiftet 2008/09 hade EKN 
+reserverat 5 miljarder kronor för förväntade förluster och 6 miljarder 
+kronor för oförväntade förluster (koncentrationsrisker). EKN hade då ett 
+myndighetskapital om ca 10 miljarder kronor. Behovet av reserveringar för 
+oförväntade förluster vid slutet av 2009 bedömdes i april 2009 öka med 
+9 miljarder kronor till omkring 15 miljarder kronor. Myndighetskapitalet 
+skulle i så fall sjunka till ca 1 miljard kronor. EKN ansåg att denna prognos 
+måste anses osäker. I scenarier med andra antaganden skulle EKN:s 
+myndighetskapital bli negativt genom reserveringar för oförväntade 
+förluster.67 Likvida medel påverkas dock endast om skadeutbetalningar 
+görs. Av detta framgår att EKN löpande bevakar risken för förluster relativt 
+sitt myndighetskapital. Samtidigt drar Riksrevisionen slutsatsen att EKN:s 
+myndighetskapital i en extremt negativ marknadsutveckling kan komma att 
+förbrukas, vilket skulle påverka anslagen på statsbudgeten. 
+Garantivillkoren för exportkrediter och EKN:s riskreducerande åtgärder 
+bidrar till att hålla nere utgifterna för garantiernaI granskningen har framkommit att EKN:s löpande i sin riskhantering 
+bedömer risken i sin portfölj och håller risken för oförväntade förluster 
+på en acceptabel nivå genom balanserande åtgärder. Exempel på sådana 
+åtgärder är styrelsens beslut om riskavtäckningsåtgärder. Riskavtäckning 
+får ske genom återförsäkringsavtal på den privata marknaden, kreditderivat 
+eller andra strukturerade lösningar på kapitalmarknaden samt genom 
+riskbytesavtal med exportkreditinstitut i andra länder. 
+Förekomsten av riskavtäckning minskar behovet av reserver. 
+Utgångspunkten för prisförhandlingar i samband med riskavtäckning ska 
+vara EKN:s aktuella riskvärdering. Om priset för riskavtäckning inklusive 
+motpartskostnader skulle överstiga den aktuella riskvärderingen måste 
+åtgärden kunna motiveras särskilt. 
+EU-kommissionen har godkänt garantivillkorenEU-kommissionen godkände 2009-11-25 efter granskning de svenska 
+exportkreditgarantierna. Dessa godkänns att gälla till och med 2010. 
+Kommissionen bedömer att tillräckliga bevis finns om att den privata 
+återförsäkringsmarknaden inte kan ge den nödvändiga täckningen. Vidare 
+bedömer kommissionen att de avgifter som tas ut är anpassade till de som 
+67 EKN:s rapport ”EKN:s garantigivning och ramutnyttjande” till UD 2009-04-02.
+
+gäller på marknaden. Dessutom bedöms avgifterna vara ”satta på en nivå 
+som ger incitament för exportörer att återvända till privata återförsäkrare så 
+snart som det finns tillräcklig täckning på marknaden.” 68 
+Inget pris beräknades för SEK:s upplåningsgarantiSedan riksdagen beslutat om upplåningsgarantin för SEK skulle regeringen 
+fastställa ett pris för upplåningsgarantin. Regeringen fann det emellertid 
+inte möjligt att formulera någon rimlig metod för prissättningen och 
+avstod därför från att delegera någon garantiram till RGK. Dessutom ansåg 
+Finansdepartementet att läget på finansmarknaderna började stabiliseras, 
+vilket gjorde att behovet av en garanti för SEK:s upplåning var mindre akut.693.4 Sammanfattande iakttagelser och slutsatser 
+Iakttagelser om insättnings- och bankgarantierna• Avgiften för insättningsgarantin är inte anpassad till risker eller 
+kostnader. Den avgift för bankgarantin som har krävts av EU bedöms av 
+Finansdepartementet vara högre än förväntad kostnad.
+• Bedömningen att avgiften är för hög har gjorts genom en jämförelse 
+med historiska data. Metoden kan ifrågasättas mot bakgrund av de 
+exceptionella förhållandena under det aktuella krisförloppet. 
+Iakttagelser om exportgarantier• Premierna för nya exportkreditgarantier motsvarar väl riskbedömningen. 
+För den stora volymen befintliga affärer ändras inte premierna om risken 
+förändras men EKN balanserar risken genom reserveringar.
+• EU-kommissionen har godkänt garantivillkoren.
+• Inget pris beräknades för SEK:s upplåningsgaranti med motiveringen att 
+denna inte utnyttjades. 
+Slutsatser om garantivillkoren• De villkor regeringen infört för bankgarantin bidrar till att hålla nere 
+utgifterna för garantin och ökar möjligheten till återvinning.
+• Garantivillkoren och EKN:s riskreducerande åtgärder bidrar till att hålla 
+nere utgifterna för exportkreditgarantierna.
+68 Se ”eGov monitor”. EU-kommissionen 2009-11-25.69 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+
+4 Statens risker för framtida kostnaderI detta avsnitt beskrivs de bedömningar som gjordes då regeringen och 
+riksdagen beslutade om ramar för garantier till banker och exportföretag. 
+Här analyseras också om regeringen har säkerställt underlag som möjliggör 
+bedömningar av statens risker för framtida kostnader.
+4.1 Om bedömning av risker 
+Regeringen har ett övergripande ansvar både för att ta initiativ till och att 
+se till att åtgärder genomförs i händelse av en kris. Även om regeringen 
+inte har det operativa ansvaret så ska den se till att krisen hanteras av 
+myndigheterna.70 Regeringen har fastslagit att målet för samhällets 
+krisberedskap är att minska risken för och konsekvenserna av allvarliga 
+störningar, kriser och olyckor. En beredskap måste finnas för händelser 
+och situationer som inträffar snabbt och utan förvarning, där en samlad 
+nationell krishanteringsförmåga krävs. Regeringen har krav på ett tydligt 
+beslutsunderlag och en samlad bedömning av samhällets förmåga att 
+motstå och hantera kriser.71 Regleringen om samhällets krisberedskap avser 
+främst andra samhällsområden än det ekonomiska men det är rimligt att 
+dessa principer också gäller vid hot mot den finansiella stabiliteten och 
+samhällsekonomin. 
+Den innevarande krisen har genom garantierna resulterat i en 
+överföring av risk från bankerna och exportföretagen till den offentliga 
+sektorn. Riksrevisionen anser att dessa risker för statens finanser kräver 
+en intensiv övervakning av åtgärdernas konsekvenser. En jämförelse kan 
+göras med best practise för finanspolicyn i ett storföretag eller koncern. En 
+sådan innebär att förändringar i marknader som påverkar företagets värde 
+ska identifieras, definieras, diskuteras i styrelsen och hanteras. Omsatt 
+till statens garantiåtaganden skulle detta kräva ett samordnat system för 
+riskbedömningar hos garantiansvariga myndigheter och bolag. Dessutom 
+fordras en fördjupad analys av de risker som statens garantiåtaganden 
+innebär samt former för samordnad uppföljning och återrapportering till 
+regering och riksdag. Risken för framtida kostnader bör redovisas. 
+70 1 kap. 6 § RF.
+71 Prop. 2008/09:1, UO 6, p. 5 avseende samhällets krisberedskap.
+
+4.2 Riskbedömningar vid myndigheter och bolag 
+Riskbedömning vid RGK 
+I regleringsbrevet för RGK anges att ”om Riksgäldskontoret, i egenskap 
+av stödmyndighet, har aktiva åtaganden enligt lagen om statligt 
+stöd till kreditinstitut, ska dessa redovisas kvartalsvis till regeringen. 
+Riksgäldskontoret ska dessutom redovisa till regeringen när åtgärder 
+som har större ekonomisk betydelse planeras och vidtas enligt lagen, 
+detta avseende typ av åtgärder, omfattning och förväntade effekter på 
+stabilitetsfonden. ” 72 
+RGK har framfört till Riksrevisionen att garantierna aldrig kommer 
+att tillåtas falla ut för systemviktiga banker. För att en garanti skall lösas 
+ut krävs att banken sätts i konkurs, men dessförinnan ingriper staten 
+med kapitaltillskott. Detta beror på att alternativkostnaden, det vill säga 
+kostnaden för en ekonomisk kris är högre än kostnaderna för kapitaltillskott. 
+Ett kapitalttillskott bör dessutom ske i form av preferensaktier, vilket ger 
+staten större chans att senare få igen nedlagda kostnader. 
+I rapporten ”Riksgäldens åtgärder för att stärka stabiliteten i det 
+finansiella systemet” 73 redovisas en kalkyl över intäkter och kostnader av 
+bankgarantin. RGK beräknar att den förväntade kostnaden för systemet som 
+helhet är 1,1 miljarder kronor medan den nuvärdesberäknade förväntade 
+intäkten för 14 år framåt i tiden uppgår till 6,1 miljarder kronor (inklusive 
+redan influtna avgifter). RGK bedömer således att bankgarantin har en 
+förväntad nettointäkt på 5,0 miljarder kronor. 
+Riskbedömning vid EKNEKN har processer för riskhantering såväl vid tecknande av en affär, som för 
+att löpande bedöma risken i utestående engagemang. Handläggningen av en 
+ansökan innefattar bland annat utredning om garantitagaren, riskbedömning 
+av affären och utredning av villkor för garantin. I denna del av processen 
+beräknas även premien. Denna utredning är grund för beslut om en 
+utfästelse ska utfärdas och i så fall till vilken premie. 
+Under 2008 införde EKN en kreditkommitté för att stärka 
+kreditprocessen. EKN:s styrelse och kreditkommitté får besluta om ett 
+garantiärende med gränser för högsta förlustbelopp avseende låg, normal 
+respektive hög risk. Beslut om affärer överstigande dessa belopp måste 
+fattas av generaldirektören i närvaro av EKN:s kreditkommitté. Stora 
+affärer, överstigande 100 - 300 miljoner kronor beroende på riskklass kräver 
+dessutom styrelsens godkännande.
+72 Lag (2008:814) om statligt stöd till kreditinstitut.
+73 Riksgälden 2009:K3.
+
+Från och med september 2008 genomförs kvartalsvisa riskvärderingar.74 
+Dessa består i att bedöma förväntad förlust75 respektive oförväntad förlust.76 
+Förutom dessa värderingar finns en särskild bevakning och analys av större 
+engagemang. Bevakningen utmynnar i en analys och förslag till reservering. 
+I goda tider kan EKN bygga upp ett myndighetskapital som tjänar 
+som buffert i sämre tider. I början av december 2008 uppgick EKN:s 
+myndighetskapital till ungefär 10,6 miljarder kronor. Vid utebliven betalning 
+kan EKN tvingas skadereglera ingångna åtaganden. Detta sker i första hand 
+genom användande av myndighetens eget kapital, varvid det är likvida medel 
+inklusive riskavsättningar som används till skadeutbetalningar.77 
+EKN upprättar sedan 1990 riskmässiga bokslut med avsättningar för 
+risken i affärerna. Det riskmässiga bokslutet ingår sedan 1998 i EKN:s 
+årsredovisning. 
+Riskbedömning vid SEKAlla SEK:s motparter åsätts internt en riskklassificering eller rating beslutad 
+av bolagets ratingkommitté. Uppgiften för kommittén är att besluta om 
+rating för nya motparter och att årligen eller då detta anses relevant besluta 
+om ny rating för existerande motparter. Ratingbeslut grundas på underlag 
+som förberetts av SEK:s analytiker, som löpande analyserar korrelationen 
+mellan bolagets interna ratingar och externa ratingar från bland annat 
+Standard & Poor’s och Moody’s. 
+SEK:s system för intern riskklassificering är en blandning av ett 
+expertbaserat system, med definitioner av riskklasser i mer kvalitativa 
+termer, och ett modellbaserat system med kvantitativa villkor för olika 
+variabler. Således är alla riskklassificeringar inom SEK baserade på 
+både analytikerbedömningar och kvantitativa modeller. Verktyget för att 
+upprätthålla en önskad nivå på risktagandet är ratingbetyget som sätts för 
+varje enskild motpart. De två drivande faktorerna i SEK:s interna värdering av 
+kreditrisk för motparter är rörelserisk och finansiell risk. 
+Funktionen Risk Control vid SEK genomför en riskkontroll av 
+motparterna och ansvarar för kontroll, analys och rapportering av finansiella 
+risker på portföljnivå. Riskerna är kredit- och motpartsrisker, marknadsrisker 
+samt finansierings- och likviditetsrisker. Styrelsen och den verkställande 
+74 Tidigare gjordes riskvärderingar halvårsvis. 
+75 Den förväntade förlusten i en enskild affär ges av sannolikheten för betalningsinställelse 
+(PD – Probability of Default) och slutförlust givet betalningsinställelse (LGD – Loss Given 
+Default). 
+76 En reservering som görs mot bakgrund av att EKN:s exponering normalt uppvisar en hög grad 
+av riskkoncentration. Med detta avses att riskerna beloppsmässigt är koncentrerade, och i vissa 
+fall korrelerade, till ett fåtal länder, gäldenärer och garanter för såväl engagemang som fordringar. 
+Beräkningen görs med utgångspunkt från en fastlagd säkerhetsgrad om 95 procent.
+77 UD/FIM. Promemoria 2009-09-28. Korta svar på Riksrevisionens frågor. 
+
+ledningen får regelbundet rapporter om kreditrisker. Rapporteringen 
+inkluderar stresstester. Även SEK:s användande av kreditriskskydd 
+rapporteras. 
+SEK framhåller att de största riskerna utgörs av kreditrisker. Dessa 
+begränsas genom ett noggrant urval av motparter och genom användande 
+av garantier och kreditderivat. Andra risker för SEK är marknadsrisker och 
+operativa risker. 
+4.3 Regeringens underlag för beslut4.3.1 Underlag för beslut om bankgarantinInsättningsgarantins förändring och bankgarantins införande skedde 
+under mycket kort tid från den 18 september 2008 till 30 oktober 2008. 
+Bankernas garantiprogram trädde i kraft tio dagar efter det att regeringen 
+presenterade ett stabilitetspaket för den finansiella sektorn. Samordning 
+av stabilitetsåtgärderna har skett internationellt och EU-kommissionen har 
+haft ett avgörande inflytande på stödets utformning. Förändringar i stödet 
+har också godkänts av kommissionen under våren 2009. I april förlängde 
+regeringen garantiprogrammet för bankernas upplåning till utgången av 
+oktober 2009 och i augusti inleddes arbetet med en ytterligare förlängning 
+som nu trätt ikraft och gäller till den 30 april 2010. 
+Utgångspunkten vid fastställande av bankgarantins ram var att den 
+skulle vara tillräckligt stor för att återskapa förtroendet på marknaden 
+samtidigt som statens åtagande var begränsat. Ramen skulle omfatta 
+refinansieringsbehovet för de aktuella instituten under garantiperioden för 
+de relevanta typerna av skuldförbindelser. Dessutom användes en alternativ 
+beräkningsmetod för ramen för institut med få eller inga utestående 
+skuldförbindelser. Tjugo procent av inlåningen bedömdes tillräckligt för 
+dessa institut. 
+Enligt information från Finansdepartementet beräknade Riksbanken 
+de fyra storbankernas sammanlagda förväntade förfallna skuldförbindelser 
+per den 9 september 2008. Motsvarande beräkning för övriga banker 
+inkluderades i bedömningen. Vidare beräknade Riksbanken hur stort 
+belopp som 20 procent av inlåningen från allmänheten skulle motsvara. 
+Med utgångspunkt från dessa uppgifter bestämdes garantiramen till 1 500 
+miljarder kronor. 
+
+4.3.2 Underlag för beslut om exportkreditgaranti och SEK:s 
+upplåningsgaranti 
+ExportkreditgarantinRamen för exportkreditgarantier höjdes av riksdagen i december 2008 
+från 200 till 350 miljarder kronor.78 I september 2009 föreslog regeringen i 
+budgetpropositionen för 2010 att riksdagen skulle höja ramen ytterligare till 
+500 miljarder kronor inklusive tidigare utfärdade garantier. 
+Den dokumentation som finns vid EKN och UD avspeglar det 
+brådskande läge som uppstod i oktober–november 2008. I underlaget 
+från EKN till UD79 framförs följande motiv för den föreslagna höjningen av 
+ramen:
+”EKN har idag en kraftigt ökande efterfrågan, främst från de stora 
+svenska exportföretagen. I ett världsläge med stor finansiell oro, 
+blir EKN:s tjänster än mer efterfrågade. Därför föreslår EKN att 
+garantiramen utökas till 350 miljarder kronor.” Som motiv angavs att 
+finanskrisen var problematisk vid de stora affärerna och behovet av 
+riskdelning med EKN skulle bli väsentlig för att lösa finansieringen. 
+”De stora företagen har affärer i pipeline som kommer att kräva 
+EKN:s medverkan, på över 100 miljarder kronor. Dessutom har ett av 
+företagen indikerat att det kan bli aktuellt med en ovanligt stor affär. 
+Det är svårt att veta när i tiden som kontrakt kommer att skrivas. 
+Dessutom finns det alltid en internationell konkurrens inom dessa 
+områden mellan svenska och utländska företag. Desto viktigare blir 
+det då att EKN snabbt och affärsmässigt kan uppfylla sin uppgift 
+att främja svensk export genom att erbjuda exportkreditgarantier. 
+Förslag: mot detta som bakgrund föreslår EKN att ramen för 
+exportkreditgarantier höjs från nuvarande 200 miljarder till 350 
+miljarder kronor.”80Enligt UD:s dokumentation finns viss ytterligare specificering av behovet 
+i form av underlag för ramens storlek. EKN hade särskilda möten med 
+Närings, Utrikes- och Finansdepartementen i denna fråga. EKN betecknar 
+också en föredragning för Näringsutskottet den 9 december 2008 som 
+avgörande. Vad gäller höjningen av ramen under 2009 gjorde EKN en 
+prognos i sin rapport till UD i april.81 Prognosen innebar att stora svenska 
+exportföretag efterfrågade rörelsekrediter på 100– 150 miljarder kronor 
+78 Prop. 2008/09:86. 
+79 E-post 2008-11-20 till handläggare UD.
+80 E-post 2008-11-20 till handläggare UD.
+81 EKN 2009-04-02, EKN:s garantigivning och ramutnyttjande. 
+
+och att behoven sannolikt var ännu större. Detta gjorde att EKN bedömde 
+att garantiramen om 350 miljarder kronor kunde vara fullt utnyttjad vid 
+utgången av 2009. Enligt intervju med handläggare vid UD har de inte 
+medverkat till att ta fram något ytterligare underlag för att beräkna behovet. 
+SEK:s upplåningsgarantiSEK har inte levererat något underlag som uppskattar hur stort 
+kreditbehovet var, endast att SEK kunde vara en del av lösningen för 
+exportindustrins behov av långfristig finansiering. SEK:s förslag var att 
+köpa statsgarantier utan beloppsbegränsning. Vd angav i e-post att 
+upplåningsbehovet var 200 miljarder kronor och att garantibeslutet skulle 
+täcka detta behov plus ytterligare lån. Enligt SEK framfördes förslaget i 
+vd:s samtal med näringsutskottets kanslichef. Siffran 450 miljarder kronor 
+fanns inte i underlaget från SEK.82 Av vår intervju med SEK respektive av 
+e-post till Finansdepartementet 2008-10-23 framgår inget om hur statens 
+risk bedömdes för dessa garantier eller hur eventuella framtida förluster 
+skulle behandlas. Enligt UD dimensionerades ramen för kreditgarantier 
+i utskottsbehandlingen med hänsyn till refinansiering av SEK:s samlade 
+balansomslutning (då 326 miljarder kronor) och ett bedömt behov av 
+ytterligare nyupplåning därutöver. 
+4.4 Regeringens bedömning och uppföljning av riskerna 
+4.4.1 Insättnings- och bankgarantinRegeringen har möjlighet att infordra underlag och rapporter eller tillsätta 
+utredningar för att öka precisionen i bedömningarna av risk och förväntad 
+kostnad för insättnings- och bankgarantierna. Finansdepartementet 
+framhåller att regeringen kontinuerligt har bevakat att garantivillkoren är 
+rimliga utifrån syftet att värna den finansiella stabiliteten. Löpande kontakter 
+(under den akuta krisen dagliga kontakter) har hållits med myndigheterna 
+(Finansinspektionen, Riksbanken, RGK) som bidragit med underlag om 
+kreditförsörjningen, marknadssituationen och bankernas situation.83 
+Det finns också ett regelbundet informationsutbyte genom det så kallade 
+stabilitetsrådet, vars uppgift bland annat är att bedöma den finansiella 
+stabiliteten och systemriskerna. Rådet består av den statssekreterare på 
+Finansdepartementet som har ansvar för finansmarknadsfrågor, en ledamot 
+82 Intervju med vd vid SEK 2009-07-03.83 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+
+av Riksbankens direktion, Finansinspektionens generaldirektör samt 
+riksgäldsdirektören. 
+Kontakter har även tagits med företrädare för svenska företag, t.ex. 
+Industrins Finansförening. Riksgäldskontoret har som stödmyndighet ett 
+särskilt nära samarbete med departementet. Bankgarantin har ändrats två 
+gånger sedan införandet. Sverige har aktivt försökt påverka EU i frågan 
+om prissättning inom en av Ekonomiska och Finansiella Kommittén (EFK) 
+särskilt inrättad task force.84 
+InsättningsgarantinUtvidgningen av insättningsgarantin i krisens akuta skede bedömdes 
+minska sannolikheten för en fördjupad finansiell kris och därmed bidra till 
+att reducera statens kostnader. ”Avgifterna i insättningsgarantisystemet är 
+riskbaserade enbart på institutets kapitaltäckningsgrad och speglar därför 
+sannolikt inte särskilt väl risken att ett enskilt institut ska fallera att betala 
+sina insättningar. Det går dock att konstatera att avgifterna på garanterade 
+insättningar hittills mer än väl har täckt de kostnader som har uppstått inom 
+ramen för insättningsgarantisystemet.” 85 
+BankgarantinFinansdepartementet menar att staten, oavsett garantiprogrammet, har ett 
+ansvar att värna den finansiella och samhällsekonomiska stabiliteten. En 
+systemviktig bank kan inte tillåtas att fallera och ställa in sina betalningar. De 
+riskbedömningar som gjordes handlar framför allt om risken för en allvarlig 
+störning av det finansiella systemet med påföljande realekonomiska effekter 
+om förtroendet på de finansiella marknaderna inte kunde återskapas. 
+”Beslutet att införa ett garantiprogram bygger på ett europeiskt 
+beslut av Europeiska Rådet att samtliga medlemsstater skulle införa 
+program för att värna den finansiella stabiliteten. Avgörande för 
+beslutet är en bedömning av kostnaden för ickeingripande och inte 
+en kostnadskalkyl för utfall inom programmet. När väl staten ingrep 
+med åtgärder och förtroendet återställdes minskade risken och 
+kostnaderna för skattebetalarna väsentligt.”... ”Prissättningen för 
+programmen följer i alla länder en modell framtagen av ECB.” 8684 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+85 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+86 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+
+Enligt Finansdepartementet gjordes ingen särskild bedömning av kostnaden 
+för bankgarantin. Departementet hänvisar till att denna typ av bedömningar 
+ingår i Insättningsgarantiutredningen87. I denna utredning görs en 
+beräkning av förväntad kostnad för insättningsgarantin på 0,1 procent av 
+det garanterade beloppet för samtliga inlåningsinstitut, således väsentligt 
+lägre än avgiftsnivån för bankgarantin som ligger mellan 0,5 och 0,8 procent. 
+”Beräkningen omfattar samma institut som ingår i garantiprogrammet och 
+går att använda som ett riktmärke.”.. ”De risk- och kostnadsbedömningar 
+som har gjorts har utförts i samarbete med Riksgäldskontoret. 
+Dokumentation finns bl.a. i den konsekvensanalys som har upprättats.”
+”Vid utformningen av programmet har utgångspunkten varit stabilitet 
+och kreditförsörjning och behovet av en fungerande finansiering för 
+bankerna för att upprätthålla detta. Ett ansvar som ligger på staten. 
+I och med att dessa åtgärder koordinerades inom EU finns en stor 
+mängd material avseende åtgärderna på denna nivå.”
+Finansdepartementet har vidare påpekat att ”bedömningen är att avgifterna 
+för garantiprogrammet överstiger en uppskattad ersättning för statens 
+ekonomiska risk och övriga kostnader för åtagandet. Under alla förhållanden 
+torde enligt stödlagen synnerliga skäl ha förelegat för att avvika från 
+budgetlagens bestämmelser.” 88 
+4.4.2 Exportkreditgarantier och upplåningsgarantinEn viktig fråga är om regeringen har infordrat underlag, rapporter eller 
+tillsatta utredningar för att öka precisionen i bedömningar av risk och 
+förväntad kostnad för exportgarantierna och exportkrediterna. 
+EKN:s återrapporteringI riksdagsbeslutet om den utökade garantiramen för EKN ställdes krav 
+på återrapportering till riksdagen. Varken beslutet i riksdagen eller det 
+följande regeringsbeslutet innehöll några specifika tidpunkter för detta. 
+UD meddelade efter överenskommelse med Finansdepartementet EKN tre 
+tidpunkter för återrapporteringen: 15 mars 2009, 10 augusti 2009 och 8 
+februari 2010. 89 Återrapportering har skett inom föreskriven tid.
+87 SOU 2005:16.88 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+89 Dessa krav på återrapportering framkom 2009-02-17 i e-post från UD till EKN.
+
+Följande formella återrapportering har skett från EKN:
+1. EKN 2008-12-30. Återrapportering i enlighet med regleringsbrevet 
+avseende utökat mandat.
+2. EKN 2009-02-12, dnr 2009-80015. Regeringsskrivelse 2009. Förslag om 
+att garantiramen 350 miljarder kronor ska gälla tills vidare.
+3. EKN 2009-03-03. Prognos för ramutnyttjande 2009-12-31som bedömts 
+till ett spann på mellan 200 och 330 miljarder kronor vid utgången av 
+2009.4. EKN 2009-04-27. EKN kvartalsrapport januari – mars 2009. Beskriver 
+utvecklingen av gjorda utfästelser, förbindelser, premieintäkter, 
+utestående betalningsdröjsmål, återvinningar samt avsättningar för 
+beräknad risk i engagemang. Dessutom redovisades ramutnyttjande och 
+bedömt utnyttjande i slutet av året.
+5. EKN 2009-07-24. EKN delårsrapport januari–juni 2009. Beskriver 
+utvecklingen i samma termer som delårsrapporten.
+Förutom dessa rapporteringstillfällen har en mängd informella kontakter och 
+annan rapportering haft stor betydelse. Såväl UD som Finansdepartementet 
+har representanter i EKN:s styrelse. Genom dessa har departementet 
+möjlighet att löpande få information om EKN:s utveckling. Under perioden 
+augusti 2008 till och med mars 2009 hade EKN styrelsemöte varje månad. 
+Dessutom har EKN:s generaldirektör samt chefen för finans och ekonomi 
+haft informella kontakter med såväl handläggare som statssekreterare i 
+samband med garantiramens utökande. 
+SEK rapporterar till RiksgäldskontoretSEK har vid två tillfällen, mars 2009 och augusti 2009 lämnat rapport till 
+RGK som underlag för återrapportering till regeringen. SEK:s rapportering 
+till RGK är upplagd enligt instruktionen och innehåller i huvudsak följande 
+information90:
+• Förändring av den totala kreditportföljen och bindande åtaganden. 
+Sammanställning av vissa genomförda transaktioner.
+• En övergripande bedömning av utvecklingen av kreditmarknadens 
+funktionssätt.
+• En bedömning av efterfrågan på krediter i närtid samt en bedömning 
+huruvida låneramen kan komma att utnyttjas.
+90 Källa: Rapportering från SEK till Riksgälden under perioden mars - oktober 2009. Intervju med 
+Lars Horneij, 2009-11-02.
+
+SEK har vid tre tillfällen lämnat en månatlig kortare rapport via e-post till 
+RGK. Detta har hittills under 2009 gjorts för augusti, september och oktober 
+med i huvudsak följande information:
+1. Kort information om SEK:s affärssituation innehållande utestående 
+belopp, accepterade men ej utbetalda krediter, för SEK bindande offerter, 
+förväntade accepter där kommersiellt kontrakt är tecknat, ansökningar 
+som troligen leder till offert. 
+Dessutom2. Förväntat utnyttjande av låneramen om låneramen förlängs.
+3. Förväntat utnyttjande av låneramen om låneramen inte förlängs.
+Under perioden september 2008 till oktober 2009 hölls cirka 20 
+styrelsemöten i SEK. Där behandlas löpande bland andra frågor SEK:s 
+principer för hantering av kreditrisker. Både UD och Finansdepartementet 
+har representanter i SEK:s styrelse. Därigenom har såväl UD som 
+Finansdepartementet möjlighet att löpande få information om SEK:s 
+utveckling. I samband med upprättandet av låneramen och beslutet 
+om kreditgarantin har SEK, enligt vd, i huvudsak haft kontakter med 
+statssekreterare vid UD samt chef och handläggare vid den ansvariga 
+enheten. 
+Statens risk för framtida kostnader för exportkreditgarantierUD har inte gjort egna beräkningar av statens risker utan hänvisar till 
+Finansdepartementet. Bedömningen av risker för exportkreditgarantier 
+anser UD vara baserad på EKN:s riskhanteringssystem och expertis, varvid 
+denna kärnkompetens ses som själva förutsättningen för EKN:s mandat och 
+uppdrag. 
+Andra typer av bedömningar gjordes i dialog med ett antal företag, 
+banker och andra departement inom Regeringskansliet avseende framför 
+allt riskerna med att inte vidta åtgärder. Trots den ökade risk som en utökad 
+statlig garantigivning medför, rådde det en politisk enighet kring vikten av 
+åtgärderna. Konsekvenserna av att inte vidta åtgärder bedömdes som en 
+större risk för staten.9191 UD/FIM. Promemoria 2009-09-28. Korta svar på Riksrevisionens frågor.
+
+4.5 Riksrevisionens iakttagelser om statens risker 
+Bankerna 
+Ramen för bankgarantin anpassades till högsta tänkbara nivå 
+Riksrevisionen konstaterar att den av regeringen beslutade ramen för 
+bankgarantin, anpassats till den nivå som maximalt skulle kunna bli aktuell 
+enligt bestämmelserna i förordningen om statliga garantier till banker. 
+Ingen bedömning gjordes av kostnaden för bankgarantinNågon bedömning av kostnaden för bankgarantin gjordes inte. 
+Finansdepartementet framhåller att avgörande för beslutet var en 
+bedömning av kostnaden för ickeingripande och inte en kostnadskalkyl 
+för utfall inom programmet. ”Detta särskilt eftersom det under den korta 
+tidsperiod som stod till förfogande för programmets framtagande och den 
+osäkerhet som rådde om den framtida situationen inte var möjligt att med 
+någon rimlig säkerhet uppskatta kostnaderna. När väl staten ingrep med 
+åtgärder och förtroendet återställdes minskade risken och kostnaderna för 
+skattebetalarna väsentligt.” 
+Att bankstödet utgår i form av garantier utgör inget skäl för 
+regeringen att avstå från att bedöma de framtida kostnaderna för 
+stödet. Det kan också konstateras att denna typ av bedömningar 
+ingår i Insättningsgarantiutredningen och numera även i RGK:s 
+kvartalsrapportering. 
+Först i september 2009 gjordes en formell beräkning av statens risker för 
+bankgarantinRGK medverkade inte i någon formell beräkning av statens risk för 
+förluster då bankernas garantiprogram utformades i december 2008. RGK 
+gjorde först i september 2009 en beräkning av kostnader och intäkter för 
+bankgarantin. Beräkningen visade på en förväntad nettointäkt. RGK påpekar 
+dock att ”denna beräkning döljer det faktum att mycket stora negativa utfall 
+kan uppstå med liten sannolikhet, medan systemet i de flesta utfall inte 
+drabbas av några förluster över huvud taget”. ”Beräkningen av förväntad 
+kostnad är i första hand illustrativ. Den är också i högsta grad teoretisk i den 
+meningen att konkurser inte kommer att tillåtas inträffa”.92 
+RGK framhåller vidare att man i oktober 2008 bedömde att 
+bankgarantins avgifter mer än väl täckte statens förväntade kostnader, en 
+bedömning som delgavs Finansdepartementet. Under första halvåret var det 
+92 Riksgäldens åtgärder för att stärka stabiliteten i det finansiella systemet (2009:K3).
+
+svårt att göra en meningsfull bedömning om vad det slutliga utfallet skulle 
+bli för garantin eftersom det var svårt att bedöma vilka institut som avsåg 
+att delta, och i vilken grad bankerna skulle utnyttja systemet samt till vilka 
+löptider. 
+Statens långsiktiga kostnader ska hållas lågaStatens långsiktiga kostnader för stödet ska hållas låga. Stödlagen innehåller 
+krav93 på att statens långsiktiga kostnader för stödet ska hållas så låga 
+som möjligt. Finansdepartementet anser 94 att kravet är att se som en 
+riktningsangivelse att beakta vid politiska överväganden och beslut om 
+stöd. Detta krav säkerställs enligt departementet ”framför allt genom 
+utformningen av de statliga stödåtgärder som vidtas där stödet och dess 
+ändamål måste ses som en helhet. Framför allt måste stödet utformas så 
+att de samhällsekonomiska kostnaderna av den finansiella krisen begränsas. 
+Stödet bör samtidigt vara så statsfinansiellt kostnadseffektivt som möjligt.” 
+Enligt Riksrevisionens bedömning torde lagens formulering ”statens 
+långsiktiga kostnader för stödet ska hållas så låga som möjligt” syfta på de 
+kostnader staten haft eller kan få för stödet och inte på något slags netto av 
+samhällsekonomiska förluster. Riksrevisionens tolkning av formuleringen 
+i lagen är att kostnaden för det statliga stödet, på lång sikt, ska vara så 
+låg som möjligt, förutsatt att negativa samhällsekonomiska konsekvenser 
+undviks genom stödet. Det finns därför goda skäl att beräkna risk och 
+förväntad kostnad för bankgarantin, liksom det finns anledning att utforma 
+processer för att löpande hantera, följa upp och avveckla garantierna. 
+Exportindustrin 
+För exportkrediter och exportkreditgarantierna finns krediter i 
+RiksgäldskontoretDet kan uppstå situationer där stora förluster uppstår och tillgången till 
+eget kapital hos EKN och SEK inte täcker förlusterna. Samtidigt behöver 
+exportföretagen tillgång till långfristiga krediter vilket kräver garantier. EKN 
+har därför försetts med en obegränsad kredit i RGK sedan 199795 medan SEK 
+sedan senhösten 2008 har möjlighet att utnyttja en låneram i RGK om 100 
+miljarder kronor. 
+93 2 kap. 2 §.
+94 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet. 
+95 Infördes 1997 i samband med att garantimodellen beslöts. Tanken var att EKN ska kunna täcka 
+eventuella tillfälliga underskott och betala tillbaka med ränta. Denna låneram förnyas årligen i 
+regleringsbrevet och är inte kopplad till att finanskrisen inträffade. 
+
+Ramarna för EKN och SEK grundades endast delvis på beräkningarEKN redovisade hösten 2008 till UD indikationer på exportaffärer som 
+maximalt indikerade ett behov av en garantiram i den storleksordning 
+som sedan beslutades. Ramen för SEK:s upplåningsgaranti framkom 
+hösten 2008 till stor del utan beräkningar och delvis genom 
+informella underlag. Till del vilar den på relativt lösa uppskattningar av 
+exportindustrins behov och uppskattningar genom informella underlag. 
+Enligt ärendedokumentationen har uppskattningarna av behoven inte 
+varit föremål för beredning inom Regeringskansliet. UD framhåller dock 
+att ett stort antal underhandskontakter ägde rum inför beslutet. Vad gäller 
+SEK:s upplåningsgaranti fanns en beräkning först sedan riksdagen begärt 
+kompletterande underlag, eftersom den obegränsade ram som regeringen 
+föreslog i propositionen inte godtogs. 
+Ingen bedömning gjordes av riskerna med exportkreditgarantierna då 
+regeringen fattade beslutenIngen dokumenterad bedömning gjordes av statens risker i beredningen 
+av beslutet om exportkreditgarantier vid Regeringskansliet under 
+november–december 2008. Vi har inte i granskningen funnit några 
+överväganden om hur utnyttjande av garantiramarna skulle följas 
+upp eller vilka återrapporteringskrav som borde ställas på ansvariga 
+myndigheter och bolag. Detta kan i viss mån förklaras av den extremt 
+snabba processen för beredningen i Regeringskansliet, framtagandet av 
+proposition, utskottsberedningen i riksdagen, riksdagsbeslutet och slutligen 
+regeringsbeslutet. 
+Vi har inte heller funnit att Utrikes- eller Finansdepartementen efter 
+de avgörande besluten har gjort ansatser för att bedöma statens risker 
+med dessa åtaganden, annat än att följa rapporteringen från ansvariga 
+myndigheter. Följaktligen har regeringen under tre kvartal då stor osäkerhet 
+rådde om krisens förlopp inte haft en samlad bild av tänkbara risker 
+för olika utvecklingsalternativ. Vi noterar också att de första kraven på 
+återrapportering framfördes av Finans- och Utrikesdepartementen först i 
+mitten av februari 2009 och att de då främst gällde utnyttjande av ramen för 
+exportkreditgarantier. 
+UD har i huvudsak förlitat sig på EKN:s rutiner och informella rapporteringUD menar att bedömning av statens risk ska göras av EKN och 
+inte av regeringen: ”Regeringens bedömning är baserad på EKN:s 
+riskhanteringssystem. Myndighetens verksamhet är främst att bedöma 
+denna risk och denna kärnkompetens är själva grundförutsättningen för 
+EKN:s ansvar.”96 
+96 UD/FIM. Promemoria 2009-09-28. Korta svar på Riksrevisionens frågor.
+
+De formella kvartals- och delårsrapporterna ger en bild av 
+gjorda utfästelser, återvinningar och reserveringar för förlustrisk. 
+Dessutom får Utrikes- och Finansdepartementen löpande genom 
+sin styrelserepresentation information om garantiverksamheten och 
+myndighetens kapitaltäckning. 
+Regeringen har också genom föreskrift i EKN:s instruktion säkerställt 
+en form av ”early warning” om oförutsedda förluster skulle uppstå som 
+myndigheten inte kan hantera genom sin riskreservation. I regleringsbrevet 
+för 2009 framgår att EKN snarast ska meddela regeringen, om myndigheten 
+bedömer att målet att nå ett balanserat ekonomiskt resultat på sikt inte kan 
+uppfyllas. 
+SEK:s rapportering till Riksgäldskontoret ger inget underlag för att bedöma 
+statens risk.
+SEK har vid två tillfällen under 2009 lämnat rapport till RGK som underlag 
+för återrapportering till regeringen. SEK har även vid tre tillfällen lämnat 
+en kortare rapport till RGK. Rapporteringen ger en översiktlig bild av SEK:s 
+affärssituation men är otillräcklig som underlag för en bedömning av vilken 
+kreditrisk som SEK skulle utgöra för RGK i händelse av att låneramen 
+utnyttjas. Enligt SEK har syftet endast varit att visa hur låneramen utnyttjats 
+och till vilka ändamål. ”RGK har inte efterfrågat underlag för bedömning av 
+vilken kreditrisk SEK innebär.” 97 
+Utöver ovan nämnda information innehåller rapporteringen ingen 
+information om SEK:s finansiella situation eller SEK:s kreditportfölj. Det 
+finns således utifrån denna rapportering ingen möjlighet för RGK att bedöma 
+de risker som är förenade med upplåningsgarantin eller i förlängningen ett 
+utnyttjande av låneramen. Om låneramen eller upplåningsgarantin kommer 
+att utnyttjas måste rapporteringen kompletteras för att de ekonomiska 
+riskerna ska kunna bedömas. 
+Gemensamt för garantierna 
+Det saknas en enhetlig värdering av riskerna i statens portfölj 
+Vi konstaterar att RGK i sitt underlag till årsredovisning98 för staten 2008 
+avseende statliga garantier och krediter framhåller att det saknas en djupare 
+analys av statens samlade risker i garanti- och kreditgivningen och att detta 
+delvis beror på att det saknas en enhetlig värdering av riskerna i statens 
+portfölj. 
+97 AB SEK:s yttrande till Riksrevisionen 2009-11-20.98 Underlag till årsredovisning för staten 2008 avseende statliga garantier och krediter. 
+Dnr 2009/500.
+
+RGK hade för avsikt att under 2008, i samråd med övriga 
+garantimyndigheter, undersöka möjligheten att ta fram verktyg för att också 
+mäta sannolikheten för riktigt stora förluster och att mäta den förväntade 
+och oförväntade förlusten . Detta arbete har enligt RGK nedprioriterats till 
+följd av den pågående finansiella turbulensen. 
+4.6 Sammanfattande iakttagelser och slutsatser 
+Insättnings- och bankgarantierna• Insättningsgarantin förändrades och bankgarantin infördes under stark 
+tidspress.
+• Utvidgningen av insättningsgarantin i krisens akuta skede bedömdes 
+minska sannolikheten för en fördjupad finansiell kris och därmed bidra 
+till att reducera statens kostnader. 
+• Beslutet om bankgarantin vilade på en bedömning av kostnaden för att 
+inte ingripa och inte en kostnadsberäkning för garantin. Först 
+i september 2009 gjordes ett försök att beräkna statens risker för 
+bankgarantierna.
+• Ramen för bankgarantin anpassades till högsta tänkbara nivå, för att 
+skapa förtroende på marknaden. 
+• Fortfarande saknas en samlad bild av kostnaderna för bank- och 
+insättningsgarantierna. 
+Exportgarantier• Det finns krediter i RGK för att hantera en situation där stora förluster 
+uppstår och tillgången till eget kapital hos EKN och SEK inte täcker 
+förluster. 
+• Garantiramarna för EKN och SEK bestämdes endast delvis på 
+välgrundade beräkningar.
+• Ingen bedömning hade gjorts av kostnaden för exportkreditgarantierna 
+då regeringen fattade besluten.
+• UD har litat till EKN:s rutiner och informella rapportering.
+• SEK:s rapportering till Riksgäldskontoret ger inget underlag för att 
+bedöma statens ekonomiska risk. 
+Slutsatser om bedömningar av statens risker för framtida kostnader• Beräkningar av risken för statens framtida kostnader saknades 
+i huvudsak i december 2008 när regeringen begärde riksdagens 
+bemyndiganden för de mycket omfattande garantiåtagandena. 
+• Regeringen har under det år som gått inte vidtagit tillräckliga åtgärder 
+för att få en samlad bild av de risker som staten genom garantierna 
+formellt övertagit från banker och andra företag för flera år framåt. 
+
+5 Riksdagens underlag och kontrollI detta avsnitt behandlas regeringens återrapportering till riksdagen.
+5.1 Krav på återrapporteringInför beslut om stabilitetsstärkande åtgärder för det finansiella systemet 
+uttalade finansutskottet vilka krav som ställdes på återrapportering till 
+riksdagen.99 Utskottet ansåg att det var av stor vikt att finansutskottet 
+och riksdagen fortlöpande får utförlig information om de åtgärder som 
+vidtas med stöd av föreslagen lagstiftning. Ett bemyndigande om icke 
+beloppsbegränsad kredit i RGK, som enligt den föreslagna lagen får 
+användas för att vid behov täcka statens utgifter för stöd, ställer stora 
+krav på återrapportering om konsekvenser av de vidtagna åtgärderna. 
+Utskottet ville särskilt framhålla att återrapportering ska ske när statliga 
+stödåtaganden måste infrias. 
+I näringsutskottets betänkande i december 2008 om åtgärder för 
+förstärkt exportfinansiering angavs kortfattat kravet på regeringens 
+återrapportering.100 Regeringen borde enligt utskottet återkomma under 
+våren 2009 till riksdagen med en redovisning av hur exportfinansieringen 
+utvecklas, hur låneramen respektive kreditramarna utnyttjats och hur detta 
+påverkat marknaden. 
+Den återrapportering som utskotten begärt förutsätter att regeringen 
+ordnat uppföljning och rapportering så att redovisningen sker på likartat 
+sätt för samtliga garantiprogram. Regeringens uppföljning behöver i så fall 
+ordnas för att löpande och samordnat följa upp såväl utnyttjande av ställda 
+garantiramar som hur dessa påverkat respektive marknad. 
+I samband med RGK:s rapport ”Förutsättningar för en effektivare 
+hantering av statens risktagande genom garantier” uttalade sig 
+Konjunkturinstitutet om behov av samordnad riskredovisning.101 Av 
+kommentaren framgår att en samordningsfunktion skulle ha syftet att 
+utveckla en samlad riskredovisning för statens portfölj av garantier.” I 
+perspektivet av en latent statsskuld är det angeläget att få en uppfattning om 
+storleken på de totala garantiåtagandena för att möjliggöra en riskanalys.” 
+99 Betänkande 2008/09:FiU16, s. 21.100 Betänkande 2008/09:NU12, s. 11.101 Dnr Fi 2001/2871.
+
+Som rapporten nämner så är statens utgifter för garantiåtaganden troligen i 
+hög grad konjunkturberoende och ”risken för större utgifter kan vara hög då 
+statsbudgeten redan är hårt ansatt”. 
+Även Finanspolitiska rådet har efterlyst en fördjupad analys av de risker 
+som statens ökade utlåning och olika garantiåtaganden innebär. ”En sådan 
+riskanalys är i högsta grad relevant i den situation som uppstått. Någon 
+sådan fördjupning har inte gjorts i budgetpropositionen.” 102 
+5.1.1 BankgarantiernaFinansdepartementet framhåller att garantiprogrammet beskrevs 
+översiktligt i den proposition som lämnades vid införandet av stödlagen 
+”Stabilitetsstärkande åtgärder för det svenska finansiella systemet” 103. 
+I vårpropositionen 2009104 finns en redovisning av de garantier som 
+regeringen beslutat om. I propositionen ”Ändring av täckningsbeloppet för 
+insättningsgarantin” 105 redogörs för en justering av det högsta belopp som 
+kan betalas ut till en insättare i ett institut. Även i budgetpropositionen för 
+2010 redovisas uppgifter om de garantier som regeringen beslutat om. 
+I vårpropositionen 2009 summerar regeringen bedömningen av statens 
+garantiåtaganden på följande sätt: 
+”Sammantaget uppgår de vidtagna åtgärderna till betydande belopp. 
+Även om de flesta åtgärderna inte medför någon direkt kostnad för 
+staten finns en risk att de på sikt kan komma att försämra det finansiella 
+sparandet och budgetsaldot. Det är emellertid inte möjligt att i dagsläget 
+uppskatta hur mycket de vidtagna åtgärderna i slutändan kommer 
+att påverka statens finanser. Dessa risker och kostnader måste dock 
+jämföras med de statsfinansiella och samhällsekonomiska kostnader 
+som skulle kunna uppstå om åtgärder inte vidtogs.” 
+Finansdepartementet framhåller att regeringen har återrapporterat 
+om lämnade garantier i de angivna propositionerna. Vidare anges 
+att ”Finansmarknadsministern har varit inne på dessa frågor vid sina 
+besök i FiU, framförallt har han fått svara på frågor om anslutning till 
+garantiprogrammet och utnyttjandegraden. Dock har det i första hand 
+handlat om bedömningar och värderingar. Utskottet har varit underrättat på 
+annat sätt om vilka som anslutit sig och hur mycket programmet använts.” 
+Frågorna har mest handlat om varför inte alla fyra storbanker är med och 
+102 Finanspolitiska rådet. Kommentarer till budgetpropositionen för 2010, 2009-10-19.103 Prop. 2008/09:61.104 Prop. 2008/09:100, s. 38–42.105 Prop. 2008/09:186.
+
+varför avgifterna ser ut som de gör.106 Även finansministern har varit på 
+besök i utskottet flera gånger. 
+Enligt OH-material som Riksrevisionen tagit del av redovisade 
+finansmarknadsministern i oktober 2008 för utskottet hur skattebetalarnas 
+intressen värnas genom regeringens förslag. Han nämnde då att 
+garantisystemet har full finansiering via avgifter och fondering för att klara 
+framtida kostnader för kapitaltillskott. Dessutom hade uppdrag givits till 
+Finansinspektionen att bevaka effekterna av bankstödet för konsumenterna 
+samt att systemet innehåller restriktioner för löner och bonus till bankernas 
+ledning. Även generaldirektören för RGK har varit i Finansutskottet vid ett 
+par tillfällen. Finansutskottet har även besökt RGK. 
+På frågan hur riksdagens krav på ”utförlig beskrivning” av ”ekonomiska 
+konsekvenser” tillgodosetts framhåller Finansdepartementet följande: ”Detta 
+är vad som gäller för redovisningen, se t.ex. i budgetpropositionen. Om 
+riksdagen/utskottet önskar ytterligare information så bör detta påpekas av 
+riksdagen/ utskottet. Någon annan normering finns inte”.1075.1.2 Garantier inom exportenÅterrapportering till riksdagen av exportkreditgarantier har gjorts i 
+vedertagna former (propositioner). ”I regeringsbeslutet 2009-02-25 fick RGK 
+i uppdrag att redovisa hur kreditramen har utnyttjats, exportfinansieringen 
+utvecklats och hur regeringens åtgärder påverkat kreditmarknaden, baserat 
+på underlag från SEK. I beslutet framgick att redovisningen ska lämnas till 
+Finansdepartementet den 15 mars och den 10 augusti samt 8 februari 2010. 
+I 2009 års ekonomiska vårproposition beskrivs de insatser som vidtagits för 
+att säkra kreditgivningen till företag. I budgetpropositionen för 2010 görs 
+en motsvarande redovisning på sidorna 283 - 286 (volym 1) samt vad gäller 
+förlängd låneram sid 101 (volym 11). Motsvarande redovisningar planeras 
+under 2010. UD har vidarebefordrat information till Finansdepartementet för 
+vidare redovisning i samband med budgetprocessen under vår och höst.” 108 
+Statssekreteraren vid UD besökte Näringsutskottet 2009-11-24 för 
+avrapportering om garantierna inom exportområdet. En PM sammanställdes 
+och överlämnades före mötet. Denna PM innehåller garantiernas 
+bedömda effekter, utnyttjande av ramarna inklusive en prognos, läget i 
+skaderegleringen samt en bedömning av potentiella skadeutfall.109106 Finansmarknadsministern har varit i utskottet 23 oktober 2008, 28 oktober 2008, 
+20 november 2008, 19 februari 2009, 26 mars 2009 och 8 juni 2009 med finansministern.
+107 Finansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens frågor om 
+garantiprogrammet.
+108 P UD/FIM. Promemoria 2009-09-28. Korta svar på Riksrevisionens frågor.
+109 UD. 2009-11-19. Underlag till Näringsutskottet inför besök av ss Gunnar Wieslander den 
+24 november 2009.
+
+5.2 Beräkningar av statens ekonomiska riskDe beräkningar och bedömningar som här kortfattat redovisas bygger på ett 
+arbetspapper av professor Clas Bergström. Arbetspappret kan ha ett vidare 
+intresse än vårt begränsade syfte att granska bedömningar av statens risk 
+med garantiprogrammen och återfinns därför i sin helhet som bilaga 2.5.2.1 IMF uppskattade kostnaden för bankstödet till 127 miljarder kronor 
+Den internationella valutafonden (IMF) uppskattade våren 2009 de 
+statsfinansiella effekterna av olika länders stödprogram för de finansiella 
+marknaderna.110 Det är värt att notera att insättningsgarantin som nu utökats 
+till att omfatta fler konton och ett högre belopp inte finns med bland de 
+stödåtgärder IMF analyserar. Garantiåtaganden i insättarskyddet uppgår 
+förmodligen till cirka 740-1000 miljarder kronor (se avsnitt 2.3). Stödet till 
+exportindustrin, små och medelstora företag och fordonsindustrin ingår 
+inte heller i IMF-studien som fokuserar på åtgärder riktade direkt mot de 
+finansiella marknaderna. 111 
+IMF beräknade att kostnaderna för de svenska stödåtgärderna kan 
+förväntas uppgå till 7,7 procent av BNP, motsvarande cirka 250 miljarder 
+kronor. De direkta kostnaderna för stödåtgärderna beräknade IMF till 2,2 
+procent av BNP. De förväntade nettokostnaderna för garantierna bedöms 
+vara 4 procent av BNP och kostnaden för att tillhandahålla likviditet till den 
+finansiella sektorn skattas till 1,5 procent av BNP. IMF:s beräkningar pekar 
+alltså på att stödåtgärderna kan få betydande effekter för statsfinanserna. 
+Den förväntade kostnaden för de svenska stödåtgärderna är betydligt 
+högre än den genomsnittliga köpkraftsvägda kostnaden för G20- länderna. 
+Enligt IMF-studien är det bara USA, England och Irland som har en högre 
+förväntad kostnad för statliga krisåtgärder än Sverige. 
+5.2.2 RGK anser att statens reella åtagande inte ökatRGK menar att införandet av garantiprogrammet, med undantag för 
+garantier till mindre institut, i realiteten inte ökade statens kostnader. 
+Garantiprogrammet snarare formaliserar statens implicita åtaganden. 
+110 International Monetary Fund Companion paper. The state of public finances: Outlook and 
+mediumterm policies after the 2008 crisis. 
+111 Svensk Exportkredits (SEK) kapitalbas förstärktes med 3 miljarder kronor i nytt eget kapital och 
+aktier i ett statligt bolag värda 2,4 miljarder kronor och företaget har också fått möjlighet att 
+inom en ram på 100 miljarder kronor ta upp lån i Riksgälden. Riksdagen har även bemyndigat 
+regeringen att ge SEK möjlighet att på kommersiella villkor köpa statsgarantier för refinansiering 
+och nyupplåning upp till 450 miljarder kronor. En ytterligare förstärkning av exportfinansiering 
+skedde i december 2008 då EKN:s garantiram utökades till 350 miljarder kronor.
+
+RGK betonar att statens reella exponering gentemot det svenska 
+banksystemet vare sig är begränsad till de faktiskt utställda garantierna eller 
+till det maximala garantibeloppet 1 500 miljarder kronor. Med eller utan 
+formella bankgarantier menar RGK att staten måste förhindra konkurser i 
+systemviktiga banker, det vill säga konkurser som kan äventyra stabiliteten 
+i det finansiella systemet som helhet. Endast i det fall garantier ställs ut till 
+institut som inte kan anses systemviktiga tar staten på sig en ökad risk. 
+5.3 Riksrevisionens iakttagelser om återrapportering till 
+riksdagen 
+Regeringen har inte redovisat vilka förluster som kan uppkomma för 
+bankgarantiernaEnligt Riksrevisionen har regeringen till riksdagen 
+• redovisat utfärdade bankgarantier.
+• inte redovisat oförväntade förluster. 
+Vad gäller oförväntade förluster anser RGK att det är ”tämligen svårt 
+att redovisa oförväntad förlust för bank- och insättningsgarantierna 
+på ett meningsfullt sätt då dessa system har en svårdefinierad 
+sannolikhetsfördelning. Man kan genomföra stresstest, men det är mycket 
+svårt, för att inte säga omöjligt, att åsätta dessa scenarier en sannolikhet. 
+Vi avråder därför från att införa sådana krav.” RGK har emellertid angett 
+i sitt underlag till årsredovisning för staten 2008, att man vill undersöka 
+möjligheten att på sikt ta fram verktyg för att också bedöma oförväntade 
+förluster (se avsnitt 4 ovan). 
+Finansdepartementet skriver i vårpropositionen 2009 att det inte 
+är möjligt att i dagsläget uppskatta hur mycket de vidtagna åtgärderna i 
+slutänden kommer att påverka statens finanser. I budgetpropositionen 
+för 2010 gör regeringen den övergripande bedömningen att det stabilare 
+ekonomiska läget påtagligt har minskat risken för de offentliga finanserna.112 
+Finansmarknadsministern har redovisat de restriktioner som ska säkerställa 
+skattebetalarnas intressen för Finansutskottet. Riksrevisionen anser att 
+det dessutom finns ett behov av att få en uppskattning av de ekonomiska 
+riskerna för staten och skattebetalarna till följd av de utfärdade garantierna.. 
+112 Prop. 2009/10:1, sida 23. ”Det något stabilare ekonomiska läget, med en minskad risk för en 
+ännu sämre konjunkturutveckling och en väsentlig förbättring på finansmarknaderna, har 
+påtagligt minskat risken avseende de offentliga finanserna.” 
+
+Risken för förluster har beräknats av internationella valutafonden(IMF) och 
+av rgk – med väsentligt olika resultatEn avgörande skillnad mellan IMF:s beräkning och Riksgäldens 
+bedömning av den förväntade kostnaden för bankgarantin är den 
+antagna exponeringen. Det maximala belopp som kan garanteras i ett 
+individuellt institut är summan av förfallande skuldförbindelser under den 
+period garantiprogrammet löper. Summan av dessa skuldförbidelser för 
+kvalificerade institut begränsas till 1 500 miljarder kronor. IMF utgår från 
+att det är det samlade programmet om 1 500 miljarder kronor som utgör 
+exponeringen. RGK å andra sidan antar att bruttoexponeringen är de vid 
+beräkningstillfället i systemet utställda garantierna per institut. Den totala 
+volymen utställda garantier uppgick till 308 miljarder kronor per den 30 
+september 2009. RGK:s beräkningar utgår från att inga nya aktörer ansluter 
+sig till systemet och att inga fler garantier ställs ut. Man antar också att nu 
+garanterade lån hålls tills de förfaller. Samtidigt framgår det inte av RGK:s 
+beräkningar att mycket stora negativa utfall kan uppstå om än med liten 
+sannolikhet. Storleken på sådana oförväntade kostnader redovisas inte alls. 
+BruttoexponeringFörväntad kostnad 
+efter återvinning, %
+Miljarder kronorIMF1 5008,47 %127Riksgälden3080,37 %1,1
+
+Den avgörande skillnaden i de två bedömningarna är konkurssannolikheten. 
+Konkurssannolikheten ökar med löptiden på garantierna. I RGK:s 
+beräkningar beaktades löptidsstrukturen hos de utställda garantierna 
+medan IMF antar att löptiden för samtliga garantier är 5 år. Att det 
+antagandet är helt avgörande för kalkylerna illustreras av att en storbanks 
+konkurssannolikhet på tre års sikt kan vara nästan 10 gånger större än 
+sannolikheten att banken ställer in betalningarna under det närmaste 
+året. Eftersom huvuddelen av garantierna har en löptid på mindre än 3 
+år överskattar IMF de förväntade kostnaderna väsentligt. Ytterligare en 
+viktig faktor är att IMF:s beräkning av konkurssannolikhet innefattar inte 
+endast den förväntade konkurssannolikheten utan också en riskpremie, 
+medan RGK:s kalkyl bygger på ”rena” konkurssannolikheter. IMF har alltså 
+sannolikt överskattat de förväntade kostnaderna för garantisystemet. En 
+beräkning av ett ”worst case”-scenario som RGK har gjort och stämt av 
+mot Riksbankens stresstester av bankernas kapitaltäckningsförmåga styrker 
+denna bedömning.
+
+Det saknas en bild av risken för förluster i exportkreditgarantiernaEnligt Riksrevisionen har regeringen till riksdagen 
+• redovisat utnyttjad garantiram för exportkreditgarantier,
+• redovisat en budget för garantiansvariga myndigheter 2010 som innebär 
+att EKN:s verksamhet även detta år leder till ett överskott sedan förluster 
+och kostnader dragits av från premieintäkterna.
+Vi har tidigare (se avsnitt 4.3.2) kommenterat SEK:s rapportering till RGK. 
+Vår bedömning är att det utifrån denna rapportering inte finns möjlighet 
+för RGK eller regeringen att bedöma de risker som är förenade med 
+kreditgarantin eller i förlängningen med ett utnyttjande av låneramen. 
+Vad gäller exportkreditgarantier, vars ram successivt utökats till 
+(av regeringen föreslagna) 500 miljarder kronor, innehöll regeringens 
+rapportering till riksdagen113 tidigare en mycket kortfattad bedömning med 
+den underförstådda innebörden att EKN:s reservationer för risker i sina 
+engagemang kommer att täckas av premier. Regeringen har emellertid 
+för 2010 föreslagit riksdagen ett bemyndigande att ge EKN obegränsad 
+upplåningsrätt i RGK för skadeutbetalningar. Den i avsnitt 5.2.2 nämnda 
+avrapporteringen till Näringsutskottet i november 2009 är fylligare och 
+inkluderar en bedömning av att sannolikheten kan ”vara mycket liten” för 
+att EKN inte kan återbetala eventuella tillfälliga lån hos RGK för att täcka 
+tillfälliga underskott. 
+EKN redovisar löpande reserveringsbehov för förväntade och 
+oförväntade förluster i sina bokslut. Det som främst saknas i regeringens 
+återrapportering är en bild av de risker för förluster som statens 
+engagemang skapar för åtskilliga år framåt. UD menar att denna bild vad 
+gäller exportområdet de facto är EKN:s avsatta riskreservering för förväntade 
+och oförväntade förluster, varvid myndighetens likvida medel utgör en 
+skattning av kostnad för skadeutbetalningar. 
+Vår bedömning är emellertid att riskreserveringarna utgör beräkningar 
+efter riskbedömning och historiska data. Skadeutbetalningar är något som 
+inträffar för garantier som lämnats för åtskilliga år sedan. Vad som bör 
+återrapporteras löpande är förändringar i bedömd förlustrisk i den stora 
+stock av garantier som byggts upp under det senaste året. Detta är särskilt 
+relevant i en sådan situation som rådde våren 2009, där få empiriska data 
+kunde ge information om den kommande utvecklingen. 
+113 Budgetpropositionen för 2010. Prop. 2009/10:1.
+
+Regeringen har beslutat utvärdera stödåtgärderna – men inte inkluderat 
+risken för förlusterRegeringen beslutade i oktober 2009 att ge RGK i uppdrag att utvärdera 
+regeringens stödåtgärder med avseende på kreditförsörjningen.114 Uppdraget 
+innefattar samtliga stödåtgärder, såsom garantier, kapitaltillskott, låneramar 
+och verksamhetsändringar i bolagsordning med mera. Uppdraget omfattar 
+en analys av effekterna av stöd och garantiprogram samt en översiktlig 
+plan för hur en avveckling av de olika stödåtgärderna ska gå till. RGK:s 
+utvärdering ska lämnas senast den 31 januari 2010. I uppdraget ingår 
+emellertid inte att redovisa en bedömning av statens risk för förluster. 
+5.4 Sammanfattande iakttagelser och slutsatser 
+Bankgarantier• Regeringen har först hösten 2009 genom RGK redovisat en kalkyl över 
+förväntade förluster för bankgarantin men inte för insättningsgarantin. 
+• RGK anser att statens reella åtagande inte ökat. 
+Exportkreditgarantier• Det saknas en utförlig bedömning av statens risk för förluster i 
+exportkreditgarantierna. 
+Beräkning och rapportering av statens risk• Risken för förluster har beräknats av Internationella valutafonden och av 
+RGK med väsentligt olika resultat.
+• Regeringen har beslutat utvärdera stödåtgärderna. I uppdraget ingår 
+dock inte att bedöma risken för förluster.
+• Det saknas en samlad bild av riskerna i statens totala garantiportfölj. 
+RGK hade planerat ett utvecklingsarbete kring riskerna i statens garantier 
+i samråd med övriga garantimyndigheter under 2008, men det 
+prioriterades ned i samband med den finansiella turbulensen. 
+Slutsatser om regeringens återrapportering till riksdagen• Regeringen har inte lämnat en samlad och tydlig återrapportering till 
+riksdagen. Risken för större utgifter kan vara hög då statsbudgeten 
+redan är hårt ansatt. Statens risker för ytterligare utgifter bör uppskattas 
+och redovisas.
+114 Regeringsbeslut Fi2009/7033. Ändring av regleringsbrev för budgetåret 2009 avseende 
+Riksgäldskontoret.
+
+6 Slutsatser och rekommendationerRegeringen har, tillsammans med Riksbanken, det övergripande ansvaret 
+för hanteringen av krisen. Ett centralt inslag i regeringens krisåtgärder 
+är de mycket omfattande garantier som utfärdats för lån till banker 
+och exportföretag. De garantiåtaganden som riksdagen bemyndigat 
+regeringen är större än Sveriges bruttonationalprodukt och mer än fyra 
+gånger så stora som de statliga utgifterna. Garantierna innebär att staten 
+och skattebetalarna i stor omfattning övertagit ekonomiska risker från 
+banker och exportföretag. Ett infriande av garantiåtagandena kan medföra 
+betydande effekter på de statliga finanserna. Även om det nu finns tecken 
+på att kreditkrisen klingar av, kvarstår det statliga garantiåtagandet flera år 
+framåt i tiden om än i minskande omfattning. 
+Riksrevisionens granskning av de statliga garantierna har inriktats 
+mot garantivillkoren, underlaget för bedömningar av den ekonomiska 
+risken för staten och skattebetalarna, samt återrapportering till riksdagen. 
+Granskningen avser regeringens hantering av dessa frågor. 
+Det bör framhållas att Riksrevisionens granskning inte avser effekterna 
+av de statliga garantierna på den finansiella sektorn eller samhällsekonomin 
+i stort. 
+6.1 Slutsatser6.1.1 GarantivillkorenAvgifterna för bank- och insättningsgarantin täcker sannolikt de förväntade 
+kostnaderna för staten. De villkor och begränsningar som regeringen infört 
+bidrar till att kunna hålla nere utgifterna och öka möjligheten till återvinning 
+vid eventuella förluster. 
+Vad gäller garantierna för exportkrediter och upplåning för exportkrediter 
+motsvarar de garantivillkor och den prissättning som tillämpas av 
+Exportkreditnämnden (EKN) och AB Svensk Exportkredit (SEK) den risk 
+som staten påtar sig genom garantierna. De processer som finns vid 
+myndigheten och bolaget för att bedöma risker och säkerställa tillräcklig 
+fondering för att täcka eventuella förluster fungerar väl. En mer utdragen 
+lågkonjunktur kan emellertid allvarligt försämra såväl EKN:s som SEK:s 
+resultat. 
+
+Riksrevisionens bedömning är sammantaget att villkoren för garantierna 
+bidrar till att hålla ner statens kostnader för garantierna och ökar möjligheten 
+till återvinning.
+6.1.2 Underlag för bedömning av statens risk för framtida kostnaderRiksrevisionen kan konstatera att det saknades en samlad bedömning av 
+statens ekonomiska risk när regeringen begärde riksdagens bemyndiganden 
+för de mycket omfattande garantiåtagandena. I det kritiska läge som rådde 
+mellan oktober 2008 och januari 2009 är det förståeligt att beslut om 
+åtgärder måste fattas snabbt och delvis grundas på bristfälliga underlag. 
+Under det år som gått sedan krisåtgärderna infördes har emellertid 
+regeringen inte vidtagit tillräckliga åtgärder för att skapa en samlad bild av 
+de risker som staten genom garantierna övertagit från banker och andra 
+företag för flera år framåt. RGK har i en skrivelse till regeringen påpekat 
+att ett sådant utvecklingsarbete var planerat att ske i samråd med övriga 
+garantimyndigheter men att arbetet nedprioriterades på grund av den 
+finansiella turbulensen. Först i slutet av oktober 2009 gav regeringen 
+RGK i uppdrag att utvärdera regeringens stödåtgärder med avseende på 
+kreditförsörjningen. I uppdraget ingår emellertid inte att redovisa en samlad 
+bedömning av statens risk för förluster. 
+Då bankgarantin beslutades avstod regeringen från att försöka bedöma 
+de framtida kostnaderna, med hänvisning till att alternativkostnaden för 
+en eventuellt följande kris i den reala ekonomin bedömdes vara mycket 
+stor. RGK framhåller att statens reella exponering gentemot det svenska 
+banksystemet vare sig är begränsad till de faktiskt utställda garantierna 
+eller till det maximala garantibeloppet 1 500 miljarder kronor. Stödlagens 
+formulering är att ”statens långsiktiga kostnader för stödet ska hållas så 
+låga som möjligt”. Detta syftar på de kostnader staten haft eller kan få 
+för stödet och inte på något slags netto av samhällsekonomiska förluster. 
+Riksrevisionens tolkning av formuleringen i lagen är att kostnaden för 
+det statliga stödet ska vara så låg som möjligt förutsatt att negativa 
+samhällsekonomiska konsekvenser undviks genom stödet. För att uppfylla 
+stödlagens krav på kostnadsminimering är det enligt Riksrevisionens 
+mening nödvändigt att beräkna och redovisa risker och förväntade kostnader 
+för garantierna samt att utforma processer för att löpande hantera, följa upp 
+och avveckla dem. 
+Regeringen har inte heller vidtagit några åtgärder för att beräkna risken 
+för framtida kostnader avseende statens åtaganden inom exportområdet. 
+Riksrevisionen anser sammanfattningsvis att regeringen inte har 
+säkerställt ett tillfredsställande underlag för bedömning av statens risker för 
+framtida kostnader. 
+
+6.1.3 Återrapportering till riksdagenRiksdagen har vid några tillfällen under 2009 efterfrågat en redovisning 
+av konsekvenserna av de vidtagna åtgärderna. Regeringen har påpekat 
+svårigheterna att beräkna riskerna med statens åtagande. Regeringen har 
+emellertid inte genom exempelvis uppdrag till berörda myndigheter och 
+bolag säkerställt ett underlag för en samordnad och samlad bedömning och 
+uppföljning av statens ekonomiska risker. Avsaknaden av sådana uppdrag är 
+sannolikt en orsak till bristen på information om statens ekonomiska risk i 
+budgetpropositioner och i annan rapportering till riksdagen. 
+En fördjupad analys av de risker som statens ökade utlåning och olika 
+garantiåtaganden medför för skattebetalarna är i högsta grad relevant i den 
+situation som uppstått. Någon sådan fördjupning har inte redovisats av 
+regeringen. Även Finanspolitiska rådet och Konjunkturinstitutet har pekat på 
+denna brist. Riksrevisionen slutsats från granskningen är att regeringen inte 
+har lämnat en samlad och tydlig återrapportering till riksdagen. 
+6.2 RekommendationerMot bakgrund av de iakttagelser och slutsatser som redovisats vill 
+Riksrevisionen lämna följande rekommendationer:
+• Regeringen bör initiera utredningar och analyser om de ekonomiska 
+risker för staten och skattebetalarna som är förknippade med garantier 
+av den typ som införts under det senaste året. Analyserna bör göras 
+samordnat för samtliga statliga garantier. 
+• Regeringen bör redovisa en samlad bild som både inkluderar 
+bank- och exportkreditgarantier av de ekonomiska riskerna för staten 
+och skattebetalarna. Årsredovisningen för staten skulle med lämpliga 
+tilläggsupplysningar om förväntad kostnad och risk för garantierna ge en 
+mer rättvisande bild av statens ekonomiska ställning och riskexponering.
+• Riksrevisionen anser att behovet av en samlad redovisning till riksdagen 
+av risker och kostnader i anslutning till statens garantier bör beaktas i 
+den nu pågående översynen av budgetlagen.
+
+Referenser 
+Riksdagstryck och författningarRegeringsformen (1976:871)
+Lag (1995:1571) om insättningsgarantiLag (1996:1059) om statsbudgetenLag (2008:814) om statligt stöd till kreditinstitutFinansutskottet. Betänkande 2008/09:FiU16.
+Näringsutskottet. Betänkande 2008/09:NU12.
+Garantiförordning (1996:1006)
+Förordning (2009:46) om kapitaltillskott till solventa banker m.fl.
+Förordning (2008:820) om statligt stöd till kreditinstitutFörordning (2008:819) om statliga garantier till banker m.fl. 
+Förordning (2007:656) om exportkreditgarantiFörordning (2007:1217) med instruktion för Exportkreditnämnden 
+Övriga tryckta källorRegeringen. Årsredovisning för staten för år 2008.
+Proposition1996/97: 1.
+Proposition 2001/02:1.
+Proposition 2008/09:1.
+Proposition 2008/09:61.
+Proposition 2008/09:86.
+
+Proposition 2008/09:100.
+Proposition 2008/09: 186.
+Proposition 2009/10:1.
+Regeringsbeslut. Fi2009/7033. Ändring av regleringsbrev för budgetåret 2009 
+avseende Riksgäldskontoret. 
+Regeringsbeslut. UF2008/11521/FIM. Regleringsbrev för budgetåret 2009 
+avseende Exportkreditnämnden. 
+Riksbanken. Februari 2009. Penningpolitisk rapport.
+Riksgäldskontoret. RGKFS 2008:1. Riksgäldens föreskrifter till förordning om 
+statliga garantier till banker m.fl.
+Riksgäldskontoret. RGKFS 2008:2. Riksgäldens föreskrifter om ändring av 
+föreskrifter med bilaga.
+Riksgäldskontoret. Rapport 2009:K3. Riksgäldens åtgärder för att stärka 
+stabiliteten i det finansiella systemet.
+Riksgäldskontoret. En modell med riskavspeglande avgifter för 
+insättningsgarantin. Rapport 2007-09-28, Dnr 2007/1600. 
+Riksgäldskontoret. Förutsättningar för en effektivare hantering av statens 
+risktagande genom garantier. Regeringsrapport 2009-05-21. Dnr 2001/1746Riksgäldskontoret. Underlag till årsredovisning för staten 2008 avseende statliga 
+garantier och krediter Rapport 2009-03-13 
+Finanspolitiska rådet 2009-10-19. Kommentarer till budgetpropositionen för 
+2010.
+Finansinspektionen. Effekterna av de statliga stabilitetsåtgärderna, femte 
+rapporten 2009. 
+Exportkreditnämnden. Årsredovisning för 2008.
+AB Svensk Exportkredit. Årsredovisning 2008, Riskrapport.
+C Bergström. Studier i Svensk finanspolitik 2009/1.
+SOU 2005:16 Insättningsgarantiutredningen
+
+EG-direktiv, EU-kommissionens meddelanden och andra EU-organDir 2009/14/EG – om statsstödsregler.
+Dir 1994/19/EG – om insättningsgaranti.
+Meddelande 2008/C 155/02.
+Meddelande 2008/C 270/02.
+Meddelande 2009/C 83/01. 
+Meddelande via eGov monitor 2009-11-25.
+Europeiska Centralbanken. ECB. Recommendations on Government 
+Guarantees On Bank Debt. 20 oktober 2008. 
+Andra utländska källorInternationella Valutafonden. International Monetary Fund Companion 
+paper. The state of public finances: Outlook and mediumterm policies after the 
+2008 crisis. 
+Otryckta källorFinansdepartementet. Promemoria 2009-10-28. Korta svar på Riksrevisionens 
+frågor om garantiprogrammet. 
+UD/FIM. Promemoria 2009-09-28. Korta svar på Riksrevisionens frågor. 
+UD/FIM. Promemoria 2009-11-19. Underlag till Näringsutskottet inför besök av 
+ss Gunnar Wieslander den 24 november 2009.
+Riksgäldskontoret. Dnr 2009/500. Underlag till årsredovisning för staten 
+avseende statliga garantier och krediter.
+Exportkreditnämnden. EKN:s garantigivning och ramutnyttjande. Rapport till 
+UD 2009-04-02.
+AB Svensk Exportkredit. Yttrande till Riksrevisionen 2009-11-20. 
+E-post från UD/FIM till Fi/BU 2009-09-04 inför budgetpropositionen. 
+E-post från ECB/bankgarantier till handläggare FiDep 2009-05-25.
+E-post från Exportkreditnämnden till handläggare UD 2008-11-20. 
+
+E-post från UD till Exportkreditnämnden 2009-02-17.
+Ärendeakter vid UD och Finansdepartementet med e-post och underlag för 
+beslut om garantierna. 
+Ernst& Young. Arbetspapper ”Granskning av statliga garantier i 
+finanskrisen”, 2009-11-12. 
+Övriga referenser 
+IntervjuförteckningFinansutskottets kansli 2009-06-10.
+Finansdepartementet 2009-06-15,2009-09-21, 2009-09-23,
+2009-09-24, 2009-09-25, 2009-09-27, 2009-09-29.
+Utrikesdepartementet 2009-09-28.
+Riksgäldskontoret 2009-06-11, 2009-06-16, 2009-06-22, 2009-06-28, 
+2009-06-29, 2009-07-01,2009-09-23.
+Exportkreditnämnden 2009-06-16, 2009-06-24.
+AB Svensk Exportkredit 2009-06-16, 2009-07-03, 2009-11-02.
+Institutet för finansforskning 2009-06-11.
+Riksbanken 2009-10-01.
+Finansinspektionen 2009-09-28.
+
+Bilaga 1 Förordningar med koppling till 
+garantiprogram 
+Garantiförordning (1996:1006) 
+Denna förordning reglerar Riksgäldskontorets verksamhet, men 
+inte insättningsgarantin, bankgarantin eller garantier utfärdade av 
+Exportkreditnämnden. 
+Förordningen anger att Riksgäldskontoret ska bedöma och värdera de 
+ekonomiska risker som ett garantiåtagande innebär för staten och se till att 
+ärendet får en ekonomiskt ansvarsfull prövning och hantering. En garanti 
+ska förenas med de villkor som behövs med hänsyn till statens risk och till 
+behovet av kontroll och uppföljning. Endast om det finns särskild anledning 
+får en garanti omfatta hela kostnaden för den verksamhet som garantin 
+avser. 
+Förordning (2009:46) om kapitaltillskott till solventa banker m.fl. 
+Denna förordning har koppling till regelverket om garantier och hantering av 
+garantirisk. I februari 2009 tillkom denna förordning i syfte att ge solventa 
+banker, bostadsinstitut och vissa kreditmarknadsbolag tillgång till statliga 
+kapitaltillskott för att stärka deras kapitalbas och därigenom förbättra sin 
+utlåningskapacitet. 
+Förordning (2008:820) om statligt stöd till kreditinstitutI denna förordning finns bestämmelser om stöd enligt stödlagen (2008:814) 
+som lämnas i form av kapitaltillskott. Ansökan om statligt stöd får göras 
+hos Riksgäldskontoret. Riksgäldskontoret får också ta upp ett ärende om 
+stöd utan någon ansökan. Avtal eller beslut som rör stöd ingås respektive 
+fattas av Riksgäldskontoret men regeringen ska godkänna stödet. Villkor för 
+stöd ska bland annat utformas med hänsyn till statens risk samt behovet 
+av kontroll och uppföljning. När kapitaltillskott lämnas ska staten erhålla 
+ersättning företrädesvis i form av preferensaktier med stark rösträtt. 
+Riksgäldskontoret ska förvalta aktier och andra tillgångar som staten äger 
+eller får som säkerhet i samband med att stöd lämnas. Statens ägande ska 
+avvecklas i sådan takt att staten så långt möjligt får ersättning för den risk 
+och de kostnader som har varit förenade med en genomförd stödåtgärd. 
+Riksgäldskontoret ska löpande följa utvecklingen i de kreditinstitut och 
+
+andra företag som har fått stöd. Riksgäldskontoret ska bevaka att villkor om 
+återbetalning och andra villkor för stödet uppfylls. 
+Förordning (2007:656) om exportkreditgarantiI syfte att främja svensk export av varor och tjänster och det 
+svenska näringslivets internationalisering och konkurrenskraft får 
+Exportkreditnämnden (EKN) utfärda statsgaranti (exportkreditgaranti) 
+för att täcka förlust vid exportaffärer om det finns ett betydande svenskt 
+intresse. Svenskt intresse föreligger om den verksamhet som ska garanteras 
+bedöms vara av svenskt samhällsintresse eller på annat sätt till gagn för 
+den ekonomiska utvecklingen i Sverige. Exportkreditgaranti ska beviljas i 
+överensstämmelse med Sveriges internationella åtaganden om statsstödd 
+exportfinansiering. 
+För exportkreditgaranti betalas en premie som är avpassadtill olika inverkande omständigheter, till exempel betalningsvillkor, 
+förhållanden i importlandet och risker av annat slag samt 
+administrationskostnader. Premierna ska sättas så att verksamheten 
+totalt sett ska vara självbärande över tiden. Ärenden prövas av 
+Exportkreditnämnden. Om ett ärende är av större vikt, får nämnden 
+överlämna ärendet till regeringens prövning. 
+Förordning (2007:1217), med instruktion för EKNEKN ansvarar bland annat för att, i enlighet med förordningen (2007:656) 
+om exportkreditgaranti statsgarantier. 
+Myndigheten ska särskilt:
+• pröva förutsättningarna för beviljande av garanti,
+• verka för att garantierna utformas med beaktande av de villkor som 
+erbjuds i exportföretagens viktigare konkurrensländer och verka för 
+konkurrensneutralitet, 
+• vid beviljande av garanti, genom att ta ut avgifter iaktta målet att 
+garantiverksamheten totalt sett ska vara självbärande över tiden,
+• sprida riskerna i engagemanget, eftersträva riskdelning och vidta 
+åtgärder för att minska riskkoncentrationen,
+• bedriva en effektiv skadeförebyggande och skadereglerande verksamhet 
+med syfte att begränsa förlusterna.
+Myndigheten ska varje år före den 1 mars och i övrigt vid behov lämna 
+regeringen det underlag som behövs för att regeringen ska kunna ta 
+ställning till omfattningen och i inriktningen av myndighetens verksamhet. 
+Myndigheten ska samverka med Aktiebolaget Svensk Exportkredit (SEK) i 
+frågor som rör exportkrediter.
+
+Bilaga 2 Hanteringen av finanskrisen. 
+Risker med och förväntade 
+kostnader för garantiprogrammenDen 28 oktober 2009
+Clas BergströmHandelshögskolan i Stockholm 
+1 Inledning 
+BakgrundUnder hösten 2008 och första halvåret 2009 vidtog regeringen en rad 
+åtgärder för att upprätthålla den finansiella stabiliteten och minska 
+återverkningarna av den finansiella krisen på den svenska ekonomin. 
+Insättargarantin utökades i syfte att värna tryggheten bland svenska sparare 
+och därigenom förhindra bankanstormningar och finansieringsproblem 
+för banker. Under hösten la regeringen fram en plan för hantering av 
+problem med bristande likviditet och eventuella framtida solvensproblem 
+i de svenska bankerna. Stabilitetsplanen innehåller tre komponenter. 
+För det första finns där ett garantiprogram för att stödja bankernas och 
+bostadsinstitutens medelfristiga finansiering. Garantiprogrammet är riktat 
+mot solventa svenska kreditinstitut och är frivilligt. Den andra komponenten 
+i stabilitetsplanen är ett ramverk för att stödja banker i kris. En tredje 
+komponent är en stabilitetsfond som upprättas för att hantera eventuella 
+framtida solvensproblem i ett svenskt institut. 
+Regeringens hantering av finanskrisen domineras av statliga 
+garantiåtaganden som innebär att staten går i borgen för någon annans 
+betalningsförpliktelser. Garantierna tillhandahålls genom specifika 
+program som insättarskyddsförsäkringar för bankernas kunder, garantier 
+för bankernas medelfristiga finansiärer och garantier till svenska 
+exportindustrin. Ett viktigt inslag i krishanteringen är även statlig 
+kreditgivning. 
+Riksgälden är stödmyndighet enligt lagen (2008:814) om statligt stöd 
+till kreditinstitut (stödlagen). I uppgiften ingår att ansvara för det statliga 
+garantiprogrammet till bankerna, insättningsgarantisystemet och det statliga 
+kapitaltillskottsprogrammet för banker och bostadsinstitut. Riksgälden har 
+
+också mandat att besluta om stödåtgärder till banker och andra kreditinstitut 
+i kris och ska också administrera den stabilitetsfond som byggs upp för att 
+finansiera åtgärder för att trygga det finansiella systemet vid framtida kriser. 
+Vid aktiva åtaganden enligt stödlagen ska Riksgälden kvartalsvis lämna 
+en redovisning till regeringen där även planerade åtgärder av väsentlig 
+ekonomisk betydelse ska redovisas. 
+Statens krishantering innebär potentiellt stora risker i form av framtida 
+utgifter vid eventuella garantiinfrianden eller kreditförluster. Garantierna 
+och kreditramarna ger upphov till betingade fordringar på staten. De 
+medför en latent belastning på statens balansräkning som omvandlas till 
+en faktisk belastning i form av ökad stadsskuld om garantin måste infrias 
+eller kreditförluster inträffar. De omfattande garantiramar som fastställts kan 
+potentiellt få betydande effekter på de offentliga finanserna. 
+Nedanstående tabell sammanfattar åtaganden i den statliga garanti- 
+och kreditportföljen som är relaterade till krishanteringen. En stor del av 
+de garantier och kreditramar som har ställts ut hanteras av Riksgälden 
+som också ansvarar för insättningsgarantin. Svensk Exportkredit och 
+Exportkreditnämnden har också fått en kraftigt ökad kreditrespektive 
+garantigivningskapacitet. 
+Statens åtaganden
+Åtaganden. 
+Miljarder 
+kronorÅtgärd MyndighetInsättargarantin RGK 1 000Garantiprogram för banker och andra kreditinstitutRGK 1 500Akut stöd till banker och kreditinstitut 
+(avsättning till stabilitetsfond)
+RGK 15Kapitaltillskott till solventa bankerRGK 50Lån till andra länderRGK 13Stöd till exportindustri I (tillskott av eget kapital)SEK 5Stöd till exportindustri II (utökad låneram)SEK 100Stöd till exportindustri III 
+(garantier refinansiering och utökad utlåning) 
+SEK 450Stöd till exportindustri IV (garantier)EKN 350Stöd till små och medelstora företag Almi 3Garantiåtagande till Europeiska investeringsbanken (EIB)RGK 25Stöd till fordonsindustrin RGK 28Totalt 3 539
+
+Utöver dessa åtaganden emitterade Riksgälden under hösten 2008 extra 
+statsskuldsväxlar för att få marknaden att fungera bättre. Den sammantagna 
+emitterade volymen uppgick till 150 miljarder kronor. Betalningen användes 
+i huvudsak till omvända repor med bostadsobligationer som säkerhet. 
+Riksbanken har också ökat sin utlåning till bankerna i stor skala.
+
+De beslutade garanti- och kreditramarna uppgår i dag till över 3 000 
+miljarder kronor. Åtagandena är större än BNP, nästan fyra gånger större än 
+den svenska statsskulden och mer än fyra gånger de offentliga utgifterna. 
+UppdragetInom ramen för program för offentliga finanser ska Riksrevisionen under 
+2009 till 2010 granska hur regeringen och myndigheter hanterat statliga 
+åtaganden under finanskrisen. Riksrevisorerna beslöt i augusti att 
+genomföra en granskning av följande garantiprogram: insättningsgarantin, 
+bankernas garantiprogram, SEK kreditgaranti samt Exportkreditnämndens 
+garantier. Riksrevisionen granskar för närvarande regeringens underlag för 
+bedömningar av statens risk för framtida kostnader, hur åtagandena och 
+riskerna återrapporteras till riksdagen och om garantivillkoren är rimliga 
+med hänsyn till statens kostnader. 
+I mitt uppdrag har ingått att genomföra en översiktlig studie av hur 
+Riksgälden bedömer statens risktagande i garantiprogrammen. Uppdraget 
+har varit att klargöra de väsentligaste skillnaderna mellan Riksgäldens 
+och IMF:s bedömningar och att identifiera de västentligaste antaganden 
+som påverkar skillnader i bedömningarna. Underlaget för studien har i all 
+väsentlighet varit det underlag som Riksrevisionen har inhämtat. Jag har 
+även tagit del av relevanta rapporter från Riksgälden. 
+2 Förväntade kostnader enligt IMF 
+InledningDen internationella valutafonden (IMF) uppskattade våren 2009 de 
+offentligfinansierade effekterna av olika länders stödprogram för de 
+finansiella marknaderna.115 De stödåtgärder som analyseras av IMF framgår 
+av tabellen nedan.
+Stödåtgärder per den 18 februari 2009, % av BNP
+KapitaltillskottFörvärv av tillgångar 
+samt statliga lånLikviditetsstöd 
+från centralbankerGarantierTotaltSverige2,15,315,347,370G201,93,310,312,427,9Utvecklade 
+länder 2,95,215,219,743,1
+
+115 International Monetary Fund. Companion paper. The state of public finances: Outlook and 
+mediumterm policies after the 2008 crisis. 
+
+Det är värt att notera att insättargarantin som nu utökats till att omfatta 
+fler konton och ett högre belopp inte finns med bland de stödåtgärder IMF 
+analyserar. I Sverige uppgår garantiåtaganden i insättarskyddet förmodligen 
+till cirka 900 - 1000 miljarder kronor. Det massiva stödet till exportindustrin, 
+små och medelstora företag och fordonsindustrin ingår inte heller i 
+IMF- studien som fokuserar på åtgärder riktade direkt mot de finansiella 
+marknaderna.116 
+IMF beräknade att kostnaderna för de svenska stödåtgärderna kan 
+förväntas uppgå till 7,7 procent av BNP, motsvarande nästan 250 miljarder 
+kronor. Som framgår av tabellen nedan beräknades de direkta kostnaderna 
+för stödåtgärderna till 2,2 procent av BNP. De förväntade nettokostnaderna 
+för garantierna bedöms vara 4 procent av BNP och kostnaden för att 
+tillhandahålla likviditet till den finansiella sektorn skattas till 1,5 procent av 
+BNP. 
+Förväntade kostnader för statliga stödåtgärder, procent av BNP 
+Direkt stödGarantierLikviditetsstöd 
+från centralbankTotaltSverige2,24,01,57,7G201,42,01,24,7Utvecklade ekonomier2,33,21,87,3
+
+IMF:s beräkningar pekar alltså på att stödåtgärderna kan få betydande 
+effekter för de offentliga finanserna. Den förväntade kostnaden för 
+de svenska stödåtgärderna är betydligt högre än den genomsnittliga 
+köpkraftsvägda kostnaden för G-20 länderna. Enligt IMF-studien är det bara 
+USA, England och Irland som har en högre förväntad kostnad för statliga 
+krisåtgärder än Sverige. Låt oss mer i detalj studera hur dessa beräkningar är 
+genomförda. 
+Förväntade kostnader för direkt stöd 
+Med direkta stödåtgärder avses i IMF-studien statliga lån, kapitaltillskott 
+och förvärv av nödlidande tillgångar (troubled assets). För Sveriges 
+vidkommande avses Riksgäldens låneprogram för att motverka den brist 
+på statsskuldsväxlar som uppstod till följd av oron på finansmarknaderna. 
+Programmets storlek antas i IMF-rapporten vara 150 miljarder kronor eller 
+5,8 procent av BNP. 
+116 Svensk Exportkredits (SEK) kapitalbas förstärktes med 3 miljarder kronor i nytt eget kapital och 
+aktier i ett statligt bolag värda 2,4 miljarder kronor och företaget har också fått möjlighet att 
+inom en ram på 100 miljarder kronor ta upp lån i Riksgälden. Riksdagen har även bemyndigat 
+regeringen att ge SEK möjlighet att på kommersiella villkor köpa statsgarantier för refinansiering 
+och nyupplåning upp till 450 miljarder kronor. En ytterligare förstärkning av exportfinansiering 
+skedde i december förra året då EKN:s garantiram utökades till 350 miljarder kronor.
+
+I låneprogrammet emitterade Riksgälden stora volymer korta 
+statsskuldsväxlar i ett antal auktioner. Riksgäldens bedömning var i höstas 
+att den sammantagna emitterade volymen skulle uppgå till maximalt 
+150 miljarder kronor. De medel Riksgälden fick in vid auktionerna 
+placerades med säkerställda bostadsobligationer som säkerhet (omvända 
+repor i bostadsobligationer) med löptider på uppemot tre månader. 
+Placeringarna gav bankerna bättre likviditet och utgjorde indirekt ett stöd åt 
+bostadsobligationsmarknaden. 
+Det direkta statliga stödet uppgick alltså till 150 miljarder kronor eller 
+5,8 procent av BNP. För att beräkna den förväntade kostnaden av detta stöd 
+antar IMF att återvinningsgraden ligger i intervallet 39,1 - 85,6 procent med 
+ett punktestimat om 62,4 procent. Om vi tillämpar punktestimatet blir IMF:s 
+skattning en förväntad kostnad om 5,2 x (1 – 0,624) = 2,2 procent. 
+Direkt stöd och återvinningsgrader, procent av BNP 
+Direkt stöd ÅtervinningsgradNettokostnaden för direkt stödPunkt 
+estimat95 % 
+intervallPunkt 
+estimat95 % 
+intervallSverige5,862,439,1 - 85,62,20,8 – 3,5G-203,350,729,5 – 71,11,40,8 – 2,0Utvecklade 
+länder 5,250,529,5 - 71,42,31,3 - 3,1
+
+ GarantierMed garantier avses garantiprogrammet för bankernas medelfristiga 
+finansiering. För Sveriges vidkommande avses det garantiprogram som 
+regleras i förordningen (2008:819) om statliga garantier till banker m.fl. 
+Det samlade programmet är i Sverige begränsat till 1 500 miljarder kronor 
+vilket i procent av BNP utgör 47,3. I IMF:s studie utgår man från att den 
+totala ramen för garantiprogrammet på 1 500 miljarder kronor utgör statens 
+exponering. 
+I IMF:s studie beräknas värdet på garantierna med hjälp av 
+prissättningen på marknaden för kreditswappar. Beräkningarna är baserade 
+på en metodologi utarbetad av Moody’s kreditspreadmått (Expected Default 
+Frequency Implied Credit Default Swap). Spreadarna är uttryckta i basis 
+punkter och beräknade med utgångspunkt från estimering av implicita 
+säljoptionsvärden för individuella banker. Data kommer från Moodys 
+KMV Credit Edge databasen. Det diskonterade nuvärdet av förväntade 
+förluster för garantier med en femårig löptid beräknades under alternativa 
+återhämtningsscenarier med avseende på återvinningsgraden. Utöver 
+ett grundalternativ redovisar man också två alternativa antaganden: 
+
+ett konservativt antagande om återvinningsgrad på 40 procent och 
+en optimistisk med en återvinningsgrad på 80 procent. Man antar en 
+genomsnittlig löptid för garantierna på fem år. Kostnaden är den kumulativa 
+kostnaden under den antagna löptiden om fem år. 
+Förväntade kostnader för bankgarantiprogram, procent av BNP 
+GarantierBruttoSpreadarFörväntad kostnadPunkt 
+estimatOptimistisk/
+KonservativIntervallPunktestimatSverige47,3173138/4493,1 - 9,74,0G2012,41,1 - 3.62,0Utvecklade 
+ekonomier19,71,9 - 5,83,2
+
+ Likviditetsstöd 
+Likviditetsstödet avser Riksbankens likviditetsstöd i dollar och kronor till 
+bankerna. IMF beräknar att stödet motsvarar 487 miljarder kronor eller 15,3 
+procent av BNP. I likviditetsstödet ingår SEK 180 miljarder i ett låneprogram 
+med löptid mellan tre och sex månader, ett program i amerikanska dollar till 
+riksbankens primära penningpolitiska motparter, SEK 75 miljarder genom ett 
+certifierat program samt särskilt likviditetsstöd med en kredit på upp till 5 
+miljarder kronor till Kaupthing Bank Sverige AB. 
+IMF antar att återvinningsgraden för dessa stödåtgärder uppgår till 90 
+procent. Nettokostnaden i procent av BNP blir därmed 1,5 procent. 
+Förväntade kostnader för statliga stödåtgärder, procent av BNP 
+LikviditetsstödBruttoNettoSverige15,31,5G2012,21,2Utvecklade ekonomier18,21,8
+
+Sammanfattningsvis uppgår enligt IMF:s beräkningar de förväntade 
+kostnaderna för de statliga stödåtgärderna till 7,7 procent av BNP eller 244 
+miljarder kronor. Garantiprogrammet för bankernas och bostadsinstitutens 
+medelfristiga finansiering uppgår till 4 procent av BNP, motsvarande 127 
+miljarder kronor. 
+
+3 Riksgäldens bedömning av effekterna på statens finanser 
+InledningRiksgälden lämnar kvartalsvis en redovisning till regeringen av aktiva 
+åtaganden enligt stödlagen där även planerade åtgärder av väsentlig 
+ekonomisk betydelse ska redovisas. Som underlag har jag använt rapporten 
+för tredje kvartalet (2009:K3). 
+Beräkningar av likviditetsstöd från riksbanken finns naturligtvis inte 
+med i Riksgäldens bedömning och inte heller det som IMF betecknar 
+som direkt statligt stöd. Riksgälden betraktade de omvända reporna i 
+bostadsobligationer som säkra placeringar med god avkastning. Av de tre 
+huvudkategorierna av stödåtgärder som IMF studerar direkt statligt stöd, 
+likviditetsstöd från riksbanken och garantier för bankernas medelfristiga 
+finansiering återstår då det sistnämnda. 
+Garantiprogrammet har förlängts ett par gånger och löper nu fram till 
+den 30 april 2010. Det belopp som kan garanteras i ett enskilt institut är 
+förfallande skuldförbindelse under den period som garantiprogrammet löper. 
+Det samlade programmet uppgår till 1 500 miljarder kronor. Tabellen nedan 
+pekar på att det svenska bankgarantiprogrammet, räknat som andel av BNP, 
+är mycket omfattande. I procent av BNP uppgår det svenska programmet 
+till 47,3 procent, vilket är den näst högsta andelen bland de länder som IMF 
+studerar. Irland har bankgarantiåtaganden motsvarande 257 procent av BNP 
+medan länder som USA, England och Frankrike ligger på en nivå mellan 16 
+och 31 procent. 
+Det omfattande programmet motiverar Riksgälden med att 
+alternativkostnaden för att under hösten 2008/vintern 2009 inte införa 
+systemet hade varit extremt hög. Syftet med garantiprogrammet är att 
+underlätta bankernas och bostadsinstitutens upplåning med det yttersta 
+syftet att förbättra förutsättningar för företag och hushåll som behöver 
+låna pengar. Bankernas och övriga kreditinstituts förmåga att fullgöra 
+sina förpliktelser har en avgörande betydelse för hur kreditförsörjning och 
+betalningsförmedling fungerar. Mer eller mindre välgrundade misstankar att 
+en bank har problem kan leda till att andra banker får problem, vilket i sin tur 
+kan leda till en systemkris som påverkar såväl betalningsförmedlingens som 
+kreditgivningens funktionssätt. Om förtroendet för systemet allvarligt rubbas 
+kan en vikande konjunktur snabbt övergå i en djup depression. 
+Riksgälden menar också att införandet av garantiprogrammet, med 
+undantag av garantier till mindre institut, inte i realiteten ökade statens 
+kostnader. Garantiprogrammet snarare formaliserade statens implicita 
+åtaganden. Riksgälden betonar att statens reella exponering gentemot 
+det svenska banksystemet vare sig är begränsat till de faktiskt utställda 
+garantierna eller till det samlade programmets maximala belopp om 1 500 
+
+miljarder kronor. Med eller utan ett formellt program för bankgarantier 
+menar riksgälden att staten måste förhindra konkurser i systemviktiga 
+banker, det vill säga bankkonkurser som kan äventyra stabiliteten i det 
+finansiella systemet. Endast i det fall garantier ställs ut till institut som vid 
+ett fallissemang inte kan anses systemviktiga tar staten på sig en utökad risk. 
+Erfarenheterna från finanskrisen visar att det inte är en enkel uppgift att på 
+förhand avgöra gränsen för systemviktighet. 
+Ett tredje argument som Riksgälden anför för det omfattande 
+garantiprogrammet är att staten genom sitt ägande (av exempelvis SBAB) 
+har stora sådana implicita åtaganden att statens reella åtaganden inte har 
+ökat i och med företagets deltagande i programmet. 
+Under förutsättning att inga implicita åtaganden föreligger vad gäller 
+att förhindra konkurser i systemviktiga banker innebar införandet av 
+garantisystemet en utökad risk för staten. Riksgälden skattar den förväntade 
+kostnaden och intäkterna för staten från garantisystemet. Den förväntade 
+kostnaden beror på vilken exponering garantisystemet har mot institutet, 
+sannolikheten för konkurs och återvinningsgraden. Den förväntade förlusten 
+= P x G x (1 – R), där P = sannolikheten för att garantitagaren (banken) ställer 
+in betalningarna, G = det garanterade beloppet och R = återvinningsgraden 
+vid en betalningsinställelse, det vill säga hur stor del av det infriade beloppet 
+som kan återvinnas vid en betalningsinställelse 
+Garantisystemets exponeringExponeringen motsvarar i Riksgäldens kalkyl de utställda garantierna per 
+institut. 
+Total ramUtestående garantierInstitut081231090306090615090930Swedbankkoncernen544146212316275Övriga3372243733Totalt871148236353308
+
+Den totala volymen utställda garantier uppgick till 308 miljarder kronor den 
+30 september. Swedbankkoncernen (Swedbank AB och Swedbank Hypotek 
+AB) står för 275 miljarder kronor eller nära 90 procent av garantierna. 
+Rikgälden antar här att inga nya aktörer träder in och att inga fler garantier 
+ställs ut samt att samtliga nu garanterade lån hålls till förfall. 
+
+Sannolikheten för fallissemangFör att beräkna konkurssannolikheter använder Riksgälden en kreditrating 
+av banker som bortser från ett explicit eller implicit statligt stöd.117 Eftersom 
+det är den förväntade kostnaden för staten som ska beräknas är det korrekt 
+att inte använda den rating som man normalt tillämpar och som utgår från 
+statligt stöd. För de institut som saknar rating har för enkelhets skull den 
+rating som Swedbank har använts. Sannolikheten för fallissemang på ett års 
+sikt varierar mellan 0,003 procent för SBAB och 0,15 procent för Volvofinans 
+AB och 0,33 för övriga banker. Konkurssannolikheten ökar naturligtvis med 
+löptiden på garantierna. Nedanstående tabell illustrerar detta för Swedbanks 
+konkurssannolikhet.
+Konkurssannolikhet i Swedbank
+LöptidSumma utestående skuldförbindelser, 
+miljarder kronorKonkurssannolikhet< 1 år90 0,329≥ 1 till 3 år136 1,545< 3 till 5 år403,195
+
+ ÅtervinningsgradVid beräkning av återvinningsgraden antas 49 procent av garantibeloppet 
+kunna återvinnas vid en konkurs. Detta anger Riksgälden vara den 
+genomsnittliga återvinningsgraden vi konkurser av samtliga företag. 
+Eftersom återvinningsgraden är högre i samband med bankkonkurser 
+innebär återvinningsantagandet att den förväntade förlusten sannolikt 
+överskattas i beräkningarna. 
+Förväntad kostnad för garantisystemetMed utgångspunkt från den antagna exponeringen, konkurssannolikheten 
+och återvinningsgraden erhåller Riksgälden följande förväntade kostnader 
+för garantisystemet. 
+Förväntad kostnad för garantisystemet 
+MotpartUtestående 
+garantiåtagande, 
+mdkrFörväntad 
+kostnad,
+mnkrFörväntad kostnad, 
+procent 
+garantiåtagandenFörväntad 
+kostnad,
+procent av BNP 
+Totalt307,91 1280,370,04
+
+117 Rating: Moodys BRA (utan hänsyn till externt stöd).
+
+Den förväntade kostnaden för garantiprogrammet uppgår alltså till 1,1 
+miljarder kronor enligt Riksgäldens bedömning. Swedbank svarar för den 
+absoluta merparten av denna kostnad. 
+Den förväntade kostnaden är en bruttouppskattning eftersom 
+garantiavgifter inte är inkluderade i kalkylen. Enligt budgetlagens 
+bestämmelser ska en garantiavgift motsvara statens ekonomiska risk och 
+övriga kostnader för åtagandet. Detta har tolkats som att huvudregeln 
+är att avgiften ska beräknas på basis av den förväntade kostnaden 
+för garantin. Om avgifterna för garantierna och kreditramarna följer 
+budgetlagens bestämmelser skulle den förväntade kostnaden med ett 
+administrationspåslag motsvara avgifterna för garantierna. 
+En marknadsaktör skulle utöver den förväntade kostnaden också 
+kräva ett riskpremium. Det betyder att marknadsanpassade avgifter, 
+som EU:s regler om statsstöd kräver, motsvarar ett belopp som är högre 
+än den förväntade kostnaden för ett garantiinfriande. Avgiften med en 
+löptid upp till ett år är 0,5 procent av det garanterade beloppet. Avgiften 
+för längre löptider bestäms för de fyra storbankerna med utgångspunkt 
+från marknadspriset för kreditswappar (CDS-spreadar) under normala 
+marknadsförhållanden. Det betyder att avgiften är differentierad med 
+avseende på risken i respektive institut. Avgifterna för dessa banker varierar 
+mellan 0,75 och 0,83 procentenheter. För de institut, eller obligationer, som 
+saknar historiska marknadspriser för kreditswappar bestäms avgiften utifrån 
+en schablonmetod baserad på kreditbetyg (rating). 
+Med dessa avgifter uppgår den nuvärdesberäknade intäkten till 6,1 
+miljarder kronor. 
+Ett alternativt synsätt: Ett katastrofscenario med statligt kapitaltillskottBeräkningen av den förväntade kostnaden för staten enligt ovan utgår från 
+att garantierna kan komma att infrias, det vill säga att en bank kan komma 
+att ställa in betalningarna. Riksgälden anser korrekt att det är orimligt att 
+räkna med att systemviktiga banker tillåtts fallera. Av det skälet kommer 
+de garantier som är riktade mot systemviktiga banker aldrig att leda till att 
+garantierna infrias och att några direkta kostnader vid infrianden av garantier 
+uppstår. Om en bank närmar sig obestånd kommer staten att gripa in och 
+stödet lämnas då i form av ett kapitaltillskott. 
+För att belysa hur bankernas intjäningsförmåga, kreditförluster och 
+kapitalkrav utvecklas vid olika alternativa och hypotetiska scenarier 
+genomför Riksbanken och FI så kallade stresstester för de fyra storbankerna. 
+Stresstester syftar till att undersöka om bankerna i olika situationer kommer 
+att ha tillräckligt mycket kapital för att uppnå de lagstadgade målen. 
+
+Stresstesterna ska inte betraktas som prognoser utan ger snarare en 
+indikation om hur intjäning, kreditförluster och kapitalkrav kommer att 
+utvecklas i ett visst konstruerat scenario. Härigenom får man en uppfattning 
+om bankernas förmåga att möta vissa ogynnsamma ekonomiska 
+omständigheter och hur deras kapitaltäckning påverkas av olika antaganden. 
+En banks finansiella motståndskraft mot en kraftig konjunkturnedgång 
+beror på bankens kapital i förhållande till riskexponeringen. Omfattningen 
+av dessa risker beror på exponeringen för olika krediter (hushåll/företag, 
+svenska/utländska osv.), deras sannolikhet för fallissemang och storleken 
+på förlusten givet ett fallissemang. Metoden för att mäta kreditrisken är 
+baserad på bankernas kapitaltäckningsrapporter där information finns kring 
+exponering för olika portföljer och deras sannolikhet för fallissemang. En 
+etablerad modell (Creditrisk+ / - modellen) används för att analysera hur 
+scenarierna påverkar de riskvägda tillgångarna och därmed kapitalkravet. 
+Finansinspektionen och Riksbanken har analyserat olika scenarier för 
+bankerna. I dessa analyser klarar bankerna verksamheten utan statligt stöd. 
+Bankerna är i dag med historiska mått välkapitaliserade och klarar att bära 
+stora kreditförluster. Även i mycket pessimistiska scenarier klarar sig de 
+två banker som har stora exponeringar i Baltikum utan statligt stöd om 
+kreditförlusterna fördelas under två tre år. 
+Riksgälden har kompletterat dessa studier med ett katastrofscenario 
+där staten måste gripa in för att rädda svenska banker. Katastrofscenariot 
+tar sin utgångspunkt i de stresstester som Riksbanken genomfört med 
+kreditförluster i samma härad som Riksbankens sämsta utfall. Inte ens 
+dessa förluster skulle innebära att bankerna hamnade under lagstadgade 
+kapitaltäckningsregler. Därför antog Riksgälden att kreditförlusterna skedde 
+momentant istället för att spridas ut över två tre år som i Riksbankens och 
+Finansinspektionens stresstester. 
+Riksgäldens katastrofscenario tar sin utgångspunkt i de svenska 
+bankernas exponering mot öst (Baltikum, Ukraina, Ryssland och Polen). 
+Den uppgick år 2008 till 600 miljarder kronor varav Baltikum och Ukraina 
+svarade för 520 miljarder kronor. SHB har mindre än 10 miljarder kronor i 
+utlåning i Öst och Nordeas exponering i öst är liten i förhållande till bankens 
+totala utlåning. Därtill svarar det relativt stabila Polen för hälften av Nordeas 
+krediter i öst. 
+Under 2009 har exponeringen i öst minskat. De utsatta bankerna är 
+Swedbank och SEB. Swedbank har en utlåning på 230 miljarder kronor (16 
+procent av den totala lånestocken) i öst och SEB:s utlåning uppgår till 210 
+miljarder eller 13 procent av den totala stocken. 
+
+4 Jämförelse mellan IMF:s och Riksgäldens bedömningar 
+InledningIMF och Riksgälden kommer alltså fram till vitt skilda bedömningar av de 
+förväntade kostnaderna för garantiprogrammet. Den förväntade förlusten 
+är lika med P x G x (1 – R), där P = sannolikheten för att garantitagaren 
+(banken) ställer in betalningarna, G = det garanterade beloppet och R = 
+återvinningsgraden vid en betalningsinställelse, det vill säga hur stor del 
+av det infriade beloppet som kan återvinnas vid en betalningsinställelse. 
+Skillnaden mellan de två bedömningarna kan alltså dekomponeras i skilda 
+antaganden beträffande de tre parametrarna P, G och R. 
+Bruttoexponering 
+Det samlade 
+programmets 
+övre gränsSumman av 
+individuella 
+garantiramar för 
+anslutna institutUtestående garantier200812-31200903-06200906-15200909-30Totalt1 500871148236353308
+
+En avgörande skillnad mellan IMF:s beräkning och Riksgäldens 
+bedömning av den förväntade kostnaden för garantisystemet för 
+bankernas och bostadsinstitutens medelfristiga upplåning är den antagna 
+exponeringen. Det maximala belopp som kan garanteras i ett individuellt 
+institut är summan av förfallande skuldförbindelser under den period 
+som garantiprogrammet löper. Summan av dessa skuldförbidelser för 
+kvalificerade institut begränsas till 1 500 miljarder kronor. IMF utgår från 
+att det är det samlade programmet om 1 500 miljarder kronor som utgör 
+exponeringen. Riksgälden å andra sidan antar att det är bruttoexponeringen 
+per institut för de vid beräkningstillfället utställda garantierna i systemet. 
+Den totala volymen utställda garantier uppgick till 308 kronor per den 30 
+september 2009. Riksgäldens beräkningar utgår från att inga nya aktörer 
+ansluter till systemet och att inga fler garantier ställs ut. Man antar också att 
+nu garanterade lån hålls till förfall. 
+BruttoexponeringFörväntad kostnad 
+efter återvinning, %
+Miljarder 
+kronorIMF1 5008,47 %127Riksgälden3070,37 %1,1
+
+
+
+Återvinningsgrad och konkurssannolikhetSkillnaden i antagandet vad gäller bruttoexponering förklarar en stor del 
+av diskrepansen mellan IMF:s och Riksgäldens skattning av förväntade 
+kostnader. Vad gäller återvinningsgraden skiljer sig inte bedömningarna 
+särskilt mycket åt. Riksgälden antar en återvinningsgrad om 49 procent och 
+IMF anger intervallet 39,1 - 85,6 med ett punktestimat om 62,4 procent. 
+Den avgörande skillnaden i de två bedömningarna är 
+konkurssannolikheten. Konkurssannolikheten ökar med löptiden 
+på garantierna. I Riksgäldens beräkningar har hänsyn tagits till 
+löptidsstrukturen hos de utställda garantierna medan IMF antar att löptiden 
+för samtliga garantier är fem år. Att det antagandet är helt avgörande för 
+kalkylerna illustreras exempelvis av att Swedbanks konkurssannolikhet 
+på tre års sikt är nästan 10 gånger större än sannolikheten att banken 
+ställer in betalningarna under det närmaste året. Eftersom huvuddelen av 
+garantierna har en löptid på mindre än tre år överskattar IMF de förväntade 
+kostnaderna högst väsentligt. Ytterligare en viktig faktor är att IMF:s 
+estimering av konkurssannolikhet innefattar inte endast den förväntade 
+konkurssannolikheten utan också en riskpremie medan Riksgäldens 
+estimeringar är ”rena” konkurssannolikheter. 
+IMF:s beräkning utgår med andra ord från en marknadsmässig 
+avgift. En sådan avgift är alltid högre än vad som krävs för att täcka den 
+förväntade kostnaden. Utöver den förväntade kostnaden kräver en privat 
+aktör kompensation för risken att den faktiska kostnaden kan bli högre än 
+den förväntade kostnaden. Studier av prissättningen av företagsobligationer 
+ger en uppfattning om riskpremiens storlek, det vill säga skillnaden mellan 
+förväntad kostnad och en marknadsanpassad avgift. Dessa studier indikerar 
+att riskpremien kan vara högre än den förväntade kostnaden. Allt annat 
+lika innebär det att IMF för varje given löptid överskattar den förväntade 
+kostnaden med en faktor 2. 
+IMF har alltså på ett antal punkter kraftigt överskattat de förväntade 
+kostnaderna för garantisystemet. Resultaten från Riksgäldens 
+katastrofscenario styrker denna bedömning.
+5 Redovisning av risker med och kostnader för åtgärdernaDe nya garantiåtagandena och krediterna innebär potentiellt stora 
+risker i form av framtida utgifter vid eventuella garantiinfrianden eller 
+kreditförluster. Effekterna på de offentliga finanserna kan bli betydande. 
+Det saknas i dag en överblick över de risker och förväntade kostnader 
+som statens olika finansiella åtaganden med anledning av krisen kan leda 
+till. Regeringen konstaterade i vårpropositionen att ”det inte är möjligt 
+att i dagsläget uppskatta hur mycket de vidtagna åtgärderna i slutändan 
+
+kommer att påverka statens finanser”. En mer öppen redovisning 
+av olika alternativscenarier skulle emellertid vara informativ och 
+trovärdighetsskapande. En bättre förståelse för statens ökade finansiella 
+risktagande har stor betydelse för möjligheterna att föra en uthållig 
+konjunkturpolitik. Med tanke på den snabba händelseutvecklingen är 
+det förståeligt att redovisningen av det finansiella risktagandet har varit 
+ofullständig. Det finns emellertid ett behov av att utveckla analysen på detta 
+område. 
+Rapporten ”Riksgäldens åtgärder för att stärka stabiliteten i det 
+finansiella systemet” (2009:K3) ger en god överblick över det finansiella 
+risktagandet för en delmängd av de statliga åtgärderna. I den rapporten 
+lämnas en redovisning av det statliga bankgarantiprogrammet, 
+kapitaltillskottsprogrammet för banker och bostadsinstitut och stödåtgärder 
+till banker och andra kreditinstitut i kris samt den stabilitetsfond som 
+finansierar statens stödinsatser inom ramen för stödlagstiftningen. De 
+förväntade effekterna på statens finanser av de nya uppdragen som 
+Riksgälden erhöll inom ramen för den nya stödlagen rapporteras på ett 
+föredömligt tydlig sätt. 
+I en rapportering som syftar till att ge regering och riksdag en överblick 
+över statens samlade risktagande krävs två slag av kompletteringar i 
+förhållande till Riksgäldens redovisning. För det första bör redovisningen 
+innehålla samtliga statliga åtgärder i samband med finanskrisen och 
+inte bara de nya uppdragen som Riksgälden erhöll inom ramen för 
+stödlagstiftningen. För det andra döljer de beräkningar som Riksgälden 
+genomför det ”faktum att mycket stora negativa utfall kan uppstå med liten 
+sannolikhet.” Storleken på de oförväntade kostnaderna redovisas med andra 
+ord inte alls. 
+Utöver en redovisning av de förväntade kostnaderna för de nya 
+uppdragen enligt stödlagen skulle den förstnämnda kompletteringen 
+innefatta en motsvarande redovisning av insättargarantin, stödet till 
+exportindustrin, stödet till små och medelstora företag, garantiåtaganden till 
+Europeiska investeringsbanken samt stödet till fordonsindustrin. 
+Den andra kompletteringen är en redovisning av olika scenarier 
+med stora förluster. Riksgälden har som ovan redogjorts för genomfört 
+stresstester av de fyra storbankernas förutsättningar att hantera en betydligt 
+sämre utveckling av samhällsekonomin och kreditförluster än den som 
+ligger i ett huvudscenario. En liknande analys för exempelvis exportindustrin 
+skulle vara enkel att genomföra. Det handlar här inte om några komplicerade 
+simuleringsmodeller som genererar sannolikhetsfördelningar över 
+förväntade förluster. Skattningar av något katastrofscenario motsvarande det 
+som Riksgälden genomfört för att studera bankernas motståndskraft mot en 
+kraftig konjunkturnedgång ger en tillräcklig komplettering av den bild som 
+förväntade kostnader ger.
+
+

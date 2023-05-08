@@ -1,0 +1,1324 @@
+RiR 2009:9
+Regeringens försäljning av 
+V&S Vin & Sprit AB
+
+Till regeringen Datum: 2009-06-10
+Dnr: 33-2008-0431
+Regeringens försäljning av V&S Vin & Sprit AB
+Riksrevisionen har granskat regeringens försäljning av V&S Vin & Sprit AB 
+(publ). Resultatet av granskningen redovisas i denna granskningsrapport.
+  Företrädare för Regeringskansliet har fått tillfälle att faktagranska och i 
+övrigt lämna synpunkter på utkast till rapporten.
+  Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+samtidigt till Riksrevisionens styrelse.
+  Riksrevisor Eva Lindström har beslutat i detta ärende. Revisionsdirektör 
+Dimitrios Ioannidis har varit föredragande. Biträdande granskningschef  
+Inge Danielsson, granskningsenhetschef Gina Funnemark, revisionschef  
+Göran Hyltander och revisionsdirektör Jenny Odhnoff har medverkat vid den 
+slutliga handläggningen. 
+Eva Lindström Dimitrios Ioannidis
+
+Innehåll
+Sammanfattning 7
+1  Inledning  11 
+1.1  Bakgrund  11 
+1.2  Försäljningen i huvuddrag  12 
+1.3  Syfte och revisionsfrågor  13 
+1.4  Utgångspunkter och bedömningskriterier  14 
+1.5  Metod  17 
+1.6  Rapportens disposition och omfattning  18
+2  Försäljningen av Vin & Sprit  19 
+2.1  Beskrivning av försäljningen av Vin & Sprit  19 
+2.2  Regeringens försäljning av Vin & Sprit – Iakttagelser  21
+3  Försäljningen av aktierna i Beam  25 
+3.1  Förberedelse och genomförande av förhandlingarna  25 
+3.2  Separationen av aktierna i Beam  28 
+3.3  Förvaltningen av Vin & Sprit och dess innehav i Beam  29 
+3.4  Regeringens rapportering av försäljningen  29
+4  Uppföljning och dokumentation  31 
+4.1  Uppföljning och dokumentation av försäljningen - Iakttagelser  31
+5  Slutsatser och rekommendationer  33 
+5.1  Revisionsfråga 1: Genomförde staten försäljningen av Vin & Sprit  
+  samt aktieinnehavet i Beam i enlighet med gällande lagstiftning,  
+  riksdagsbeslut och best practice för en sådan försäljningsprocess?  33 
+5.2  Revisionsfråga 2: Baserades regeringens redovisning av försäljningen  
+  i budgetpropositionen för 2009 på ett tillfredsställande underlag?  37 
+5.3  Jämförelse med försäljningen av 8 procent av aktierna i TeliaSonera  37 
+5.4  Rekommendationer  38
+Källförteckning  39 
+Definitioner och förkortningar  41 
+Bilaga 1  43
+
+  Sammanfattning
+Riksrevisionen har granskat regeringens försäljning av V&S Vin & Sprit AB 
+(publ). Riksrevisionen har anlitat expertis med affärsmässig och juridisk 
+erfarenhet samt kompetens för att kvalitetssäkra de analyser som ligger till 
+grund för granskningens slutsatser. 
+  Försäljningen av Vin & Sprit genomfördes i två delar. Vin & Sprit exklusive Vin & Sprits aktier i Beam såldes genom auktion. Beamaktierna såldes i 
+ett särskilt förfarande. 
+  Riksrevisionens övergripande slutsats är att försäljningsprocessen för 
+auktionsprocessen genomfördes väl och att försäljningen av Vin & Sprit 
+exklusive Beamaktierna gav ett gott ekonomiskt resultat. I granskningen har 
+vi koncentrerat oss på försäljningen av Beamaktierna. Denna aktiepost representerade ett betydligt mindre värde i relation till värdet av försäljningen av 
+Vin & Sprit, men motsvarade ändå ett betydande belopp.
+  Bakgrund 
+Den 14 december 2006 meddelade regeringen sin avsikt att minska det 
+statliga ägandet bland annat Vin & Sprit. Efter ett auktionsförfarande beslutade staten den 31 mars 2008 att sälja V&S Vin & Sprit AB (i fortsättningen 
+kallat Vin & Sprit) till Pernod Ricard S.A. (i fortsättningen kallat Pernod) för 
+55 miljarder kronor. Försäljningen slutfördes den 24 juli 2008, då staten även 
+beslutade att överlåta statens (tidigare Vin & Sprits) aktieinnehav i Beam 
+Global Spirits & Wine, Inc. (i fortsättningen kallat Beam) till Fortune Brands, 
+Inc. (i fortsättningen kallat Fortune) för 2,8 miljarder kronor. 
+  Vin & Sprit köpte år 2001 10 procent av aktierna i Beam från Fortune för 
+375 miljoner US-dollar för att öka kontrollen över distributionen av Vin & 
+Sprits produkter i USA. Vin & Sprit fick som en följd bland annat en styrelseplats i Beam. Ett aktieägaravtal upprättades mellan parterna som bland 
+annat reglerade försäljning och återköp av aktierna i Beam vid ett ägarbyte i 
+Vin & Sprit.
+  I budgetpropositionen för 2009 redovisade regeringen för riksdagen 
+målet med försäljningen av Vin & Sprit, försäljningens genomförande, försäljningen av innehavet i Beam, resultatet av försäljningen samt rådgivningskostnader.
+
+  Granskningens inriktning
+Följande övergripande frågor ställs i granskningen:
+•	 Genomförde	staten	försäljningen	av	Vin	&	Sprit	samt	aktieinnehavet	i	 
+  Beam Global Spirits & Wine i enlighet med gällande lagstiftning, riksdagsbeslut och best practice för en sådan försäljningsprocess? 
+•	 Baserades	regeringens	redovisning	av	försäljningen	i	budgetpropositionen för 2009 på ett tillfredsställande underlag?
+  Slutsatser
+  FöRSäLJNINGEN AV VIN & SPRIT ExKLUSIVE AKTIERNA I BEAM
+Riksrevisionens bedömning är att försäljningen av Vin & Sprit exklusive 
+aktierna i Beam var en väl genomförd försäljning med ett gott ekonomiskt 
+resultat. Det goda försäljningsresultatet uppnåddes trots att regeringen 
+ställde mycket höga krav på att köparen skulle ta de mest väsentliga riskerna 
+beträffande slutförandet av transaktionen, till exempel risken att köparen 
+inte godkändes av konkurrensvårdande myndigheter. Därigenom reducerades risken att staten ej skulle kunna erhålla den överenskomna likviden från 
+köparen.
+  Granskningen visar också att försäljningen genom auktion planerades 
+och genomfördes i alla väsentliga delar i enlighet med best practice.
+  Regeringens planering och genomförande av försäljningen skedde så att 
+de rådande gynnsamma marknadsförutsättningarna vid försäljningstillfället 
+kunde utnyttjas.
+  FöRSäLJNINGEN AV AKTIERNA I BEAM
+Riksrevisionens bedömning är att den administrativa hanteringen av separationen av aktierna i Beam från Vin & Sprit genomfördes på ett effektivt 
+sätt. Då en förhandlad uppgörelse om försäljningspriset inte kunde uppnås 
+fastställdes försäljningspriset av en oberoende värderingsman i enlighet 
+med aktieägaravtal från 2001. Försäljning av innehavet i Beam genererade 
+en realisationsförlust om cirka 2,1 miljarder kronor i förhållande till bokfört 
+värde. Det bokförda värdet var det belopp som aktierna också värderades 
+till i separationen av aktierna från Vin & Sprit, och som staten därigenom 
+godtog som värde på aktierna.
+  Det är inte möjligt att nu i efterhand avgöra i vilken utsträckning en 
+förhandlad uppgörelse hade gett ett högre försäljningspris än som nu blev 
+fallet. En sådan uppgörelse hade givetvis också inneburit att en oberoende 
+värdering att jämföra mot inte hade funnits. Riksrevisionen har dock i sin 
+
+inför förhandlingarna som kan ha påverkat möjligheterna att framgångsrikt 
+genomföra en förhandlad uppgörelse. Adekvata mandat, instruktioner om 
+lägsta pris och analyser av risker för olika alternativ var inte på plats när 
+förhandlingarna inleddes. 
+  Aktieägaravtalet och omständigheterna runt detta hade stor betydelse 
+för försäljningen av aktierna i Beam. Någon djupare kunskap om avtalet och 
+dess konsekvenser fanns inte inom Regeringskansliet. När det stod klart att 
+aktierna i Beam skulle säljas fick Regeringskansliet denna kunskap successivt med hjälp av sina rådgivare. Detta visar att regeringens löpande förvaltning av de helägda bolagen behöver förbättras inför eventuella framtida 
+försäljningar, bland annat genom dokumentation av förvaltningen. Under 
+den löpande förvaltningen kan det komma att genomföras åtgärder som 
+är berättigade från bolagets sida men som på olika sätt begränsar statens 
+äganderättigheter. I sådana fall måste det finnas god kännedom om begränsningar i statens äganderättigheter och de konsekvenser dessa kan ha. 
+  Riksrevisionens bedömning är att uppgifterna i Regeringskansliets beskrivning av försäljningen av Vin & Sprit och Beam i budgetpropositionen är 
+korrekta. Redovisningen är dock i två avseenden ofullständig. Försäljningen 
+av Beam genererade en realisationsförlust för staten om 2,1 miljarder kronor, 
+något som inte redovisades till riksdagen. Givet att regeringens uttalade mål 
+är att använda försäljningsintäkterna till att betala av statsskulden hade det 
+varit relevant att även redovisa försäljningens effekter på statsskulden.
+  JäMFöRELSE MED FöRSäLJNINGEN AV åTTA PROcENT AV AKTIERNA I  
+  TELIASONERA
+Riksrevisionen anser att regeringens försäljning av Vin & Sprit exklusive 
+aktierna i Beam har förbättrats på flera punkter jämfört med försäljningen av 
+åtta procent av aktierna i TeliaSonera. Dessa punkter är:
+•	 Målen	med	försäljningen	av	Vin	&	Sprit	var	tydligt	formulerade,	 
+  relevanta och prioriterade vilket starkt bidrog till att Regeringskansliet  
+  uppnådde målen i försäljningen.
+•	 Upphandlingen	av	rådgivarna	skedde	i	enlighet	med	best	practice.	
+•	 Regeringskansliets	interna	kompetens	avseende	praktisk	erfarenhet	av	 
+  planering och genomförande av försäljningar har förstärkts.
+•	 Säljaren	uppfattades	av	rådgivarna	som	väl	förberedd,	tillförlitlig	och	 
+  taktisk samt ansågs kapabel att ta avvägda risker avseende försäljningen.
+•	 Regeringskansliets	akt	är	bättre	strukturerad	och	mer	komplett	än	akten	 
+  från regeringens försäljning av åtta procent i TeliaSonera. 
+•	 Regeringens	rapportering	till	riksdagen	om	försäljningen	av	Vin	&	Sprit	 
+  var sakligare än regeringens redovisning av försäljningen av åtta procent  
+  av aktierna i TeliaSonera. 
+
+  Rekommendationer
+Riksrevisionen vill betona att det är viktigt att det även fortsättningsvis sker 
+ett lärande i regeringen och Regeringskansliet avseende de försäljningar 
+som kan komma att genomföras. Detta föranleder Riksrevisionen att rekommendera att inför kommande försäljningar sammanställa och följa relevant 
+best practice för respektive typ av planerad transaktion. Denna best practice 
+bör baseras på andras erfarenheter av framgångsrika försäljningar och egna 
+erfarenheter från tidigare försäljningar.
+Riksrevisionens iakttagelser och slutsatser avseende försäljningen av aktierna i Beam föranleder Riksrevisionen att rekommendera följande:
+•	 Regeringen	bör	i	försäljningsarbetet	ha	en	handlingsberedskap	för	att	 
+  kunna dra fördel av gynnsamma marknadsförutsättningar genom att  
+  planera och genomföra affärsmässiga förhandlingar. En fortsatt utveckling av Regeringskansliets kompetens och arbetsformer är av central  
+  betydelse för att en sådan handlingsberedskap ska finnas.
+•	 Regeringen	bör	säkerställa	att	Regeringskansliet	i	förekommande	fall	 
+  tydligt dokumenterar de förutsättningar och restriktioner i ett statligt  
+  bolags förvaltning som är av betydelse för eventuella framtida försäljningar.
+•	 Regeringen	bör	redovisa	försäljningarna	till	riksdagen	på	ett	fullständigt	 
+  och relevant sätt.
+
+1  Inledning
+1.1  Bakgrund
+Regeringen har redovisat att det statliga ägandet av företag ska minska och 
+har gjort bedömningen att försäljningar av statliga bolag bör kunna ske om 
+cirka 50 miljarder kronor per år under åren 2007-2010.1 Enligt regeringen bör 
+staten på sikt kvarstå som ägare endast då tungt vägande skäl talar för detta. 
+Försäljningsintäkterna ska användas för att amortera på statsskulden.
+  Den 14 december 2006 meddelade regeringen sin avsikt att minska det 
+statliga ägandet i TeliaSonera, OMx, Nordea Bank, civitas Holding (Vasakronan), SBAB och Vin & Sprit.2 Regeringen fick den 20 juni 2007 tillstånd av 
+riksdagen att sälja statens innehav i de sex bolagen.
+  I maj 2007 avyttrades 8 procent av aktierna i TeliaSonera genom en s.k. 
+bookbuilding process. Försäljningspriset uppgick till 50 kronor per aktie och 
+statens inkomster från försäljningen uppgick till 18 miljarder kronor. Regeringen beslutade den 31 januari 2008 att acceptera Borse Dubais offentliga 
+uppköpserbjudande till samtliga aktieägare i OMx om att förvärva aktier i 
+OMx till 265 kronor per aktie kontant. Staten ägde 6,6 procent av aktierna 
+och erhöll ca 2,1 miljarder kronor. 
+  Den 30 mars 2008 undertecknades aktieöverlåtelseavtal om att sälja 
+samtliga aktier i Vin & Sprit till franska Pernod för ca 55 miljarder kronor. I 
+denna försäljning ingick inte Vin & Sprits aktier i Beam. I samband med att 
+Vin & Spritaffären med Pernod Ricard avslutades den 24 juli 2008 slutförde 
+Regeringskansliet försäljningen av Vin & Sprits tidigare aktieinnehav i det 
+amerikanska spritföretaget Beam till Fortune för cirka 2,8 miljarder kronor. Staten hade som ett led i denna process tagit över Vin & Sprits aktier 
+i Beam. Den 3 juli 2008 avyttrades Vasakronan till AP Fastigheter för 41,1 
+miljarder kronor, även denna försäljning genomfördes som en kontrollerad 
+auktionsprocess.
+  Regeringen har som avsikt att redogöra för sina försäljningar av statliga 
+bolag i påföljande budgetproposition till riksdagen. I budgetpropositionen 
+för 2009 informerade regeringen riksdagen om försäljningen av Vin & Sprit 
+och Beam.3
+1  För 2009–2012 har inkomsterna från försäljning av statligt aktieinnehav beräkningstekniskt antagits till noll, vilket är en  
+  nedrevidering med 50 miljarder kronor per år jämfört med budgetpropositionen för 2009, prop. 2008/09:1.
+2  Presskonferens om försäljning av vissa statliga bolag.
+
+  I Riksrevisionens strategiska inriktning för åren 2008-2011 anges att 
+granskningsstrategin för statliga bolag i första hand fokuserar mot att 
+bevaka och granska försäljningen av de statliga bolagen. Den 8 december 
+2008 beslutade riksrevisor Eva Lindström att Riksrevisionen skulle inleda en 
+effektivitetsgranskning av regeringens försäljning av Vin & Sprit AB.
+1.2  Försäljningen i huvuddrag
+Den följande beskrivningen återger direkt regeringens redovisning av försäljningen i budgetpropositionen 2009.4
+”I fråga om Vin & Sprit hade regeringen som mål att avyttra hela aktieinnehavet. Regeringen beslutade den 30 mars 2008 att avyttra statens aktier i Vin 
+& Sprit till Pernod Ricard S.A. (Pernod Ricard), ett av världens ledande alkoholdryckesföretag. Försäljningen av Vin & Sprit slutfördes den 23 juli 2008.
+  Regeringskansliet genomförde försäljningsprocessen genom en s.k. 
+kontrollerad auktion där pris och övriga villkor inhämtats från olika köpare. 
+Processen genomfördes i två steg. Först inhämtades preliminära bud som 
+bedömdes av rådgivarna och Regeringskansliet. Därefter infordrades slutliga bindande bud från utvalda budgivare. Efter en samlad bedömning av de 
+slutliga buden beslutade regeringen att sälja samtliga aktier i Vin & Sprit till 
+Pernod Ricard. 
+  Till stöd för försäljningsbeslutet inhämtade regeringen ett yttrande från 
+Rådet för försäljning av aktier i bolag med statligt ägande. Rådet ställde sig, 
+utifrån affärsmässiga bedömningsgrunder, bakom en försäljning av Vin & 
+Sprit till Pernod Ricard.
+  Likviden för 100 procent av aktierna i Vin & Sprit erlades i dollar (US-
+dollar) och euro, varav 6 050 miljoner US-dollar och 1 450 miljoner euro. I 
+tillägg till likviden för aktierna övertog köparen nettoskuld och andra åtaganden, enligt överlåtelseavtal, på motsvarande 4,9 miljarder kronor. Det totala 
+värdet exklusive betalning för Beamaktierna och omräknat till kronor enligt 
+gällande växelkurs på tillträdelsedagen, motsvarade cirka 55 miljarder kronor. 
+Belopp i utländsk valuta (US-dollar/euro) har levererats in till RGK och 
+matchats mot löpande amorteringar samt räntebetalningar av statsskulden i 
+motsvarande valuta.”
+  ”Försäljningen av Vin & Sprits 10-procentiga innehav i Beam slutfördes i 
+en separat transaktion den 24 juli 2008 i enlighet med gällande avtal mellan aktieägarna i Beam (Vin & Sprit och Fortune Brands). Enligt detta avtal 
+skulle försäljningspriset på Beamaktierna, om parterna ej lyckats enas om 
+ 
+4  Den del av beskrivningen som utelämnats här är beskrivningen av hanteringen av ”the Absolut Art collection”.
+
+godtagbart pris, bestämmas av en oberoende värderingsman. En oberoende 
+värderingsman fastställde det bindande försäljningspriset till 455 miljoner 
+US-dollar. I tillägg till likviden för aktierna mottogs i samband med försäljningen dessutom upplupen men ej utbetald utdelning för aktieposten på 
+cirka 5,4 miljoner US-dollar. Total försäljningslikvid för Beamaktierna uppgick 
+därmed till 460,5 miljoner US-dollar.
+  Eftersom Pernod Ricards förvärv av Vin & Sprit inte inkluderade Beamaktierna genomfördes försäljningen av denna aktiepost via det av staten 
+helägda bolaget Preaktio AB. Försäljningslikviden kommer i samband med 
+Preaktios årsbokslut 31 december 2008 att delas ut till ägaren och i likhet 
+med övriga försäljningsintäkter användas för att amortera på statsskulden. 
+Beloppet med ränta kommer då att uppgå till motsvarande cirka 3 miljarder 
+kronor. 
+  Tillsammans med de 55 miljarder kronor som svenska staten tidigare 
+erhållit från Pernod Ricard för aktierna i Vin & Sprit motsvarar det totala 
+erhållna värdet för tillgångarna Vin & Sprit därmed cirka 58 miljarder kronor 
+av vilket 3,5 miljarder kronor representerar köparens övertagande av nettoskulder och 54,5 miljarder kronor kontantbetalning till staten.”
+  ”Regeringskansliet bistods under genomförandet av försäljningen av 
+Morgan Stanley som finansiell rådgivare och Advokatbyrån Vinge och KPMG 
+var rådgivare inom juridik respektive redovisning. Avseende juridisk rådgivning har Vinge anlitat specialister inom konkurrenslagstiftning och miljölagstiftning som underleverantörer. 
+  Statens totala rådgivningskostnad för projektet har uppgått till 
+112 000 000 kronor (0,19 procent av transaktionsvärdet) varav direkta 
+transaktionskostnader för bankrådgivning inklusive kostnader för kommunikationsrådgivare, resor med mera på 40 800 000 kronor (0,07 procent av 
+transaktionsvärdet) avräknas mot försäljningsintäkterna. övriga kostnader 
+avseende juridisk rådgivning samt redovisningstjänster i samband med 
+transaktionen har uppgått till 50 200 000 kronor respektive 21 000 000 kronor och belastade anslaget 1:20 Kostnader för omstrukturering och genomlysning av statligt ägda företag m.m.”
+1.3  Syfte och revisionsfrågor
+Granskning av regeringens försäljning av Vin & Sprit samt aktieinnehavet i 
+Beam har gjorts för att bedöma om denna finansiellt betydande försäljning 
+följde lag, riksdagens beslut och best practice för försäljning av statliga bolag 
+samt om regeringens redovisning i budgetpropositionen 2009 var väl grundad.5 Riksrevisionen har genom att anlita svensk och internationell expertis  
+5  Best practice baseras på flera olika källor, vilka inbegriper försäljning av såväl statliga som privatägda bolag.
+
+sammanställt best practice för att bidra till ett lärande inför kommande 
+försäljningar.
+  Vid försäljningar av statliga bolag är utmaningarna annorlunda än vid 
+försäljning av privata bolag. Kraven på offentlig granskning och redovisning 
+är exempelvis högre, samt att staten i jämförelse med många privata kapitalägare genomfört relativt sett få bolagsförsäljningar.
+  Riksrevisionens övergripande syfte med granskningen är att bidra till ett 
+lärande inför kommande statliga bolagsförsäljningar. Att sammanställa en 
+best practice för den specifika försäljning som genomförts är en central del 
+av Riksrevisionens granskning.
+Följande övergripande frågor ställs i granskningen:
+•	 Genomförde	staten	försäljningen	av	Vin	&	Sprit	samt	aktieinnehavet	i	 
+  Beam i enlighet med gällande lagstiftning, riksdagsbeslut och best  
+  practice för en sådan försäljningsprocess? 
+•	 Baserades	regeringens	redovisning	av	försäljningen	i	budgetpropositionen för 2009 på ett tillfredsställande underlag?
+1.4  Utgångspunkter och bedömningskriterier
+1.4.1  Regeringen har varit granskningsobjektet
+Regeringen beslutar om att genomföra de försäljningar som den fått bemyndigande från riksdagen att genomföra. Enligt 7 kap. 3 § Regeringsformen 
+avgörs regeringsärenden av regeringen vid regeringssammanträde. Enligt 
+7 kap. 5 § kan statsministern förordna att ett ärende som hör till ett visst 
+departement ska föredras vid regeringssammanträde av annat statsråd än 
+departementschefen. Detta är fallet för genomförande av försäljningen av 
+statens innehav i sex bolag som regeringen den 20 juni 2007 fick riksdagens 
+tillstånd att sälja.
+  Kommun- och finansmarknadsminister Mats Odell vid Finansdepartementet är föredragande i frågor beträffande försäljningen av de sex nämnda 
+bolagen. Enheten för statligt ägande vid Näringsdepartementet planerar och 
+genomför de försäljningsprocesser som Kommun- och finansmarknadsministern ansvarar för. Finansdepartementets budgetavdelning har ofta och i 
+allt väsentligt deltagit vid beredningen av ärendet.6 
+  Mot denna bakgrund är det enbart regeringens och Regeringskansliets 
+agerande som Riksrevisionen har granskat.
+6  Formulering, efter förslag från Regeringskansliets faktagranskning.
+
+1.4.2  Bedömningsgrunder
+  LAGAR
+Enligt 1 § lagen (1996:1059) om statsbudgeten ska hög effektivitet eftersträvas och god hushållning iakttas i statens verksamhet. Vidare anger 29 § att 
+försäljning av lös egendom ska genomföras affärsmässigt, om inte särskilda 
+skäl talar mot det. Affärsmässighet innebär att det ska tillses att priset blir 
+så fördelaktigt som möjligt för staten och att försäljningar till underpris inte 
+äger rum. Vidare ska försäljningsärenden handläggas utan ovidkommande 
+hänsyn.7
+  RIKSDAGENS BESLUT OcH UTTALANDEN
+Den 16 oktober 2006 visade regeringen i proposition 2006/07:1 budgetpropositionen för 2007 för riksdagen sin avsikt att minska statens ägande i bolag.8 I proposition 2006/07:57 Försäljning av vissa statligt ägda företag per 
+den 1 mars 2007 föreslog regeringen att bemyndigande skulle ges att avyttra 
+hela eller delar av aktieinnehavet i bolagen. 
+  Näringsutskottet höll den 26 april 2007 en offentlig utfrågning med 
+anledning av regeringens förslag om försäljning av vissa statligt ägda bolag. 
+I denna betonade Kommun- och finansmarknadsministern att processen 
+skulle vara öppen och transparent. Försäljningarna skulle ske på ett sätt som 
+vid en samlad bedömning ansågs vara det mest affärsmässiga.
+  Riksdagen beslutade den 20 juni 2007 om proposition Försäljning av 
+vissa statligt ägda företag (prop. 2006/07:57, bet. 2006/07:NU16, rskr. 
+2006/07:217). Därmed bemyndigades regeringen att få inleda försäljningsprocessen och minska ägandet i sex företag: civitas Holding AB som äger 
+Vasakronan AB, Nordea Bank AB, OMx AB, Sveriges Bostadsfinansieringsaktiebolag SBAB, TeliaSonera AB och V&S Vin & Sprit AB. Avseende Nordea 
+Bank AB, OMx AB och TeliaSonera AB fanns sedan tidigare bemyndigande 
+att minska statens ägande. Regeringen bemyndigades också att som likvid 
+vid försäljningarna motta aktier eller andra former av tillgångar. Riksdagen 
+beslutade att de kostnader som uppkommer för staten i samband med försäljningen av aktierna i de sex nämnda företagen får avräknas mot försäljningsintäkterna.
+  Beträffande försäljningsprocessen och kontrollen av försäljningarna 
+framhöll näringsutskottet att regeringen bör följa budgetlagen och inte ta 
+andra än affärsmässiga hänsyn när försäljningarna genomförs. Kontrollen av 
+försäljningarna sker genom frågeinstituten i riksdagen och konstitutionsutskottets granskning. Näringsutskottet avser dessutom att följa regeringens 
+arbete med försäljningarna.9
+7  Prop. 1995/96:220, s. 110, bet. 1996/97:KU3, rskr /1996/97:27/.
+
+  BEST PRAcTIcE
+I vårt arbete med att ta fram bedömningsgrunder har Riksrevisionen strävat 
+efter att identifiera kriterier för best practice för planering, genomförande och 
+uppföljning av den granskade försäljningen. Dessa ska fungera som komplement till de överordnade bedömningskriterierna som återfinns i lagar och 
+beslut. Best practice är inte en lika stark bedömningsgrund som ett regelsystem som är känt i förväg. Best practice uttrycker Riksrevisionens bedömning 
+av de höga kvalitetskrav som bör vara uppfyllda vid försäljningen. 
+  Riksrevisionen har samlat in kunnande och erfarenheter från myndigheter som granskat försäljningar och hos regeringar som genomfört försäljningar. Riksrevisionen har också samlat in kunskap och erfarenhet av 
+försäljningar från näringslivet såväl i Sverige som internationellt, hos säljare 
+av aktier och bolag och hos rådgivare till och utförare av försäljningar. 
+  Best practice kan definieras som det mest effektiva och verkningsfulla 
+sättet att genomföra något, baserat på erfarenheter av ett tillvägagångssätt 
+som fungerar och används, samt bedömd av experter på området som det 
+bästa som finns i bruk för tillfället. 
+  Best practice har sammanställts med hjälp av expertis från följande  
+områden:
+•	 Internationell	statlig	revision,	vilka	genomfört	granskningar	av	 
+  försäljningar (NAO och INTOSAI);
+•	 Privata	sektorn,	som	genomfört	försäljningar	av	större	tillgångar	och	 
+  använt sig av finansiella rådgivare;
+•	 Investment	banker,	som	lämnar	finansiell	rådgivning	i	samband	med	 
+  försäljningar; samt
+•	 Akademisk	expertis,	med	inriktning	på	det	affärsstrategiska	området	 
+  inom försäljningar.
+  Det brittiska statliga revisionsorganet, National Audit Office, (NAO), 
+har sedan 1990-talet utifrån bland annat best practice granskat försäljningar 
+som genomförts av den brittiska regeringen. Det brittiska finansdepartementet har upprättat riktlinjer för planering och genomförande av strukturaffärer 
+åren 1990, 1996 och 2000. Riksrevisionen har tagit del av dessa riktlinjer 
+som underlag.10
+  Försäljning av ett bolag, i sin helhet eller i delar, är ett omfattande arbete. 
+Det finns dock ingen standardmodell för hur en försäljningsprocess ska gå 
+till, processen måste anpassas till det specifika bolaget och dess förutsättningar, säljarnas önskemål, villkor och övriga marknadsförutsättningar. Vissa 
+huvudmoment i försäljningsprocessen är emellertid återkommande och 
+skapar en sammanhållande struktur i processen. 
+10  I korthet noterar Riksrevisionen att den övergripande strukturen i det brittiska finansministeriets riktlinjer i stort överensstämmer med den best practice som Riksrevisionen tagit fram. Värt att notera är att det brittiska finansministeriet hänvisar till  
+  det statliga revisionsorganet NAO i två avseenden i sina riktlinjer, dels de lärdomar som lyfts fram i NAO:s rapporter, dels att en  
+
+  I granskningen har best practice för försäljningar av den typ som granskningen omfattar identifierats, värderats, kvalitetssäkrats och sammanställts. 
+Granskningen utgår från de generella delarna från best practice i Riksrevisionens granskning av regeringens försäljning av 8 procent av de marknadsnoterade aktierna i TeliaSonera. 
+  Försäljningen av Vin & Sprit omfattar en försäljning av ett helägt statligt 
+bolag genom auktion samt en försäljning av Vin & Sprits minoritetspost 
+Beamaktier som reglerades i ett aktieägaravtal mellan Vin & Sprit och Fortune. Riksrevisionen har därför gjort justeringar efter avstämning med expertis 
+avseende den specifika försäljningssituation som använts för Vin & Sprit.
+  I bilaga 1 beskriver vi den best practice som vi tagit fram för denna granskning. 
+  Best practice är indelad i två delar. En första del behandlar aktieägaravtal 
+om minoritetsägande. Denna del motiveras av det faktum att minoritetsägandet i Beam var en betydande tillgång för Vin & Sprit. Denna del behandlar särskilt förvaltningen av bolaget och dess tillgångar då minoritetsposten 
+förvärvas samt en försäljning av en minoritetspost. En andra del behandlar 
+försäljning av ett onoterat helägt statligt bolag. Denna andra del behandlar 
+kriterier för Regeringskansliets planering och hantering av hela försäljningsprocessen, förberedelser och planering, upphandling av rådgivare, genomförande av försäljning genom auktion samt uppföljning. För försäljningen 
+av minoritetspost omfattar best practice, vid sidan om de kriterier som 
+presenteras ovan, även de kriterier som listas nedan för Regeringskansliets 
+planering och hantering av hela försäljningsprocessen, förberedelser och 
+planering, upphandling av rådgivare samt uppföljning i den andra delen av 
+best practice som behandlar försäljning av ett onoterat helägt statligt bolag.
+  Riksrevisionen har arbetat såväl med ett informellt nätverk där meriterade personer på frivillig basis delat med sig av sina erfarenheter som med 
+kontrakterade experter. Specifikt har bland annat Svante Adde, bidragit till 
+och kvalitetssäkrat best practice. Erik Nerep, JanMikael Bexhed och Bo Legelius har särskilt bidragit och kvalitetssäkrat juridiska aspekter i best practice 
+samt frågor som rör upprättandet av aktieägaravtal.
+1.5  Metod
+Granskningens iakttagelser baseras på aktgranskning, övrig dokumentation 
+från Näringsdepartementet och Vin & Sprit samt intervjuer med Näringsdepartementet och företrädare från Vin & Sprit. Riksrevisionen har även 
+intervjuat Morgan Stanley och Vinge, som var rådgivare till regeringen i 
+försäljningen. Riksrevisionen har också anlitat expertis för avstämning av 
+best practice samt de analyser och slutsatser som Riksrevisionen inkluderar i 
+denna granskningsrapport.
+
+  Regeringskansliet har beretts möjlighet att göra faktagranskning av 
+granskningsrapporten exklusive slutsatser och rekommendationer. Riksrevisionen har i allt väsentligt beaktat Regeringskansliets förslag om ändringar 
+och i de fall Regeringskansliet bifogat utförliga kommentarer av klargörande 
+karaktär valt att i fotnot bifoga dessa.
+1.6  Rapportens disposition och omfattning
+I jämförelse med Riksrevisionens granskning RiR 2008:12 Regeringens 
+försäljning av åtta procent av aktierna i TeliaSonera är beskrivningen av den 
+genomförda försäljningen mindre omfattande i denna rapport. Huvudskälet till att rapporten är relativt kortfattad är att försäljningsprocessen för 
+auktionsprocessen var väl genomförd och att försäljningen av Vin & Sprit 
+exklusive aktierna i Beam gav ett gott resultat. I granskningen har vi koncentrerat oss på försäljningen av Vin & Sprits aktiepost i Beam där vi har vissa 
+granskningsresultat att redovisa. Denna aktiepost representerade ett betydligt mindre värde i relation till värdet av försäljningen av Vin & Sprit, men 
+representerar likväl ett betydande belopp.
+  Rapportens disposition är som följer. Avsnitt 2 innehåller iakttagelser av 
+och slutsatser om försäljningen av Vin & Sprit exklusive aktierna i Beam. Av-
+snitt 3 innehåller iakttagelser av och slutsatser om försäljningen av aktierna i 
+Beam. Avsnitt 4 innehåller iakttagelser av och slutsatser om Regeringskansliets uppföljning och dokumentation av försäljningen. Granskningen avslutas 
+med avsnitt 5 som innehåller slutsatser och rekommendationer.
+
+2  Försäljningen av Vin & Sprit 
+Detta kapitel inleds med en översiktlig beskrivning av försäljningen av Vin & 
+Sprit exklusive aktierna i Beam. Denna beskrivning följs av Riksrevisionens 
+iakttagelser, vilka struktureras efter relevanta delar i best practice, försäljning 
+av ett onoterat helägt statligt bolag genom auktion. Riksrevisionens slutsatser som avslutar detta kapitel är baserade på avstämning mot denna del av 
+best practice.
+2.1  Beskrivning av försäljningen av Vin & Sprit 
+Från och med regeringsskiftet i september 2006 till och med den första 
+noteringen i Regeringskansliets akt den 16 februari 2007 bereddes ärendet 
+internt inom Regeringskansliet.11 Den 19 mars 2007 föredrogs för Kommun- och finansmarknadsminister Mats Odell tentativ målbild, försäljningsprocess, risker, försäljningsmetoder samt kommunikationsstrategier. Den 
+övergripande tentativa målbilden var:
+•	 Försäljningen	ska	ske	till	högsta	pris	med	hänsyn	tagen	till	affärsmässiga	 
+  överväganden,
+•	 Processen	kommer	sannolikt	vara	”kontrollerad	auktion”	och	inbjudan	 
+  till intresseanmälan innehålla detaljerad information om villkor för  
+  försäljning,
+•	 Transaktionens	omfattning:	försäljning	avser	100	procent	av	aktierna,
+•	 Betalningslikvid	i	form	av	kontanter	till	100	procent	föredras	om	inte	 
+  pris/värdemässiga skäl talar för annat,
+•	 Transaktionsstruktur
+  –  En försäljning av hela innehavet till samma köpare/grupp av köpare  
+    föredras 
+  –  Om det av värderingsskäl eller processkäl finns motiv för en transaktionsstruktur som medför en delning/ styckning av bolaget kan det  
+    övervägas,
+•	 Inga	garantier	från	säljaren,
+•	 Signering	av	överlåtelseavtal	inom	tolv	månader.
+11  Justerade intervjuanteckningar från möte den 27 oktober 2008.
+
+Under våren och sommaren 2007 upphandlades finansiella rådgivare (Morgan Stanley), legala rådgivare (Vinge) samt revisionsfirma (KPMG). Under 
+sommaren och hösten analyserade regeringen olika strategiska och kommersiella alternativ, legala förutsättningar och genomlyste bolagets ekonomiska 
+ställning.  
+  Med anledning av den planerade försäljningen av Vin & Sprit beslutade 
+styrelsen i bolaget i juni 2007 om en tillfällig bonus som ett incitament för 
+vissa ledande befattningshavare och andra nyckelpersoner att stanna kvar i 
+företaget minst tre månader efter avslutad försäljning.
+  Den 4 december 2007 lämnade Rådet för försäljning av aktier i bolag 
+med statligt ägande ett yttrande i samband med förberedelserna för den 
+föreslagna avyttringen av Vin & Sprit. 
+  Regeringens analys- och förberedelsefas avslutades den 5 december 
+2007.
+  Den 11 december 2007 inleddes auktionsförfarandet avseende Vin & 
+Sprit genom att Morgan Stanley kontaktade de utvalda intressenterna och 
+tillsände dessa bland annat informationsmemorandum. Sista dag för inlämnandet av indikativa (icke bindande) bud till Näringsdepartementet var den 
+24 januari 2008. Kommun- och finansmarknadsminister Mats Odell beslöt 
+den 4 februari 2008 vilka fyra budgivare som tilläts gå vidare i budprocessen. 
+Dessa budgivare fick möjlighet att genomföra ytterligare fördjupade informationsinhämtning beträffande Vin & Sprit, så kallad fördjupad due diligence, 
+VDD, innan bindande bud och justeringar i aktieöverlåtelseavtalet skulle 
+lämnas till Näringsdepartementet den 27 mars 2008. 
+  Av de fyra buden som lämnades i 27 mars 2008 bedömde Morgan 
+Stanley och Regeringskansliet att Pernods bud var bäst avseende pris och 
+övriga villkor, varför Morgan Stanley och Regeringskansliet rekommenderade 
+regeringen att snarast möjligt underteckna överlåtelseavtalet med Pernod. 
+  Yttrande från Rådet för försäljning av aktier i statliga bolag angående 
+förslag till avyttringen av statens aktier i Vin & Sprit inhämtades. Rådet 
+noterade i sitt yttrande den 29 mars 2008 att projektgruppen på ett tillfredsställande sätt fick anses ha behandlat de propåer angående marknadsmässig 
+värdering av delarna av Vin & Sprit och om främjande av samverkan mellan 
+olika intressenter i konsortieform som rådet framförde i sitt yttrande den 4 
+december 2007. Vidare utgjorde, enligt rådets bedömning, det material som 
+presenterats ett fullgott underlag dels för att analysera och bedöma de olika 
+handlingsalternativ som svenska staten har som ägare av aktierna i Vin & 
+Sprit, dels för att bedöma och värdera de olika anbuden och väga dem mot 
+varandra. Av de fyra anbud som avgetts förordade Regeringskansliet anbudet från Pernod. Enligt rådets bedömning uppfyllde det nämnda anbudet 
+
+kravet på affärsmässighet i fråga om pris och övriga villkor. Rådet ansåg 
+också att anbudet från Pernod var det från affärsmässiga utgångspunkter 
+mest förmånliga bland de avgivna anbuden för svenska staten som säljare av 
+aktierna i Vin & Sprit. Det nämnda anbudet var även förmånligare än andra 
+handlingsalternativ för staten, bland dem en börsintroduktion av Vin & Sprit.
+  Efter regeringsbeslut undertecknades aktieöverlåtelseavtal mellan 
+svenska staten och Pernod den 30 mars 2008. Europeiska kommissionen 
+godkände den 17 juli 2008 Pernods föreslagna förvärv av aktierna i Vin & 
+Sprit, och transaktionen slutfördes den 24 juli 2008.
+2.2  Regeringens försäljning av Vin & Sprit – Iakttagelser
+Nedan redovisas som anges i 1.7 kortfattat de iakttagelser RiR gjort på 
+grundval av aktgranskning och minnesanteckningar från intervjuer med 
+mera.
+2.2.1  Iakttagelser – förberedelser och planering
+  FöRSäLJNINGSORGANISATION
+Regeringskansliets interna kompetens avseende praktisk transaktionserfarenhet har förstärkts genom rekrytering jämfört med tidigare försäljningar.
+  Regeringskansliets företrädare uppfattades av rådgivarna som en adekvat förberedd, tillförlitlig, taktisk och kapabel säljare som kunde ta avvägda 
+risker samt vara flexibel.
+  PLANERING OcH MåLBILD
+Målen med försäljningen formulerades tidigt i processen. De var relevanta 
+och prioriterades i hela försäljningsprocessen.
+
+  VäRDERING AV BOLAGET
+Regeringen tar inom ramen för den löpande förvaltningen kontinuerligt emot 
+oberoende värderingar från svenska och internationella rådgivare.12 Regeringskansliet genomförde ingen oberoende värdering av Vin & Sprit inför 
+upphandling av finansiell rådgivare. Värdering av bolaget gjordes i november 
+2007 och mars 2008 av regeringens finansiella rådgivare.
+  UPPHANDLING AV RåDGIVARE
+Upphandlingen av rådgivarna skedde i enlighet med best practice. 
+  KOMMUNIKATIONSPLAN
+Regeringskansliet biträddes av en kommunikationskonsult inför pressträffar 
+och pressreleaser. Konsulten upprättade även en kommunikationsplan. Efter 
+läckor till medierna infördes ett antal säkerhetsåtgärder rörande tillgången 
+till känslig information. 
+2.2.2  Iakttagelser – genomförande av försäljningen 
+Metod för försäljningen valdes efter en omfattande analys- och förberedelsefas inom Regeringskansliet. Regeringen inhämtade även yttrande från 
+Rådet för försäljning av aktier i bolag med statligt ägande. Därefter godkände 
+statsrådet Mats Odell Näringsdepartementets rekommendation avseende 
+försäljningen. De fyra borgerliga partiledarna samt finansministern ställde 
+sig bakom statsrådets rekommendation.
+  FöRBEREDA INFORMATIONSPAKET
+Samtliga budgivare fick tillgång till likvärdig information i form av sedvanligt informationsmaterial, informationsmemorandum och s.k. vendor due 
+12  Efter förslag från Regeringskansliets faktagranskning: ”Till detta ska tilläggas att Regeringskansliet under upphandlingsprocessen 
+  och inför anlitandet av Morgan Stanley emottog åtta olika oberoende preliminära värderingar från svenska och internationella  
+  banker, underlag som Riksrevisionen haft tillgång till under granskningen. Detta var en väsentlig fråga som departementet ställde  
+  i det förfrågningsunderlag som tillställdes de nio banker som deltog i upphandlingen. Värdet av en värdering inför upphandling av  
+  finansiell rådgivare i en process likt V&S projektet är dock begränsat, framförallt av följande skäl:
+  – Försäljningen av V&S baserades på ett politiskt ställningstagande varför en värdering innan en process har påbörjats inte  
+  påverkar regeringens syn på om försäljningen ska genomföras. Dock fanns det en kunskap inom Regeringskansliet att V&S var  
+  en värdefull tillgång som ett resultat av den löpande förvaltningen av bolaget.
+  – Innan en försäljningsprocess likt denna har påbörjats är informationen på vilket värderingen baseras begränsad för en  
+  oberoende part vilket gör att relevans och tillförlitlighet blir låg jämfört med en värdering som baseras på en mycket bredare  
+  och mer detaljerad information efter att en granskning/genomgång (likt en vendor due diligence) av bolaget har genomförts.  
+  Viktiga indata är exempelvis managementintervjuer, djupare analys av framtida intjäningsförmåga och marknadsutveckling. Med  
+  andra ord bör värdering ske under den s.k. förberedelsefasen och i mån av behov därefter uppdateras. Detta på basis av mer  
+  detaljerad kunskap, något som alltså vanligtvis inte alltid finns att tillgå för en oberoende aktör. I vissa fall skall också exakt  
+  perimeter (dvs. vad följer med i en försäljning) bestämmas under förberedelserna.
+  – Den tidsutdräkt en dylik process medför innebär en värdering inför upphandling av finansiell rådgivare sker upp till 9-12  
+  månader innan marknadens prissättning inkommer dvs. bud och förhandling. Under en sådan period kan många fundamentala  
+  faktorer för värderingen ha förändrats. Att jämföra buden med en värdering som genomförts för länge sedan, och som har  
+  baserats på begränsad och eventuellt inte längre giltig information bidrar högst begränsat till beslutsprocessen.”
+
+diligence rapport.13 Samtliga budgivare hade möjlighet att ställa frågor till 
+Vin & Sprits ledning som genom former som organiserats av den finansiella 
+rådgivaren.
+  IDENTIFIERA OcH KONTAKTA POTENTIELLA KöPARE
+Samtliga budgivare som uppfyllde de av regeringskansliet uppställda urvalskriterier erbjöds delta i auktionsprocessen. 
+  INDIKATIVA BUD
+Samtliga inkomna bud (indikativa bud per den 24 januari 2008 och bindande bud per den 27 mars 2008) hanterades på samma sätt av Regeringskansliet; de registrerades innan öppnandet hos registratorn på Näringsdepartementet, och informationen hölls till en begränsad grupp av personer för att 
+behålla sekretess och minska spridningen av informationen.
+  URVAL AV POTENTIELLA KöPARE
+Regeringskansliet och den finansiella rådgivaren genomförde tillsammans 
+urvalet av de budgivare som skulle få tillgång till fördjupad information för 
+att därefter inkomma med bindande bud.
+  DUE DILIGENcE
+Samtliga budgivare fick möjlighet att genomföra en fördjupad due diligence 
+på samma villkor.
+  MOTIVERA LEDNING OcH NYcKELPERSONER
+Regeringen stödde styrelsens i Vin & Sprits beslut om incitament för vissa 
+ledande befattningshavare och andra nyckelpersoner under försäljningsfasen. Regeringen ansåg att det var viktigt att säkerställa en fortsatt framgångsrik värdeutveckling av Vin & Sprit och att det var viktigt att verksamheten fortsatte som vanligt oavsett försäljningsprocessen. Anställningsvillkoren 
+avvek under försäljningsfasen från de existerande riktlinjerna för ersättning 
+till ledande befattningshavare i statligt ägda bolag. 
+13  Vendor due diligence, VDD, genomförs initialt av den säljande parten i en transaktion. Syftet är att ge potentiella investerare en  
+  omfattande, oberoende analys av målbolaget. Omfattningen av VDD-rapporten anpassas så att den ska tillgodose informationsbehov för såväl finansiella som industriella köpare. En bra VDD-rapport bidrar till en effektivare budprocess och leder till bättre  
+  kvalitet i budgivningen. Fördjupad due diligence genomförs senare i försäljningsprocessen av de i andra omgången utvalda  
+  budgivarna.
+
+  SLUTLIGT BUD
+Regeringen var tydlig med att de slutliga buden skulle vara bindande, fullt 
+finansierade och ovillkorade.
+  AKTIEöVERLåTELSEAVTAL
+Regeringen minimerade antalet garantier i aktieöverlåtelseavtalet samtidigt 
+som den lyckades uppnå ett högt pris.
+  Till följd av att buden var bindande, fullt finansierade och ovillkorade, 
+omfattade de slutförhandlingar som genomfördes begränsade redaktionella 
+förändringar i aktieöverlåtelseavtalet.14
+  Regeringen inhämtade yttrande från Rådet för försäljning av statliga bolag inför undertecknade aktieöverlåtelseavtal mellan staten och Pernod den 
+30 mars 2008. Rådet tillstyrkte avtalstecknande med Pernod.
+  SLUTFöRANDE AV TRANSAKTIONEN
+Försäljningen slutfördes den 24 juli 2008 efter godkännande från Europeiska 
+kommissionen den 17 juli 2008. Därmed slutfördes transaktionen inom den 
+planerade tid som hade fastställts vid undertecknandet av aktieöverlåtelseavtalet. Den 25 juli 2008 avslutades även försäljningen av Beam.
+14  Möte med Näringsdepartementet den 10 november 2008
+
+3  Försäljningen av aktierna i Beam
+Aktieinnehavet i Beam hade följande bakgrund. Vin & Sprit förvärvade i 
+samband med nya distributionssamarbeten år 2001 10 procent av aktierna 
+i Beam från Fortune för 375 miljoner US-dollar.15 Syftet var att öka kontrollen 
+över distributionen av sina produkter i USA.16 Ett aktieägaravtal upprättades mellan parterna som bland annat reglerade försäljning och återköp av 
+aktierna i Beam vid ett ägarbyte i Vin & Sprit. Vin & Sprit investerade år 2006 
+ytterligare 153 miljoner US-dollar för att behålla det 10-procentiga aktieinnehavet i Beam.17 Avtalsmässigt styrdes distributionsarrangemanget genom 
+exklusiva distributionsavtal och aktieägaravtal om gemensamt ägda bolag.18
+  Riksrevisionens iakttagelser av Beamförsäljningen som följer är indelade 
+i fyra delar, förberedelse och genomförande av förhandlingarna med Fortune, 
+separationen av Beamaktierna från Vin & Sprit, Regeringskansliets förvaltning av Vin & Sprit och Beaminnehavet samt regeringens rapportering till 
+riksdagen av Beamförsäljningen.19
+3.1  Förberedelse och genomförande av förhandlingarna
+Regeringens mål för försäljningen av Vin & Sprit var bland annat att maximera försäljningspriset. Detta mål gällde även för försäljningen av aktierna i 
+Beam.
+  Fortune utnyttjade sin rätt att återköpa Beamaktierna från Vin & Sprit vid 
+ägarbyte i Vin & Sprit, enligt aktieägaravtalet mellan Vin & Sprit och Fortune, 
+genom att utfärda en så kallad ”call notice” den 3 april 2008.20 Från och med 
+den 3 april hade Vin & Sprits aktier i Beam ingen annan möjlig köpare än 
+Fortune. I sin call notice erbjöd Fortune att betala 350 miljoner US-dollar för 
+aktierna i Beam. 
+15  Bakgrunden till de nya distributionssamarbetena var följande. Den tidigare samarbetspartnern (Seagram) för distribution av Vin &  
+  Sprits produkter utanför Sverige (inkl. i USA) lämnade samarbetet hastigt 2001. För Absolut var USA-marknaden mycket viktig.  
+  Vin & Sprit sökte därför under tidspress en ny stabil och fördelaktig distributionslösning. Lösningen blev att ett nytt bolag för  
+  distributionen i USA bildades, Future Brands. Future Brands bildades av Vin & Sprit tillsammans med Beam. Beam var ett tidigare  
+  helägt dotterbolag till Fortune. Vin & Sprit förvärvade som ovan angivit 10 procent av aktierna i Beam i samband med bildandet  
+  av Future Brands. ägarförhållandena i Future Brands avtalades till 51 procent för Beam och 49 procent för Vin & Sprit. På detta  
+  sätt stärkte Vin & Sprit kontrollen över distributionslösningen i USA.
+16  Vin & Sprit fick som en följd bland annat en styrelseplats i Beam.
+17  I samband med en nyemission som Fortune gjorde.
+18  Distributionsavtal tecknades år 2001 mellan Beam(Fortune) och Future och löpte till år 2012. Genom avtalen erhöll Vin & Sprit  
+  väsentlig kontroll och överblick över verksamheten i Future Brands och Beam, bland annat genom att Vin & Sprit fick vara med  
+  och besluta om bolagens prioriteringar och ersättningssystem till distributörer och säljare på viktiga marknader. Avtalen med  
+  Future Brands var utformade för att uppmuntra parterna till ett långsiktigt samarbete och öka det ömsesidiga beroendet i en
+  bransch som konsoliderades.Syftet med avtalet var enligt Vin & Sprit bland annat att uppmuntra intern konsolidering och försvåra  
+  att någon samarbetspart lämnade samarbetet på annat sätt än genom börsintroduktion.
+19  Iakttagelserna är baserade på aktgranskning och minnesanteckningar från intervjuer med mera i enlighet med vad som anges  
+  i 1.7.
+
+  FRåGAN OM FöRHANDLINGSMANDAT AKTUALISERAS
+Den 22 april 2008 sammanträdde Beams styrelse.21 Vin & Sprits representant i Beams styrelse meddelade på instruktion från Regeringskansliet att 
+bolaget inte godkände Fortunes bud om 350 miljoner US-dollar. Vin & Sprit 
+indikerade också att bolaget var villigt att låta en oberoende värderingsman 
+fastställa försäljningspriset för aktierna, i enlighet med aktieägaravtalets 
+regler.22 Fortune anförde att man kunde tänka sig en regelrätt förhandling 
+om priset på aktierna. Man kom också överens om att det skulle prövas om 
+parterna kunde komma överens i förhandling utanför Beams styrelse.23 
+  Den 8 maj 2008 gav Vin & Sprit efter instruktion från Regeringskansliet 
+ett skriftligt motbud till Fortune om 800 miljoner US-dollar. Detta bud motsvarade den övre delen i den värdering som Morgan Stanley hade utfört åt 
+regeringskansliet.
+  På Vin & Sprits styrelsemöte den 12 maj 2008 angav Vin & Sprits VD 
+att det krävdes ett tydligt mandat från regeringen i det fall Vin & Sprit skulle 
+representera ägaren vid en förhandling om försäljningen av Beamaktierna. 
+Den 12 maj 2008 erhöll i stället Regeringskansliet mandat från Vin & Sprits 
+styrelse att företräda Vin & Sprit i allt som rörde försäljningen av Vin & 
+Sprits innehav av aktierna i Beam. 
+  MöTE MED FORTUNE Då PRISUPPGIFTER UTBYTTES MELLAN PARTERNA 
+Den 13 maj 2008 kontaktade Regeringskansliet, i kraft av det mandat som 
+erhållits från Vin & Sprit, företrädare för Fortune för att meddela Fortune att 
+ett sådant mandat erhållits och för att diskutera förutsättningarna för vidare 
+förhandlingar. Regeringskansliet bad om ett möte.
+  Den 16 maj 2008 hölls ett möte utanför Beams styrelse mellan Vin & 
+Sprit, genom Regeringskansliet, och Fortune. Fortune nämnde under mötet 
+den högsta prisnivå man kunde tänka sig att betala för Vin & Sprits aktier i 
+Beam.24 Denna prisuppgift var väsentligt högre än det försäljningspris som 
+senare fastställdes av den oberoende värderingsmannen efter det att parterna inte lyckades uppnå en överenskommelse genom förhandling.
+  Regeringskansliets företrädare reserverade sig vid mötet för att den 
+svenska regeringen skulle godkänna en eventuell uppgörelse och att man 
+inte kunde binda regeringen vid en precis siffra men att man kunde utforska 
+om det fanns en gemensam grund för en förhandling. 
+21  Den instans som enligt aktieägaravtalet mellan Vin & Sprit och Fortune 2001 i första hand skulle avgöra priset på Beamaktierna.
+22  Bolagets tidigare vd uppger till Riksrevisionen att han ansåg att förhandlingsvägen var att föredra framför att försäljningspriset  
+  fastställdes i en oberoende värdering. Han sökte fram till dess att förhandlingen i Beams styrelse skulle hållas erhålla ett förhandlingsmandat samt ett minimipris från Regeringskansliet. Han erhöll ett muntligt förhandlingsmandat men inget minimipris.  
+  Då fullständiga förutsättningar därigenom enligt honom inte förelåg för en förhandling såg han därför inte några skäl att i Beams  
+  styrelse motsätta sig att försäljningspriset skulle fastställas av en oberoende värderingsman.
+23  Vin & Sprits VD indikerade att om förhandlingar skulle äga rum så förutsatte detta ägarens mandat.
+24  Riksrevisionen har från Regeringskansliets akt inhämtat att följande information föredrogs av Regeringskansliet på Vin & Sprits  
+  styrelsemöte den 12 juni 2008 : ”Under mötet nämnde FB att bolaget inte kunde betala mer än x miljoner för Vin & Sprits aktier i  
+
+  RISKANALYSER INKOMMER
+Den 5 maj 2008 noterade Regeringskansliet i en pm att de stora skillnaderna 
+mellan Regeringskansliets och Fortunes värderingar berodde på ”fundamentalt olika utgångspunkter”. Regeringskansliet noterade också att stor osäkerhet rådde om vilket värde en oberoende värderingsman skulle komma fram 
+till.
+  Den 19 och 21 maj 2008 presenterade Morgan Stanley för Regeringskansliet en riskanalys avseende fastställandet av försäljningspriset genom en 
+oberoende värdering.25
+  Presentationen från den 19 maj innehåller hänvisning till att Fortune indikerat att de tillämpat en illikviditetsrabatt på 20 procent i sin värdering av 
+aktieposten och hänvisat till att sådana rabatter i praxis omfattar ett spann 
+på mellan 15-50 procent (en sådan rabatt skulle kompensera för att aktierna 
+i Beam hade begränsat antal köpare).26 Morgan Stanley drar slutsatsen att 
+Fortunes starkaste argument i en eventuell oberoende bindande värdering 
+är illikviditetsrabatten. Rabattkravet skulle enligt Morgan Stanley avvisas eftersom någon rabatt inte var relevant. Detta då någon rabatt inte hade givits 
+när Vin & Sprit köpte aktierna.27 Morgan Stanley menade vidare att om en 
+rabatt skulle komma att tillämpas skulle värdet av de minoritetsrättigheter 
+som var knutna till Vin & Sprits aktiepost  samt den tidsfrist som Vin & Sprit 
+skulle ge Fortune vara positiva inslag vid värderingen.28 
+  Underlaget från den 21 maj 2008 kvantifierar två risker inför en eventuell 
+oberoende bindande värdering. Den första risken bedömdes vara att Fortune skulle kräva ersättning för de intäkter som bolaget skulle gå miste om 
+då distributionen av Absolut skulle upphöra, dessa beräknades till 17-200 
+miljoner US-dollar. Den andra risken bedömdes vara att den oberoende värderingsmannen skulle anse att en illikviditetsrabatt borde tillämpas, denna 
+beräknades till 138-172 miljoner US-dollar. Dessa två risker var enligt Morgan 
+Stanley inte helt additiva, men sammantaget innebar de att aktieposten i 
+Beam vid en eventuell oberoende värdering enligt aktieägaravtalet skulle 
+kunna värderas till under 500 miljoner US-dollar.
+25  Den 23 maj 2008 presenterade Advokatfirman Vinge en juridisk riskanalys.: PM Projekt 55 – Vissa frågor ang. closingrisk. Denna  
+  PM behandlar separationen av aktierna från Vin & Sprit. I sin faktagranskning uppger Regeringskansliet följande i denna fråga:  
+  “ Regeringskansliet gjorde under försäljningsprocessen löpande bedömningar avseende motpartsförhållandet till Fortune Brands.  
+  Många av dessa var av muntlig diskussion men specifikt när det gäller Beam fanns det exempelvis en pm upprättad av Davis  
+  Polk & Wardell den 16 januari 2008 som går igenom bl.a. risken av likviditetsrabatt. Sedermera i Morgan Stanleys värderingsrapporter under ett flertal tillfällen, t.ex. i dokumentet daterat 6 maj, fanns det en diskussion om möjliga risker att en värdering  
+  kunde innefatta likviditetsrabatt och separationskostnader. Denna riskanalys sammanfattades och uppdaterades innan precisering  
+  av instruktion om försäljningspris gavs den 22 maj.”
+26  En illikviditetsrabatt kompenserar en köpare för att en aktie har ett begränsat antal köpare och således inte föremål för en  
+  organiserad handel.
+27  Någon reglering av detta gjordes dock inte i aktieägaravtalet från 2001 mellan Fortune och Vin & Sprit). Företrädare för Vin &  
+  Sprit, som deltog i förvärvet av Beamaktierna och upprättandet av aktieägaravtalet avseende Beam har till Riksrevisionen uppgivit  
+  att frågan endast berördes muntligen.
+28  I den inlaga som Morgan Stanley lämnade till den oberoende värderingsmannen sammanfattar Morgan Stanley regeringens syn  
+  på rabatten på följande sätt: ” No liquidity discount is applied to the stake, given the absence of such a discount at the time of the  
+  original investment in 2001 and reinvestment in 2005 by V&S Furthermore, the shares offer liquidity given V&S’s right to sell the  
+  shares at fair market value to Fortune Brands at any time with 120 days notice; and V&S’s significant participation rights, including the rights to a Board seat, voting power, right of first offer, tagalong rights and registration rights are taken into account. The  
+  convertibility to common stock, including accrued and unpaid dividends, and preferred dividend priority associated with the stake  
+
+  FöRHANDLING OcH FASTSTäLLANDE AV PRIS I OBEROENDE VäRDERING
+Den 22 maj 2008 fick företrädare för Regeringskansliet, enligt uppgift i pm 
+från Regeringskansliet, mandat från statsrådet Mats Odell att för statens 
+räkning förhandla med Fortune angående Beamaktierna. Försäljningspriset 
+för aktierna skulle enligt mandatet inte understiga 600 miljoner US-dollar. 
+  Den 29 maj 2008 hölls förhandlingar mellan regeringen, genom Regeringskansliet, och Fortune.29 
+  Den 19 maj, 7 och 8 juni 2008 klagade företrädare för Fortune inför Vin 
+& Sprit på regeringens hantering av förhandlingen och den vidare försäljningsprocessen. Den 8 juni avböjde Fortune direkt kontakt med regeringen 
+och hänvisade regeringen till sin rådgivare.
+  Den 9 juni 2008 övergick Vin & Sprits aktier i Beam i direkt statlig ägo.
+  Den 9 juni 2008 inledde den oberoende värderingsmannen Hawkpoint 
+sitt arbete. Innan värderingen fastställdes, skickade Regeringskansliet en 
+förfrågan till Fortune om en förhandlad lösning var möjlig.
+  Den 23 juli 2008 fastställde Hawkpoint värdet av Beamaktierna till 455 
+miljoner kronor. Detta belopp var avsevärt lägre än det pris som Fortune 
+hade nämnt under mötet den 16 maj.30
+3.2  Separationen av aktierna i Beam
+Under förberedelsefasen sommaren och hösten 2007 genomfördes omfattande kartläggning av aktieägaravtalet.31 I november påbörjades arbetet 
+med hur Beamaktierna skulle exkluderas från Vin & Sprit. Den 9 mars 2008 
+lämnade Vinge sin slutliga pm om separationen av Beamaktierna från Vin & 
+Sprit. Separationen genomfördes under juni och juli 2008.32
+29  I sin faktagranskning påpekar Regeringskansliet följande: “Om man med första förhandlingen mellan regeringen och Fortune  
+  Brands’ avser en skarp förhandling med precisering av pris, så är detta korrekt från Regeringskansliets perspektiv. Däremot så  
+  hade andra diskussioner tidigare ägt rum mellan Regeringskansliet och V&S å ena sidan och Fortune Brands å den andra sidan.”
+30  Det är inte möjligt att i efterhand avgöra i vilken utsträckning en förhandlad uppgörelse hade gett ett högre försäljningspris. En  
+  förhandlad lösning hade givetvis också inneburit att en oberoende värdering att jämföra mot inte hade funnits.
+31  Vin & Sprits legala ombud i USA, Dechert LLP, presenterade ett memorandum, och statens legala rådgivare, Vinge, presenterade  
+  tillsammans med deras amerikanska legala ombud Davis Polk & Wardwell ett flertal memorandum under hösten.
+32  Den 12 respektive 14 maj 2008 ansökte Fortune hos domstolar i USA och Sverige om interimistiskt förbud för Vin & Sprit att överföra aktierna i Beam från Vin & Sprit till svenska staten. Den 16 respektive 20 maj 2008 avslogs Fortunes begäran om interimistiskt förbud av domstolar i USA respektive Sverige. Den 9 juni 2008 förvärvade Vin & Sprits dotterbolag Preaktio Beam  
+  aktierna från Vin & Sprit till bokfört värde, omkring 4,9 miljarder kronor, mot betalning i form av en revers (”Beamreversen”).  
+  I övertagandet ingick även alla rättigheter och förpliktelser rörande Beamaktierna. Samma dag förvärvade staten aktierna i  
+  Preaktio från Vin & Sprit för 1 krona. Den 23 juli 2008 reglerade staten genom Preaktio, hela sin skuld omkring 4,9 miljarder  
+  kronor, till Vin & Sprit enligt Beamreversen. För att möjliggöra för Preaktio att reglera Beamreversen utan att själv göra förlust,  
+  tillförde staten medel till Preaktio i form av ett ovillkorat aktieägartillskott motsvarande hela Beamreversens belopp, 4 930 miljoner kronor. Aktieägartillskottet gavs i form av överföring av en andel av statens köpeskillingsfordran på Pernod motsvarande  
+  omkring 50 miljoner US-dollar samt omkring 4,6 miljoner kronor. Den 24 juli 2008 överlät staten Beamaktierna till Fortune mot  
+  en köpeskilling om omkring 455 miljoner US-dollar (ca 2,8 miljarder kronor). Därutöver betalade Fortune omkring 5 miljoner US- 
+  dollar till Preaktio, motsvarade upparbetad ännu inte utbetald utdelning vid tidpunkten för Fortunes övertagande av Beamaktierna  
+  till Preaktio.
+
+3.3  Förvaltningen av Vin & Sprit och dess innehav i Beam
+Regeringskansliets årsakter från åren 2001-2007 över förvaltningen av Vin 
+& Sprit och dess innehav i Beam innehåller inte information om det större 
+projekt som förvärvet av aktierna i Beam utgjorde.33
+3.4  Regeringens rapportering av försäljningen
+Av budgetpropositionen 2009 framgår följande:
+”En oberoende värderingsman fastställde det bindande försäljningspriset till 
+455 miljoner US-dollar. I tillägg till likviden för aktierna mottogs i samband 
+med försäljningen dessutom upplupen men ej utbetald utdelning för aktieposten på cirka 5,4 miljoner US-dollar. Total försäljningslikvid för Beamaktierna uppgick därmed till 460,5 miljoner USD.”
+  ”Eftersom Pernod Ricards förvärv av Vin & Sprit inte inkluderade 
+Beamaktierna genomfördes försäljningen av denna aktiepost via det av 
+staten helägda bolaget Preaktio AB. Försäljningslikviden kommer i samband 
+med Preaktios årsbokslut 31 december 2008 att delas ut till ägaren och i 
+likhet med övriga försäljningsintäkter användas för att amortera på statsskulden. Beloppet med ränta kommer då att uppgå till motsvarande cirka 3 
+miljarder kronor.”
+  ”Tillsammans med de 55 miljarder kronor som svenska staten tidigare 
+erhållit från Pernod Ricard S.A. för aktierna i Vin & Sprit motsvarar det totala 
+erhållna värdet för tillgångarna Vin & Sprit därmed cirka 58 miljarder kronor 
+av vilket 3,5 miljarder kronor representerar köparens övertagande av nettoskulder och 54,5 miljarder kronor kontantbetalning till staten.”
+33  Av riktlinjer för dokumentation av Regeringskansliets bolagsförvaltning, som gäller från den 30 mars 2006, framgår bland annat  
+  att dokumentationen av förvaltningen ska göra det möjligt att följa viktigare händelseförlopp och ge en god överblick över vilka  
+  ställningstagande som skett i sådana frågor samt på vilka underlag de grundats. Till akten förs handlingar och uppgifter, i den  
+  omfattning som krävs för att kunna följa viktigare händelseförlopp som avser den löpande ägarförvaltningen såsom bland annat
+  hänvisningar till andra ärenden som berör förvaltningen av bolaget, kontakter mellan ägarförvaltningen och bolaget i för förvaltningen viktigare frågor samt övriga frågor som lett till ägarförvaltningens ställningstagande. Större projekt som berör förvaltningen av ett bolag, till exempel försäljning av hela eller delar av aktieinnehavet i ett bolag eller ett kapitaltillskott, bör läggas upp  
+  som ett särskilt ärende. En hänvisning görs till det aktuella ärendet i bolagets årsakt. 
+
+4  Uppföljning och dokumentation
+4.1  Uppföljning och dokumentation av försäljningen -  
+  Iakttagelser
+Regeringskansliets akt innehåller omfattande dokumentation av försäljningen. Uppföljning av försäljningen har genomförts av Regeringskansliet, men 
+denna har ännu ej bilagts i akten.34 Förutom uppföljningsmöte med regeringens rådgivare har rådgivarna även genomfört skriftliga enkäter.35
+  ärendet är ännu ej avslutat och arkiveringen av handlingarna i ärendet i 
+akten pågår i viss utsträckning fortfarande.
+34  Mail från projektledaren för försäljningen på Enheten för statligt ägande vid Näringsdepartementet den 9 februari 2009.
+35  Intervju med Morgan Stanley den 5 februari 2009, Intervju med Vinge den 12 februari 2009.
+
+5  Slutsatser och rekommendationer
+Riksrevisionens övergripande slutsats är att försäljningen av Vin & Sprit 
+exklusive aktierna i Beam var en väl genomförd försäljning med ett gott ekonomiskt resultat. Ett gott försäljningsresultat uppnåddes trots att regeringen 
+ställde mycket höga krav på att köparen skulle ta de väsentligaste riskerna 
+och därigenom minska statens riskexponering.
+  Den administrativa hanteringen av separationen av aktierna i Beam från 
+Vin & Sprit genomfördes på ett effektivt sätt.
+  Regeringen gjorde en realisationsförlust på 73 miljoner US-dollar i förhållande till Vin & Sprits anskaffningskostnad för Beamaktierna eller på ca 2,1 
+miljarder kronor i förhållande till det belopp som aktierna värderades till i 
+separationen av aktierna från Vin & Sprit, och som staten därigenom godtog 
+som värde på aktierna. 
+  Riksrevisionen bedömer också att uppgifterna i regeringens redovisning 
+till riksdagen av försäljningen i budgetpropositionen för 2009 är korrekta. 
+Redovisningen är dock i två avseenden ofullständig. Försäljningen av Beam 
+genererade en realisationsförlust för staten om 2,1 miljarder kronor, vilket ej 
+redovisades till riksdagen. Givet att regeringens uttalade mål är att använda 
+försäljningsintäkterna till att betala av statsskulden hade det varit relevant att 
+även redovisa försäljningens effekter på statsskulden.
+5.1  Revisionsfråga 1: Genomförde staten försäljningen av  
+  Vin & Sprit samt aktieinnehavet i Beam i enlighet med  
+  gällande lagstiftning, riksdagsbeslut och best practice för  
+  en sådan försäljningsprocess?
+5.1.1  Försäljningen av Vin & Sprit
+Riksrevisionens slutsatser är baserade på avstämning mot den del av best 
+practice som behandlar försäljning av ett onoterat helägt statligt bolag genom auktion.
+  Den centrala och övergripande slutsatsen är att regeringens försäljning 
+av Vin & Sprit genomfördes med gott resultat.
+
+  KOMPETENS
+Regeringskansliets interna kompetens avseende praktisk erfarenhet av planering och genomförande av försäljningar har förstärkts jämfört med tidigare 
+försäljningar.
+  PLANERING OcH GENOMFöRANDE AV FöRSäLJNINGEN
+Målen med försäljningen var tidigt i försäljningsprocessen tydligt formulerade, relevanta och prioriterade, vilket också framgår av akten. Riksrevisionen bedömer att detta starkt har bidragit till att Regeringskansliet uppnådde 
+målen i försäljningen.
+  Metod för försäljning valdes efter omfattande analys- och förberedelsefas 
+inom Regeringskansliet.
+  Regeringskansliet strävade efter och uppnådde hög konkurrens bland de 
+potentiella budgivarna, vilket skapade goda förutsättningar för att erhålla ett 
+högt pris på bolaget.
+  Försäljningen genom auktion planerades och genomfördes i alla väsentliga delar i enlighet med best practice.
+  Regeringens planering och genomförande av försäljningen skedde så att 
+de rådande gynnsamma marknadsförutsättningarna kunde utnyttjas.
+  Regeringen har verkat för att säkerställa en fortsatt framgångsrik värdeutveckling av Vin & Sprit så att verksamheten skulle kunna fortsätta som 
+vanligt under försäljningsprocessens gång.
+  MINIMERING AV STATENS RISKER EFTER TRANSAKTIONENS  
+  GENOMFöRANDE
+Regeringen har minimerat antalet garantier i aktieöverlåtelseavtalet. Regeringen ställde mycket höga krav på att köparen skulle ta de mest väsentliga 
+riskerna med slutförandet av transaktionen, till exempel risken att köparen 
+inte godkändes av konkurrensvårdande myndigheter. Därigenom reducerades risken för att staten ej skulle kunna erhålla den överenskomna likviden 
+från köparen.
+  AFFäRSMäSSIGHET
+Riksrevisionens bedömning är att resultatet av försäljningen av Vin & Sprit 
+var affärsmässigt enligt lagen (1996:1059) om statsbudget och att försäljningen genomfördes enligt best practice.
+
+5.1.2  Försäljningen av aktieinnehavet i Beam – slutsatser
+Riksrevisionens slutsatser är baserade på en avstämning mot de delar i best 
+practice som behandlar aktieägaravtal om minoritetsägande samt kriterierna 
+för Regeringskansliets planering och hantering av hela försäljningsprocessen.
+  FöRBEREDELSE OcH GENOMFöRANDE AV FöRHANDLINGARNA  
+  MED FORTUNE
+Målet för försäljningen av aktieinnehavet i Beam var att maximera försäljningspriset. Ett sätt att göra detta var att i en förhandling nå en uppgörelse 
+utan oberoende värdering. Regeringskansliets förberedelser för en sådan förhandlad uppgörelse var dock ofullständig när man den 13 maj bad Fortune 
+om ett förhandlingsmöte. Skälen till detta var följande:
+•	 Regeringskansliet	hade	på	ett	tidigt	stadium	inlett	en	analys	av	de	risker	
+  som var kopplade till en oberoende värdering i förhållande till en förhandlad lösning med Fortune. Analysen och därmed ett relevant underlag för bedömning av olika handlingsalternativ var dock inte färdig när  
+  förhandlingarna mellan parterna inleddes. 
+•	 Vid	mötet	den	16	maj,	mellan	Regeringskansliet	och	Fortune,	som	följde	 
+  på att Regeringskansliet diskuterat förutsättningarna för vidare förhandlingar med Fortune, nämnde Fortune den högsta prisnivå man kunde  
+  tänka sig att betala för Vin & Sprits aktier. Denna prisuppgift var väsentligt högre än det försäljningspris som senare fastställdes av den oberoende värderingsmannen efter det att parterna inte lyckades uppnå en  
+  överenskommelse genom förhandling. Vid mötet saknade Regeringskansliet mandat att företräda regeringen med en närmare instruktion  
+  om det lägsta pris som försäljning kunde ske till. Regeringskansliet  
+  kunde därför vid detta möte inte slutföra affären. 
+Regeringskansliets genomförande av förhandlingen försvårades av följande 
+skäl:
+•	 Förhandlingsklimatet	med	Fortune	försämrades	successivt	med	hänvisning från Fortunes sida till Regeringskansliets bristande mandat att  
+  kunna slutföra affären. Detta gjorde att förhandlingsvägen blev mindre  
+  framkomlig.
+•	 Regeringskansliet	eftersträvade	en	ägarledd	process,	och	genomförde	 
+  därför förhandlingarna. Detta var en relevant utgångspunkt. Företrädare 
+  för Vin & Sprit var Regeringskansliet behjälpligt i relativt begränsade 
+
+utsträckning på efterfrågan av Regeringskansliet men fanns inte till hands 
+vid förhandlingarna. Dessa företrädare hade deltagit i förvärvet av aktierna 
+och upprättandet av aktieägaravtalet med Fortune och hade därför god 
+kännedom om Regeringskansliets förhandlingsmotpart. Genom Regeringskansliets begränsade utnyttjande av kompetensen och erfarenheten hos Vin 
+& Sprit avstod Regeringskansliet från värdefullt stöd vid planeringen och 
+genomförandet av försäljningen.
+  SEPARATIONEN AV AKTIERNA I BEAM
+Separationen av aktierna genomfördes innan Beamförsäljningen inleddes. 
+Detta medförde att separationen av aktierna kunde genomföras på ett effektivt sätt. Riksrevisionens aktgranskning och övrig informationsinhämtning 
+genom bland annat intervjuer visar att regeringens förberedelser avseende 
+separationen av Beamaktierna var noggranna och omfattande. 
+  FöRSäLJNINGSRESULTAT
+Försäljningen av det 10-procentiga innehavet i Beam genererade en realisationsförlust om cirka 2,1 miljarder kronor i förhållande till bokfört värde. 
+Detta belopp var också det värde som aktierna värderades till när aktierna 
+separerades från Vin & Sprit, och som staten därigenom godtog som värde 
+på aktierna.
+  REGERINGSKANSLIETS FöRVALTNING AV VIN & SPRIT OcH DESS  
+  INNEHAV I BEAM
+I Regeringskansliets förvaltning av Vin & Sprit och dess innehav i Beam förvaltades inte kunskapen aktivt om de särskilda omständigheter som förelåg 
+genom det aktieägaravtal som bolaget slöt år 2001 med Fortune om Vin & 
+Sprits innehav i Beam. Regeringskansliet dokumenterade i sin förvaltning 
+inte de händelser som hörde samman med aktieägaravtalet och innehavet i 
+Beam från år 2001. 
+  I försäljningsprocessen fick Regeringskansliet i stället återskapa kunskap 
+om detta med hjälp av regeringens externa rådgivare när dessa var på plats 
+och med hjälp av Vin & Sprit i den mån det efterfrågades av Regeringskansliet. Denna kunskap var relevant för staten från den stund det var klart att 
+bolaget inklusive aktieposten i Beam var till försäljning. Aktieägaravtalet 
+och omständigheterna när det slöts hade stor betydelse för försäljningen av 
+aktieposten i Beam.
+
+5.1.3  Uppföljning och dokumentation av försäljningen
+Det har inte varit möjligt för Riksrevisionen att i januari 2009, sex månader 
+efter affärens slutförande, enbart utifrån aktens dokumentation av regeringens försäljning av aktierna i Beam fullt ut följa viktigare händelseförlopp. 36 
+Akten har därefter kompletterats av Regeringskansliet med anledning bland 
+annat av Riksrevisionens frågor. Riksrevisionens informationsinhämtning 
+från Regeringskansliets tjänstemän och regeringens rådgivare har också gett 
+en kompletterande bild. 
+5.2  Revisionsfråga 2: Baserades regeringens redovisning av  
+  försäljningen i budgetpropositionen för 2009 på ett  
+  tillfredsställande underlag?
+Regeringskansliets beskrivning av försäljningen av Vin & Sprit och Beam i 
+budgetpropositionen är korrekt, men i två avseenden ofullständig.
+  Försäljningen av Beam genererade en realisationsförlust för staten om 
+2,1 miljarder kronor och detta redovisades inte till riksdagen. Givet att regeringens uttalade mål är att använda försäljningsintäkterna till att betala av 
+statsskulden hade det varit relevant att även redovisa försäljningens effekter 
+på statsskulden.
+5.3  Jämförelse med försäljningen av åtta procent av aktierna i  
+  TeliaSonera
+Riksrevisionen anser att regeringens försäljning av Vin & Sprit exklusive 
+aktierna i Beam har förbättrats på flera punkter jämfört med försäljningen av 
+åtta procent av aktierna i TeliaSonera. Dessa punkter är:
+•	 Målen	med	försäljningen	av	Vin	&	Sprit	var	tydligt	formulerade,	 
+  relevanta och prioriterade vilket starkt bidrog till att Regeringskansliet  
+  uppnådde målen i försäljningen.
+•	 Upphandlingen	av	rådgivarna	skedde	i	enlighet	med	best	practice.	
+•	 Regeringskansliets	interna	kompetens	avseende	praktisk	erfarenhet	av	 
+  planering och genomförande av försäljningar har förstärkts.
+36  Tillgång till uppgifter: Enligt 6 § lagen (2002:1022) om revision av statlig verksamhet m.m. 6 § ska statliga myndigheter på  
+  begäran lämna Riksrevisionen den hjälp och de uppgifter och upplysningar som Riksrevisionen behöver för granskningen.
+  Enligt Konstitutionsutskottet är det av betydelse att styrningen [av de statliga bolagen] sker på ett sätt som skapar möjlighet att i  
+  efterhand granska regeringens agerande. Vidare ska det finnas rutiner för att göra det möjligt att följa viktigare händelseförlopp  
+  och att granska vilka kontakter som förevarit mellan bolagsledningar och berörda departement i frågor av större betydelse.
+  Det är, enligt konstitutionsutskottet viktigt att Riksrevisionen ges bästa möjliga förutsättningar att fullgöra sin granskning.  
+  Utskottet anser det angeläget att Riksrevisionens önskemål tillgodoses och att Riksrevisionens roll respekteras.(Konstitutionsutskottets betänkande 2008/09:KU10, s. 42 och 45)
+
+•	 Säljaren	uppfattades	av	rådgivarna	som	väl	förberedd,	tillförlitlig	och	 
+  taktisk samt ansågs kapabel att ta avvägda risker avseende försäljningen.
+•	 Regeringskansliets	akt	är	bättre	strukturerad	och	mer	komplett	än	akten	 
+  från regeringens försäljning av åtta procent i TeliaSonera. 
+•	 Regeringens	rapportering	till	riksdagen	om	försäljningen	av	Vin	&	Sprit	 
+  var sakligare än regeringens redovisning av försäljningen av åtta procent  
+  av aktierna i TeliaSonera. 
+5.4  Rekommendationer
+Riksrevisionen vill betona att det är viktigt att det även fortsättningsvis sker 
+ett lärande i regeringen och Regeringskansliet avseende de försäljningar 
+som kan komma att genomföras. Detta föranleder Riksrevisionen att rekommendera att inför kommande försäljningar sammanställa och följa relevant 
+best practice för respektive typ av planerad transaktion. Denna best practice 
+bör baseras på andras erfarenheter av framgångsrika försäljningar och egna 
+erfarenheter från tidigare försäljningar.
+Riksrevisionens iakttagelser och slutsatser avseende försäljningen av  
+aktierna i Beam föranleder Riksrevisionen att rekommendera följande:
+•	 Regeringen	bör	i	försäljningsarbetet	ha	en	handlingsberedskap	för	att	 
+  kunna dra fördel av gynnsamma marknadsförutsättningar genom att  
+  planera och genomföra affärsmässiga förhandlingar. En fortsatt utveckling av Regeringskansliets kompetens och arbetsformer är av central  
+  betydelse för att en sådan handlingsberedskap ska finnas.
+•	 Regeringen	bör	säkerställa	att	Regeringskansliet	i	förekommande	fall	 
+  tydligt dokumenterar de förutsättningar och restriktioner i ett statligt  
+  bolags förvaltning som är av betydelse för eventuella framtida försäljningar.
+•	 Regeringen	bör	redovisa	försäljningarna	till	riksdagen	på	ett	fullständigt	 
+  och relevant sätt.
+ 
+
+  Källförteckning
+  LAGAR
+Regeringsformen (1976:871)
+Lag (1992:1528) om offentlig upphandling
+Lag (1996:1059) om statsbudgeten
+Lag (2002:1022) om revision av statlig verksamhet m.m.
+Aktiebolagslag (2005:551)
+  RIKSDAGSTRYcK 
+Förordningen (1996:1515) med instruktion för Regeringskansliet
+Betänkande 1991/92:NU10 Privatisering av statligt ägda företag, m.m.
+Betänkande 2006/07:NU16 Försäljning av vissa statligt ägda företag
+Betänkande 2008/09:KU10 Granskning av statsrådens tjänsteutövning och 
+regeringsärendenas handläggning
+Betänkande 1997/98:NU15 Statens roll som ägare av bolag
+Proposition 1991/92:69 Privatisering av statligt ägda företag
+Proposition 1995/96:220 Lag om statsbudgeten
+Proposition 2006/07:57 Försäljning av vissa statligt ägda företag
+Proposition 2008/09:1 Budgetpropositionen för 2009
+  SKRIFTER FRåN REGERINGSKANSLIET
+Gula boken – Handläggningen av ärenden i Regeringskansliet (Ds 1008:39)
+Pressmeddelande, 14 december 2006, Näringsdepartementet, Finansdepartementet, Försäljning av företag med statligt ägande
+Pressmeddelande, 2 mars 2007, Finansdepartementet, Näringsdepartementet, Regeringens proposition om försäljning av vissa företag med statligt 
+ägande
+Pressmeddelande, 10 september 2007, Finansdepartementet, Regeringen 
+tillsätter ett råd för minskat statligt företagsägande
+Pressmeddelande, 22 oktober 2007, Finansdepartementet, Nytt förfaringssätt vid köp av finansiella tjänster
+Pressmeddelande, 11 december 2007, Finansdepartementet, Näringsdepartementet, Analysfasen avseende Vin & Sprit nu avslutad
+Pressmeddelande, 31 mars 2008, Finansdepartementet, Näringsdepartementet, Staten säljer Vin & Sprit för 55 mdr kr
+Pressmeddelande, 25 juli 2008, Finansdepartementet, Näringsdepartementet, Staten säljer Beamaktierna och slutför Vin & Sprit försäljningen till ett 
+värde av 58 mdkr
+Riktlinjer för anställningsvillkor för ledande befattningshavare i företag med 
+statligt ägande, 3 juli 2008
+Riktlinjer för extern rapportering för företag med statligt ägande, N7042, 11 
+december 2007
+Riktlinjer rörande anställningsvillkor för personer i företagsledande ställning, 
+samt för incitamentsprogram för anställda, i statliga företag, N3055, 1 oktober 2003
+Statens ägarpolitik 2007, N6019, 26 juni 2006
+Svensk kod för bolagsstyrning, Kollegiet för svensk bolagsstyrning (Gällande 
+från 1 juli 2008)
+Verksamhetsberättelse för företag med statligt ägande 2007, N8020
+  MATERIAL FRåN VIN & SPRIT
+årsredovisning 2007
+årsredovisning 2006
+årsredovisning 2001
+  RIKSREVISIONENS RAPPORTER
+Riksrevisionen. RiR 2007:8 Regeringens beredning av förslag om försäljning 
+av sex bolag
+Riksrevisionen. RiR 2008:12 Regeringens försäljning av åtta procent av aktierna i TeliaSonera
+  öVRIGA TRYcKTA KäLLOR
+Getting best value from trade sales and strategic partnerships, Her Majesty’s 
+Treasure, november 2000
+Trade sales, including management and employee buyouts, juli 1990,  
+Department of finance and personnel
+OEcD Guidelines on corporate governance on Stateowned Enterprises, 
+OEcD, 2005
+  öVRIGA IcKE TRYcKTA KäLLOR
+Seminarium om minskat statligt ägande, Finansdepartementet, 7 april 2008, 
+Rosenbads konferenscenter, Drottninggatan 1, Stockholm
+
+  Definitioner och förkortningar
+Auktion Försäljning av bolag genom kontrollerat auktionsförfarande
+Beam Beam Global Spirits & Wine, Inc.
+call Option Option att köpa
+civitas Holding civitas Holding AB
+Due Diligence Den faktainsamling och granskning som föregår en 
+speciell händelse, till exempel en försäljning.
+Finansiell rådgivare Morgan Stanley & co, Limited
+Fortune Brands Fortune Brands, Inc.
+Hawkpoint Hawkpoint Partners Limited 
+Illikviditetsrabatt En rabatt som ges till en köpare av en tillgång som det 
+inte finns många potentiella köpare till.
+Joint venture Samriskföretag
+Juridisk rådgivare Advokatfirman Vinge KB
+KPMG KPMG Bohlins AB
+Maxxium Maxxium Worldwide BV
+Morgan Stanley Morgan Stanley & co, Limited
+Nordea Nordea Bank AB
+OMx OMx AB
+Pernod Ricard Pernod Ricard S.A.
+Preaktio Preaktio AB (tidigare firma V&S Latin America AB)
+SBAB Sveriges Bostadsfinansieringsaktiebolag, SBAB (publ)
+TeliaSonera TeliaSonera AB
+Vin & Sprit V&S Vin & Sprit AB (publ)
+Vasakronan Vasakronan AB
+Vendor Due Diligence Vendor due diligence, VDD, genomförs initialt av den 
+säljande parten i en transaktion. Syftet är att ge potentiella investerare en omfattande, oberoende analys av 
+målbolaget. Omfattningen av VDD-rapporten anpassas 
+så att den ska tillgodose informationsbehov för såväl 
+finansiella som industriella köpare. En bra VDD-rapport 
+bidrar till en effektivare budprocess och leder till 
+bättre kvalitet i budgivningen. Fördjupad due diligence 
+genomförs senare i försäljningsprocessen av de i andra 
+omgången utvalda budgivarna.
+Vinge Advokatfirman Vinge KB
+
+Bilaga 1  Best practice för försäljning av  
+     ett onoterat helägt statligt bolag  
+     inklusive en minoritetspost ägd  
+     av bolaget
+Denna best practice är uppdelad i två delar, en del som omfattar hanteringen 
+av aktieägaravtal om minoritetsägande och en del om försäljning av ett 
+helägt statligt bolag. Den första delen är relevant för regeringens försäljning 
+av Vin & Sprits minoritetspost i Beam som reglerades i aktieägaravtal mellan 
+Vin & Sprit och Fortune. Den andra delen är relevant för försäljningen av Vin 
+& Sprit exklusive minoritetsposten i Beam.
+  Den del som omfattar hanteringen av aktieägaravtal om minoritetsägande innehåller ett avsnitt om förvaltningen av bolaget och dess tillgångar 
+samt en del om försäljning av en minoritetspost. Den del som omfattar försäljning av ett helägt statligt bolag är indelad i fem delar: kriterier för Regeringskansliets planering och hantering av hela processen, förberedelser och 
+planering, upphandling av rådgivare, genomförande av försäljningen genom 
+auktion samt uppföljning.
+  För försäljningen av en minoritetspost omfattar denna best practice vid 
+sidan om de kriterier som presenteras i den första delen även de som listas 
+listas under kriterier för Regeringskansliets planering och hantering av hela 
+försäljningsprocessen, förberedelser och planering, upphandling av rådgivare samt uppföljning i den andra delen av denna best practice som behandlar 
+försäljning av ett onoterat helägt statligt bolag.
+1  Aktieägaravtal om minoritetsägande
+  FöRVALTNING AV BOLAGET OcH DESS TILLGåNGAR
+•	 Ett	aktieägaravtal	sluts	för	att	passa	en	specifik	situation.	Situationer	och	 
+  förutsättningar varierar kraftigt. Det är därför omöjligt att ställa upp  
+  någon generell standard eller formulera en detaljerad best practice.
+•	 För	att	ett	aktieägaravtal	om	ett	minoritetsägande	ska	fungera	måste	det	 
+  dock uthålligt vara till ömsesidig nytta. Avtalet bör därför vara balanserat.  
+  Detta är ofta ett ömsesidigt intresse eftersom styrkeförhållandena  
+
+  mellan parterna kan förskjutas vid förändringar av konjunktur,  
+  marknads- och konkurrensförutsättningarna.
+•	 I	samband	med	att	aktieägaravtal	sluts	innehar	olika	aktörer	specifika	 
+  roller och har också specifika ansvar. Det är viktigt att noga beakta att  
+  arrangemangen kan få konsekvenser som inkräktar på de framtida  
+  möjligheterna att disponera över ägandet i det bolag som kommer att  
+  bli minoritetsägare. Försiktighet kan behöva iakttas med exempelvis  
+  klausuler som reglerar förändringar i ägandet hos endera delägaren  
+  i samarbetet till förmån för majoritetsägaren. Detta görs för att undvika  
+  obehöriga aktieägare då det är ett vanligt mål med aktieägaravtal att  
+  inte utvidga aktiekretsen. Nackdelarna med sådana klausuler bör noga  
+  vägas mot fördelarna med arrangemanget. Eftersom sådana arrangemang ofta är betydelsefulla och har verkningar under lång tid bör de  
+  inte beslutas av företagsledningen utan underställas styrelsen för beslut.  
+  De väsentliga komponenterna i det tilltänkta arrangemanget bör redovisas i en promemoria som lämnas till styrelseledamöterna i god tid före  
+  det sammanträde då styrelsen ska ta ställning till förslaget.
+•	 Bolagets	styrelse	ska	besluta	om	deltagandet	i	ett	samriskföretag	och/ 
+  eller minoritetsägande, i de fall detta är väsentligt eller principiellt viktigt  
+  genom att det riskerar att för framtiden binda upp det statliga svenska  
+  bolag som ska bli part i arrangemanget. Eventuella aktieägaravtal är nog  
+  så viktiga som själva förvärvet. Styrelsen bör involveras redan i ett tidigt  
+  skede för att ge företagsledningen direktiv om hur olika alternativ bör  
+  prioriteras och för att ange ramarna för vad som kan anses slutligt  
+  acceptabelt. Beslut och även diskussioner i styrelsen med anledning av  
+  sådana förslag från företagsledningen ska protokollföras, och underlag  
+  och förslag som lämnas till styrelseledamöterna ska tas in som bilagor  
+  till styrelseprotokollet.
+•	 Styrelsens	ordförande	är	ansvarig	för	att	styrelsen	involveras	i	den	utsträckning som krävs och att de frågor som ska beslutas av styrelsen  
+  hänskjuts till denna. Styrelsens ordförande har en nyckelroll. Denne bör  
+  i lämplig utsträckning konsultera bolagets ägare om det tilltänkta arrangemanget kan komma att påverka ägarens möjligheter att framöver  
+  förfoga över bolaget. I sådana fall får arrangemanget anses ha karaktär  
+  av ”ägarfråga”.
+•	 Ägaren	bör	aktivt	bevaka	sina	möjligheter	att	disponera	över	bolaget	 
+  genom att vara medveten om de faktiska inskränkningar i den framtida  
+  dispositionsrätten över minoritetsaktierna i ett bolag som ingått i ett  
+  aktieägaravtal och som har gjorts för att uppnå för bolaget väsentliga  
+
+  fördelar. Om ägaren gör bedömningen att nackdelarna överstiger fördelarna med aktieägaravtalet bör ägaren ge uttryck för detta och göra  
+  förbehåll. När en försäljning av ett helägt statligt bolag inte kan uteslutas  
+  i framtiden behöver ägarförvaltningen av ett bolag därför beakta faktorer  
+  av betydelse för eventuella försäljningar.
+  FöRSäLJNING AV EN MINORITETSPOST
+•	 Om	det	finns	ett	aktieägaravtal	med	en	reglering	som	innebär	att	en	 
+  delägares ägande i samriskföretaget ska erbjudas den andra parten  
+  (hembud) om ägandet av den som är delägare i samriskföretaget ändras  
+  bör situationen analyseras noggrant och kunskap inhämtas om de  
+  förhållanden som rådde när det ursprungliga avtalet slöts. Det är av  
+  värde att om man kan hänvisa till faktorer delägarna i joint venture  
+  bolaget tidigare var överens om under den förhandling som kan komma  
+  att följa.
+2  Försäljning av ett onoterat helägt statligt bolag
+2.1   Kriterier för Regeringskansliets planering och hantering av hela  
+  processen 
+  FöRSäLJNINGSORGANISATION
+•	 Sträva	efter	att	uppfattas	av	rådgivare,	potentiella	köpare	och	marknad	 
+  som tillförlitlig, vederhäftig och adekvat förberedd.
+•	 Kunna	agera	taktiskt,	kunna	ta	avvägda	risker	och	vara	flexibel.
+  PLANERING OcH MåLBILD
+•	 Tydligt	formulerade	mål	som	kommunicerats	internt	i	organisationen	 
+  och till relevanta delar av den externa omgivningen.
+  GENOMFöRANDE
+•	 Regeringskansliet	ska	bibehålla	kontrollen	över	försäljningsprocessen.
+•	 Upprätthålla	konkurrens	mellan	potentiella	köpare	under	hela	processen
+•	 Fokus	på	slutförandet	så	att	försäljningen	kan	slutföras.
+
+  VäRDERING AV KöPEOBJEKTET
+•	 Skaffa	en	grundlig	uppfattning	om	bolagets	värde	innan	försäljningsprocessen inleds. Denna värdering bör dels initialt fungera som underlag  
+  för regeringens beslut om en försäljning över huvud taget ska genomföras och ge förståelse av bolaget, dels därefter vara ett verktyg vid  
+  förhandlingar, till exempel vid bedömning och jämförelse av bud. Under  
+  försäljningsprocessens gång bör värderingen uppdateras fortlöpande i  
+  relation till det rådande marknadsläget.37
+•	 För	att	man	ska	kunna	optimera	värdet	på	bolaget	bör	de	faktorer	som	 
+  påverkar värderingen identifieras och analyseras. Faktorer med negativ  
+  påverkan bör i möjligaste mån elimineras, och faktorer med positiv  
+  inverkan bör eftersträvas och förstärkas.
+•	 För	att	undvika	eventuell	intressekonflikt	kan	en	särskild	oberoende	 
+  finansiell rådgivare utföra värderingen av det bolag som ska säljas.  
+  Det vanliga är emellertid att värderingen utförs av samma finansiella  
+  rådgivare som anlitats för att biträda vid försäljningen. Olika metoder  
+  bör användas vid värderingen av målbolaget för att verifiera värdet på  
+  bolaget.
+•	 När	värderingen	är	klar	bör	det	minimipris	som	kan	accepteras	fastställas och Regeringskansliet bör ha en uppfattning om var det maximala  
+  priset enligt dem bör ligga. Dessa priser ska dokumenteras. Priserna kan  
+  komma att behöva justeras under försäljningsprocessens gång. även  
+  sådana justeringar ska dokumenteras.
+2.2  Förberedelser och planering
+•	 Gedigna	förberedelser	krävs
+  –  Noggrann planering av kompetens- och resursförsörjning är  
+    nödvändig.
+	 	 •	 I	den	utsträckning	Regeringskansliet	har	begränsad	direkt	 
+      erfarenhet av att förbereda, planera och genomföra en försäljning  
+      bör relevant kompetens knytas till ansvarig enhet, för att bistå i  
+      det interna arbetet och för att professionellt kunna styra investmentbanker och andra externa rådgivare vars tjänster kan komma  
+      att upphandlas i ett senare skede.
+  –  Kunskap om försäljningsobjektet och dess marknader.
+	 	 •	 Till	exempel	ska	källor	till	relevant	kunskap	om	objektet	och	dess	 
+   
+37  En värdering och ett pris är närbesläktade men olika. En värdering är en teoretisk övning, medan priset är vad en investerare  
+  faktiskt är villig att betala för verksamheten eller aktierna vid en viss tidpunkt. 
+
+      marknad säkerställas. Den ofta mycket betydande kunskap som  
+      finns inom de bolag som säljs bör särskilt tas till vara.
+	 	 •	 Särskilda	förhållanden	som	kan	påverka	en	eventuell	försäljning	ska	 
+      analyseras, till exempel kontraktsmässiga, finansiella, legala, miljömässiga, produktansvar- eller skatterisker.
+  –  Kunskap bör inhämtas om olika försäljningsmetoder och deras  
+  lämplighet i det specifika fallet
+•	 När	kvalificerade	externa	rådgivare,	exempelvis	investmentbanker	och	 
+  advokatbyråer anlitas är det nödvändigt med tillräckligt professionell  
+  beställarkompetens, både för att säkerställa att relevant och bästa  
+  kompetens till lägsta pris upphandlas och, vilket är minst lika viktigt, för  
+  att fortlöpande styra och följa upp rådgivarnas arbete under försäljningsprocessen. I den mån Regeringskansliet inte internt har tillgång till  
+  beställarkompetens med tillräcklig erfarenhet för att fullt ut kunna  
+  matcha rådgivarna, bör sådan säkerställas genom externa konsulter.
+2.3  Upphandling av rådgivare
+•	 Regeringskansliet	ska	således	sträva	efter	att	agera	med	hög	beställarkompetens och vara aktivt gentemot sina externa rådgivare så att dessa  
+  ges lämpliga incitament och signaler i syfte att optimera försäljningens  
+  resultat. Hög beställarkompetens omfattar bland annat att:
+  –  Balansera kostnadsmedvetenhet med kvalitetsmedvetenhet
+  –  Aktivt följa och vid behov söka och styra över de förhållanden som  
+    omger försäljningen 
+	 	 •	 Söka	kontroll	över	processen	och	undvika	att	hamna	i	situationer			
+      där andra har avgörande inflytande över försäljningen
+  –  Bevaka de potentiella köparnas identitet och intentioner
+  –  Hantera potentiella intressekonflikter
+  –  Säkerställa insyn i och förståelse för de externa rådgivarnas konkreta  
+    hantering av försäljningsprocessens olika steg för att vid behov kunna  
+    överväga och genomföra nödvändiga justeringar
+	 	 •	 En	säljare	med	tillräcklig	erfarenhet	av	försäljningar	i	allmänhet	och		
+      den specifika försäljningsmetoden i synnerhet har bättre förutsättningar att upphandla och hantera rådgivare och besluta i frågor där  
+      rådgivaren inte nödvändigtvis samtycker.
+	 	 •	 Ett	gott	samarbete	med	rådgivarna	underlättar	genomförandet	av	 
+      försäljningsprocessen och öppnar möjligheter för kunskapsöverföring till interna resurser.
+
+•	 Innan externa rådgivare anlitas ska en budget upprättas, en analys över  
+  kostnader och nytta genomföras och rådgivarnas uppdrag definieras för  
+  att undvika att onödigt arbete utförs. Rådgivarna måste vara kompetenta  
+  och erfarna. De måste vara fria från intressekonflikter i förhållande till  
+  det bolag som ska säljas och potentiella köpare.
+•	 Arbetet	som	utförs	av	externa	rådgivare	ska	noggrant	övervakas	för	att	 
+  kontrollera deras prestation, att avtalsmässiga åtaganden uppfylls och  
+  att kostnaderna ej överskrider de budgeterade.
+•	 Om	externa	rådgivare	anlitas	måste	det	säkerställas	att	de	team	som	 
+  engageras vid varje tid är tillräckligt bemannade, både vad gäller  
+  senioritet och specialkompetens.
+•	 Upphandling	av	externa	rådgivningstjänster	kräver	samma	disciplin	 
+  och kontroll som all annan anskaffning av varor och tjänster. För att  
+  rådgivaren ska kunna skapa högsta möjliga värde i transaktionen bör  
+  ägaren tillse att det föreligger konkurrens i anbudsförfarandet. 
+•	 Externa	rådgivare	kan	ersättas	på	flera	sätt,	till	exempel	med	ett	fast	 
+  arvode, en procentuell ersättning eller ett timarvode. Man bör välja  
+  ersättningsmetod noggrant för att tillförsäkra sig om att rådgivarna är  
+  motiverade på lämpligt sätt.
+•	 En	intern	försäljningsorganisation	med	erfarenhet	av	den	specifika	 
+  försäljningsmetoden har bättre förutsättningar att upphandla och  
+  hantera externa rådgivare och besluta i frågor där dessa inte nödvändigtvis samtycker. Ett gott samarbete med de externa rådgivarna underlättar genomförandet av projektet och öppnar möjligheter för kunskapsöverföring till interna resurser. 
+2.4  Genomförande av försäljningen genom auktion
+  FöRBEREDA INFORMATIONSPAKET
+•	 Om	en	affärsplan	inte	existerar	måste	en	sådan	upprättas.	Denna	upprättas av företagsledningen och godkänns av styrelsen. Affärsplanen bör  
+  vara så realistisk som möjligt så att den snarare uppfattas som en  
+  produkt av företagsledningen än en marknadsföringsprodukt.
+•	 I	en	auktionsprocess	delar	ägaren	ut	ett	så	kallat	informationsmemorandum till de potentiella budgivarna, vilket vanligtvis innehåller tillräckligt med information för att genomföra en preliminär värdering av  
+  målbolaget. Normalt har budgivarna inför det första preliminära budet  
+
+  inte möjlighet att erhålla information genom att direkt kontakta det  
+  bolag som ska säljas. 
+•	 Syftet	med	en	så	kallad	vendor	due	diligence,	VDD	är	att	ge	potentiella	 
+  investerare en omfattande, oberoende analys av målbolaget. Omfattningen av VDD-rapporten anpassas så att den tillgodoser informationsbehoven för såväl finansiella som industriella köpare. 
+•	 Vid	försäljning	av	större	bolag	bör	en	kommunikationskonsult	anlitas	för	 
+  upprättandet av en kommunikationsplan. Det bör finnas ett tydligt  
+  ansvar att hålla samman kommunikationsarbetet. Genom att utarbeta  
+  en kommunikationsplan försäkrar ägaren sig om att den information  
+  denne presenterar är genomtänkt, välformulerad och i linje med de  
+  strategiska målen. En kommunikationsplan ska innehålla definierade    
+  mål och åtgärder för kommunikationen. Kommunikationsplanen ska  
+  även skapa förutsättningar för enighet i relationen mellan ägare, styrelse  
+  och ledning.
+  IDENTIFIERA OcH KONTAKTA POTENTIELLA KöPARE 
+•	 Själva	auktionsprocessen	inleds	med	att	lämpliga	kandidater	inbjuds	 
+  att delta. Budgivarna kan vara antingen industriella (det vill säga köpare  
+  i samma eller en närliggande bransch) eller finansiella. Det är stor  
+  skillnad mellan dessa båda grupper av budgivare, i fråga om deras fokus  
+  i förvärvet, hur de ska hanteras i en auktionsprocess och de problem  
+  som kan uppstå exempelviss i konkurrenshänseende. 
+  INDIKATIVA IcKE BINDANDE BUD 
+•	 Budgivaren	förväntas	att	lämna	ett	indikativt,	icke	bindande	bud	om	det	 
+  pris som budgivaren är beredd att betala samt de huvudsakliga antaganden de inte gjort vid beräkningen av priset, finansieringskällor inklusive  
+  så kallat letter of support/ comfort från banken som visar att budgivaren  
+  har möjlighet att finansiera sitt bud, framtida planer för bolaget och  
+  eventuella villkor som bifogas till ett slutligt bud, till exempels tillståndsansökan.
+  URVAL AV POTENTIELLA KöPARE (”SHORT LIST ”)
+•	 När	de	indikativa	buden	har	inkommit	jämförs	och	analyseras	dessa.	De	 
+  intressenter som lämnat de mest attraktiva buden vad avser pris och  
+  övriga villkor väljs ut för att gå vidare i processen, en så kallad ”short  
+  list” upprättas. övriga budgivare informeras om att de inte ges möjlighet  
+
+  VENDOR DUE DILIGENcE
+•	 I	den	andra	delen	av	VDD-förfarandet	inbjuds	de	utvalda	budgivarna	att	 
+  var för sig göra en mer detaljerad VDD av bolaget, träffa bolagets ledning  
+  (för att ta del av ”management presentationer” och kunna ställa frågor),  
+  samt besöka bolagets anläggningar. Den andra omgången är en intensiv  
+  period som leder till ett mer bindande anbud samt, beroende på hur  
+  ägaren organiserar processen, omfattande förpliktelser från köparens  
+  sida. 
+•	 En	väl	strukturerad	due	diligence	är	av	stor	vikt	i	detta	sammanhang,	 
+  och den information som ska visas bör ha iordningsställts i god tid. För  
+  att ge samtliga budgivare likvärdiga möjligheter att utvärdera bolaget bör  
+  fasta regler om vilken information som ska lämnas ut ha bestämts i  
+  förtid. Att budgivarna har likvärdigt värderingsunderlag underlättar även  
+  för ägaren att analysera och jämföra de olika buden. även i detta skede  
+  kan det dock vara befogat att i vissa delar vara selektiv i informationslämnandet beroende på om mottagaren är en industriell konkurrent eller  
+  inte. 
+  MOTIVERA LEDNING OcH NYcKELPERSONER
+•	 Då	ledningens	och	nyckelpersoners	medverkan	i	försäljningen	är	avgörande för att maximera försäljningspriset är det viktigt att behålla och  
+  motivera dessa. ”Payto-stay bonus” eller ”stay bonus” är en bonus som  
+  vanligtvis betalas efter försäljningsprocessen och är villkorad av att de  
+  anställda stannar till och med eller några månader efter slutförandet av  
+  transaktionen. Detta är speciellt vanligt om finansiella köpare är inblandade som inte har den industriella erfarenheten. ägaren kan knyta bonusen till auktionsprocessen och priset på bolaget, men det s kan leda till  
+  ifrågasättande av ledningens oberoende och uppriktighet i bolagets  
+  prognoser med mera. även avtal om avgångsvederlag kan upprättas för  
+  att upprätthålla nyckelpersonernas delaktighet genom processen.
+  SLUTLIGT BUD
+•	 När	budgivarna	genomfört	en	due	diligence,	varit	på	presentationer	med	 
+  företagsledningen och besökt viktiga anläggningar förväntas de lämna  
+  ett slutligt, bindande bud, tillsammans med ett markerat aktieöverlåtelseavtal (se nedan). Vid god konkurrens mellan budgivarna kan ägaren  
+  erhålla det högsta priset till de bästa villkoren som marknaden för tillfället kan erbjuda. Beroende på konkurrenssituationen kan ägaren i detta  
+  skede eventuellt förhandla fram ännu bättre villkor från de bästa budgivarna.
+
+  AKTIEöVERLåTELSEAVTAL
+•	 Inför	det	slutliga	budet,	eller	när	den	bästa	budgivaren	valts	ut,	förses	 
+  budgivarna med ett utkast till aktieöverlåtelseavtal innehållande de villkor på vilka ägaren är beredd att sälja bolaget. Budgivarna ska i det  
+  slutliga budet ange de eventuella ändringar som önskas i det av ägaren  
+  föreslagna överlåtelseavtalet samt övriga villkor för att slutföra förvärvet.  
+  Tiden mellan slutförhandling och underskrift av aktieöverlåtelseavtalet är  
+  kritisk och försiktighet bör iakttas så att affären verkligen slutförs.
+  SLUTFöRANDE AV TRANSAKTIONEN
+•	 När	en	köpare	har	valts	åtar	sig	de	legala	rådgivarna	att	slutföra	transaktionen. Under denna period, normalt en period om 30-90 dagar  
+  mellan undertecknandet av aktieöverlåtelseavtalet och slutförandet av  
+  transaktionen, är det kritiskt och ofta obligatoriskt genom specifika  
+  paragrafer i överlåtelseavtalet att verksamheten fortsätter att drivas  
+  som vanligt. Det är även viktigt att parterna kommer överens om en prismekanism som reglerar hur köpeskillingen påverkas givet det resultat  
+  som presteras under denna period. Under denna tid är den viktigaste  
+  händelsen ett godkännande av konkurrensmyndigheterna.
+•	 På	samma	sätt	som	i	inledningen	av	försäljningsprocessen	beror	framgång i slutförandet på huruvida ägaren varit förberedd, haft tydliga mål,  
+  kontrollerat processen, hållit nyckelpersoner motiverade och fokuserat  
+  på slutförandet av transaktionen.
+2.5   Uppföljning 
+•	 Så	snart	som	möjligt	efter	transaktionens	genomförande	(undertecknande av aktieöverlåtelseavtal eller slutförande) bör en genomgång  
+  och analys av försäljningen genomföras. Projektets genomförande ska  
+  utvärderas, och de resultat som uppnåddes bör analyseras och utvärderas. Om uppföljningen dröjer finns det risk för att värdefull information  
+  och erfarenheter inte tas till vara, bland annat för att väsentliga förhållanden och skeden i processen faller i glömska.38
+38  Den checklista som finns för de viktigaste stegen i en strukturaffär som ingår i det brittiska finansdepartementets riktlinjer för  
+  strukturaffärer inkluderar en punkt om att efter det att försäljningen genomförts bör dokumentation tas fram inför eventuellt möte  
+  med NAO.
+
+

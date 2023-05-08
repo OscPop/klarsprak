@@ -1,0 +1,4679 @@
+RiR 2009:31 
+
+Tillsynen av 
+överförmyndarna – 
+uppföljningsgranskning 
+
+
+ISBN 978 91 7086 204 5 
+RiR 2009:31 
+Tryck: Riksdagstryckeriet, Stockholm 2009 
+
+
+Till regeringen Datum: 2009-12-17 
+Dnr: 31-2009-0797 
+
+Tillsynen av överförmyndarna – 
+uppföljningsgranskning 
+
+Riksrevisionen har granskat länsstyrelsernas tillsyn av överförmyndarna. 
+
+Resultatet av granskningen redovisas i denna granskningsrapport. 
+Företrädare för Regeringskansliet och samtliga länsstyrelser har fått 
+
+tillfälle att faktagranska och i övrigt lämna synpunkter på utkast till rapport. 
+
+Rapporten överlämnas till regeringen i enlighet med 9 § lagen 
+
+(2002:1022) om revision av statlig verksamhet m.m. Rapporten överlämnas 
+
+samtidigt till Riksrevisionens styrelse. 
+
+Rapporten innehåller slutsatser och rekommendationer som avser 
+
+regeringen och länsstyrelserna. Riksrevisionen kommer att följa upp 
+
+granskningen. 
+
+Riksrevisor Claes Norgren har beslutat i detta ärende. Revisionsdirektör 
+
+Elisabeth Carlsund har varit föredragande. Revisionsdirektör Qaisar Mahmood 
+
+och revisor Cecilia Dittmer har medverkat vid den slutliga handläggningen. 
+
+Claes Norgren Elisabeth Carlsund 
+
+För kännedom: 
+
+Justitiedepartementet 
+Finansdepartementet 
+Samtliga 21 länsstyrelser 
+
+
+Innehåll 
+
+Sammanfattning 7 
+
+1 Inledning 11 
+
+1.1 Motiv till en uppföljande granskning 11 
+
+1.2 Granskningens genomförande 12 
+
+2 Överförmyndarfunktionen 15 
+
+2.1 Verksamhetens reglering 15 
+
+2.2 Överförmyndarnas organisation och verksamhet 19 
+
+3 Länsstyrelsernas tillsyn 23 
+
+3.1 Kritiken mot länsstyrelserna i 2006 års granskning 24 
+
+3.2 Inspektionernas omfattning 24 
+
+3.3 Länsstyrelsernas granskning av akter och antalet anmärkningar 28 
+
+3.4 Åtgärder och dokumentation av inspektioner 32 
+
+3.5 Nationell samordning 35 
+
+3.6 Sammanfattande iakttagelser 37 
+
+4 Regeringens styrning och uppföljning 39 
+
+4.1 Initiativ till ändrad reglering 39 
+
+4.2 Övriga initiativ 40 
+
+4.3 Sammanfattande iakttagelser 42 
+
+5 Förändringar i överförmyndarnas verksamhet 43 
+
+5.1 Verksamheten och dess omfattning 43 
+
+5.2 Indikationer om problem 46 
+
+5.3 Sammanfattande iakttagelser 51 
+
+6 Slutsatser och rekommendationer 53 
+
+6.1 Mer resurser och tätare insatser 54 
+
+6.2 Indikationer om en ineffektiv tillsyn 54 
+
+6.3 Ökade påfrestningar i överförmyndarnas verksamhet 55 
+
+6.4 Behov av mer ändamålsenliga insatser från regeringen 57 
+
+6.5 Riksrevisionens rekommendationer 57 
+
+Källförteckning 59 
+
+Bilaga 1: Metod 65 
+Bilaga 2: Enkät samt intervjufrågor till länsstyrelserna 67 
+Bilaga 3: Länsstyrelsernas årsarbetskraft 77 
+Bilaga 4: Länsstyrelsernas inspektionsfrekvens och resurser 81 
+Bilaga 5: Länsstyrelsernas inspektionsprotokoll 2008 85 
+Bilaga 6: Inspektion av överförmyndaren i Vetlanda 87 
+Bilaga 7: Förvaltarenheter 89 
+Bilaga 8: Anmälningsärenden 91 
+
+
+Sammanfattning 
+
+Riksrevisionen har genomfört en uppföljande granskning av 
+granskningsrapporten Länsstyrelsernas tillsyn av överförmyndare (RiR 2006:5). 
+Flera skäl ligger bakom detta beslut. 
+
+Motiv och syfte med en uppföljande granskning 
+
+Överförmyndarnas uppgift är myndighetsutövning mot enskilda och skydd 
+av utsatta personers intressen. Brister i överförmyndarnas verksamhet 
+drabbar i slutändan de enskilda, huvudmännen, som samhället har åtagit 
+sig att skydda. Den föregående granskningen visade på omfattande brister i 
+länsstyrelsernas tillsyn och även i överförmyndarnas verksamhet. Samtidigt 
+saknas information för att löpande kunna följa upp omfattningen och 
+utvecklingen av överförmyndarnas verksamhet. 
+
+Syftet med en uppföljande granskning är att följa upp i vilken 
+utsträckning beslutade regelförändringar har omsatts i verksamheten 
+och bidragit till att lösa de problem som uppmärksammades vid 2006 
+års granskning. Indikationer om förändringar inom överförmyndarnas 
+verksamhet har även översiktligt inventerats för att få underlag för att 
+bedöma behov av åtgärder eller höjd beredskap i länsstyrelsernas tillsyn 
+samt regeringens styrning och uppföljning. En generell utgångspunkt, i 
+denna liksom i den föregående granskningen, är att huvudmannens intresse 
+och den enskildes rätt ska skyddas i varje enskilt fall och att lika fall ska 
+behandlas lika. 
+
+Indikationer om ineffektiv tillsyn 
+
+Jämfört med 2006 års granskning har de samlade resurserna för 
+länsstyrelsernas tillsyn av överförmyndare ökat från 4,5 till 6,6 
+årsarbetskrafter. Mellan de enskilda länsstyrelserna framträder dock 
+betydande skillnader i tillgängliga resurser från i genomsnitt 0,78 dagar till 
+17 dagar per överförmyndare i länet. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 7 
+RIKSREVISIONEN 
+
+
+Över lag har antalet genomförda inspektioner liksom antalet granskade 
+akter vid varje inspektion ökat. Förbättringar framträder i flera avseenden. 
+Dessa gäller bland annat länsstyrelsernas dokumentation och återkoppling 
+av tillsynens resultat till överförmyndarna och kommunledningarna samt 
+bevakningen av rättsfall. 
+
+Förekomsten av anmärkningar vid länsstyrelsernas aktgranskning är 
+däremot fortfarande omfattande. Detta framgår även av det begränsade 
+material som har utgjort en av grunderna för den uppföljande granskningen. 
+Länsstyrelserna hänvisar själva främst till detta mått för såväl sina 
+prioriteringar av inspektioner hos olika överförmyndare som för att 
+uppmärksamma olämpliga överförmyndare. Liksom vid 2006 års granskning 
+framträder samtidigt betydande länsvisa variationer i frekvensen av 
+anmärkningar. 
+
+Resultatet av denna uppföljande granskning indikerar att de 
+hittillsvarande insatserna för att komma tillrätta med problemen med 
+länsstyrelsernas tillsyn av överförmyndarna inte har varit tillräckliga. 
+Granskningen visar även att problemen inte i första hand är en fråga om mer 
+eller mindre resurser. 
+
+Otillräckliga insatser från regeringen 
+
+Sedan 2006 års granskning har regeringen tagit flera initiativ till förändrad 
+reglering för att stärka länsstyrelsernas tillsyn av överförmyndarna. Den 
+ändrade regleringen har bidragit till tätare insatser i fråga om antalet 
+inspektioner och antalet granskade akter vid varje inspektion samt till bättre 
+dokumentation och återkoppling av inspektionernas resultat. 
+
+Regeringens insatser har däremot inte tillräckligt uppmärksammat 
+och hanterat behovet av en stärkt bevakning av likabehandling och 
+rättssäkerhet för den enskilde. Regeringen har till exempel inte tagit initiativ 
+till samordning av denna tillsyn och inte heller till att förbättra sin insyn i och 
+uppföljning av överförmyndarnas verksamhet och tillsynen av denna. 
+
+Påfrestningar och utmaningar för överförmyndarna 
+
+Flera indikatorer pekar på en växande omfattning av främst de svåra fallen 
+i överförmyndarnas verksamhet. Olika förklaringar och orsaker lämnas. 
+Generellt är innebörden dock att överförmyndarna i växande utsträckning 
+ska möta delvis nya grupper och nya behov inom ramen för det befintliga 
+systemet. Detta har medfört påfrestningar och utmaningar för systemet. I 
+varierande grad har detta lett till lösningar där såväl den rättsliga grunden 
+som olika intressekonflikter för både ställföreträdare och överförmyndare har 
+aktualiserats och diskuterats. 
+
+RIKSREVISIONEN 8 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Riksrevisionens rekommendationer 
+
+På kortare sikt bör: 
+regeringen ta initiativ till att 
+
+• 
+effektivt följa upp utvecklingen av överförmyndarnas verksamhet 
+• 
+pröva möjligheter att stärka en professionell och mer samordnad 
+utveckling av länsstyrelsernas tillsyn av överförmyndarna 
+länsstyrelserna ta initiativ till att 
+
+• 
+överväga gemensamma bedömningsgrunder för sin aktgranskning i syfte 
+att säkra huvudmännens rättssäkerhet och likabehandling 
+På längre sikt bör 
+regeringen ta initiativ till en översyn av i vilken mån det nuvarande 
+överförmyndarsystemet är ändamålsenligt då det gäller 
+
+• 
+verksamhetens ökade expansion och svårighetsgrad 
+• 
+rekrytering av ställföreträdare 
+• 
+uppgiftsfördelningen mellan tingsrätter och överförmyndare. 
+Tillsynen av överförmyndarna – uppföljningsgranskning 9 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 10 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Inledning 
+
+I september 2009 beslutade riksrevisor Claes Norgren om en uppföljande 
+granskning av granskningsrapporten Länsstyrelsernas tillsyn av överförmyndare 
+(RiR 2006:5). Överförmyndarna är kommunala myndigheter med ansvar för 
+tillsyn av förordnade ställföreträdare. Verksamheten är statligt reglerad. 
+
+1.1 Motiv till en uppföljande granskning 
+Flera skäl ligger bakom beslutet att följa upp 2006 års granskning. 
+Överförmyndarnas uppgift är myndighetsutövning mot enskilda och 
+skydd av utsatta personers intressen. Brister i denna verksamhet drabbar 
+i slutändan de huvudmän som samhället har åtagit sig att skydda. 
+Granskningen visade på omfattande kvalitetsbrister i länsstyrelsernas 
+tillsyn och även i överförmyndarnas egen verksamhet. Det fanns inte heller 
+information för att löpande kunna följa upp vare sig omfattningen av eller 
+innehållet i överförmyndarnas verksamhet. 
+
+Av ovanstående skäl har Riksrevisionen bedömt det som angeläget att 
+förhållandevis tidigt följa upp den föregående granskningen. 
+
+1.1.1 Granskningen 2006 
+
+Iakttagelser 
+
+Flera problem med länsstyrelsernas tillsyn avsåg länsstyrelsernas planering 
+och genomförande av inspektionerna av överförmyndarna. Granskningen 
+visade även på bristande nationell samordning samt omfattande problem i 
+överförmyndarnas egen verksamhet. 
+
+Regeringen hade ägnat mycket liten uppmärksamhet åt denna tillsyn i 
+
+sin årliga styrning. Något initiativ till samordning hade inte tagits. Tillsynen 
+
+hade inte heller använts för att följa upp överförmyndarnas verksamhet, trots 
+
+att riksdagen hade bett om en snar uppföljning. 
+
+Rekommendationer 
+
+Riksrevisionen rekommenderade olika åtgärder för att stärka länsstyrelsernas 
+tillsyn av överförmyndarna. Vidare rekommenderades regeringen att 
+uppmärksamma åtagandet i sin styrning och uppföljning. 
+
+Också Riksrevisionens styrelse föreslog – i en framställning till riksdagen 
+
+– att länsstyrelsernas tillsyn av överförmyndarna skulle stärkas. Styrelsen 
+föreslog även att riksdagen skulle ta initiativ till en förutsättningslös 
+utredning av överförmyndarnas organisation och verksamhet. 
+Tillsynen av överförmyndarna – uppföljningsgranskning 11 
+RIKSREVISIONEN 
+
+
+1.1.2 
+
+1.2 
+
+1.2.1 
+
+Vidtagna åtgärder 
+
+En delvis förändrad reglering av länsstyrelsernas tillsyn av överförmyndarna 
+har successivt vuxit fram i anslutning till riksdagens och regeringens 
+behandling av Riksrevisionens granskningsrapport. 
+
+Riksdagens behandling av ärendet, våren 2007, ledde till ett 
+tillkännagivande till regeringen om att stärka länsstyrelsernas tillsyn.1 
+I anslutning till beslutet uttalade civilutskottet även att man inte var 
+främmande för en grundlig genomlysning av överförmyndarnas organisation 
+och verksamhet. Först ville man dock avvakta beredningen av Utredningen 
+om förmyndare, gode män och förvaltare2, som överlämnades till regeringen 
+i november 2004. Av slutbetänkandet till denna utredning framgår dock 
+att utredningen avstod helt från att överväga eller diskutera frågan om 
+organisation och tillsyn av överförmyndarna.3 
+
+Kvarstående problem 
+
+Sedan den föregående granskningen har regeringen initierat en förändrad 
+reglering av överförmyndarfunktionen i såväl förmynderskapsförordningen 
+som föräldrabalken. Samtliga beslutade åtgärder är inriktade på att stärka 
+länsstyrelsernas tillsyn av överförmyndare. Förslagen till regeringen om att 
+ta initiativ till att samordna och följa upp denna tillsyn har inte närmare 
+uppmärksammats av regeringen. Därmed riskerar verksamhetens ojämna 
+kvalitet – som äventyrar huvudmännens likabehandling och rättssäkerhet 
+
+– att kvarstå. Samma sak gäller för den bristfälliga återkopplingen till 
+regeringen och riksdagen. Förslaget från Riksrevisionens styrelse att 
+förutsättningslöst se över överförmyndarnas organisation och verksamhet 
+har inte heller uppmärksammats av regeringen. 
+Granskningens genomförande 
+
+Syfte och frågeställningar 
+
+Syftet med en uppföljande granskning är att följa upp i vilken utsträckning 
+beslutade regelförändringar har bidragit till att lösa de problem som 
+uppmärksammades vid 2006 års granskning av både Riksrevisionen och 
+
+1 Bet. 2006/07:CU4, rskr. 2006/07:136 och 137. 
+
+2 SOU 2004:112 Frågor om förmyndare och ställföreträdare för vuxna, slutbetänkande av Utredningen 
+om förmyndare, gode män och förvaltare. 
+
+3 SOU 2004:112 Frågor om förmyndare och ställföreträdare för vuxna, slutbetänkande av Utredningen 
+om förmyndare, gode män och förvaltare, s. 300. 
+
+RIKSREVISIONEN 12 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+dess styrelse. Problemen var av tre slag och avsåg dels länsstyrelsernas 
+tillsyn av överförmyndarna, dels regeringens styrning och uppföljning 
+av denna tillsyn, dels grundläggande problem i överförmyndarnas egen 
+verksamhet. 
+
+En uppföljande granskning inriktas på att besvara följande två frågor: 
+
+1. Har länsstyrelserna omsatt beslutade förändringar i sin tillsyn och är 
+förändringarna ändamålsenliga för att komma till rätta med de 
+uppdagade problemen? 
+2. Har regeringen förändrat sin styrning och uppföljning av denna tillsyn 
+och har förändringarna bidragit till att komma till rätta med problemen 
+med samordning och uppföljning? 
+Därutöver har indikationer om förändringar inom tillsynsområdet – 
+överförmyndarnas egen verksamhet – översiktligt inventerats. Ett syfte med 
+denna inventering har varit att få underlag för att bedöma om förändringar 
+inom området föranleder behov av åtgärder eller höjd beredskap i 
+länsstyrelsernas tillsyn samt regeringens styrning och uppföljning. 
+
+1.2.2 Bedömningsgrunder 
+En generell utgångspunkt är att huvudmannens intresse och den enskildes 
+rätt ska skyddas. Denna principiella bedömningsgrund är densamma 
+som i 2006 års granskning. Regeringsformens krav på likabehandling och 
+rättssäkerhet har varit vägledande. Den enskildes rätt ska värnas i varje 
+enskilt fall, och lika fall ska behandlas lika.4 
+
+En annan utgångspunkt är den statliga regleringen inom området, i främst 
+
+föräldrabalken5 och förmynderskapsförordningen6. Detta regelverk har varit 
+
+en väsentlig grund för att besvara den första revisionsfrågan. Regelverket 
+
+och dess tillämpning utvecklas närmare i avsnitt 2.1 samt i anslutning till 
+
+redovisningen av iakttagelser. 
+
+En tredje utgångspunkt är regeringens ansvar för att styra förvaltningen 
+
+och följa upp den statliga verksamheten enligt kraven i regeringsformen7 
+
+och budgetlagen8. Detta har varit en viktig grund för att besvara den andra 
+
+revisionsfrågan. 
+
+4 1 kap. 9 § regeringsformen. 
+5 Föräldrabalken (1949:381). 
+6 Förmynderskapsförordningen (1995:379). 
+7 1 kap. 6 § regeringsformen. 
+8 Lagen (1996:1059) om statsbudgeten. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 13 
+RIKSREVISIONEN 
+
+
+1.2.3 
+
+1.2.4 
+
+Metoder och genomförande 
+
+Granskningsperioden spänner över de dryga tre år som har förflutit sedan 
+2006 års granskning avslutades. 
+
+I den mån identifierade problem bedöms kvarstå har de ovan nämnda 
+två revisionsfrågorna följts upp med delfrågor om hinder och möjligheter för 
+att lösa problemen. 
+
+Metoder och genomförande finns närmare beskrivna i bilaga 1. Följande 
+metoder har tillämpats: 
+
+• 
+Enkät till länsstyrelserna: Inriktning på förändringar i länsstyrelsernas 
+planering och genomförande av tillsynen av överförmyndare efter 
+föregående granskning (för mer information, se bilaga 2). 
+• 
+Dokumentgranskning: Första och sista inspektionsprotokollen från 2008 
+i varje län har granskats. Granskningen har genomförts på likartat sätt 
+som vid 2006 års granskning. Då det rör sig om en uppföljande 
+granskning är urvalet av inspektionsprotokoll begränsat. Urvalet täcker 
+samtliga länsstyrelsers inspektioner 2008, men inte den fulla bredden av 
+inspektioner inom varje länsstyrelse. 
+• 
+Material från Sveriges Kommuner och Landsting (SKL): Materialet rör 
+främst förändringar i omfattningen av överförmyndarnas verksamhet. 
+• 
+Intervjuer: Genomförda inom dels Regeringskansliet, dels civilutskottets 
+kansli, JO, länsstyrelserna och relevanta föreningar. 
+• 
+Expertstöd: Eva von Schéele, SKL:s förbundsjurist, anlitad som sakkunnig 
+jurist i överförmyndarfrågor. 
+Rapportens disposition 
+
+Rapporten har följande indelning: 
+
+• 
+En översikt av överförmyndarfunktionens reglering och organisation 
+lämnas i kapitel 2. 
+• 
+Förändringar i länsstyrelsernas tillsyn av överförmyndarna presenteras i 
+kapitel 3. 
+• 
+Förändringar i regeringens styrning och uppföljning av länsstyrelsernas 
+tillsyn presenteras i kapitel 4. 
+• 
+Förändringar i överförmyndarnas verksamhet presenteras i kapitel 5. 
+• 
+En analys, slutsatser och rekommendationer lämnas i kapitel 6. 
+RIKSREVISIONEN 14 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+2 Överförmyndarfunktionen 
+
+Statliga tillsynsmyndigheter har en viktig uppgift att bevaka att den statliga 
+regleringen respekteras och följs. I detta kapitel lämnas en översikt över 
+överförmyndarfunktionens reglering och organisation. 
+
+2.1 Verksamhetens reglering 
+Överförmyndarfunktionen är reglerad i främst föräldrabalken (1949:381), 
+förkortad FB, och förmynderskapsförordningen (1995:379), men även i 
+annan lagstiftning, bland annat förvaltningslagen (1986:223), förkortad FL, 
+och offentlighets- och sekretesslagen (2009:400), förkortad OSL. 
+
+2.1.1 Förtroendevalda överförmyndare med myndighetsuppgift 
+Kommunfullmäktige i varje kommun väljer en överförmyndare eller 
+en överförmyndarnämnd för varje mandatperiod. Från och med den 
+1 juli 2006 kan två eller flera kommuner även bilda en gemensam 
+överförmyndarnämnd.9 Uppdraget som överförmyndare eller ledamot i en 
+överförmyndarnämnd är således ett förtroendeuppdrag.10 
+
+Överförmyndaren är en kommunal myndighet med ansvar för tillsynen 
+
+av ställföreträdare. Det krävs inga speciella kvalifikationer för att bli vald till 
+
+överförmyndare.11 Enda kriterierna är att personen ska vara folkbokförd i 
+
+kommunen och ha rösträtt vid val till kommunfullmäktige. Personen får inte 
+
+heller vara i konkurs eller ha förvaltare. 
+
+Överförmyndaren kan dock uppdra åt kommunala tjänstemän att 
+
+avgöra vissa ärenden. Till skillnad från vad som gäller för överförmyndaren 
+
+själv ställs i sådana fall formella krav på att dessa tjänstemän ska ha den 
+
+kompetens som krävs för att utföra sina uppgifter.12 
+
+9 19 kap. 1 och 5 §§ föräldrabalken (1949:381). 
+
+10 I rapporten kommer fortsättningsvis begreppet överförmyndare att användas som 
+samlingsbegrepp för både överförmyndare och överförmyndarnämnder. 
+
+11 Prop. 1974:142, bet. LU 1974:38, rskr. 1974:404. 
+
+12 19 kap. 14 §, föräldrabalken (1949:381). 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 15 
+RIKSREVISIONEN 
+
+
+2.1.2 
+
+En ställföreträdare kan vara en förmyndare (för underåriga) eller en god 
+man eller en förvaltare (för hjälpbehövande vuxna). Den som får en god man 
+av hälsoskäl behåller hela sin rättskapacitet. En förvaltare kan dock agera på 
+sin huvudmans vägnar utan att beakta hans eller hennes uppfattning. Den 
+person som har en ställföreträdare benämns huvudman. 
+
+Ställföreträdaren ska ta till vara sin huvudmans intressen. I uppdraget 
+ingår att bevaka huvudmannens rätt, att förvalta huvudmannens egendom 
+samt att sörja för hans eller hennes person eller delar därav. Det sista 
+innebär ett ansvar för att behoven tillgodoses, dock inte att själv utföra 
+arbetet.13 
+
+Tillsättning av ställföreträdare 
+
+Generellt gäller att hjälpbehoven ska tillgodoses med minsta möjliga 
+ingripande för den enskilde. Godmanskap – som är mindre ingripande än 
+förvaltarskap – ska endast anordnas då hjälpbehoven inte kan tillgodoses på 
+annat sätt.14 Ett godmanskap bör också vara så begränsat som möjligt.15 
+
+Tingsrätten fattar beslut om att anordna godmanskap och förvaltarskap 
+för vuxna. Den som ansökan avser ska ges tillfälle att yttra sig om det 
+kan ske.16 Innan rätten anordnar godmanskap eller förvaltarskap ska den 
+även inhämta läkarintyg eller annan likvärdig utredning om den enskildes 
+hälsa.17 Rätten ska vidare, samtidigt som den anordnar godmanskap 
+eller förvaltarskap, förordna en god man respektive förvaltare att utföra 
+uppdraget.18 
+
+Föräldrarna är förmyndare för barn under 18 år. Saknar barnet 
+förmyndare ska tingsrätten förordna en sådan.19 Föräldrar har stor frihet att 
+bestämma över barnens tillgångar. Om barnets tillgångar överstiger åtta 
+prisbasbelopp eller om det finns villkor om särskild överförmyndarkontroll 
+ska dock föräldrarna varje år lämna en ekonomisk redovisning – en 
+årsräkning – till överförmyndaren.20 
+
+Vid anordnande av godmanskap respektive förvaltarskap ska rätten, 
+om det inte är obehövligt, hämta in yttrande från bland annat den enskildes 
+make/maka eller sambo och barn, överförmyndaren och vårdinrättning. 
+
+13 SOU 2004:112 Frågor om förmyndare och ställföreträdare för vuxna, slutbetänkande av Utredningen 
+om förmyndare, gode män och förvaltare, s. 461. 
+14 Prop. 1973/74:142, Förslag till lag om ändring i föräldrabalken m.m. s. 410. 
+15 Prop. 1987/88:124 God man och förvaltare s.139. 
+16 11 kap. 16 §, 1stycket föräldrabalken (1949:381). 
+17 11 kap. 17 § föräldrabalken (1949:381). 
+18 11 kap. 4 §, 2stycket resp. 11 kap. 7 §, 2 stycket föräldrabalken (1949:381). 
+19 10 kap. 5 § föräldrabalken (1949:381). 
+20 13 kap. 5 § föräldrabalken (1949:381). 
+
+RIKSREVISIONEN 16 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Dessa är skyldiga att lämna rätten uppgifter som kan vara av betydelse. Den 
+som ansökan avser ska också höras muntligen om det kan ske utan skada 
+för honom eller henne. Om det är uppenbart och finns särskilda skäl kan 
+rätten avstå från detta.21 
+
+2.1.3 Överförmyndarens tillsynsansvar över ställföreträdare 
+Överförmyndaren ska utöva tillsyn över förmyndarnas, de gode männens 
+och förvaltarnas verksamhet. Detta tillsynsansvar omfattar en skyldighet 
+att kontrollera att huvudmannens tillgångar i skälig omfattning används för 
+huvudmannens nytta. 
+
+I FB och förmynderskapsförordningen ställs krav på dokumentation 
+
+i överförmyndarnas verksamhet. En central del av dokumentationen är 
+
+ställföreträdarnas fortlöpande redovisning av deras ekonomiska förvaltning 
+
+av huvudmännens egendom.22 Denna dokumentation är en viktig grund 
+
+för både överförmyndarens och länsstyrelsens tillsyn. Före den 1 mars varje 
+
+år ska ställföreträdaren i en årsräkning till överförmyndaren redovisa sin 
+
+egendomsförvaltning under det föregående året.23 Samma skyldighet gäller 
+
+för de föräldrar som ska lämna en årsräkning till överförmyndaren24 samt de 
+
+förordnade förmyndarna. 
+
+Ställföreträdarna är skyldiga att lämna de uppgifter överförmyndaren 
+
+behöver för sin tillsyn.25 Överförmyndaren får förelägga om vite för att få en 
+
+ställföreträdare att fullgöra denna skyldighet. Frågor om utdömande av vite 
+
+prövas av tingsrätten.26 Överförmyndaren kan entlediga en god man eller 
+
+förvaltare som har utfört sitt uppdrag på ett felaktigt sätt eller som har visat 
+
+sig vara olämplig för sitt uppdrag.27 
+
+Huvudmannens tillgångar ska placeras så att det finns tillräcklig 
+
+trygghet för tillgångarnas bestånd och för en skälig avkastning.28 Pengar 
+
+som har satts in på spärrade konton får endast tas ut efter samtycke från 
+
+överförmyndaren.29 (Överförmyndaren kan således neka en ställföreträdare 
+
+att ta ut pengar från det spärrade kontot.) 
+
+21 11 kap. 16 §, 2stycket föräldrabalken (1949:381). 
+22 12 kap. 5 § föräldrabalken (1949:381). 
+23 14 kap. 15 § föräldrabalken (1949:381). 
+24 13 kap. 14 § föräldrabalken (1949:381). 
+25 12 kap. 9 § 2 stycket föräldrabalken (1949:381). 
+26 16 kap. 13 § föräldrabalken. (1949:381). 
+27 11 kap. 20 § föräldrabalken (1949:381). 
+28 16 kap. 1 §, 2 stycket föräldrabalken (1949:381). 
+29 14 kap. 8 § föräldrabalken (1949:381). 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 17 
+RIKSREVISIONEN 
+
+
+2.1.4 
+
+2.1.5 
+
+Straffansvar inom överförmyndarfunktionen 
+
+Överförmyndare och tjänstemän vid överförmyndares kanslier kan dömas 
+för tjänstefel om de med uppsåt eller av oaktsamhet har åsidosatt vad som 
+ingår i deras uppgift. Straffet är böter eller fängelse. 
+
+Även ställföreträdare är straffansvariga och kan dömas till fängelse för 
+förskingring och grov förskingring om de tillgodogör sig huvudmännens 
+tillgångar.30 Ställföreträdare kan också dömas till böter eller fängelse om de 
+lämnar osanna uppgifter eller förtiger sanningen i förteckningar, årsräkningar 
+eller sluträkningar.31 Ställföreträdare kan även bli skyldiga att ersätta skada 
+som de uppsåtligen eller av vårdslöshet har orsakat huvudmannen.32 
+
+Kommuner kan bli skyldiga att ersätta huvudmän för skada till följd 
+av överförmyndarnas fel eller försummelse vid sin myndighetsutövning.33 
+En förutsättning är dock att huvudmannen i sådana fall kan bevisa att 
+ställföreträdaren har kunnat förskingra på grund av att överförmyndaren har 
+brustit i sitt ansvar att granska ställföreträdaren. 
+
+Kommuner är också skyldiga att kompensera huvudmän för ren 
+förmögenhetsskada som orsakats av att överförmyndaren har lämnat 
+felaktiga upplysningar eller råd till ställföreträdare om till exempel viss 
+placering av huvudmannens pengar.34 Överförmyndaren får bara lämna råd 
+och upplysningar som rör myndighetens verksamhetsområde.35 
+
+Statlig tillsyn 
+
+Den statliga tillsynen ska säkerställa att statligt reglerad verksamhet fullgörs 
+i enlighet med den nationella lagstiftningen. Den statliga tillsynen utövas av 
+länsstyrelserna, JO och JK. 
+
+Länsstyrelserna har tillsynsansvar för överförmyndarnas verksamhet.36 
+Överförmyndarna ska lämna de upplysningar som länsstyrelserna behöver 
+för sin tillsyn.37 Ställföreträdarens sätt att sköta sitt uppdrag ligger dock 
+under överförmyndarens tillsynsansvar. Länsstyrelsernas tillsyn beskrivs 
+närmare i kapitel 3. 
+
+30 10 kap. 1 och 3 § brottsbalken (1962:700). 
+31 15 kap. 10 § brottsbalken (1962:700). 
+32 12 kap. 14 § föräldrabalken (1949:381). 
+33 3 kap. 2 § skadeståndslagen (1972:207). 
+34 3 kap. 3 § skadeståndslagen (1972:207). 
+35 4 § förvaltningslagen (1986:223). 
+36 19 kap. 17 § föräldrabalken (1949:381). 
+37 21 § förmynderskapsförordningen (1995:379). 
+
+RIKSREVISIONEN 18 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Riksdagens ombudsmän (JO) är en del av riksdagens kontrollmakt. JO 
+
+ska vaka över att myndigheterna dels följer lagar och andra författningar, 
+
+dels uppfyller sina skyldigheter i övrigt. JO kan dock inte överpröva andra 
+
+myndigheters beslut. JO:s granskningsmandat täcker både kommunal och 
+
+statlig förvaltning. Inom förmynderskapsområdet kan JO således granska 
+
+såväl de kommunala överförmyndarna som länsstyrelserna. Granskningarna 
+
+föranleds ofta av anmälningar från allmänheten. Men JO:s granskningar kan 
+
+även vara en följd av JO:s egna initiativ.38 JO får som särskild åklagare väcka 
+
+åtal mot befattningshavare som genom att åsidosätta vad de är skyldiga att 
+
+göra i tjänsten begått ett brott.39 
+
+Justitiekanslern (JK) är regeringens tillsynsmyndighet. I JK:s uppdrag 
+
+ingår att kontrollera att de som utövar statlig verksamhet följer lagar och 
+
+andra författningar samt i övrigt fullgör sina skyldigheter. JK får dessutom 
+
+som särskild åklagare väcka åtal mot befattningshavare som har begått 
+
+en brottslig gärning genom att åsidosätta vad de är skyldiga att göra i 
+
+tjänsten.40 
+
+2.2 Överförmyndarnas organisation och verksamhet 
+Överförmyndarna ska tillse att ställföreträdare – förmyndare för underåriga 
+samt gode män och förvaltare för vuxna – sköter sina åtaganden gentemot 
+huvudmännen enligt gällande regler. Överförmyndarnas verksamhet är 
+ett av många exempel på statligt reglerad verksamhet som genomförs av 
+kommunerna. Denna verksamhet utmärks dock av ett antal särdrag. 
+
+Överförmyndarnas beslut påverkar enskildas personliga förhållanden 
+
+och är således myndighetsutövning mot enskilda. Överförmyndarna 
+
+ska värna huvudmännens intressen så att de inte riskerar att drabbas av 
+
+rättsförluster. Huvudmännen har en ställföreträdare till följd av att de själva 
+
+inte bedöms kunna bevaka sina intressen. 
+
+Ställföreträdarnas insatser gentemot den enskilde medborgaren 
+
+är avgörande för hur överförmyndarfunktionen uppfyller sitt ändamål. 
+
+Samtidigt är ställföreträdarnas uppgift baserad på frivilligarbete och 
+
+ligger utanför den statliga tillsynen. Denna sträcker sig enbart till hur 
+
+överförmyndarna utövar sin tillsyn. Överförmyndarnas roll blir desto 
+
+viktigare. De är de enda som har direkt insyn i – och ansvar för – hur 
+
+åtagandet sköts gentemot den enskilde. 
+
+38 12 kap. 6 § regeringsformen (1974:152) och lagen (1986:765) med instruktion för Riksdagens 
+ombudsmän. 
+
+39 6 § lagen (1986:765) med instruktion för Riksdagens ombudsmän. 
+
+40 Lagen (1975:1339) om justitiekanslerns tillsyn och förordning (1975:1345) med instruktion för 
+Justitiekanslern. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 19 
+RIKSREVISIONEN 
+
+
+Vikten av att överförmyndarfunktionen sköts på ett korrekt sätt gentemot 
+den enskilde medborgaren har markerats tydligt från samhällets sida. 
+Regleringen av överförmyndarnas verksamhet – främst i föräldrabalken och 
+förmynderskapsförordningen, men även i annan lagstiftning – är detaljerad 
+och även komplex. Det ställs emellertid, som ovan nämnts, inga formella 
+kompetenskrav på överförmyndarna. Dessa är kommunalt förtroendevalda 
+och valda på delvis andra grunder. 
+
+Länsstyrelsernas tillsynsuppdrag riktar sig således i många fall direkt till 
+kommunalt förtroendevalda i deras utövning av sitt uppdrag. Länsstyrelserna 
+saknar också sanktioner för sin tillsyn. Sedan den 1 januari 2008 har 
+länsstyrelserna dock förordningsstöd för att begära återrapportering av 
+korrigerande åtgärder från överförmyndarna efter genomförda inspektioner. 
+
+Överförmyndarna kan – men behöver inte – ha professionella tjänstemän 
+som stöd för sin utövning. I de fall överförmyndarna anlitar tjänstemän ska 
+dessa ha den kompetens som krävs. År 2004 bestod nästan två tredjedelar 
+(61 procent) av landets överförmyndare av enbart förtroendevalda. 
+
+Överförmyndarfunktionens organisation är fördelad på sex nivåer från 
+huvudmännen till riksdagen. Detta åskådliggörs i figur 1 nedan. 
+
+Överförmyndarfunktionen 
+
+Aktör Samhällsnivå Ansvarsrelation 
+Staten Riksdagen Föräldrabalken 
+• 
+Staten Regeringen Förmynderskapsförordningen 
+• 
+Staten Länsstyrelserna Tillsyn av överförmyndarna 
+• 
+Kommunerna Överförmyndarna Tillsyn av ställföreträdare 
+• 
+Enskilda Ställföreträdarna Åtagande gentemot huvudmännen 
+• 
+Enskilda Huvudmännen 
+
+På de två nivåerna närmast huvudmännen svarar lekmän – frivilligarbetande 
+ställföreträdare och förtroendevalda överförmyndare – för verksamheten. 
+Tingsrätten svarar vanligen för det formella förordnandet av ställföreträdare. 
+I praktiken är det dock i flera fall överförmyndarna som rekryterar de 
+ställföreträdare som de sedan ska utöva tillsyn över. Överförmyndarna 
+är således den enda myndigheten som har insyn i och ansvar för hur 
+ställföreträdarna sköter sin uppgift. 
+
+I anslutning till den föregående granskningen genomfördes 
+en inventering av några grundläggande data om omfattningen av 
+överförmyndarnas verksamhet. Inventeringen avsåg förhållandena 2004. 
+
+RIKSREVISIONEN 20 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+I slutet av detta år fanns totalt drygt 88 000 förordnade ställföreträdare som 
+förvaltade knappt 17,5 miljarder kronor för sina huvudmän. Det finns flera 
+tecken på att omfattningen av överförmyndarnas verksamhet nu ökar relativt 
+snabbt, särskilt i fråga om de svåra fallen. Den närmare utvecklingen är dock 
+inte känd. Det saknas löpande uppföljning av överförmyndarnas verksamhet. 
+(Se vidare avsnitt 5.1.) 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 21 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 22 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Länsstyrelsernas tillsyn 
+
+Den första frågan att besvara i denna uppföljande granskning är om 
+beslutade förändringar har omsatts i länsstyrelsernas tillsyn samt i vilken 
+utsträckning förändringarna är ändamålsenliga för att komma tillrätta 
+med iakttagna problem. Analysen relateras främst till de förändringar av 
+förmynderskapsförordningen som trädde i kraft den 1 januari 2008. 
+
+De formella krav som enligt förmynderskapsförordningen gäller för 
+länsstyrelsernas tillsyn av överförmyndare är bland annat följande: 
+
+• 
+Länsstyrelsen ska årligen inspektera överförmyndaren om det inte är 
+uppenbart obehövligt. Har länsstyrelsen avstått från inspektion ett visst 
+år ska dock inspektion genomföras följande år. (20 §, 1 stycket) 
+• 
+Vid inspektionen ska länsstyrelsen bland annat granska ett stickprov av 
+utvalda akter. (20 §, 2 stycket) 
+• 
+Länsstyrelsen ska upprätta ett protokoll över inspektionen. Av protokollet 
+ska framgå vilka akter som har granskats. (22 §) 
+• 
+Finner länsstyrelsen anledning att rikta anmärkning mot 
+överförmyndarens handläggning ska anmärkningen och skälet till den 
+antecknas i protokollet. (23 §, 1 stycket) 
+• 
+Länsstyrelsen får ålägga överförmyndare att inom viss tid underrätta 
+länsstyrelsen om vilka åtgärder som har vidtagits med anledning av en 
+anmärkning. (23 §, 2 stycket) 
+I den följande redovisningen används samma terminologi som i 
+förmynderskapsförordningen. 
+
+Genom en ändring i föräldrabalken har länsstyrelserna även sedan den 
+1 januari 2009 fått en rådgivande funktion gentemot överförmyndarna i 
+bland annat frågor om utbildning och organisation för överförmyndarna.41 
+(Se avsnitt 4.1.) 
+
+I detta kapitel kommenteras den aktuella situationen inom de 
+problemområden som aktualiserades i 2006 års granskning av 
+länsstyrelseras tillsyn av överförmyndarna. Förändringarna beskrivs i 
+huvudsak som de framträder på nationsnivå, men med spårbarhet till 
+enskilda länsstyrelser. 
+
+41 19 kap. 17 § föräldrabalken (1949:381). 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 23 
+RIKSREVISIONEN 
+
+
+3.1 
+
+3.2 
+
+3.2.1 
+
+Kritiken mot länsstyrelserna i 2006 års granskning 
+
+I den granskning som avslutades 2006 kritiserades tillsynen av 
+överförmyndare i flera avseenden. 
+
+Ett slag av kritik avsåg länsstyrelsernas planering och prioritering av 
+inspektioner med bland annat förekomst och användning av tillsynsplaner 
+samt frekvensen av genomförda inspektioner och grunderna för denna 
+prioritering. 
+
+Ett annat slag av kritik handlade om hur länsstyrelserna genomförde den 
+aktgranskning som – enligt förmynderskapsförordningen – ska genomföras 
+i anslutning till inspektionerna av överförmyndare. Denna aktgranskning är 
+av särskild betydelse då den åskådliggör både länsstyrelsernas insatser och 
+förhållanden bland överförmyndarna och deras verksamhet. 
+
+Ett tredje slag av kritik avsåg olika övriga aspekter på länsstyrelsernas 
+genomförande och dokumentation av inspektioner. Centrala frågor här var 
+länsstyrelsernas initiativansvar i fråga om olämpliga överförmyndare samt 
+hur inspektionernas resultat återspeglades i inspektionsprotokollen och 
+återfördes till överförmyndarna och de ansvariga kommunledningarna. 
+
+Ett fjärde slag av kritik avsåg bristen på nationell samordning av tillsynen 
+av överförmyndarna. Tydliga, länsvisa skillnader framträdde i såväl 
+arbetsmetoder som inspektionernas innehåll och resultat. 
+
+Förändringar inom dessa fyra områden behandlas i de följande fyra 
+avsnitten. 
+
+Inspektionernas omfattning 
+
+Utökade resurser och ökad spridning i resursåtgång 
+
+Under perioden 2004–2008 ökade länsstyrelsernas samlade resursåtgång 
+för tillsyn av överförmyndare från 4,5 till 6,6 årsarbetskrafter.42 
+
+Skillnaderna i resursåtgång mellan länen är dock stor. Skillnaderna 
+har även ökat under den gångna fyraårsperioden.43 För varje länsstyrelse 
+varierade resursåtgången under 2008 från 0,03 till 1,7 årsarbetskrafter. 
+Detta kan jämföras med en variation från 0 till 1,22 årsarbetskrafter år 
+2004. Ett mer relevant mått är dock att relatera de tillgängliga resurserna 
+för denna tillsyn till det totala antalet överförmyndare i länet. Skillnaderna 
+i resursåtgång ökar då markant mellan länen. Under 2008 varierade det 
+genomsnittliga antalet tillgängliga dagar per överförmyndare i länet från 0,78 
+till 17 dagar. 
+
+42 I bilaga 3 redovisas redovisade årsarbetskrafter per länsstyrelse för tillsynen av överförmyndare 
+2008 enligt länsstyrelsernas årsredovisningar för 2008. 
+
+43 Uppgiften om resurser är hämtad från länsstyrelsernas årsredovisningar, tabell C Kostnader och 
+årsarbetskrafter. 
+
+RIKSREVISIONEN 24 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Två länsstyrelser har sedan föregående granskning kritiserats för 
+
+långsam handläggning och underlåtenhet.44 I det ena fallet kritiserade JK en 
+
+länsstyrelse 2008 för att överförmyndartillsynen hade prioriterats ned. En 
+
+del överförmyndare i länet hade inte inspekterats sedan 2004. Länsstyrelsen 
+
+hänvisade till resursbrist. Med hänvisning till Riksrevisionens granskning 
+
+2006 och kraven på årliga inspektioner betonade dock JK att tillsynen 
+
+av överförmyndare ur rättssäkerhets- och trygghetssynpunkt var mycket 
+
+angelägen och skulle prioriteras.45 I det andra fallet kritiserade JO år 2009 en 
+
+länsstyrelse för långsam handläggning och underlåtenhet att besvara frågor 
+
+från enskilda.46 Resursåtgången för dessa länsstyrelser motsvarade 2008 i 
+
+genomsnitt 5,5 respektive 5,6 dagar per överförmyndare i länet. 
+
+Med totalt utökade resurser samt en ökad spridning av tillgängliga 
+
+resurser mellan länen har det bedömts som värdefullt att inkludera en analys 
+
+av resursåtgången i analysen av länsstyrelsernas planering och prioritering 
+
+av tillsynen av överförmyndare. 
+
+3.2.2 Fördubblad inspektionsfrekvens med stor spridning 
+Jämfört med föregående granskning, som baserades på data från 2004, har 
+inspektionsfrekvensen nära nog fördubblats från 44 procent till 80 procent 
+av landets överförmyndare. Under 2008 granskade länsstyrelserna 229 av 
+landets 284 överförmyndare.47 
+
+Drygt hälften (12) av länsstyrelserna48 hade 2008 en inspektionsfrekvens 
+
+på 100 procent och inspekterade således samtliga länets överförmyndare. 
+
+Bland övriga länsstyrelser49 varierade andelen inspekterade överförmyndare i 
+
+varje län från 20 procent till 90 procent.50 
+
+44 Länsstyrelserna i Skåne och Dalarna. 
+45 Inspektion vid Länsstyrelsen i Dalarna JK:s beslut 2008-11-24, dnr 6111-08-28. 
+46 Beslut av JO 2009-07-03, dnr 6294-2008. 
+47 I ett par fall har överförmyndarna gått ihop i gemensamma nämnder, därav antalet 284. 
+48 Länsstyrelserna i Stockholms län, i Uppsala län, i Jönköpings län, i Gotlands län, i Hallands län, 
+
+i Värmlands län, i Örebro län, i Dalarnas län, i Gävleborgs län, i Västernorrlands län, i Jämtlands 
+län och i Västerbottens län. 
+
+49 
+
+Länsstyrelserna i Västmanlands län, Södermanlands län, Östergötlands län, Kronobergs län, 
+
+Norrbottens län, Västra Götalands län, Kalmar län, Skåne län och Blekinge län. 
+
+50 I bilaga 4 redovisas inspektionsfrekvens och tilldelade resurser för samtliga länsstyrelser. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 25 
+RIKSREVISIONEN 
+
+
+3.2.3 
+
+3.2.4 
+
+Resurser förklarar inte skillnader i inspektionsfrekvens 
+
+I 2006 års granskning framhöll länsstyrelserna resursbrist som den främsta 
+förklaringen till glesa inspektioner. Det kan naturligtvis inte uteslutas att 
+tillgängliga resurser inverkar på den enskilda länsstyrelsens planering och 
+prioritering av inspektioner. Generellt kan skillnaderna i tillgängliga resurser 
+dock inte förklara skillnaderna i inspektionsfrekvens under 2008. 
+
+Bland de tolv länsstyrelser som inspekterade samtliga överförmyndare 
+i sina län 2008 varierade den genomsnittliga resursåtgången per 
+överförmyndare från drygt 3 till 17 dagar. Inte heller bland de övriga 
+nio länsstyrelserna kan tillgängliga resurser förklara skillnaderna i 
+inspektionsfrekvens. Den länsstyrelse som hade högst inspektionsfrekvens 
+(90 procent) hade förhållandevis låg resurstilldelning (i genomsnitt 
+2,6 dagar per överförmyndare).51 Den länsstyrelse som hade lägst 
+inspektionsfrekvens (20 procent) hade dubbelt så stor resurstilldelning (i 
+genomsnitt 5,2 dagar per överförmyndare).52 
+
+Diffus prioriteringsgrund 
+
+Av föregående granskning framgick att regeringen i regleringsbreven för 
+2003 och 2004 hade ställt krav på tillsynsplaner. Sedan detta krav tagits bort 
+saknade fortfarande 4 länsstyrelser en plan för tillsynen av överförmyndare. 
+Totalt 6 av de 17 länsstyrelser som hade upprättat planer följde inte 
+heller sina planer. I samtliga fall var avvikelserna negativa, det vill säga 
+länsstyrelserna granskade färre överförmyndare än enligt sina upprättade 
+planer. 
+
+Från regeringen ställs nu inget krav på tillsynsplan. Ett par länsstyrelser 
+uppger dock att det är ett internt krav.53 För närvarande har 16 länsstyrelser 
+fastställda planer för sin tillsyn av överförmyndare.54 Fem länsstyrelser 
+anger att planen också är mycket styrande. Men det omvända förekommer 
+också, det vill säga att planen inte bedöms ha så stor betydelse.55 Fyra 
+länsstyrelser anger även att ändringar förekommer.56 Två länsstyrelser anger 
+även att länsstyrelserna nu tillsammans ska ta fram en gemensam nationell 
+tillsynsplan.57 
+
+51 Länsstyrelsen i Västmanlands län. 
+
+52 Länsstyrelsen i Blekinge län. 
+
+53 Länsstyrelserna i Uppsala, Värmland och Västra Götaland. 
+54 
+
+Länsstyrelserna i Stockholm, Uppsala, Södermanland, Östergötland, Jönköping, Kronoberg, 
+
+Kalmar, Blekinge, Skåne, Halland, Västra Götaland, Värmland, Dalarna, Västmanland, Gävleborg 
+
+och Västernorrland. 
+55 
+
+Länsstyrelserna i Blekinge och Örebro. 
+56 
+
+Länsstyrelserna i Västra Götaland, Värmland, Blekinge och Örebro. 
+
+57 Länsstyrelserna i Värmland och Norrbotten. 
+
+RIKSREVISIONEN 26 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Med förmynderskapsförordningens krav på inspektioner varje – eller 
+vartannat – år58 har behovet av prioriteringsgrunder minskat. Många 
+länsstyrelsetjänstemän ser positivt på en ökad inspektionsfrekvens. Man 
+fångar bättre upp problem hos överförmyndarna med tätare inspektioner.59 
+Men det förekommer också kritiska uttalanden där man ifrågasätter om 
+en allmän ambitionshöjning är den mest ändamålsenliga lösningen för en 
+förbättrad tillsyn. En länsstyrelsetjänsteman menar att detta är en kvantitativ 
+lösning på ett kvalitativt problem.60 
+
+En fråga är dock vilka prioriteringsgrunder länsstyrelserna använder i de 
+fall de väljer att inte granska alla överförmyndare varje år. Det kan handla om 
+prioriteringar dels mellan olika överförmyndare, dels mellan olika typer av 
+insatser när inspektioner av enskilda överförmyndare genomförs. 
+
+Två länsstyrelser anger att de har fastställda och dokumenterade 
+urvalskriterier.61 I det ena fallet var kriterierna i huvudsak en upprepning av 
+kraven i förmynderskapsförordningen.62 I det andra fallet var grunden för att 
+avstå från att inspektera vissa överförmyndare under 2009 att länsstyrelsen 
+nyligen utövat tillsyn över dem och att de bedömdes bedriva verksamheten 
+på ett mycket bra sätt.63 Utöver detta anger sju länsstyrelser att de övervägt 
+att ta fram urvalskriterier för en sådan sortering.64 Anmärkningsfrekvensen 
+vid länsstyrelsernas aktgranskning är den vanligaste grunden som 
+länsstyrelserna anger för sina prioriteringar. 
+
+Några länsstyrelser menar att de har så bra överförmyndare att de hittills 
+inte behövt kännetecken för att identifiera dem som är mer eller mindre 
+lämpliga.65 Frekvensen av anmärkningar vid aktgranskningen varierar dock 
+från 0 till 100 procent bland de tre länsstyrelser som har denna uppfattning. 
+
+Den bild som framträder av länsstyrelsernas prioriteringar är således 
+långtifrån entydig. 
+
+58 Förmynderskapsförordningen (1995:379). 
+59 Bland annat Länsstyrelsen Västmanland. 
+60 Länsstyrelsen i Gävleborg. 
+61 Länsstyrelserna i Kalmar och Västra Götaland. 
+62 Länsstyrelsen i Kalmar. 
+63 Länsstyrelsen i västra Götaland, Tillsynsplan för år 2009 avseende överförmyndarverksamheten. 
+64 Länsstyrelserna i Uppsala, Västra Götaland, Västmanland, Dalarna, Gävleborg, Jämtland och 
+
+Västerbotten. 
+65 Länsstyrelserna i Kalmar, Halland och Västernorrland. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 27 
+RIKSREVISIONEN 
+
+
+3.3 
+
+3.3.1 
+
+Länsstyrelsernas granskning av akter och antalet 
+anmärkningar 
+
+I anslutning till 2006 års granskning gjordes en genomgång av 
+granskningsfrekvens och anmärkningsfrekvens vid länsstyrelsernas 
+granskning av akter vid inspektionerna.66 Inventeringen67 omfattade en 
+redovisning av 674 granskade akter i 281 inspektionsprotokoll, motsvarande 
+ca 98 procent av landets överförmyndare. Länsstyrelserna hade granskat 
+0 -18 akter hos varje överförmyndare. I totalt 38 procent av de granskade 
+akterna riktade länsstyrelserna anmärkningar mot överförmyndaren.68 En 
+länsvis variation framträdde tydligt i länsstyrelsernas anmärkningsfrekvens. 
+I vissa län var anmärkningarna mycket få.69 I andra län anmärkte man på 
+flertalet granskade akter.70 
+
+Förändringar sedan 2006 års granskning 
+
+I den nu aktuella granskningen har första och sista protokollet från 2008 
+års inspektioner av överförmyndarna granskats.71 Genomgången omfattar 
+länsstyrelsernas redovisning av 427 granskade akter i 40 protokoll från 
+genomförda inspektioner. Protokollen är hänförliga till 14 procent av landets 
+överförmyndare. Vid bedömningen av resultatet har hänsyn i relevanta delar 
+tagits till att denna genomgång grundas på ett mer begränsat underlag 
+jämfört med 2006 års granskning. 
+
+Urvalet fångar resultatet av genomförda inspektioner vid samtliga 
+länsstyrelser detta år. Därvid fångas ett minsta antal av granskade akter och 
+förekomst av anmärkningar. Den totala bredden av variationer i frekvensen 
+av granskade akter och frekvensen av anmärkningar fångas däremot 
+inte fullständigt. Resultatet av denna inventering kan därmed innebära 
+en underskattning av såväl variationernas omfattning som frekvensen 
+av anmärkningar. Resultatet ger emellertid klara indikationer om främst 
+spridningen av antalet granskade akter och antalet anmärkningar vid 
+aktgranskningen. 
+
+66 
+
+Överförmyndareförordningen föreskriver att länsstyrelsernas inspektion bland annat ska omfatta 
+en granskning av ett stickprov av överförmyndarnas akter. 
+
+67 En inventering genomfördes av det senast beslutade protokollet från inspektionsbesök hos 
+länets överförmyndare fram till och med den 17 maj 2005. 
+
+68 Aktgenomgången avser det senast beslutade protokollet från inspektion hos länets 
+överförmyndare fram till och med 17 maj 2005. Totalt redovisade 15 länsstyrelser en granskning 
+av 674 akter, varav länsstyrelserna hade riktat anmärkningar mot 253 akter. 
+
+69 Länsstyrelserna i Blekinge och Kalmar. 
+
+70 Bland annat Länsstyrelsen i Västernorrlands län. 
+
+71 Se bilaga 5. 
+
+RIKSREVISIONEN 28 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Aktgranskningen var redovisad i samtliga 40 genomgångna protokoll. 
+Detta är i enlighet med nu gällande krav i förmynderskapsförordningen. 
+
+Vidare hade länsstyrelserna granskat 0 -30 akter hos varje 
+överförmyndare. Jämfört med fyra år tidigare – då 0 -18 akter granskades 
+hos varje överförmyndare – indikerar resultatet av denna inventering således 
+ett väsentligt ökat antal akter som länsstyrelserna granskade vid varje 
+inspektion. Inventeringen indikerar även ökade skillnader i antalet granskade 
+akter vid varje inspektion. 
+
+Inventeringens resultat indikerar emellertid inte att länsstyrelsernas mer 
+omfattande genomgång av akter hos överförmyndarna återspeglas i vare sig 
+fler anmärkningar eller en högre anmärkningsfrekvens, mätt som andelen 
+granskade akter med anmärkningar. Detta illustreras i tabell 3.1 nedan. 
+
+Tabell 3.1 Granskningsfrekvens och anmärkningsfrekvens i länsstyrelsernas första och 
+sista inspektion av överförmyndare 2008 
+
+Granskningsår Antal 
+granskade 
+överförmyndare 
+Antal akter Genomsnittligt 
+antal granskade 
+akter/ 
+överförmyndare 
+Akter med anmärkning 
+(antal/andel) 
+2006 281 
+674 
+2,4 
+253/38 % 
+2009 års 
+uppföljning 40 
+427 
+11 
+127/30 % 
+
+
+Källa: Riksrevisionens inventering av inspektionsprotokoll 2006 och 2009. 
+
+En jämförelse med inventeringen vid 2006 års granskning indikerar 
+således två förändringar. Den ena förändringen är ett väsentligt ökat antal 
+granskade akter per genomförd inspektion och även stora skillnader i antalet 
+granskade akter vid varje inspektion. Den andra förändringen är en något 
+minskad anmärkningsfrekvens. Det senare resultatet kan vara hänförligt 
+till att den utökade aktgranskningen inte har motsvarats av relativt sett 
+fler anmärkningar. Detta kan i sin tur vara hänförligt till såväl förhållanden 
+hos överförmyndaren som till länsstyrelsernas tolerans eller förmåga att 
+upptäcka brister vid aktgranskningen. Resultatet kan även vara en följd av 
+de stora variationerna i antalet granskade akter som i kombination med det 
+begränsade urvalet inte speglar den totala förekomsten av anmärkningar. 
+Materialet medger inte någon närmare bedömning av det faktiska 
+förhållandet. 
+
+Ovan (avsnitt 3.2.4) framgår att det är svårt att få en entydig bild av 
+länsstyrelsernas prioriteringar. De iakttagna förändringarna av frekvensen 
+av antalet granskade akter – granskningsfrekvensen – samt frekvensen 
+av anmärkningar leder därför till två frågor. Den ena frågan är om 
+inventeringarna är jämförbara. Den andra frågan är om andra uppgifter ger 
+stöd för denna bild från länsstyrelsernas inspektioner av överförmyndarnas 
+verksamhet och förändringen över tid. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 29 
+RIKSREVISIONEN 
+
+
+3.3.2 
+
+När det gäller jämförbarheten är svaret inte entydigt. Den första 
+inventeringen bygger på inspektionsprotokoll från i stort sett alla landets 
+överförmyndare. Den nu aktuella inventeringen bygger på det begränsade 
+urval av protokoll – motsvarande 14 procent av landets överförmyndare – 
+som föll ut vid ett urval av 2008 års första och sista inspektionsprotokoll i 
+varje län. 
+
+När det gäller överensstämmelse med annan information är svaret inte 
+heller entydigt.72 I likhet med Riksrevisionens inventering 2006 framträder 
+dock även vid denna begränsade inventering stora variationer mellan länen. 
+Variationerna gäller såväl antalet granskade akter vid varje inspektion som 
+frekvensen av anmärkningar vid granskningen av enskilda akter. 
+
+Fortsatt stora länsvisa variationer av anmärkningar 
+
+Den bild som framträder av länsstyrelsernas aktgranskning visar på fortsatt 
+stora skillnader i såväl antalet granskade akter som antalet och andelen 
+anmärkningar i de akter som granskas. 
+
+Det ställs inga formella kompetenskrav på den som väljs till uppdraget 
+som överförmyndare. Det är därför inte orimligt att anta att stora variationer 
+i kompetens förekommer mellan olika överförmyndare. 
+
+Överförmyndaren ansvarar själv för sin verksamhet. En väl genomförd 
+statlig tillsyn, kontinuerligt integrerad med moment av lärande, kan 
+dock bidra till generellt höjd kompetens hos länets överförmyndare. Den 
+rådgivande funktion som länsstyrelserna har fått med 2009 års ändringar 
+i förmynderskapsförordningen är avsedd att stödja ett sådant lärande hos 
+överförmyndarna. 
+
+Riksrevisionens inventering av inspektionsprotokoll från 2008 
+indikerar att det förekommer omfattande och även länsvisa variationer i 
+anmärkningsfrekvensen mellan länen. Frekvensen av anmärkningar varierade 
+från 0 procent till 100 procent. I fem län var den lägre än 10 procent och i 
+sex län 80 procent eller högre. Detta illustreras i tabell 3.3. 
+
+72 Programredaktionen för Uppdrag granskning genomförde våren 2009 en aktgranskning 
+
+baserad på samtliga tillgängliga inspektionsprotokoll från 2008. Totalt omfattade inventeringen 
+
+78 % av landets överförmyndare. Ett genomsnittligt mått på anmärkningsfrekvens i de granskade 
+
+akterna beräknades för såväl de enskilda länen som för landet som helhet. Den genomsnittliga 
+
+anmärkningsfrekvensen för landet som helhet var 39 %. Skillnaderna mellan länen var dock stora 
+
+och motsvarade 0 till 86 %. 
+
+RIKSREVISIONEN 30 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Tabell 3.3 Variationer i frekvens av anmärkningar i 40 inspektionsprotokoll 2008 
+
+Länsstyrelser Antal granskade akter % akter Antal anmärkningar 
+med Ekon. 
+Totalt Med anm. anmärkning redovisn. Formfel Andra fel 
+C 36 
+0 
+0 % 
+N 20 
+0 
+0 % 
+K 3 
+0 
+0 % 
+H 30 
+1 
+3 % 
+1 
+AC 31 
+2 
+6 % 
+2 
+O 53 
+6 
+11 
+% 
+2 
+4 
+BD 40 
+8 
+20 % 
+9 
+2 
+AB 31 
+7 
+22 % 
+2 
+4 
+1 
+X 20 
+5 
+25 % 
+4 
+1 
+G 6 
+2 
+33 % 
+1 
+2 
+M 6 
+2 
+33 % 
+2 
+T 12 
+4 
+33 
+% 
+4 
+1 
+1 
+I 15 
+5 
+33 
+% 
+3 
+2 
+W 28 
+10 
+36 % 
+7 
+4 
+E 13 
+6 
+46 % 
+3 
+5 
+D 24 
+16 
+67 % 
+5 
+21 
+F 10 
+8 
+80 
+% 
+7 
+2 
+2 
+S 15 
+13 
+87 % 
+5 
+9 
+1 
+Z 10 
+9 
+90 
+% 
+10 
+46 
+Y 12 
+11 
+92 
+% 
+3 
+5 
+9 
+U 12 
+12 
+100 % 
+5 
+11 
+1 
+Summa 427 
+127 
+123
+
+
+30 % 
+16
+70
+Källa: Första och sista inspektionsprotokollet från länsstyrelsernas inspektion av överförmyndare 
+2008. 
+
+För att illustrera karaktären på anmärkningarna har dessa delats in i tre 
+kategorier som rör ekonomisk redovisning, formella fel och andra fel.73 
+Drygt en tredjedel av anmärkningarna avser brister i den ekonomiska 
+redovisningen74 och omkring två tredjedelar avser formella fel.75 
+Formella brister kan ha principiell betydelse om det till exempel saknas 
+dokumentation om viktiga ekonomiska händelser. Dokumentationen kan 
+också vara i sådan oordning att en granskning av den ekonomiska 
+redovisningen allvarligt försvåras eller omöjliggörs. I enstaka fall rör 
+bristerna andra fel.76 
+
+73 Indelningen har varken stöd i någon reglering eller i praxis på länsstyrelserna. 
+
+74 Exempel på påtalade brister i den ekonomiska redovisningen är fastighetsförsäljning där 
+redovisningen av huvudmannens medel saknades, uttagsposter på närmare 90 000 respektive 
+130 000 kronor utan specifikation på vad beloppen avser, in- och utgående saldo stämmer inte 
+och konton med överförmyndarspärr som inte skötts korrekt samt ett antal fall där årsräkningar 
+saknas. 
+
+75 Exempel på påtalade formella brister är avsaknad av underskrifter och registrering, årsräkningar 
+och annan dokumentation som gjorts med blyerts samt – rätt vanligt förekommande – allmän 
+oordning i akterna och handlingar som saknas. 
+
+76 I bilaga 5 redovisas resultatet av inventeringen av första respektive sista inspektionsprotokollet 
+från 2008, inklusive nothänvisningar med förklaringar till anmärkningar. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 31 
+RIKSREVISIONEN 
+
+
+3.3.3 
+
+3.4 
+
+Resurser förklarar ej skillnader i antalet granskade akter 
+
+Skillnaderna i frekvens av granskade akter har ställts mot skillnaderna i 
+tillgängliga resurser för länsstyrelsernas tillsyn av överförmyndare.77 Det går 
+inte att urskilja något generellt samband. 
+
+De båda länsstyrelser78 som hade minst respektive mest resurser 
+granskade i stort sett lika många – 30 respektive 31– akter. Den länsstyrelse79 
+som granskade flest akter – 53 – hade mindre än hälften så mycket resurser 
+för sin tillsyn av överförmyndare som en länsstyrelse som granskade 12 akter. 
+Den länsstyrelse80 som granskade minst antal akter – 3 – hade 30 procent 
+mer resurser än den länsstyrelse som granskade 53 akter. Fördelningen av 
+resurser och granskade akter framgår av bilaga 4. 
+
+Åtgärder och dokumentation av inspektioner 
+
+Länsstyrelserna har ingen tillgång till sanktioner i sin tillsyn av 
+överförmyndarna. Möjligheterna att påverka dessa och deras verksamhet 
+bygger därför på att länsstyrelserna i sin tillsyn kan bidra till ett lärande via 
+en övertygande argumentation. Det är därför viktigt att länsstyrelsernas 
+bedömningar är tydliga och återförs till överförmyndarna och den ansvariga 
+kommunledningen. Det är också viktigt att länsstyrelserna använder sig av 
+tillgängliga åtgärder för att skydda huvudmännens intressen. I föregående 
+granskning, 2006, konstaterades omfattande brister: 
+
+• 
+Trots allvarliga brister använde länsstyrelserna endast i undantagsfall 
+tillgängliga åtgärder, som initiativ till entledigande av överförmyndaren 
+och anmälan till polis eller åklagare. 
+• 
+Några länsstyrelser återgav över huvud taget inte resultatet av sin 
+aktgranskning i inspektionsprotokollet. 
+• 
+Anmärkningar vid aktgranskningen hade ofta formen av noteringar eller 
+påpekanden utan motiv och utan koppling till behovet av åtgärder för att 
+korrigera och förebygga brister. 
+• 
+Samma sammanfattande omdöme användes ofta oavsett omfattningen av 
+problem och brister som hade framkommit vid inspektionen. Budskapet 
+till överförmyndaren blev då ofta oklart eller direkt motstridigt. 
+• 
+Återkoppling till den ansvariga kommunledningen förekom bara i 
+undantagsfall. 
+77 Fördelningen av granskningsfrekvens och tillgängliga resurser redovisas i tabell i bilaga 4. 
+78 Länsstyrelserna i Kalmar och Stockholm. 
+79 Länsstyrelsen i Västra Götaland. 
+80 Länsstyrelsen i Blekinge. 
+
+RIKSREVISIONEN 32 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+3.4.1 Viss bevakning av rättsfall men fortsatt låg aktivitetsnivå 
+Omkring hälften av länsstyrelserna bevakar nu mer eller mindre aktivt 
+rättsfall inom överförmyndarområdet. I en del fall rör det sig om en 
+regelbunden bevakning via olika kanaler. Två länsstyrelser begär regelbundet 
+denna information från sina överförmyndare i anslutning till inspektioner.81 
+Andra informationskanaler är prenumeration på rättsdatabaser eller 
+Norstedts juridik eller information från överförmyndarföreningens 
+länsombud.82 I andra fall hänvisar länsstyrelserna till mer sporadisk 
+information från sina överförmyndare eller tingsrätter eller via medier.83 
+
+Länsstyrelsernas aktivitet med att anmäla misstankar om brott till polis 
+
+eller åklagare är dock fortsatt låg. Under de senaste tre – fyra åren har detta 
+
+endast förekommit i enstaka fall.84 En del länsstyrelser anger däremot att 
+
+det förekommer att de uppmanar sina överförmyndare att polisanmäla 
+
+misstankar om brott.85 
+
+3.4.2 Krav på redovisning av korrigerande åtgärder 
+Den senaste ändringen av förmynderskapsförordningen ger länsstyrelserna, 
+sedan den 1 januari 2008, förordningsstöd för att begära redovisning av 
+korrigerande åtgärder från överförmyndarna. 
+
+Sex länsstyrelser hade under 2008 använt sig av skriftliga krav på 
+
+återrapportering för att följa upp resultatet av sina inspektioner.86 Orsakerna 
+
+bakom krav på återrapportering handlar i huvudsak om att överförmyndaren 
+
+inte hade skött formella krav på verksamheten – som dokumentation och 
+
+handläggning av ärenden – på ett korrekt sätt samt om brist på resurser. 
+
+I slutet av 2007 hade till exempel en överförmyndare 193 ej granskade 
+
+årsräkningar – de äldsta inkomna före 2000 – samt 13 fall av akut behov av 
+
+god man och ytterligare 26 fall av ansökningar av förordnande av god man 
+
+som alla blivit liggande. Länsstyrelsen konstaterade även att handläggningen 
+
+ytterligare försvårades av att akterna var i sådan oordning.87 
+
+81 Länsstyrelserna i Västra Götaland och Norrbotten. 
+82 
+
+Länsstyrelsen i Östergötland, Västra Götaland, Stockholm, Värmland, Norrbotten och 
+Västernorrland. 
+
+83 
+
+Länsstyrelserna i Skåne, Uppsala, Örebro och Dalarna. 
+
+84 Länsstyrelsen i Västra Götaland. 
+
+85 Länsstyrelserna i Skåne, Värmland och Norrbotten. 
+
+86 Länsstyrelserna i Stockholm, Uppsala, Kronoberg, Kalmar, Skåne och Värmland. 
+
+87 Länsstyrelsen i Kalmar, inspektion av överförmyndarnämnden i Hultsfred 2007-11-08. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 33 
+RIKSREVISIONEN 
+
+
+3.4.3 
+
+3.5 
+
+3.5.1 
+
+Bättre återkoppling av inspektionernas resultat 
+
+Samtliga länsstyrelser redovisar nu resultatet av sin aktgranskning i 
+inspektionsprotokollet. 
+
+Jämfört med 2006 års granskning är det större variation i protokollens 
+sammanfattande omdömen och med i flera fall en bättre anpassning till 
+inspektionens resultat. Fortfarande förekommer dock oklara eller motstridiga 
+besked. Exempel på detta i Riksrevisionens inventering är när protokoll 
+med aktgranskningar med en anmärkningsfrekvens på två tredjedelar eller 
+mer kombineras med en sammanfattande kommentar som är positivt 
+värderande88 eller saknar värdering.89 Men det finns även exempel på 
+slutkommentarer där kritiken kopplas till en tydlig värdering och behov av 
+åtgärder.90 
+
+Jämfört med föregående granskning är det en väsentlig skillnad i fråga 
+om återkoppling av inspektionsprotokollen till kommunledningarna. Enligt 
+noteringar i inspektionsprotokollen görs detta nu av 16 länsstyrelser.91 
+I flertalet fall skickar man protokollet till både kommunstyrelsen och 
+kommunfullmäktige. I ytterligare några fall adresseras protokollet till endera 
+kommunstyrelsen eller kommunfullmäktige eller till kommunledningen. En 
+del länsstyrelser anger även att detta har lett till åtgärder och ökat stöd för 
+överförmyndarna i till exempel frågor om resurser och lokaler.92 Från och 
+med 2009 skickar en länsstyrelse även protokollet till kommunrevisionen.93 
+
+Nationell samordning 
+
+Initiativ till samordning eller erfarenhetsutbyte 
+
+Vid 2006 års granskning framkom att totalt fyra konferenser hade 
+genomförts för utbyte av erfarenheter mellan ansvariga för länsstyrelsernas 
+tillsyn av överförmyndare. Vid en konferens 2003 tillsattes en arbetsgrupp 
+med uppgiften att ta fram ett förslag till nationell tillsynsplan. Syftet var 
+att samordna tillsynen av överförmyndare. Ett förslag presenterades vid en 
+konferens 2007. Hösten 2009 har dock förslaget ännu inte färdigberetts och 
+realiserats. 
+
+88 Länsstyrelserna i Södermanland, Jönköping och Jämtland. 
+89 
+
+Länsstyrelserna i Östergötland och Västernorrland. 
+
+90 Länsstyrelserna i Västmanland, Värmland, Dalarna och Gävleborg. 
+91 
+
+Länsstyrelserna i Stockholm, Södermanland, Östergötland, Jönköping, Kronoberg, Gotland, 
+Skåne, Västra Götaland, Värmland, Örebro, Västmanland, Gävleborg, Västernorrland, Jämtland, 
+Västerbotten, Uppsala och Norrbotten. 
+
+92 Länsstyrelserna i Värmland, Skåne, Uppsala, Västerbotten och Norrbotten. 
+
+93 Länsstyrelsen i Jönköping. 
+
+RIKSREVISIONEN 34 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Ett resultat av arbetsgruppens arbete är emellertid en mall för 
+
+årsredogörelse från överförmyndarna. Länsstyrelsen i Dalarna svarade för 
+
+en sammanställning av det första årets uppgifter, 2006. Därvid framkom 
+
+omfattande problem med både kvalitet och bortfall i det material som 
+
+samlats in. Av detta skäl gjordes ingen närmare sammanställning. Mallen 
+
+används dock av en del länsstyrelser inför tillsynsbesök. 
+
+Generellt hänvisar även länsstyrelsernas handläggare för tillsynen 
+
+av överförmyndare till en e-postgrupp för erfarenhetsutbyte mellan 
+
+länsstyrelserna. 
+
+Sedan föregående granskning har ytterligare två konferenser genomförts, 
+
+den senaste i november 2009. Vid detta tillfälle tillsattes åter en arbetsgrupp 
+
+som ska arbeta med samordning. Utöver detta har inga aktiviteter för att 
+
+samordna tillsynen av överförmyndare varit aktuella sedan föregående 
+
+granskning. 
+
+3.5.2 Olika bedömningar av överförmyndarnas lämplighet 
+I länsstyrelsernas uppgift ligger att de ska initiera entledigande av 
+olämpliga överförmyndare hos tingsrätten. Vid 2006 års granskning hade 
+länsstyrelserna haft tillsynsansvar för överförmyndarna i tio år. Under den 
+tioårsperioden hade ett initiativ till entledigande av en överförmyndare 
+tagits. Frågan uppmärksammades i det fallet av den ansvariga länsstyrelsen 
+i anslutning till tillsynen.94 Överförmyndaren avgick dock innan frågan hann 
+behandlas i rätten. 
+
+Sedan föregående granskning har ytterligare ett initiativ till 
+
+entledigande förekommit. Länsstyrelsens initiativ var denna gång 
+
+en följd av en egen utredning, som gjordes efter att medierna hade 
+
+uppmärksammat problem i överförmyndarens verksamhet.95 Den aktuelle 
+
+överförmyndaren hade innehaft sin post under hela tidsperioden sedan 
+
+länsstyrelsen fick tillsynsansvar 1995 och hade under denna period 
+
+genomfört elva inspektioner. Under tioårsperioden 1996 – 2005 varierade 
+
+anmärkningsfrekvensen vid länsstyrelsens aktgranskning från 0 procent 
+
+(vid fyra inspektioner) och upp till 50 procent (övriga fem inspektioner). 
+
+Länsstyrelsen anmärkte bland annat på att årsräkningar saknades, att 
+
+bankkonton som borde vara spärrade inte var det och att olika dokument 
+
+saknades.96 Överförmyndaren hade lämnat olika förklaringar till 
+
+länsstyrelsen.97 Samma typ av brister uppfattas av en annan länsstyrelse 
+
+94 Länsstyrelserna i Västra Götaland och Norrbotten. 
+
+Överförmyndaren i Vetlanda. 
+
+96 Se bilaga 6. 
+
+97 Länsstyrelsen i Jönköping. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 35 
+RIKSREVISIONEN 
+
+
+som allvarliga.98 Vid båda de två senaste inspektionerna, 2007 och 2008, 
+var anmärkningsfrekvensen vid aktgranskningen 100 procent. Dessa två 
+inspektioner utfördes av två tjänstemän som tidigare inte hade deltagit i 
+inspektionerna hos den aktuella överförmyndaren. 
+
+Även i det senaste fallet av initiativ till entledigande avgick 
+överförmyndaren innan ärendet hunnit behandlas i tingsrätten. Flera 
+länsstyrelser har liknande erfarenheter när de har börjat ifrågasätta 
+överförmyndarnas lämplighet.99 Till viss del kan detta förklara att fallen 
+av formella initiativ till entlediganden är förhållandevis få. Länsstyrelserna 
+bidrar till att bristerna korrigeras i de enskilda fallen. Samtidigt kommer 
+frågan om överförmyndarnas lämplighet inte till någon rättslig prövning. 
+
+Länsstyrelserna har fått frågan om på vilket sätt de identifierar mer 
+eller mindre lämpliga överförmyndare. En länsstyrelse påpekar vikten av 
+att kontinuerligt kombinera egna erfarenheter med en stor lyhördhet samt 
+förekomsten av klagomål.100 Mest genomgående anges i övrigt att en hög 
+frekvens av anmärkningar vid länsstyrelsens aktgranskning indikerar en 
+olämplig överförmyndare.101 Även frekvensen av anmälningsärenden102 
+anges som en indikator. En del påpekar också vikten av att hålla uppsikt 
+över överförmyndare som är nya – och därmed ännu oprövade – i sin 
+befattning.103 Ett par länsstyrelser framhåller svårigheterna med att i ord 
+beskriva hur dessa bedömningar görs.104 
+
+Fjorton länsstyrelser anser att deras bedömningar av olämpliga 
+överförmyndare inverkar på inspektionernas frekvens eller innehåll.105 
+Främst påverkas frekvensen. Men en del länsstyrelser påpekar att även 
+inspektionens innehåll kan påverkas om man har uppmärksammat mycket 
+problem hos en överförmyndare. 
+
+Sju länsstyrelser anser att deras bedömningar av olämpliga 
+överförmyndare hittills inte har haft någon väsentlig inverkan på 
+inspektionernas innehåll eller frekvens.106 Fasta rutiner för inspektionerna 
+och kraven på årliga inspektioner bidrar till att frågan om prioritering inte 
+heller av detta skäl hade aktualiserats. 
+
+98 Länsstyrelsen i Västmanland. 
+
+99 Länsstyrelserna i Värmland, Dalarna, Norrbotten, Uppsala, Västra Götaland och Skåne. 
+
+100 Länsstyrelsen Västra Götaland. 
+
+101 Bland annat Länsstyrelserna i Stockholm, Kronoberg, Dalarna, Gävleborg, Jämtland, Västerbotten 
+och Norrbotten. 
+
+102 Bland annat Länsstyrelserna i Stockholm, Skåne och Norrbotten. 
+
+103 Bland annat Länsstyrelsen i Värmland. 
+
+104 Länsstyrelserna i Östergötland och Örebro. 
+
+105 Länsstyrelserna i Stockholm, Uppsala, Östergötland, Kronoberg, Skåne, Gotland, Blekinge, Västra 
+Götaland, Värmland, Dalarna, Gävleborg, Jämtland, Västerbotten och Norrbotten. 
+
+106 Länsstyrelserna i Södermanland, Jönköping, Kalmar, Halland, Örebro, Västmanland och 
+Västernorrland. 
+
+RIKSREVISIONEN 36 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+3.6 Sammanfattande iakttagelser 
+Sedan föregående granskning har de samlade resurserna till länsstyrelsernas 
+tillsyn av överförmyndare ökat från 4,5 till 6,6 årsarbetskrafter. En ökad 
+aktivitetsnivå framträder i flera avseenden: 
+
+• 
+Länsstyrelserna genomför tätare inspektioner och granskar därvid fler 
+akter. 
+• 
+Länsstyrelserna är mer aktiva med att bevaka brottsfall. 
+• 
+Länsstyrelserna dokumenterar inspektionernas resultat tydligare och 
+återkopplar det bättre till berörda överförmyndare och kommunledning. 
+Utöver resurstillskottet och den ökade aktivitetsnivån framträder i stora delar 
+en likartad bild av tillsynen av överförmyndare: 
+
+• 
+Stora variationer framträder i länsstyrelsernas tillsyn i fråga om 
+såväl antalet genomförda inspektioner som antalet granskade akter vid 
+inspektionerna och antalet anmärkningar vid aktgranskningen. 
+• 
+Variationerna i antalet genomförda inspektioner och antalet granskade 
+akter tycks inte kunna förklaras av länsstyrelsernas tillgång på resurser. 
+• 
+Antalet anmärkningar i akterna är fortfarande omfattande, även i den 
+begränsade inventering av inspektionsprotokoll som har genomförts i 
+denna uppföljande granskning. 
+• 
+Åtgärder vid misstankar om missförhållanden används sparsamt, såsom 
+initiativ till entledigande av överförmyndare och anmälan till polis eller 
+åklagare. 
+Tillsynen av överförmyndarna – uppföljningsgranskning 37 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 38 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Regeringens styrning och uppföljning 
+
+Den andra frågan att besvara i denna uppföljande granskning är om 
+regeringen har förändrat sin styrning och uppföljning av denna tillsyn och 
+om förändringarna har bidragit till att komma till rätta med problemen med 
+samordning och uppföljning. 
+
+I 2006 års granskning konstaterades att regeringen inte hade fångat upp 
+
+de problem som fanns hos överförmyndarna och länsstyrelsernas tillsyn av 
+
+denna verksamhet och inte heller återrapporterat till riksdagen. Regeringen 
+
+hade inte heller givit länsstyrelserna i uppgift att samordna tillsynen. 
+
+4.1 Initiativ till ändrad reglering 
+Sedan 2006 års granskning har regeringen tagit flera initiativ till ändrad 
+reglering av förmynderskapsfunktionen. 
+
+I oktober 2007 fattade regeringen beslut om ändringar i 
+
+förmynderskapsförordningen.107 Syftet var att stärka länsstyrelsernas tillsyn 
+
+av överförmyndarna. Förändringarna – som trädde i kraft den 1 januari 2008 
+
+– finns beskrivna i inledningen till kapitel 3. 
+Våren 2008 lade regeringen fram ytterligare förslag om förändringar 
+
+i länsstyrelsernas tillsyn av överförmyndarna i en proposition om 
+
+förmynderskapsrättsliga frågor.108 Propositionen baserades såväl på 
+
+slutbetänkandet från Utredningen om förmyndare, gode män och förvaltare 
+
+som på Riksrevisionens granskning 2006. Regeringen föreslog där bland 
+
+annat ändringar av föräldrabalkens reglering av förmynderskapsrättsliga 
+
+frågor. Enligt förslaget skulle länsstyrelsernas tillsyn vidgas till att även 
+
+omfatta råd för att stödja en enhetlig rättstillämpning och se till att 
+
+utbildningen av överförmyndare var tillfredsställande. 
+
+Hösten 2008 biföll riksdagen den ovan nämnda propositionen och den 
+ändrade regleringen trädde i kraft den 1 januari 2009.109 I anslutning till 
+riksdagsbehandlingen framhöll civilutskottet bland annat följande:110 
+
+107 Förordning (2007:743) om ändring i förmynderskapsförordningen (1995:379). 
+108 Prop. 2007/08:150 Förmynderskapsrättsliga frågor. 
+109 19 kap. 17 § föräldrabalken (1949:381). 
+110 Bet. 2008/09:CU2. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 39 
+RIKSREVISIONEN 
+
+
+• 
+Länsstyrelsens granskande och korrigerande innebörd skulle 
+kompletteras med en rådgivande funktion i förhållande till 
+överförmyndarna och deras tjänstemän. 
+• 
+Ansvaret för att utbilda överförmyndarna borde – liksom dittills – ligga 
+på kommunen, medan länsstyrelserna borde bistå med råd och 
+uppföljning av att utbildningen kommer till stånd. 
+• 
+Länsstyrelserna borde stödja kommunens eget arbete med att uppnå en 
+effektiv organisation för överförmyndarna. 
+Som framgår av kapitel 3 har förändringar inträffat i länsstyrelsernas tillsyn 
+som till viss del kan hänföras till förmynderskapsförordningens förändringar. 
+(se inledningen till avsnitt 3). 
+
+Stora variationer i länsstyrelsernas anmärkningsfrekvens förekommer 
+
+nu liksom vid föregående granskning i anslutning till länsstyrelsernas 
+
+aktgranskning. Denna iakttagelse är av principiell vikt. Länsstyrelserna anger 
+
+genomgående brister vid aktgranskningen som den väsentliga grunden 
+
+såväl för prioriteringar inom tillsynen som för bedömningar av olämpliga 
+
+överförmyndare. Den länsvisa variationen av anmärkningsfrekvens är 
+
+samtidigt betydande. 
+
+Länsstyrelserna har fått en vidgad roll i och med att tillsynen av 
+
+överförmyndare även ska omfatta en rådgivande funktion. Avsikten är att 
+
+stödja överförmyndarna för att främja en enhetlig rättstillämpning. Råden 
+
+ska inriktas på överförmyndarnas utbildning och organisationen av deras 
+
+verksamhet. Denna förändring har ännu bara varit i kraft i mindre än ett år. 
+
+Det är därför oklart i vilken mån förändringen får avsedd effekt. 
+
+4.2 Övriga initiativ 
+Sedan 2006 års granskning av tillsynen av överförmyndare har frågor om 
+samordning och tillsyn aktualiserats i beredningen av olika frågor. 
+
+En proposition om förvaltningspolitiska frågor är planerad att 
+
+överlämnas till riksdagen i början av 2010. Frågor kring länsstyrelsernas 
+
+tillsynsroll kommer att behandlas där. 
+
+En skrivelse till riksdagen om tillsyn håller också på att beredas. 
+
+Skrivelsen ska behandla grundläggande frågor om en utvecklad tillsyn och 
+
+ta upp delar av både Tillsynsutredningens och Ansvarskommitténs förslag. 
+
+Anledningen till att det ska bli en skrivelse och inte en proposition är att 
+
+frågorna är av riktlinjekaraktär. Konkreta förslag om förändringar kommer att 
+
+följa i propositioner senare. 
+
+Frågor om samordning och tillsyn har även aktualiserats i andra 
+
+utredningar. I ett par fall har utredningarna även direkt bäring på tillsynen av 
+
+överförmyndare. 
+
+RIKSREVISIONEN 40 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Regeringen har nyligen tillsatt en utredning för att se över statlig, 
+regional förvaltning m.m.111 En utredare ska ge förslag på hur den statliga, 
+regionala förvaltningen kan bli tydligare, mer samordnad och ändamålsenlig. 
+Utredaren ska bland annat se över på vilket sätt som länsstyrelsernas roll 
+som regional samordnare av statlig tillsyn kan vidareutvecklas. Utredningen 
+ska avrapporteras senast den 21 december 2012. 
+
+Den så kallade ärendeutredningen föreslog i sitt slutbetänkande att 
+beslut om anordnande, omprövning och upphörande av godmanskap flyttas 
+från tingsrätten till överförmyndaren.112 Den huvudsakliga förändringen 
+gäller ärenden där den enskilde ansöker om anordnande av godmanskap 
+eller samtycker till att sådant anordnas. Enligt förslaget ska överförmyndaren 
+även pröva ärenden där den enskilde begär att godmanskapet ska omprövas 
+eller upphöra. Ärendeutredningens förslag avses bli en lagrådsremiss våren 
+2010 och därefter en proposition till riksdagen. 
+
+En utredning om länsstyrelsernas tillsyn avrapporterades till regeringen 
+i februari 2009.113 Utredningen lägger fram olika förslag för att stärka 
+länsstyrelsernas tillsyn. Ett förslag rör koncerntänkande och koncentration av 
+tillsynen till färre länsstyrelser inom fem områden. Ett av dessa områden är 
+tillsynen av överförmyndare. Med hänvisning till den granskning av tillsynen 
+av överförmyndare som Riksrevisionen presenterade 2006 framhåller 
+utredningen också behovet av att denna tillsyn ses över i särskild ordning. 
+Enligt utredningen räcker det inte med enbart förbättringar av tillsynen. 
+Regeringen har i budgetpropositionen för 2010 aviserat att denna utredning 
+kommer att överlämnats till den ovan nämnda, nyligen tillsatta utredningen 
+om en översyn av statlig och kommunal förvaltning m.m. 
+
+Regeringen har för avsikt att i länsstyrelsernas regleringsbrev för 2010 
+ge länsstyrelserna ett uppdrag som syftar till att följa upp vilka effekter 
+regeringens proposition 2007/08:150 och tidigare nämnda ändringar 
+i regelverket fått för länsstyrelsernas tillsyn av överförmyndare och 
+överförmyndarnämnder. Uppdraget ska redovisas till regeringen senast den 
+30 juni 2010. 
+
+111 
+
+Dir. 2009:62. 
+
+112 SOU 2007:65 Domstolarnas handläggning av ärenden. 
+
+113 Länsstyrelsernas tillsyn – dagsläge, möjliga förbättringar, framtidsutsikter, redovisning av ett 
+
+regeringsuppdrag, Fi2008/3093. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 41 
+RIKSREVISIONEN 
+
+
+4.3 Sammanfattande iakttagelser 
+Sedan den föregående granskningen 2006 har regeringen tagit flera initiativ 
+till förändrad reglering i föräldrabalken och förmynderskapsförordningen 
+för att stärka tillsynen av överförmyndarna. Frågorna om styrning och 
+samordning av denna tillsyn har varit aktuella i olika utredningar men 
+har ännu inte satt spår i den operativa verksamheten. Regeringen har 
+dock för avsikt att ta ett initiativ till uppföljning inom området i 2010 års 
+regleringsbrev till länsstyrelserna. 
+
+RIKSREVISIONEN 42 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Förändringar i överförmyndarnas 
+verksamhet 
+
+I 2006 års granskning konstaterade Riksrevisionen omfattande brister 
+i överförmyndarnas egen verksamhet. Problemen var hänförliga till 
+omfattningen av fel i de akter länsstyrelserna granskade. Problemen var 
+också hänförliga till JO:s kritik under en följd av år, såsom skillnader i 
+överförmyndarnas kompetens och en mycket skiftande kvalitet i deras 
+verksamhet. Problemen, som delvis bedömdes vara en följd av bristerna 
+i länsstyrelsernas tillsyn, medförde ökade risker för rättsförluster 
+för huvudmännen. Vidare konstaterades en tilltagande volym i 
+överförmyndarnas verksamhet, särskilt i fråga om svårare ärenden. 
+
+Förändringar i verksamhetens omfattning och karaktär kan ha 
+
+återverkningar på förutsättningarna för tillsyn. I detta kapitel återges 
+
+därför översiktligt förändringarna i överförmyndarnas verksamhet sedan 
+
+föregående granskning. 
+
+5.1 Verksamheten och dess omfattning 
+5.1.1 Rikstäckande uppgifter saknas efter 2004 
+En fortlöpande uppföljning av överförmyndarnas verksamhet saknas 
+på rikstäckande nivå. Föreningen Sveriges Överförmyndare (FSÖ) ser 
+detta som ett problem och driver på olika sätt frågan om att synliggöra 
+överförmyndarna, såväl statistiskt som opinionsmässigt. 
+
+Som framgår av avsnitt 3.5.1 har en del länsstyrelser börjat använda en 
+
+mall för årsredogörelse som överförmyndarna ska fylla i.114 Mallen skickas 
+
+ut i anslutning till inspektionerna. Ett försök att sammanställa första årets 
+
+material, 2006, visade dock på så omfattande kvalitetsbrister att en närmare 
+
+sammanställning inte bedömdes vara meningsfull att göra. (Se avsnitt 3.5.1.) 
+
+För att få ett ändamålsenligt underlag för revisionens bedömningar 
+
+riktades i den föregående granskningen en enkät till landets överförmyndare. 
+
+Frågorna handlade i huvudsak om verksamhetens resurser samt om 
+
+verksamhetens omfattning och utveckling 2004 med viss jämförbarhet för 
+
+2000. 
+
+114 Länsstyrelserna i Stockholm, Skåne, Västerbotten och Norrbotten. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 43 
+RIKSREVISIONEN 
+
+
+Resurserna 
+
+Uppgifter om överförmyndarnas resurser för sin verksamhet 2000 respektive 
+2004 framgår av tabell 5.1. 
+Tabell 5.1 Årsarbetskrafter hos landets överförmyndare 2000 – 2004 
+
+Antal årsarbetskrafter Förändring i procent 
+År 2000 År 2004 
+Förtroendevalda 123 
+128 
+4 
+% 
+Kommunala tjänstemän 219 
+258 
+18 % 
+Totala resurser 342 
+386 
+13 % 
+
+
+Källa: Enkät angående tillsynen av överförmyndare i kommunerna, Statisticon AB 2005. 
+
+Volymökningen av överförmyndarnas resurser mellan 2000 och 2004 bestod 
+således i huvudsak av tjänstemän. Samtidigt visade samma inventering att 
+fortfarande 2004 hade endast en av tre överförmyndare anställda tjänstemän 
+för sin verksamhet. Vidare bestod en av tre överförmyndare 2004 av en 
+nämnd. Omfattningen av nämnder var densamma 2000. 
+
+Ställföreträdarskapen 
+
+Överförmyndarnas verksamhet omfattade i slutet av 2004 närmare 
+90 000 beslut om ställföreträdarskap. Fördelningen på olika typer av 
+ställföreträdarskap framgår av tabell 5.2. 
+
+Tabell 5.2 Antalet ställföreträdarskap 2004 fördelat på olika kategorier 
+
+FöräldraAnordnade Godmanskap FörvalTotalt antal 
+förvaltningar förmynderskap Hälsoskäl Övriga tarskap ställföreträdarskap 
+18 
+863 
+2 
+156 
+56 145 
+4 
+736 
+6 
+258 
+88 
+158 
+
+
+Källa: Enkät angående tillsynen av överförmyndare i kommunerna, Statisticon AB 2005. 
+
+Godmanskap av hälsoskäl var den klart dominerande kategorin 2004. 
+Möjligheter att jämföra med förhållandena 2000 fanns enbart för antalet 
+godmanskap och antalet förvaltarskap, som detta år var 51 398 respektive 
+4 784.115 Under perioden 2000 till 2004 hade godmanskapen därmed ökat 
+med 9 procent. Förvaltarskapen hade emellertid ökat mer än tre gånger så 
+mycket, med 30 procent. 
+
+115 Dessa uppgifter för 2000 hade tagits fram av dåvarande Svenska Kommunförbundet. 
+
+RIKSREVISIONEN 44 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+5.1.2 Förändringar efter 2004 
+Förtätning av verksamheten 
+
+Hälften av länsstyrelserna framhåller olika former av förtätning av 
+överförmyndarnas verksamhet som viktiga förändringar under de 
+senaste åren.116 Det handlar om gemensamma kommunkanslier eller fler 
+överförmyndarnämnder eller både och. I en del fall har överförmyndare från 
+olika kommuner även gått ihop i en gemensam nämnd, ibland även över 
+länsgränser. 
+
+Generellt ser tjänstemännen på länsstyrelserna positivt på denna 
+
+utveckling. Man framhåller att parallellt med denna förtätning har det blivit 
+
+mer satsningar på utbildning och höjd kompetens. En länsstyrelse framhåller 
+
+även att tillsynen kan bli effektivare med gemensamma kommunkanslier. 
+
+Besök på ett kansli kan omfatta flera överförmyndare.117 
+
+Ökad volym 
+
+Det saknas uppgifter för att i siffror fastställa den faktiska utvecklingen av 
+överförmyndarnas verksamhet efter 2004. Ett visst mönster framträder 
+dock i informationen som hämtats från våra intervjuer med länsstyrelsernas 
+tillsynsansvariga för överförmyndare, uppgifter från Sveriges Kommuner och 
+Landsting (SKL) samt FSÖ. 
+
+Länsstyrelsernas tillsynsansvariga fick frågan om väsentliga förändringar 
+
+inom överförmyndarnas verksamhet under de tre senaste åren. Nästan 
+
+hälften av länsstyrelserna ser en mer eller mindre ökad verksamhetsvolym 
+
+som en framträdande förändring.118 Främst framhåller man ökningen 
+
+av de svårare fallen, de så kallade dubbeldiagnoserna. Termen används 
+
+för personer med såväl en eller flera psykiatriska diagnoser som 
+
+missbruksproblem. Även företrädare för FSÖ framhåller den kraftiga 
+
+ökningen av framför allt svårare fall och ger olika förklaringar. 
+
+Ytterligare en del av den ökade volymen i överförmyndarnas verksamhet 
+
+kan förklaras av en ökad andel äldre i befolkningen och en ändring i 
+
+föräldrabalken med sänkt beloppsgräns för kravet på en ekonomisk 
+
+redovisning till överförmyndaren. 
+
+En annan förklaring är ett ökande antal ensamkommande flyktingbarn. 
+
+För dessa barn ska en god man förordnas så snart det är möjligt efter 
+
+ankomsten till Sverige.119 Gruppen nära nog fördubblades under perioden 
+
+116 Länsstyrelserna i Stockholm, Södermanland, Östergötland, Kronoberg, Gotland, Västra 
+Götaland, Örebro, Västmanland, Västernorrland och Västerbotten. 
+
+117 Länsstyrelsen i Västra Götaland. 
+
+118 Länsstyrelserna i Stockholm, Uppsala, Kronoberg, Kalmar, Skåne, Västra Götaland, Värmland, 
+Västerbotten och Norrbotten. 
+
+119 Lag (2005:429) om gode män för ensamkommande barn. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 45 
+RIKSREVISIONEN 
+
+
+5.2 
+
+5.2.1 
+
+2006–2008 från 820 till 1 510 barn. Ökningen fortsätter. Vid utgången av 
+det första halvåret 2009 hade 882 barn anlänt.120 Enligt Migrationsverkets 
+prognos i oktober 2009 kommer totalt cirka 2 400 barn att anlända till 
+Sverige under 2009.121 
+
+Indikationer om problem 
+
+Indikationer om problem med överförmyndarnas verksamhet har främst 
+framträtt i fråga om rekrytering av ställföreträdare och i fråga om en ökande 
+mängd anmälningar till JO och länsstyrelser. 
+
+Rekrytering av ställföreträdare 
+
+Ökad komplexitet 
+
+Redan under perioden 2000–2004 framträder den kraftiga ökningen av 
+förvaltarskapsärenden. För överförmyndarna är dessa ärenden ofta de 
+svåraste och mest komplexa att hantera. Verksamhetens svårighetsgrad ökar. 
+Trenden med en ökande mängd förvaltarskap har fortsatt. SKL genomförde 
+hösten 2009 en inventering av ställföreträdarskapen. Inventeringen omfattar 
+169 kommuner, det vill säga knappt 60 procent av landets överförmyndare. 
+I denna inventering uppgår det totala antalet förvaltarskap till 6 381, det vill 
+säga fler än det totala antalet förvaltarskap i landets samtliga kommuner 
+2004.122 
+
+Företrädare för FSÖ ger olika förklaringar till ett växande antal svårare 
+ärenden.123 Detta kan bland annat förklaras av ett ökat antal personer med så 
+kallade dubbeldiagnoser. 
+
+Rekryteringssvårigheter och förvaltarenheter 
+
+Flertalet länsstyrelser124 anger att länets överförmyndare har större eller 
+mindre svårigheter med att rekrytera ställföreträdare, särskilt för de svårare 
+fallen. Svårigheterna är inte helt utan fog. Enligt en hovrättsdom från 2005 
+är stor risk för att bli utsatt för våld inte skäl för att låta förvaltarskapet 
+upphöra.125 
+
+120 Uppgifter från Migrationsverkets webbplats 2009-11-25. 
+
+121 Migrationsverkets webbplats 30 oktober 2009. 
+
+122 Statistik från en inventering av Sveriges Kommuner och Landsting (SKL). 
+
+123 Minnesanteckningar från en intervju med Siv Palmgren (ordförande) och Anette Strömblad (vice 
+ordförande) i Föreningen Sveriges Överförmyndare (FSÖ). 
+
+124 Länsstyrelserna i Uppsala, Södermanland, Östergötland, Kronoberg, Skåne, Halland, Västra 
+
+Götaland, Värmland, Örebro, Dalarna, Gävleborg, Västernorrland, Jämtland, Västerbotten och 
+
+Norrbotten. 
+
+125 Beslut 2005-10-14 från Hovrätten i övre Norrland, mål nr ÖÄ 506-05 och ÖÅ 540-05. 
+
+RIKSREVISIONEN 46 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Om en huvudman har psykiska problem eller andra komplexa 
+problem får ställföreträdaren inte alltid veta detta i förväg. Det kan då bli 
+problematiskt att ställföreträdaren inte kan bli entledigad innan det finns 
+en ny ställföreträdare.126 Detta kan enligt Godmansföreningen bidra till 
+rekryteringsproblem.127 
+
+För att möta problemen med att rekrytera förvaltare för svårare fall 
+har så kallade förvaltarenheter inrättats i ett antal kommuner. Den totala 
+förekomsten är inte närmare känd. Men Riksrevisionen har identifierat sju 
+kommuner med förvaltarenheter.128 I dessa fall är förvaltarna inte längre 
+
+– som föräldrabalken föreskriver – frivilligarbetare. Tingsrätten förordnar 
+förvaltarna på vanligt sätt, i många fall – av allt att döma – utan vetskap om 
+att de förordnade förvaltarna ska anställas av kommunen.129 Förvaltarna 
+anställs enligt kommunala avtal av särskilt inrättade enheter i kommunen. 
+Det genomsnittliga antalet huvudmän per ställföreträdare som var knutna 
+till de studerade förvaltarenheterna varierade från 18 till cirka 40 huvudmän 
+per heltid förvaltare. (Se bilaga 7.) 
+Förvaltarenheterna förekommer i kommuner av olika storlek och är 
+lite olika placerade i kommunerna. Det vanliga är att överförmyndarna 
+svarar för tillsynen av förvaltarna medan enheterna i flera fall lyder under 
+socialförvaltningen. 
+
+Kritiken mot förvaltarenheter handlar bland annat om i vilken mån 
+inrättandet av enheterna är i överensstämmelse med främst kommunallagen 
+och föräldrabalken. Men kritiken är även av mer principiellt slag om 
+enheternas ändamålsenlighet. Förvaltaren kan hamna i en jävsliknande 
+situation om hon eller han ska företräda sin huvudman gentemot sin egen 
+arbetsgivare, till exempel socialförvaltningen. 
+
+Inom FSÖ är man kritisk till förvaltarenheter. Främst hänvisar man till 
+att de saknar lagligt stöd och att de kan leda till lojalitetsproblem mellan 
+ställföreträdaren och kommunen. SKL är av samma uppfattning. 
+
+JO har däremot uttalat sig positivt om förvaltarenheter. JO:s uppfattning 
+är att de som arbetar som professionella förvaltare på förvaltarenheter 
+fortfarande ägnar sig åt frivilligarbete. Med hänvisning till detta ser JO 
+exemplet med förvaltarenheter som efterföljansvärt i fall där det i princip 
+annars är omöjligt att finna en lämplig person för uppdraget.130 
+
+126 11 kap. 19 § 2 stycket föräldrabalken (1949:38). 
+
+127 Minnesanteckningar från en intervju med Kerstin Tegnér, ordförande i Riksförbundet för gode 
+män och förvaltare. 
+
+128 De kommuner som Riksrevisionen känner till har förvaltarenheter är Göteborg, Jönköping, 
+Sollentuna, Umeå, Skellefteå, Hultsfred och Västervik. 
+
+129 Minnesanteckningar från telefonsamtal med tingsrätterna i Göteborg, Jönköping och Umeå. 
+
+130 JO:s beslut 2009-06-18, dnr 1255-2008. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 47 
+RIKSREVISIONEN 
+
+
+Förvaltarenheternas funktion rör ställföreträdare, vilka lyder under 
+överförmyndarnas men däremot inte länsstyrelsernas tillsynsmandat. 
+Av de fem länsstyrelser som är berörda av förvaltarenheter är dock fyra 
+positiva131 och en mer neutral.132 De som är positiva menar att enheterna 
+fungerar bra och ser dem som en nödvändig utveckling med de ökade 
+problemen med att rekrytera ställföreträdare till svårare fall. I en kommun 
+bistår förvaltarenheten även grannkommunernas överförmyndare.133 Den 
+länsstyrelse som är mer neutral framhåller också problem som kan uppstå 
+när den anställde förvaltaren byter jobb om ingen ersättare finns. Här finns 
+dock erfarenheter av motsatt slag, det vill säga att förvaltare som slutar tar 
+med sig sina huvudmän, vilket kan leda till sämre ekonomi för enheten om 
+underlaget för fasta kostnader minskar.134 Ingen av landets länsstyrelser har i 
+sina årsredovisningar för 2008 uppmärksammat regeringen på förekomsten 
+av förvaltarenheter.135 
+
+Diskussioner om utredningsförfarandet 
+
+Diskussioner har uppstått om uppgiftsfördelningen mellan tingsrätt och 
+överförmyndare i fråga om förfaringssättet vid rekrytering av och utredning 
+om god man. Tingsrätten beslutar om anordnande av förvaltare eller god 
+man och beslutar då även om förordnande av en person för uppdraget. 
+Enligt 12 § lagen (1996:242) om domstolsärenden svarar tingsrätten då även 
+för att ärendet är tillräckligt berett, inklusive rekrytering av en person för 
+uppdraget. 
+
+Tingsrätten ska begära in ett yttrande från bland annat överförmyndaren. 
+I praktiken har i många fall överförmyndaren – som ofta får ansökan 
+före tingsrätten – skött utredningen, inklusive rekryteringen av en 
+ställföreträdare. Mot detta förfarande finns invändningar. En invändning är 
+att den rättsliga grunden är tveksam. Andra invändningar handlar om den 
+intressekonflikt som kan uppstå för en överförmyndare som ska rekrytera 
+den ställföreträdare som myndigheten sedan ska utöva tillsyn över. 
+
+FSÖ ser dock en fördel i att överförmyndaren svarar för utredningen. 
+Detta är att överförmyndaren kan börja arbeta direkt när ansökan kommer 
+in, utan att invänta tingsrättens begäran om yttrande. SKL är av motsatt 
+uppfattning med hänvisning till att utredningsskyldigheten alltid ligger på 
+den beslutande myndigheten enligt den så kallade officialprincipen.136 
+
+131 Länsstyrelserna i Jönköping, Kalmar, Västra Götaland och Västerbotten. 
+
+132 Länsstyrelsen i Stockholm. 
+
+133 Förvaltarenheten i Göteborg, Västra Götalands län. 
+
+134 Minnesanteckningar från en telefonintervju med förvaltarenheten i Göteborg. 
+
+135 I årsredovisningen för 2007 har 17 länsstyrelser inte uppmärksammat regeringen på förekomsten 
+av förvaltarenheter i länet. För fyra länsstyrelser saknas denna uppgift. 
+
+136 Den så kallade officialprincipen innebär att huvudansvaret för att ett ärende blir tillräckligt 
+
+utrett ligger på den beslutande myndigheten enligt sedvanerättslig grund. Jämför 8 § 
+
+förvaltningsprocesslagen (1971:291) och 7 § förvaltningslagen (1986:223). 
+
+RIKSREVISIONEN 48 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Frågan ställdes på sin spets när överförmyndaren i Gävle med 
+
+hänvisning till tingsrättens formella ansvar överlämnade ett antal ärenden 
+
+utan förslag till gode män till tingsrätten. Tingsrätten JO-anmälde 
+
+överförmyndaren. JO konstaterade att överförmyndaren inte kunde kritiseras 
+
+för att ha följt lagen.137 I ett annat fall avslog Uppsala tingsrätt en ansökan att 
+
+anordna godmanskap med hänvisning till att man inte lyckades rekrytera en 
+
+ställföreträdare för uppdraget.138 
+
+Som framgår ovan (avsnitt 4.2) har den så kallade Ärendeutredningen 
+
+föreslagit att överförmyndarna tar över beslut om godmanskap i fall där 
+
+den enskilde ansöker eller samtycker till detta. I ett yttrande är JO positiv 
+
+till utredningens förslag. Samtidigt framhåller JO att kompetenshöjande 
+
+åtgärder hos överförmyndarna är en absolut förutsättning för att genomföra 
+
+förslaget. 
+
+5.2.2 JO:s ärenden om överförmyndare 
+Antalet inkomna klagomål och JO:s behandling av klagomålen framgår av 
+tabell 5.3. 
+
+Tabell 5.3 Klagomål till JO perioden 2005/06–2008/09 som rör överförmyndare 
+
+År Inkomna Utredda klagomål Uttalad kritik 
+klagomål 
+
+Antal Antal Procent av inkomna Antal Procent av utredda 
+
+2005/06 
+45 
+26 
+58% 
+11 
+42% 
+2006/07 
+52 
+27 
+52 % 
+2 
+7% 
+2007/08 
+53 
+30 
+57% 
+4 
+13% 
+2008/09 
+63 
+35 
+56% 
+9 
+26% 
+
+
+Källa: JO:s ämbetsberättelser 2006/07–2008/09 och muntliga uppgifter från JO. 
+
+Uppgifterna i tabellen visar en ökande trend av antalet inkomna klagomål 
+rörande överförmyndarärenden under den senaste fyraårsperioden. Andelen 
+utredda klagomål har legat över hälften, medan andelen utredda ärenden 
+med uttalad kritik har varierat något. Enligt JO kan uppmärksamhet i 
+medierna vara en förklaring till variationer i klagomålsfrekvensen. En 
+förklaring till variationer i kritikfrekvensen och ibland även en minskad 
+kritikfrekvens är, enligt JO, att klagomålen och problemen kan avse 
+ställföreträdaren, som inte står under JO:s tillsyn. 
+
+Två saker utmärker klagomål som rör överförmyndarna, enligt JO:s 
+uppfattning. Dels är ärendena inte så många, dels leder de till kritik i fler 
+fall än inom andra områden. Utredningsfrekvensen är ungefär densamma 
+
+137 JO:s beslut 2008-05-15, dnr 3903-2006. 
+
+138 Uppsala tingsrätt, beslut 2006-03-07: Anordnande av godmanskap enligt 11 kap. 4 § 
+föräldrabalken. Mål nr Ä195-06. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 49 
+RIKSREVISIONEN 
+
+
+som för andra ärendetyper, det vill säga ungefär hälften av ärendena brukar 
+avskrivas. 
+
+JO tar även egna initiativ till utredningar, vilket förekommit i totalt 21 fall 
+som rör överförmyndarärenden under den senaste treårsperioden. I dessa 
+fall är kritikfrekvensen avsevärt högre och ligger på 82 procent under det 
+första året samt 100 procent under de två därpå följande åren. 
+
+JO lämnar kritik i fyra nivåer: kan inte undgå kritik, kritik, allvarlig kritik 
+eller mycket allvarlig kritik. Kritiken i överförmyndarärenden under de 
+senaste tre åren rör i två fall länsstyrelser och i övriga fall överförmyndare. 
+Kritikens fördelning framgår av tabell 5.4. 
+
+Tabell 5.4 Antalet beslut med kritik från JO i överförmyndarärenden 2006–2008 
+
+Kritik mot överförmyndare Kritik mot länsstyrelser 
+
+Kritik Allvarlig kritik Mycket allvarlig kritik Kan inte undgå kritik139 Kritik 
+
+16651 
+1 
+
+
+Källa: JO:s webbplats, JO-beslut. 
+
+Den lägsta graden av kritik dominerar i överförmyndarärenden under den 
+gångna treårsperioden. Men JO har också i flera fall lämnat den allvarligaste 
+graden av kritik mot överförmyndare. 
+
+5.2.3 Anmälningar till länsstyrelserna 
+Under perioden 2004–2008 fördubblades antalet anmälningar till 
+länsstyrelserna i överförmyndarärenden från 88 till 168 anmälningar. I 
+oktober 2009 hade länsstyrelserna fattat beslut i 133 av de 168 anmälningar 
+som kom in 2008. Besluten redovisas i tabell 5.5. 
+
+Tabell 5.5 Länsstyrelsernas beslut i anmälningsärenden som avser överförmyndare 2004 
+respektive 2008 
+
+År Inkomna anmälningar Beslutade ärenden Kritikfrekvens 
+
+2004 
+88 
+88 
+20 % 
+2008 
+168 
+133 
+17 
+% 
+
+
+Tabellen visar att en kraftigt ökad anmälningsfrekvens vid länsstyrelsernas 
+behandling har resulterat i en något minskad kritikfrekvens. Länsstyrelsernas 
+förklaringar till dessa förhållanden är främst att medial uppmärksamhet 
+har bidragit till att överförmyndarnas verksamhet och även länsstyrelsernas 
+tillsynsroll har blivit mer synlig.140 (Se för övrigt bilaga 8.) 
+
+139 Kritiken avser Länsstyrelsen i Stockholm som 2009 lämnade felaktiga upplysningar i ett ärende 
+om föräldraförvaltning. 
+
+140 Länsstyrelserna i Västra Götaland, Stockholm, Norrbotten och Värmland. 
+
+RIKSREVISIONEN 50 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+5.3 Sammanfattande iakttagelser 
+Även om löpande data saknas för att närmare följa utvecklingen av 
+överförmyndarnas verksamhet finns flera indikationer om en tilltagande 
+omfattning, främst av de svårare fallen. 
+
+Det finns också flera indikationer på att överförmyndarsystemet 
+
+alltmer utmanas från olika håll. Utöver expansionen av de svårare fallen 
+
+– och delvis som en följd av denna – finns flera exempel på tilltagande 
+
+problem i överförmyndarnas verksamhet. Ett exempel är varierande 
+
+svårigheter att rekrytera ställföreträdare, särskilt förvaltare. Ett annat 
+
+exempel är diskussioner om uppgiftsfördelningen mellan tingsrätterna 
+
+och överförmyndarna i fråga om beredning av ärenden för beslut om 
+
+ställföreträdare. Dessa diskussioner rör såväl den rättsliga grunden 
+
+som risker för intressekonflikter. Ett tredje exempel är framväxten av 
+
+förvaltarenheter. Även dessa diskussioner rör såväl den rättsliga grunden 
+
+som risker för intressekonflikter. Ett fjärde exempel är ett växande antal 
+
+klagomål hos JO och anmälningsärenden hos länsstyrelserna. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 51 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 52 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Slutsatser och rekommendationer 
+
+Överförmyndarnas verksamhet är myndighetsutövning mot enskilda. I den 
+granskning av länsstyrelsernas tillsyn av överförmyndare som avslutades 
+2006 framhöll Riksrevisionen att länsstyrelsernas tillsyn därför måste 
+motverka rättsförluster för den enskilde. Lika fall ska behandlas lika. I 
+granskningen konstaterades dock att tillsynen av överförmyndarna inte var 
+nationellt samordnad. Variationerna handlade framför allt om centrala frågor 
+som identifieringen av problem vid aktgranskningen och bedömningen av 
+överförmyndarnas lämplighet för sitt uppdrag. 
+
+Riksrevisionen har nu genomfört en uppföljande granskning av 
+länsstyrelsernas tillsyn av överförmyndare samt regeringens styrning och 
+uppföljning inom området. 
+
+Syftet med den nu genomförda granskningen har varit att följa upp 
+i vilken utsträckning beslutade förändringar har lett till åtgärder som 
+löser de problem som uppmärksammades vid föregående granskning av 
+Riksrevisionen och dess styrelse. Två frågor skulle besvaras: 
+
+1. Har länsstyrelserna omsatt beslutade förändringar i sin tillsyn och är 
+förändringarna ändamålsenliga för att komma till rätta med uppdagade 
+problem? 
+2. Har regeringen förändrat sin styrning och uppföljning av denna tillsyn 
+och har förändringarna bidragit till att komma till rätta med problemen 
+med samordning och uppföljning? 
+Ett syfte har även varit att följa upp förändringar i överförmyndarnas 
+verksamhet som kan inverka på förutsättningarna för länsstyrelsernas tillsyn 
+samt regeringens styrning och uppföljning av denna. 
+
+Vägledande för bedömningarna i den nu aktuella granskningen har varit 
+
+• 
+regeringsformens krav på likabehandling och rättssäkerhet för den 
+enskilde 
+• 
+regleringen inom området, i främst föräldrabalken och 
+förmynderskapsförordningen 
+• 
+krav på regeringen att styra och följa upp verksamheten, enligt bland 
+annat regeringsformen och budgetlagen. 
+Tillsynen av överförmyndarna – uppföljningsgranskning 53 
+RIKSREVISIONEN 
+
+
+6.1 
+
+6.2 
+
+6.2.1 
+
+I det följande besvaras och kommenteras revisionsfrågorna om 
+länsstyrelsernas tillsyn samt regeringens styrning och uppföljning. Även 
+utvecklingen av överförmyndarnas verksamhet kommenteras. Slutligen 
+presenterar Riksrevisionen sina rekommendationer för att fortsatt komma 
+tillrätta med iakttagna problem. 
+
+Mer resurser och tätare insatser 
+
+Jämfört med 2006 års granskning visar denna granskning att 
+länsstyrelsernas tillsyn av överförmyndare generellt har fått utökade 
+resurser från 4,5 till 6,6 årsarbetskrafter. Skillnaderna mellan de enskilda 
+länsstyrelserna är dock betydande med en variation från i genomsnitt 
+0,78 dagar till 17 dagar per överförmyndare i länet. Överlag har antalet 
+genomförda inspektioner liksom antalet granskade akter vid varje inspektion 
+ökat. Förbättringar framträder även av länsstyrelsernas dokumentation och 
+återkopplingen av tillsynens resultat samt bevakningen av rättsfall. 
+
+Sammantaget indikerar dock resultatet av Riksrevisionens granskning 
+att hittillsvarande insatser för att komma till rätta med problemen med 
+länsstyrelsernas tillsyn av överförmyndarna inte har varit tillräckliga. 
+Granskningen visar att problemen inte i första hand är en fråga om mer eller 
+mindre resurser till denna tillsyn. 
+
+Indikationer om en ineffektiv tillsyn 
+
+De problem som uppmärksammades i 2006 års granskning synes i stor 
+utsträckning kvarstå. Förekomsten av anmärkningar vid länsstyrelsernas 
+granskning av akter är fortsatt omfattande. Liksom vid föregående 
+granskning framträder även i denna granskning stora variationer 
+mellan länen. Sammantaget tyder detta på fortsatta problem såväl i 
+överförmyndarnas verksamhet som i länsstyrelsernas tillsyn av denna. 
+
+Förekomsten av anmärkningar 
+
+Granskningen visar indikationer på att förekomsten av anmärkningar vid 
+länsstyrelsernas aktgranskning fortfarande är omfattande. Förekomsten av 
+anmärkningar indikerar brister i överförmyndarnas verksamhet som kan 
+medföra rättsförluster för de huvudmän vars intressen verksamheten är 
+till för att skydda. Riksrevisionen menar att förekomsten av anmärkningar 
+väcker allvarliga frågor. 
+
+RIKSREVISIONEN 54 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+6.2.2 Indikationer om varierande bedömningsgrunder 
+Förekomsten av anmärkningar vid aktgranskningar anges av länsstyrelserna 
+själva vara en central fråga i tillsynen av överförmyndare. Enligt 
+länsstyrelserna är detta den viktigaste grunden för att prioritera frekvensen 
+av inspektioner mellan olika överförmyndare. Anmärkningsfrekvensen 
+anges även vara den viktigaste grunden för att identifiera olämpliga 
+överförmyndare. De stora länsvisa variationerna i anmärkningsfrekvens 
+väcker dock frågor om hur användbart detta mått faktiskt är när det gäller 
+länsstyrelsernas identifiering av risker i överförmyndarnas verksamhet. 
+
+Det är rimligt att kompetensen kan variera mellan enskilda 
+
+överförmyndare. Dessa är förtroendevalda och formella kompetenskrav 
+
+saknas. Riksrevisionen ifrågasätter dock att överförmyndarnas 
+
+kompetens och skicklighet skulle vara så olika fördelad mellan länen som 
+
+länsstyrelsernas anmärkningsfrekvens indikerar. Enligt Riksrevisionen 
+
+indikerar i stället dessa variationer att även andra förklaringar måste sökas. 
+
+En sådan förklaring är att länsstyrelserna vid sin aktgranskning tillämpar 
+
+varierande bedömningsgrunder. Tillsynen är då inte nationellt samordnad 
+
+och kravet på att lika fall ska behandlas lika riskerar att åsidosättas. 
+
+En nära nog fördubblad frekvens av länsstyrelsernas inspektioner hos 
+
+överförmyndarna synes inte heller ha inverkat på problemet med länsvisa 
+
+variationer i anmärkningsfrekvens. Däremot har de ökade resurserna följts 
+
+av att totalt sett fler akter granskas. Variationerna mellan länen i fråga om 
+
+antalet granskade akter har samtidigt också ökat. 
+
+6.3 Ökade påfrestningar i överförmyndarnas verksamhet 
+Granskningen 2006 visade på en omfattande verksamhet och även på 
+omfattande problem med såväl överförmyndarnas verksamhet som tillsynen 
+av denna. Trots detta finns nära fyra år senare fortfarande ingen form av 
+löpande data för att följa den fortsatta utvecklingen av överförmyndarnas 
+verksamhet. Flera indikationer om problem till följd av ökade påfrestningar 
+framträder dock. 
+
+6.3.1 Indikationer om fortsatt ökad volym och växande svårighetsgrad 
+Redan i Riksrevisionens granskning 2006 framträdde en expansion, främst i 
+fråga om ökat antal förvaltarskap. Det finns flera indikationer om att denna 
+expansion fortsätter. Expansionen innebär bland annat att nya grupper med 
+ny och alltmer komplex problematik tillförs överförmyndarnas verksamhet. 
+Ett exempel på expansionen är det kraftigt växande antalet ensamkommande 
+flyktingbarn. Ett annat exempel är de så kallad dubbeldiagnoserna inom 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 55 
+RIKSREVISIONEN 
+
+
+6.3.2 
+
+psykiatrin. Därmed utsätts överförmyndarnas verksamhet för utmaningar 
+som blivit allt svårare att hantera inom ramen för systemets reglering och 
+konstruktion. 
+
+Utmaningar inom överförmyndarnas verksamhet 
+
+Expansionen och en ökande svårighetsgrad i överförmyndarnas verksamhet 
+leder till utmaningar när nya grupper och förändrade krav ska mötas 
+inom ramen för det befintliga systemet. Överförmyndarna hanterar denna 
+situation med att i varierande grad tillämpa lösningar som i flera fall är 
+omdiskuterade i förhållande till verksamhetens reglering och formella 
+konstruktion. 
+
+Ett exempel är diskussioner om uppgiftsfördelningen mellan tingsrätter 
+och överförmyndare vid rekrytering av ställföreträdare, främst till de alltmer 
+frekventa och svåra fallen av förvaltarskap. Formellt ligger utrednings- 
+och därmed även rekryteringsansvaret hos de tingsrätter som svarar för 
+besluten. I praktiken sköter dock ofta överförmyndarna rekrytering inför 
+beslut om ställföreträdare. Förutom att den formella grunden för detta är 
+tveksam finns olika uppfattningar om det ändamålsenliga i detta förfarande. 
+En lösning där överförmyndaren svarar för att först rekrytera och därefter att 
+utöva tillsyn över ställföreträdare innebär en risk för intressekonflikter för 
+överförmyndaren som ytterst riskerar medföra att huvudmännens intressen 
+åsidosätts. 
+
+Ett annat exempel är inrättandet av förvaltarenheter. Dessa innebär att 
+den lagstadgade principen om frivilligarbete frångås. Efter att tingsrätten 
+har anordnat ett förvaltarskap och förordnat en förvaltare anställs denne i 
+stället av kommunen. Den rättsliga grunden är omdiskuterad även i dessa 
+fall. Därutöver finns en risk för intressekonflikter i de fall ställföreträdaren 
+ska företräda sin huvudman gentemot sin uppdragsgivare inom kommunen. 
+Förekomsten av förvaltarenheter kan ses som en indikation på problem 
+inom överförmyndarnas verksamhet. 
+
+Riksrevisionen konstaterar även att frekvensen av klagomål sedan 
+föregående granskning har ökat i överförmyndarnas verksamhet såväl 
+till länsstyrelserna som till JO. Det är oklart i vilken mån detta enbart bör 
+ses som en effekt av större uppmärksamhet från medierna och i vilken 
+mån det också är ett uttryck för en mer eller mindre berättigad kritik från 
+huvudmännen och deras anhöriga. Här kan även finnas ett samband. 
+
+Klagomål som rör relationen mellan huvudmännen och deras 
+ställföreträdare rör också ett frivilligarbete som ligger utanför de statliga 
+tillsynsmyndigheternas granskningsmandat. I sådana fall leder klagomål och 
+anmälningar inte till kritik från statliga tillsynsmyndigheter. Riksrevisionen 
+menar emellertid att ett växande antal klagomål i sig bör ses som en 
+problemindikation att ta på allvar. 
+
+RIKSREVISIONEN 56 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+6.4 Behov av mer ändamålsenliga insatser från regeringen 
+Sedan föregående granskning har regeringen tagit flera initiativ till beslut om 
+förändrad reglering av tillsynen av överförmyndare i både föräldrabalken och 
+förmynderskapsförordningen. Samtliga initiativ är inriktade på en ändrad 
+reglering i avsikt att stärka länsstyrelsernas tillsyn av överförmyndare. Utöver 
+detta har (som framgår av avsnitt 4.1) länsstyrelsernas tillsynsroll från och 
+med den 1 januari 2009 vidgats till att även omfatta rådgivning om bland 
+annat utbildning i förhållande till överförmyndarna och deras tjänstemän. 
+
+Regeringen har emellertid inte tillräckligt uppmärksammat och 
+
+hanterat behovet av frågor om en stärkt bevakning av likabehandling och 
+
+rättssäkerhet för den enskilde. Till exempel har initiativ till att samordna 
+
+tillsynen uteblivit. 
+
+Sedan föregående granskning har regeringen inte tagit initiativ till att 
+
+förbättra sin insyn i och uppföljning av överförmyndarnas verksamhet samt 
+
+tillsynen av denna. Därmed har regeringen saknat en bevakning av såväl de 
+
+volymmässiga förändringar som de kvalitativa problem som framträder när 
+
+överförmyndarna i sin verksamhet ska möta nya grupper och nya behov. 
+
+Problemen börjar bli av en sådan art och omfattning att överförmyndarna – 
+
+och i praktiken även tingsrätterna – har sett sig nödsakade att i varierande 
+
+utsträckning åsidosätta gällande reglering för att hitta lösningar på de 
+
+situationer de ställs inför. 
+
+Riksrevisionen har erfarit att regeringen nu har för avsikt att i 
+
+länsstyrelsernas regleringsbrev för 2010 ge i uppdrag till länsstyrelserna 
+
+att följa upp och redovisa effekterna av de regleringsförändringar som har 
+
+genomförts sedan föregående granskning. 
+
+6.5 Riksrevisionens rekommendationer 
+Den nu genomförda uppföljningsgranskningen tyder på att regeringens 
+och länsstyrelsernas hittillsvarande åtgärder har varit otillräckliga för att 
+komma till rätta med de grundläggande bristerna i länsstyrelsernas tillsyn 
+av överförmyndare som framkom i föregående granskning. Riksrevisionens 
+granskning tyder även på att lösningen på dessa problem inte kan reduceras 
+till enbart en fråga om mer eller mindre resurser till tillsynen. För att 
+förebygga risker för att huvudmännens rättssäkerhet och likabehandling 
+äventyras behöver nu ytterligare åtgärder prövas. 
+
+Enligt Riksrevisionen bör åtgärder på såväl kortare som längre sikt 
+
+övervägas för att komma till rätta med iakttagna problem. Åtgärderna riktar 
+
+sig till såväl regeringen som länsstyrelserna. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 57 
+RIKSREVISIONEN 
+
+
+6.5.1 Åtgärder på kortare sikt 
+Regeringen bör pröva olika initiativ till att förbättra överförmyndarfunktionen 
+inom ramen för nuvarande reglering och organisation. Regeringen bör 
+
+• 
+ta initiativ till att mer effektivt följa upp utvecklingen av 
+överförmyndarnas verksamhet 
+• 
+ta initiativ till olika möjligheter att via en ökad koncentration stärka en 
+professionell och mer samordnad utveckling av länsstyrelsernas 
+tillsyn av överförmyndarna. Sådana överväganden har redan varit 
+aktuella. Möjligheten att pröva sådana insatser med viss förtur för 
+tillsynen av överförmyndare bör övervägas. 
+Länsstyrelserna bör 
+
+• 
+ta initiativ till att överväga ett antal gemensamma bedömningsgrunder 
+för sin aktgranskning vid inspektionerna i syfte att säkra huvudmännens 
+rättssäkerhet och likabehandling. 
+6.5.2 Åtgärder på längre sikt 
+Regeringen bör ta initiativ till en översyn av i vilken mån den nuvarande 
+regleringen och organisationen av överförmyndarnas verksamhet är 
+ändamålsenlig då det gäller 
+
+• 
+verksamhetens ökade expansion och svårighetsgrad 
+• 
+rekrytering av ställföreträdare 
+• 
+uppgiftsfördelningen mellan tingsrätter och överförmyndare vid 
+rekrytering av ställföreträdare. 
+RIKSREVISIONEN 58 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Källförteckning 
+
+Lagar och förordningar 
+
+Brottsbalken (1962:700) 
+Förmynderskapsförordningen (1995:379) 
+Förordning (1975:1345) med instruktion för Justitiekanslern 
+Förordning (2007:743) om ändring i förmynderskapsförordningen 
+Förvaltningslagen (1986:223) 
+Förvaltningsprocesslagen (1971:291) 
+Föräldrabalken (1949:381) 
+Lag (1975:1339) om Justitiekanslerns tillsyn 
+Lag (1986:765) med instruktioner för Riksdagens ombudsmän 
+Lag (1996:242) om domstolsärenden 
+Lag (1996:1059) om statsbudgeten 
+Regeringsformen (1974:152) 
+Skadeståndslagen (1972:207) 
+
+Regeringens propositioner och riksdagens beslut 
+
+Betänkande 2006/07:CU4 
+Betänkande 2008/09:CU2 
+Kommittédirektiv 2009:62, Översyn av statlig regional förvaltning m.m. 
+Prop. 1973/74:142 
+Prop. 1974:142, Kungl. Maj:ts proposition med förslag till lag om ändring i 
+
+föräldrabalken, m.m. (bet. 1974:LU38, rskr. 1974:404) 
+Prop. 1987/88: 124, God man och förvaltare 
+Prop. 2007/08:150, Förmynderskapsrättsliga frågor 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 59 
+RIKSREVISIONEN 
+
+
+Dokument och uppgifter 
+
+Dokument från länsstyrelserna 
+
+Inspektionsprotokoll – det första och det sista inspektionsprotokollet från 
+inspektioner av överförmyndare år 2008 samt länsstyrelsen i Jönköpings 
+inspektionsprotokoll från inspektioner av överförmyndaren i Vetlanda 
+kommun 1996-2008. 
+
+Länsstyrelsen i Västra Götalands län, Tillsynsplan för år 2009 avseende 
+överförmyndarverksamheten 
+
+Länsstyrelsen i Kalmar län, Plan för tillsyn av överförmyndarnämnder och 
+överförmyndare i Kalmar län år 2009 
+
+Övriga dokument: 
+Länsstyrelsernas tillsyn – dagsläge, möjliga förbättringar, framtidsutsikter. 
+Redovisning av ett regeringsuppdrag Fi 2008/3093 
+Länsstyrelsernas årsredovisning för år 2008 
+Hovrätten i övre Norrland, beslut 2005-10-14 
+Justitiekanslern, beslut dnr 6111-08-28 
+Riksdagens ombudsmän – JO 
+Beslut dnr 3903-2006 
+Beslut dnr 6294-2008 
+Beslut dnr 1255-2008 
+Ämbetsberättelser 2006/07 
+Ämbetsberättelser 2007/08 
+Ämbetsberättelser 2008/09 
+SOU 2004:112, Frågor om förmyndare och ställföreträdare för vuxna 
+SOU 2007:65, Domstolarnas handläggning av ärenden 
+Statisticon AB (2005) Enkät angående tillsynen av överförmyndare i 
+kommunerna, Rapport 2005-10-14 
+Svenska Kommunförbundet (2000) Statistik år 2000 avseende antal 
+godmanskap och förvaltarskap 
+
+Uppsala tingsrätt, beslut 2006-03-07, mål nr Ä 195-06 
+
+RIKSREVISIONEN 60 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Intervjuer 
+
+Intervjuer med företrädare för länsstyrelserna 
+
+Länsstyrelsen i Stockholms län 
+Monica Malmqvist, telefonintervju 2009-11-12 
+
+Länsstyrelsen i Uppsala län 
+Gunnar Ljungqvist, telefonintervju 2009-11-11 
+
+Länsstyrelsen i Södermanlands län 
+Karin Bergkvist, telefonintervju 2009-11-16 
+
+Länsstyrelsen i Östergötlands län 
+Anne Rydell och Karin Fridell, telefonintervju 2009-11-13 
+
+Länsstyrelsen i Jönköpings län 
+Ben Heimdal, telefonintervju 2009-11-06 
+
+Länsstyrelsen i Kronobergs län 
+Ann Jonasson, telefonintervju 2009-11-16 
+
+Länsstyrelsen i Kalmar län 
+Ingvar Linde, telefonintervju 2009-11-16 
+
+Länsstyrelsen i Gotlands län 
+Morten Spencer, 2009-11-13 
+
+Länsstyrelsen i Blekinge län 
+Bengt Almqvist, 2009-11-11 
+
+Länsstyrelsen i Skåne län 
+Ulf Andersson, intervju 2009-11-13 
+
+Länsstyrelsen i Hallands län 
+Ulf Havton, telefonintervju 2009-11-13 
+
+Länsstyrelsen i Västra Götalands län 
+Lars Schill och Ingegerd EhrleLinder, telefonintervju 2009-11-06 
+
+Länsstyrelsen i Värmlands län 
+Inger Andersson och Gith Nilsson, telefonintervju 2009-11-12 
+
+Länsstyrelsen i Örebro län 
+Björn Pettersson, telefonintervju 2009-11-11 
+
+Länsstyrelsen i Västmanlands län 
+Andreas Simon, telefonintervju 2009-11-11 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 61 
+RIKSREVISIONEN 
+
+
+Länsstyrelsen i Dalarnas län 
+Ulla Nilsson, telefonintervju 2009-11-12 
+
+Länsstyrelsen i Gävleborgs län 
+Daniel Ström och Heidi Sundgren, telefonintervju 2009-11-13 
+
+Länsstyrelsen i Västernorrlands län 
+Kerstin Eklund, Barbro Rohdin och Peter Ekström, telefonintervju 2009-11-12 
+
+Länsstyrelsen i Jämtlands län 
+Åsa Johansson, telefonintervju 2009-11-13 
+
+Länsstyrelsen i Västerbottens län 
+Stellan Hallberg, telefonintervju 2009-11-12 
+
+Länsstyrelsen i Norrbottens län 
+Mona Ejnestrand, telefonintervju 2009-11-12 
+
+Övriga intervjuer, kontakter och muntliga uppgifter 
+
+Finansdepartementet, enheten för statlig förvaltningsutveckling 
+
+Hans Mildenberger och Mats Kryhl, intervju 2009-10-13 
+Jonas Jahrefors, telefonintervju, 2009-10-28 
+
+Föreningen Sveriges Överförmyndare (FSÖ) 
+
+Siv Palmgren, ordförande och Anette Strömblad, vice ordförande, 
+intervju 2009-10-16 
+
+Göteborgs förvaltarenhet 
+
+Sina Ahmadzadeh, enhetschef, telefonintervju 2009-11-19 
+
+Göteborgs tingsrätt 
+
+Heyide Kurt, notarie, telefonsamtal 2009-11-19 
+
+Riksdagens ombudsmän – JO 
+
+Jörgen Buhre, byråchef, och Cecilia Nordenfeldt, JO, intervju 2009-10-26 
+
+Justitiedepartementet 
+
+Henrik Holmberg, intervju, 2009-11-04 
+Claes Svenson, Enheten för processrätt och domstolsfrågor, 
+telefonsamtal, 2009-11-18 
+
+Jönköpings förvaltarenhet 
+
+Maria Edlund, enhetschef socialtjänsten – ansvarig för personalfrågor på 
+Jönköpings förvaltarenhet 2009-11-20 
+
+RIKSREVISIONEN 62 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Jönköpings tingsrätt 
+
+Nils Karlberg, rådman och enhetschef, telefonsamtal 2009-11-19 
+
+Riksförbundet Gode män och Förvaltare (GMF) 
+
+Gunnar Arnoldsson, före detta ordförande, telefonintervju 2009-11-03 
+Rune Bohlin, styrelsemedlem, telefonintervju 2009-11-17 
+Kerstin Tegnér, ordförande, telefonintervju 2009-11-27 
+
+Skellefteå förvaltarenhet 
+
+Kjell Norén, telefonintervju 2009-11-27 
+
+Skövde kommun 
+
+Jan Vallgren, stadsjurist och kanslichef för överförmyndarmyndigheten, 
+telefonintervju 2009-11-24 
+
+Sollentuna förvaltarenhet 
+
+Ullalena Wigholm, telefonintervju, 2009-11-26 
+
+Programredaktionen för Uppdrag granskning 
+
+Ali Fegan, journalist, 2009-11-18 
+
+Umeå förvaltarenhet 
+
+Stefan Jönsson, telefonintervju, 2009-11-26 
+
+Uppsala tingsrätt 
+
+Inger Gadeborg, ärendeenheten, telefonsamtal 2009-11-17 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 63 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 64 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 1: Metod 
+
+I denna bilaga följer en redovisning av de metoder som Riksrevisionen har 
+använt sig av i syfte att besvara revisionsfrågorna i uppföljningsgranskningen 
+av länsstyrelsernas tillsyn av överförmyndarna. 
+
+Webbenkät 
+
+För att få en uppfattning om länsstyrelsernas tillsyn av överförmyndarna 
+konstruerade Riksrevisionen en webbaserad enkät med frågor om denna 
+tillsyn. Syftet med enkäten var att få några grundläggande uppgifter om 
+aktuella insatser inom tillsynen och hur denna hade förändrats sedan 2006. 
+
+Enkäten riktades till de tjänstemän på landets samtliga länsstyrelser 
+som arbetar med tillsynen av överförmyndarna. Enkätfrågorna, inklusive 
+sammanställningar av resultatet, ligger i bilaga 2 till Riksrevisionens 
+granskningsrapport. 
+
+Intervjuer 
+
+På samtliga 21 länsstyrelser har Riksrevisionen även genomfört intervjuer 
+med de tjänstemän som arbetar med överförmyndartillsyn. Samtliga 
+tjänstemän har intervjuats per telefon. Resultaten från sammanställningarna 
+av webbenkäten låg delvis till grund för att ta fram intervjufrågor. 
+Intervjuerna har varit strukturerade, det vill säga samma frågor har använts 
+vid alla intervjutillfällen. Detta för att svaren ska kunna jämföras och 
+sammanställas. Intervjufrågorna återfinns i bilaga 2. 
+
+Riksrevisionen har även genomfört intervjuer eller samtal 
+med företrädare för bland annat Riksdagens ombudsmän (JO), 
+Finansdepartementets enhet för statlig förvaltningsutveckling, 
+Justitiedepartementets enhet för familjerätt och allmän förmögenhetsrätt, 
+Riksförbundet Gode män och Förvaltare (GMF), Föreningen Sveriges 
+Överförmyndare (FSÖ), förvaltarenheterna i Göteborg, Jönköping, 
+Sollentuna, Umeå och Skellefteå samt tingsrätterna i Göteborg, Jönköping, 
+Umeå och Uppsala. 
+
+En fullständig förteckning över personer som kontaktats i granskningen 
+framgår av referensförteckningen. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 65 
+RIKSREVISIONEN 
+
+
+Dokumentinventering: 
+
+Riksrevisionen har inventerat och sammanställt olika dokument från 
+länsstyrelsernas tillsyn av överförmyndarna. Denna inventering omfattade 
+
+• 
+första och sista inspektionsprotokollet i varje län för 2008 
+• 
+urvalskriterier för prioritering av överförmyndare 
+• 
+rättsfall från tingsrätt och hovrätt 
+• 
+beslut från JO och JK 
+• 
+JO:s ämbetsberättelser för 2006/2007–2008/2009. 
+Inventeringen av inspektionsprotokoll omfattar samtliga länsstyrelsers 
+protokoll från tillsynsbesök hos länens överförmyndarmyndigheter 2008. 
+Då två länsstyrelser endast genomfört en inspektion under året handlar det 
+totalt om 40 stycken inspektionsprotokoll. 
+
+De inventerade protokollen är hänförliga till 14 procent av landets 
+överförmyndare. Jämfört med 2006 års granskning är detta urval mer 
+begränsat. Urvalet av protokoll i uppföljningsgranskningen fångar resultatet 
+av genomförda inspektioner hos alla landets länsstyrelser 2008. Ett minsta 
+antal av granskade akter och antal anmärkningar vid varje inspektion 
+fångas. Däremot fångas inte den totala bredden av variationer i frekvens av 
+granskade akter och frekvensen av anmärkningar. Detta innebär att resultatet 
+av Riksrevisionens inventering kan innebära en underskattning av såväl 
+variationernas omfattning som av frekvensen av anmärkningar. Däremot 
+ger resultatet klara indikationer om främst spridningen av antalet granskade 
+akter och antalet anmärkningar vid aktgranskningen. 
+
+Konsult 
+
+Riksrevisionen har i granskningen använt sig av Eva von Schéele, 
+förbundsjurist med ansvar för överförmyndarfrågorna inom Sveriges 
+Kommuner och Landsting (SKL), som sakkunnig. 
+
+RIKSREVISIONEN 66 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 2: Enkät samt intervjufrågor till 
+länsstyrelserna 
+
+Frågor för webbenkät med företrädare för länsstyrelserna. 
+Enkäten är en del i Riksrevisionens uppföljningsgranskning av 
+länsstyrelsernas tillsyn av överförmyndarna. 
+Webbenkät aktiverades 2009-09-29 och avslutades 2009-10-16 
+
+Ange antalet överförmyndarmyndigheter (ÖF) inom länet: 
+
+A. Inspektionsfrekvens vid länsstyrelsernas tillsyn av länets ÖF 
+Enligt en ändring i förmynderskapsförordningen (SFS 2007:743) som gäller 
+från och med 1 januari 2008 ska inspektioner av ÖF genomföras varje eller – 
+om det är befogat – vartannat år. 
+
+1. Antal ÖF inom länet som er länsstyrelse inspekterade under 2008. 
+2. I de fall er länsstyrelse inte inspekterade samtliga länets ÖF under 
+2008, fanns det inom länsstyrelsen fastställda kriterier för vilka 
+ÖF som skulle inspekteras varje resp. vartannat år? 
+Om ja, är kriterierna dokumenterade? 
+3. Har eventuella kriterier kommunicerats med andra länsstyrelser? 
+Om ja, vilka länsstyrelser? 
+B. Redovisning av korrigerande åtgärder 
+Enligt en ändring i förmynderskapsförordningen som gäller från och med 
+1 januari 2008 kan länsstyrelsen begära redovisning av korrigerande åtgärder 
+från ÖF. 
+
+1. Antal ÖF inom länet som under år 2008 har fått krav på återrapportering 
+av åtgärder. 
+2. Var lämnade krav på återrapportering tidssatta? 
+3. Vad avsåg lämnade krav på återrapportering? 
+4. Redovisade berörda ÖF korrigerande åtgärder enligt de krav som 
+fastställts i anslutning till inspektioner? 
+5. Har er länsstyrelse kommunicerat krav på korrigerande åtgärder med 
+andra länsstyrelser? 
+Om ja, vilka länsstyrelser? 
+Tillsynen av överförmyndarna – uppföljningsgranskning 67 
+RIKSREVISIONEN 
+
+
+C. Regeringens styrning och uppföljning av länsstyrelsens tillsyn av länets ÖF 
+1. Har er länsstyrelse sedan 2006 uppmärksammat något initiativ från 
+regeringens/Regeringskansliets sida i fråga om tillsynen av ÖF (utöver 
+regleringsbrevet och de ändringar i förmynderskapsförordningen som 
+började gälla 1 januari 2008)? 
+Om ja, vad avsåg initiativet? 
+2. Har eventuellt initiativ från regeringen/Regeringskansliet (enligt fråga 
+C.1) lett till åtgärder inom er länsstyrelse? 
+Om ja, vilka åtgärder? (Ange ev. regeringsbeslut och specificera) 
+D. Samordning av länsstyrelsens tillsyn av ÖF 
+1. Har er länsstyrelse sedan 2006 deltagit i någon sammankomst för 
+erfarenhetsutbyte om tillsyn av ÖF tillsammans med andra länsstyrelser? 
+Om ja, avsåg sammankomsten samtliga län eller vissa län? 
+Vid vissa län, vilka? 
+E. Anmälningsärenden med mera 
+1. Hur många anmälningsärenden har er länsstyrelse fått in avseende ÖF:s 
+verksamhet år 2008? 
+2. I hur många av de inkomna anmälningsärendena har er länsstyrelse 
+fattat beslut? 
+3. I hur många av de beslutade anmälningsärendena riktar er länsstyrelse 
+kritik mot ÖF och/eller ÖF:s verksamhet? 
+4. Har er länsstyrelse någon gång under perioden 2006–2009 formellt 
+(genom en skrivelse till tingsrätten) initierat en begäran om entledigande 
+av en ÖF som bedömts vara olämplig? 
+RIKSREVISIONEN 68 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Sammanställning av webbenkät till länsstyrelserna 
+Tabell 1: Inspektionsfrekvens och urvalskriterier 2008 
+
+LänsAntal överförmyndare Urvalskriterier Kommunikation av 
+styrelser urvalskriterier med 
+andra lst 
+
+Totalt GransEj gransFastställda DokumenJa Nej Med vilka lst? 
+kade kade terade 
+
+AB 2626 
+0 
+*--C 
+88 
+0 
+*-X 
+
+8141
+
+D 71 
+NejX 
+
+E 1310 
+3 
+JaNej X 
+F 1313 
+0 
+*--G 
+86 
+2 
+NejX 
+H 106 
+4 
+Ja Ja X Kronoberg 
+
+(G) ang. ÖF 
+Uppvidinge 
+kommun 
+I 11 
+0 
+*--K 
+51 
+4 
+NejX 
+M 3315 
+18 
+Nej-N 
+66 
+0 
+*--O 
+4931 
+18 
+JaJa X 
+S 1515 
+0 
+*--T 
+1111 
+0 
+*-X 
+U 109 
+1 
+Nej Nej X 
+
+14142
+
+W 14 
+0 
+Nej Nej X 
+
+X 1010 
+0 
+*--Y 
+77 
+0 
+*-X 
+Z 88 
+0 
+* Nej X 
+AC 1515 
+0 
+*--BD 
+1410 
+4 
+JaNej X 
+Summa 284229 
+55 
+6 nej, 4 ja 5 nej, 2 ja 1 
+12 
+
+
+Teckenförklaring: 
+*= samtliga länets ÖF inspekterades år 2008 
+
+-= Uppgift ej relevant. 
+141 2 kommuner har gemensam överförmyndarnämnd. 
+142 2 kommuner har gemensam överförmyndarnämnd. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 69 
+RIKSREVISIONEN 
+
+
+Sammanställning av webbenkät till länsstyrelserna 
+Tabell 2: Redovisning av korrigerande åtgärder 2008 
+
+LänsAntal överförmyndare Kommunikation av korrigerande 
+styrelser åtgärder med andra lst 
+
+I länet Med redoTidssatta Redovisat Ja Nej Med vilka lst? 
+visningskrav krav enligt 
+krav 
+
+AB 26 
+1 
+Ja X 
+C 84 
+JaJa X 
+8143
+
+D 0 
+---E 
+13 
+0 
+--X 
+0144
+
+F 13 
+---G 
+81 
+JaNej X 
+H 10 
+1 
+JaJa X 
+I 11 
+-X 
+K 50 
+--X 
+M 33 
+1 
+--X 
+N 60 
+---O 
+49 
+0 
+---S 
+15 
+1 
+JaJa X 
+T 11 
+0 
+---U 
+10 
+0 
+---
+
+
+14145
+
+W 0 
+--X 
+0146
+
+X 10 
+---Y 
+70 
+---Z 
+80 
+---X 
+AC 15 
+0 
+---BD 
+14 
+0 
+--X 
+Summa 28410 
+5 ja 1 nej, 3 ja 12 
+
+
+Teckenförklaring: 
+
+-= Uppgift ej relevant. 
+143 2 kommuner har gemensam överförmyndarnämnd. 
+
+144 Kommentar från länsstyrelsen: Ingen har fått återrapporteringskrav. Vi följer istället upp våra 
+anmärkningar vid nästa tillsynsbesök. Vi är emellertid medvetna om bestämmelsen och kommer 
+att använda den om behov anses föreligga vid framtida tillsyn. 
+
+145 2 kommuner har gemensam överförmyndarnämnd. 
+
+146 Kommentar från länsstyrelsen: Inga (uppföljning sker dock regelmässigt antingen direkt vid 
+tillsynsbesöket eller vid nästkommande besök). 
+
+RIKSREVISIONEN 70 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Sammanställning av webbenkät till länsstyrelserna 
+
+Tabell 3: Uppmärksammade initiativ från regeringens/Regeringskansliets sida om tillsyn 
+av överförmyndare utöver regleringsbrevet och ändringar i förmynderskapsförordningen 
+
+LänsUppmärksammade initiativ från regeringen/ Åtgärder inom 
+styrelser Regeringskansliet för tillsyn av överförmyndare länsstyrelsen till följd 
+av initiativ 
+
+Ja Nej Vad initiativet avsåg Ja Nej Åtgärder? 
+
+Samordnad Uppföljning av Annat? Vad? 
+tillsyn tillsyn 
+
+ABX---X 
+CX---X 
+DX---X 
+
+147
+
+EX--X 
+
+148 149
+
+FX--X 
+
+GX---X 
+
+HX---X 
+
+IX--Prop. X 
+
+
+2007/08:150 
+
+
+K X--Prop. X 
+
+2007/08:150 
+
+
+MX---X 
+NX---X 
+OX---X 
+SX---X 
+TX---X 
+UX---X 
+WX---X 
+
+150
+
+XX--X 
+
+YX---X 
+
+ZX---X 
+
+ACX---X 
+
+BDX---X 
+
+Summa 318 
+219 
+
+
+Teckenförklaring: 
+
+- = Uppgift ej relevant. 
+
+147 Kommentar från länsstyrelsen: Ändring i 19 kap. 17§ FB (Rådgivning och utbildning). 
+
+148 Kommentar från länsstyrelsen: Genom ändring i 19:17 FB har länsstyrelsens rådgivande funktion 
+
+betonats. Vidare har länsstyrelsen fått ett utökat ansvar att se till så att utbildningsnivå hos ÖF, 
+
+ledamöter i ÖF-nämnder samt ersättare är tillfredsställande (prop. 2007/08:150, SFS 2008:910. 
+
+149 Kommentar från länsstyrelsen: Vid tillsynsbesöken betonas mer än tidigare utbildningsfrågan. Vi 
+
+har gjort en enkel kartläggning över vilka utbildningar/kurser som finns att tillgå för ÖF-
+
+personalen som vi vid behov redovisar vid tillsynsbesöken. Det kan nämnas att vi även tidigare 
+
+har haft en punkt i tillsynen som handlat om utbildningen, både för ÖF och för ställföreträdarna. 
+
+Vi lägger alltså mer vikt vid frågan nu efter lagändringen. 
+
+150 Kommentar från länsstyrelsen: Dock ändring i 19 kap 17 § FB. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 71 
+RIKSREVISIONEN 
+
+
+Sammanställning av webbenkät till länsstyrelserna 
+
+Tabell 4: Länsstyrelsernas deltagande sedan 2006 i sammankomst för erfarenhetsutbyte 
+om tillsyn av överförmyndare 
+
+LänsDeltagit i sammankomst Om ja, avsåg sammankomsten 
+
+styrelser 
+
+Ja Nej Samtliga län Vissa län Om vissa län, vilka? 
+
+ABX X 
+
+CX X 
+
+DX X 
+
+EX X 
+
+FX X 
+
+GX X 
+
+HX X 
+
+IX X 
+
+KX X 
+
+MX X 
+
+N X X Västra Götaland och 
+sydlänen 
+
+OX 
+
+SX 
+
+TX X 
+
+UX X 
+
+WX X 
+
+XX X 
+
+YX X 
+
+ZX 
+
+ACX X 
+
+BDX X 
+
+Summa 183 
+171 
+
+
+RIKSREVISIONEN 72 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Sammanställning av webbenkät till länsstyrelserna 
+Tabell 5: Anmälningsärenden och initiativ till entledigande av överförmyndare 
+
+LänsAntal anmälningsärenden till lst under Initiativ till entledigande av olämplig 
+styrelser 2008 avseende överförmyndarnas överförmyndare under 2006–2009 
+verksamhet 
+
+Inkomna Beslutade Med kritik Ja Nej 
+
+AB 3418 
+5 
+X 
+C 44 
+1 
+X 
+D 109 
+2 
+X 
+E 66 
+1 
+X 
+
+1151
+
+F 75 
+X 
+
+G 22 
+0 
+X 
+H 88 
+0 
+X 
+I 21 
+0 
+X 
+K 22 
+0 
+X 
+M 3020 
+3 
+X 
+N 55 
+0 
+X 
+O 1111 
+4 
+X 
+S 1010 
+3 
+X 
+T 22 
+0 
+X 
+U 43 
+1 
+X 
+W 65 
+0 
+X 
+X 1010 
+1 
+X 
+Y 11 
+1 
+X 
+
+5152
+
+Z 77 
+X 
+
+AC 44 
+0 
+X 
+BD 30 
+-X 
+Summa 168133 
+28 
+1 
+20 
+
+
+151 Kommentar från länsstyrelsen: Av ovanstående fem ärenden har ett ärende återkallats av 
+
+anmälaren eftersom den av anmälaren efterfrågade åtgärden sedermera vidtogs av ÖF, varför 
+
+länsstyrelsen avskrivit ärendet. Av övriga fyra ärenden har länsstyrelsen riktat kritik mot ÖF 
+
+i ett ärende. När det gäller efterföljande fråga 4 om begäran om entledigande vill jag lämna en 
+
+särskild kommentar i detta utrymme eftersom det saknas en kommentarruta till den frågan. När 
+
+det gäller ÖF i Vetlanda kommun uppmärksammades ett bristfälligt skött ärende i TV:s uppdrag 
+
+granskning våren09. I vårt tillsynsbeslut gjorde vi klart att länsstyrelsen skulle begära hos 
+
+tingsrätt om entledigande av ÖF. Emellertid avgick ÖF ett par dagar efter det att vårt 
+
+tillsynsbeslut hade offentliggjorts och innan begäran hade hunnit gå iväg till tingsrätten. Jag 
+
+svarar därför ja på fråga 4 även om vi formellt sett inte hade hunnit begära ett entledigande hos 
+
+tingsrätten innan ÖF själv valde att avgå. 
+
+152 Kommentar från länsstyrelsen: Vid fem tillfällen, men benämnt kritik i ett fall, synpunkter i ett fall 
+och påpekande i tre fall. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 73 
+RIKSREVISIONEN 
+
+
+Frågor för telefonintervjuer med företrädare från 
+länsstyrelserna 
+
+Frågorna rör förändringar sedan våren 2006, då föregående granskning 
+av länsstyrelsernas (lst:s) tillsyn av överförmyndarna (ÖF) avslutades. 
+Förändringarna avser främst lst:s tillsyn av ÖF, men även förändringar av 
+ÖF:s egen verksamhet kan avses. 
+
+Vi ber er motivera och förklara era svar så specifikt som möjligt! 
+
+1. Lst:s inspektionsfrekvens m.m. av länets ÖF 
+a) Har nu gällande krav på att genomföra inspektioner varje resp. vartannat 
+år bidragit till att bättre fånga upp problem i ÖF:s verksamhet? 
+b) Har förmynderskapsförordningens nuvarande krav på att genomföra 
+inspektioner av ÖF varje resp. vartannat år medfört att lst:s former för 
+att genomföra inspektioner har förändrats? 
+c) Har lst övervägt kriterier för att inspektera länets ÖF varje resp. vartannat år? 
+d) Hur har lst gått till väga eller resonerat för att identifiera mer eller mindre 
+lämpliga ÖF? 
+e) Har resonemang kring ÖF:s lämplighet påverkat frekvens eller innehåll i 
+lst:s inspektioner av ÖF? 
+2. Samordning av lst:s tillsyn av ÖF sedan 2006 
+a) Känner lst till om den arbetsgrupp som tillsattes i Stockholm 2003 (med 
+uppdraget att ta fram en nationell tillsynsplan) har lämnat något 
+dokument? 
+b) Har lst deltagit i någon sammankomst för samtliga landets lst med 
+inriktning på samordning av tillsynen av ÖF? 
+c) Har lst deltagit i någon sammankomst för vissa lst med inriktning på 
+samordning av tillsynen av ÖF? 
+d) Har lst deltagit i annan samordning av tillsyn av ÖF? 
+3. Anmälningsärenden de senaste tre–fyra åren 
+I de fall beslutade anmälningsärenden har inneburit kritik mot ÖF, vilket/ 
+vilka områden berör kritiken (flera svarsalternativ är möjliga): 
+
+a) Materiella fel (t.ex. brister i ekonomisk redovisning uppmärksammat vid 
+aktgranskningen): Antal ÖF? 
+b) Andra brister uppmärksammade vid aktgranskning: Antal ÖF? 
+c) ÖF har ej levt upp till allmänna krav på myndighetens skötsel (t.ex. enligt 
+förvaltningslagen) Antal ÖF? 
+d) Annat, vad? Antal ÖF? 
+RIKSREVISIONEN 74 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+4. Rättsfall och JO-ärenden rörande ÖF inom länet senaste tre–fyra åren 
+a) Har lst anmält något ärende till polis eller åklagare? 
+b) Känner lst till aktuella rättsfall (polisanmälningar, mål/domar)? 
+c) Känner lst till aktuella JO-ärenden? 
+d) Kommuniceras rättsfall och JO-ärenden med andra lst? 
+5. Uppföljning av lst:s tillsyn av ÖF 
+a) Har lst ändrat rutinerna för att följa upp anmärkningar och kritik som lst 
+lämnat vid inspektionerna av ÖF? 
+b) Hur många av länets ÖF fick under 2008 krav på återrapportering av 
+korrigerande åtgärder? 
+c) Är det vanligt att lst får upprepa samma kritik mot en ÖF? 
+6. Tillsynsplaner för ÖF - funktionen? 
+a) Har lst fastställt tillsynsplaner för ÖF? 
+b) Hur styrande är de för faktisk planering och prioritering av inspektioner 
+av ÖF? (Mycket? Delvis? Inte alls?) 
+7. Förändringar sedan 2006 
+a) Väsentliga förändringar av lst:s tillsyn? 
+b) Väsentliga förändringar inom ÖF:s verksamhet som lst iakttagit under de 
+senaste tre åren? 
+8. Dokumentation och övriga frågor 
+a) Dokument som belyser svaren på frågorna? 
+b) Övriga frågor av betydelse för lst:s tillsyn av ÖF? 
+Tillsynen av överförmyndarna – uppföljningsgranskning 75 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 76 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 3: Länsstyrelsernas årsarbetskraft 
+
+Länsstyrelse Årsarbetskrafter använda för tillsynen av överförmyndare år 2008 
+
+H 0,03 
+I 0,04 
+C 0,1 
+G 0,1 
+K 0,1 
+N 0,1 
+U 0,1 
+Z 0,1 
+T 0,15 
+E 0,2 
+X 0,2 
+Y 0,2 
+F 0,22 
+D 0,27 
+AC 0,27 
+W 0,3 
+BD 0,4 
+S 0,6 
+O 0,67 
+M 0,71 
+AB 1,7 
+Summa 6,56 
+
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 77 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 78 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 4: Länsstyrelsernas 
+inspektionsfrekvens och resurser 
+
+Länsstyrelse Resurser153 Antal granskade akter 
+
+K 5,2 
+3 
+G 3,25 
+6 
+M 5,6 
+6 
+F 4,4 
+10 
+Z 3,25 
+10 
+T 3,54 
+12 
+U 2,6 
+12 
+Y 7,42 
+12 
+E 4 
+13 
+I 10,4 
+15 
+S 10,4 
+15 
+N 4,33 
+20 
+X 5,2 
+20 
+D 8,77 
+24 
+W 5,5 
+28 
+H 0,78 
+30 
+AB 17 
+31 
+AC 4,68 
+31 
+C 3,25 
+36 
+BD 7,42 
+40 
+O 3,55 
+53 
+
+
+Källa: Första och sista inspektionsprotokollet från länsstyrelsernas inspektioner 
+av överförmyndare år 2008 samt länsstyrelsernas årsredovisning, tabell C Kostnader och 
+årsarbetskrafter. 
+
+153 
+
+Resurser= antal dagar som länsstyrelsen använt för överförmyndartillsyn dividerat med antal ÖF. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 79 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 80 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 5: Länsstyrelsernas 
+inspektionsprotokoll 2008 
+
+Första inspektionsprotokollet 
+
+(Kommentarer i fotnötter) 
+
+LänsAnmärkningar vid aktgranskning Andra anmärkningar 
+styrelser 
+
+Granskade akter Ek. FormAndra 
+redovisn. fel fel 
+StickTot. Med % akter 
+prov ant. anm. med 
+anm. 
+
+AB Ja 7 
+3 
+42 
+% 
+2154 
+1 
+HM eller anhöriga 
+bereddes ej 
+möjlighet yttra sig 
+över byte av STF 
+C Ja 12 
+0 
+0 
+D Ja 8 
+6 
+75 % 
+6155 
+Dagboksnoteringar 
+svåra att följa p.g.a. 
+systemet registrerar 
+utskrifter som en 
+aktbilaga. 
+E Ja 8 
+4 
+50 
+% 
+2 
+3156 
+F Ja 5 
+3 
+60 
+% 
+1157 
+2158 
+G Ja 3 
+2 
+67 
+% 
+1159 
+2 
+H Ja 25 
+1 
+4 % 
+1 
+I Ja 15 
+5 
+33 % 
+3 
+2 
+K Ja 3 
+0 
+0 
+M Nej160 0 
+0 
+0 
+N Ja 10 
+0 
+0 
+
+
+154 Enligt GM svårt att redovisa utgifter på 48 832. 
+155 Ej diarieförda handlingar, lösa lappar istället för tjänsteanteckningar, handling från annat ärende 
+
+hittat i en akt. 
+
+156 Aktbilaga 4 saknas i akten. 
+
+157 Årsräkning från 2006-2007 saknas och beslut om undantag från skyldigheten att inkomma med 
+
+årsräkning har inte diarieförts och återfinns inte heller i akten. 
+158 Entledigande av GM samt förordnande av ny GM har skett. Beslut om entledigande samt 
+
+förordnande av ny GM saknas i akterna (två olika huvudmän). 
+
+159 Stora klumpsummor. t.ex. för levnadsomkostnader, i årsräkning. 
+
+160 Ingen aktgranskning gjordes pga att ett anmälningsärende diskuterades ingående. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 81 
+RIKSREVISIONEN 
+
+
+O Ja 23 
+3 
+13 
+% 
+3161 
+S Ja 7 
+7 
+100 % 
+3162 
+5 
+Saknas fullmakt 
+för att använda 
+kansliavdelningens 
+registrator. 
+Länsstyrelsen 
+tidigare kritiserat 
+ÖF:s postrutiner. 
+Oklart om 
+problemen är lösta. 
+T Ja 6 
+2 
+33 
+% 
+2 
+U Ja 6 
+6 
+100 % 
+3163 
+5164 
+W ? 23 7 34 % 6165 
+1166 
+X ? 10 2 50 % 2 
+Y Ja 6 5 83 % 2 5 3 
+Z ? 6 6 100 % 9167 
+42168 
+AC ? 11 1 9 % 1169 
+BD Ja 24 7 29 % 9170 
+Summa 16 Ja 218 70 32 % 45 76 6 
+Ej 
+spår 
+av 
+annat 
+än 
+stickprov 
+
+
+Källa: Första inspektionsprotokollet från länsstyrelsernas inspektion av överförmyndare år 2008 
+
+161 Av akten framgår ej om f.d. underårig HM, som blev myndig 2001, erhållit 
+redovisningshandlingar för granskning av förvaltning. 
+
+162 Verifikation saknas till ansökan om uttag från spärrat konto, i akten finns endast ett meddelande 
+från försäkringsbolag om att en summa pengar satts in på ÖF-spärrat konto. Därefter inga 
+noteringar. 
+
+163 In- och utgående saldo stämmer ej; Saknas uppgifter om ekonomiska tillgångar för en HM vid 
+årets slut; Ett flertal årsräkningar för en HM är skrivna med blyerts. 
+
+164 Allmän oordning, såsom att inkomststämpel saknas, felaktiga hänvisningar samt att 
+arvodesbeslut inte expedierats till HM sedan flera år tillbaka, trots att denne har rätt att överklaga 
+detta beslut. 
+
+165 Oklarheter kring förekomst av spärrade konton; Uttag från bankkonto som ej redovisats i 
+årsräkning; Oklara blyertsanteckningar om inkomster. 
+
+166 Aktanteckningar i blyerts utan signatur. 
+
+167 Stora skillnader mellan in- och utgående saldo i två akter; Årsräkning saknar uppgifter om 
+skulder, två år i rad, trots att förvaltare uppgivit att HM hade skulder hos kronofogden; I en KT 
+saknas tillgångsförteckning sluträkning; I ett fall har ÖF (nämnden) upprättad den årsräkning 
+som man sedan granskar. 
+
+168 Enligt lst:s notering har ÖF uppträtt mer som företrädare för fordringsägare än som ÖF gentemot 
+HM; En hel akt var i sådan oordning och så full av fel att lst först fick sortera handlingarna för att 
+kunna granska akten; Omplacering av medel diariefördes ej; Frekventa fel på datum som ej 
+stämmer, avsaknad av diarieföring och avsaknad av handlingar. 
+
+169 Saknas signering av en tjänsteanteckning. 
+
+170 Kontoutdrag som styrker inkommet arv saknas, utgifter på 62 035 kr utan närmare specificering, 
+förteckning av tillgångar på 292 kr samtidigt som det i årsredovisning för år 2000 redovisas 
+tillgångar om drygt 500 000 kr. 
+
+RIKSREVISIONEN 82 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Sista inspektionsprotokollet 
+
+(Kommentarer i fotnötter) 
+
+LänsAnmärkningar vid aktgranskning Andra 
+styrelser anmärkningar 
+
+Granskade akter Ek. FormAndra 
+redovisn. fel fel 
+
+StickTot. Med % akter 
+prov ant. anm. med anm. 
+
+4171
+
+AB Ja 244 
+17 % 
+C Ja 240 
+0 % 
+
+
+5172 
+15173
+
+D? 16 
+10 
+62 % 
+E Ja 5240 % 
+1 
+2 
+
+
+6174
+
+F Ja 5 
+5 
+100 % 
+2 
+G Ja 30 
+0 % 
+H Ja 50 
+0 % 
+
+
+2175
+
+M Ja 6 
+2 
+33 % 
+N Ja 100 
+0 % 
+
+
+2176
+
+O? 303 
+10 % 
+1 
+
+
+2177
+
+S Ja 8675 % 
+4 
+1 
+
+
+2178 
+1179
+
+T Ja 6233 % 
+1 
+
+
+2180 
+1181
+
+U Ja 6 
+6 
+100 % 
+6 
+
+
+171 Oklart om arvodesbeslut expedierats till HM (i fyra fall). 
+
+172 Vid omplacering av försäkringsersättning har inte den nya placeringen försetts med ÖF-spärr, 
+först i samband med granskning av 2006 års årsräkning uppmärksammades att omyndiges del 
+i fastighet avyttrats och redovisning av hur pengarna fördelats mellan delägarna efter 
+försäljningen finns ej tillgängligt i akten. 
+
+173 Aktbilagor saknas, handlingar ej diarieförda, ansökningar avseende beviljade uttagsmedgivande 
+från spärrat konto saknas, lagstöd som ger rätt att kräva årsredovisning trots att tillgångarna inte 
+uppgår till åtta basbelopp saknas. 
+
+174 Uttagsmedgivande eller tjänsteanteckning om muntlig ansökan av uttag saknas, ÖF har 
+
+kompletterat årsräkningen på utgiftssidan men ej noterat detta, tillgångsförteckning saknas. 
+
+175 Dokumentation om vad som hänt mellan olika beslut saknas. 
+
+176 Årsräkningar från två år saknas samt förteckning över HM:s tillgångar samt sluträkning. 
+
+177 Delräkning omfattar perioden 1/1-24/6 2004. Förordnandet upphörde 28/6 2008. Mellanliggande 
+
+period ej redovisad. 
+178 Av handlingar framgår att ställföreträdaren står som kontohavare för ett konto i ICA Banken som 
+
+tagits upp som tillgång i årsräkningen för 2007. 
+
+179 Av akten framgick att det inte finns något beslut om godmanskap. 
+
+180 Oskiftat dödsbo: någon arvskifteshandling har inte krävts in av ÖF. 
+
+181 Framgår ej av akten om ÖF företagit årlig granskning av förvaltarskapet för att pröva om det finns 
+
+skäl att ansöka om upphörandet av förvaltarskapet. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 83 
+RIKSREVISIONEN 
+
+
+W Ja 5 
+3 
+60 % 
+1182 
+3 
+X ? 10 
+3 
+30 % 
+2183 
+1 
+Y Ja 6 
+6 
+100 % 
+6184 
+Z ? 4 
+3 
+75 % 
+1185 
+4186 
+AC Ja 20 
+1187 
+5 % 
+1188 
+BD Ja 16 
+1 
+6 % 
+2189 
+Summa 15 Ja 209 
+57 
+27 % 
+27 
+47 
+10 
+Ej 
+spår 
+av 
+annat 
+än 
+stickprov 
+
+
+Källa: Första inspektionsprotokollet från länsstyrelsernas inspektion av överförmyndare år 2008 
+
+OBS! Blekinge länsstyrelse samt Gotlands länsstyrelse utförde enbart en 
+inspektion under år 2008. Därför återfinns de inte i denna tabell. 
+
+182 Förvaltaren, HM:s pappa, har lånat ut pengar till HM:s bror. 
+183 Ospecificerad post kallad ”giro” på 62 278 kr, årsräkning för 2007 ej inlämnad i slutet av 2008. 
+184 Vid granskning av akterna har framkommit att handlingarna i akterna inte är numrerade efter 
+
+dagboksbladet före införandet av Wärna (datasystem). 
+
+185 Gode mannens make häftar i skuld till HM. Återbetalningen verkar skötas bra. 
+
+186 Ej diarieförda handlingar, tjänsteanteckningar upprättade direkt i dagbok istf att formella 
+
+tjänsteanteckningar gjorts. 
+
+187 Lst skriver att samtliga protokoll är utan anmärkning, men att i akt 9 var noteringar i 
+sluträkningen för 2005 gjorda med blyerts. Alla noteringar ska göras med arkivbeständigt bläck 
+
+(lst:s kommentar). 
+
+188 Noteringar i sluträkningen för 2005 gjorda med blyerts. 
+
+189 ÖF beslutat om uttagsmedgivande med mail som underlag. Av mailet framgår dock inte att det 
+avser en begäran om uttag. I årsräkningarna för 2007 samt 2008 finns övriga utgiftsposter på 88 
+738 respektive 129 430 kronor utan specifikation på vad dessa belopp avser. 
+
+RIKSREVISIONEN 84 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Första och sista inspektionsprotokollet 
+
+LänsAnmärkningar vid aktgranskning Andra anAntal anmärkStyrelser märkningar ningar 
+
+Granskade akter Ek. redoFormAndra 
+visn. fel fel 
+
+StickTot. Med Tot. % akter 
+prov ant. anm. med anm. 
+
+AB Ja 3172 
+41 
+HM eller 7 
+22 % 
+anhöriga 
+bereddes ej 
+möjlighet 
+yttra sig 
+över byte av 
+STF 
+
+C Ja 360 
+00 % 
+D Ja 2416 
+5 
+21 
+Dagboks26 
+67 % 
+noteringar 
+svåra att 
+följa p.g.a. 
+systemet 
+registrerar 
+utskrifter 
+som en 
+
+aktbilaga. 
+E Ja 1363 
+5 
+846 % 
+F Ja 1087 
+2 
+2 
+1180% 
+G Ja 621 
+2 
+333 % 
+H Ja 301 
+1 
+13 % 
+I Ja 1553 
+2 
+533% 
+K Ja 3 
+0 
+00 % 
+
+
+Ja190
+
+M 6 
+2 
+2 
+233 % 
+N Ja 200 
+00 % 
+O Ja 5362 
+4 
+611% 
+S Ja 15135 
+9 
+1 
+Saknas 15 
+87 % 
+
+
+fullmakt för 
+att använda 
+kansliavdelningens 
+registrator. 
+Länsstyrelsen 
+tidigare 
+kritiserat 
+ÖF:s postrutiner. 
+Oklart om 
+problemen 
+är lösta. 
+
+T Ja 1244 
+1 
+1 
+633% 
+U Ja 1212 
+5 
+11 
+1 
+17100 % 
+
+
+190 Ingen aktgranskning vid första inspektionen. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 85 
+RIKSREVISIONEN 
+
+
+W ? 28 
+10 
+7 
+4 
+11 
+36 % 
+X ? 20 
+5 
+4 
+1 
+5 
+25 % 
+Y Ja 12 
+11 
+2 
+5 
+9 
+16 
+92 
+% 
+Z ? 10 
+9 
+10 
+46 
+56 
+90 
+% 
+AC ? 31 
+2 
+2 
+2 
+6 % 
+BD Ja 40 
+8 
+9 
+2 
+11 
+20 % 
+Summa 17 Ja 427 
+122 
+69 
+123 
+16 
+208 
+30 % 
+Ej 
+spår 
+av 
+annat 
+än 
+stickprov 
+
+
+RIKSREVISIONEN 86 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 6: Inspektion av överförmyndaren i 
+Vetlanda 
+
+InspektionsAntal Antal Typ av Lst:s Granskningen 
+år granskade anmärkn./ anmärkning samlade utförd av 
+akter akter omdöme 
+av ÖF 
+1996 
+8 st. 3 anm./ Årsräkning Bengt Josefsson, 
+3 akter saknas. An-Jarl Wrele 
+teckning att 
+HM yttrat sig 
+om byte av GM 
+saknas. 
+1997 
+7 st. 1 anm./ Förteckn. enl. Bengt Josefsson, 
+1 akt 14 kap. 1 § FB Göran Kjell 
+saknas. 
+1999 
+5 st. 0 Bengt Josefsson, 
+Göran Kjell 
+2000 
+5 st. 0 Bengt Josefsson, 
+Göran Kjell 
+2001 
+5 st. 2 anm./ Bankkonto ej Benny Andersson, 
+2 akter spärrat trots Göran Kjell 
+att det borde 
+vara det. HM 
+ärvt skuld av 
+förälder till 
+ställföreträdaren. 
+2002 
+5 st. 1 anm./ Årsredo-Avslutar Göran Kjell 
+1 akt visning saknas. granskHar enligt ning av 
+dagboksbladet akten 
+granskats och med anm. 
+godkänts. ”Granskningen 
+i övrigt 
+föranleder 
+ingen 
+anmärkning.” 
+2003 
+5 st. 0 Göran Kjell, 
+Susanne Martin 
+2004 
+4 st. 2 anm./ Förordn. om Benny Andersson, 
+2 akter GM saknas i Göran Kjell 
+akten. Gåvor ej 
+registrerade. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 87 
+RIKSREVISIONEN 
+
+
+2005 
+5 st. 0 Benny Andersson, 
+Göran Kjell 
+2007 
+5 st. 7 anm./ 
+5 akter 
+Flera årsräkn. 
+samt påminnelser 
+om 
+denna saknas. 
+Oklart vem 
+Avslutar 
+samtliga 
+aktgransknigar 
+med 
+”GranskBen Heimdal. 
+Kerstin Erlandsson 
+som gjort 
+tjänsteanteckningar. 
+Ansökan om 
+ningen 
+i övrigt 
+föranleder 
+uttagsmedgivande 
+saknas. 
+ingen 
+anmärkOmprövning 
+av förvaltarning.” 
+skap ej gjord. 
+2008 
+5 st. 11 anm./ 
+5 akter 
+Uttagsmed. 
+givanden, 
+årsräkningar, 
+aktbilagor, 
+verifikationer 
+Avslutar 
+samtliga 
+aktgranskningar 
+med 
+Ben Heimdal, 
+Örjan Dahlberg 
+och tillgångsförteckning 
+saknas. 
+Handling ej 
+ankomststämplad. 
+”Granskningen 
+i övrigt 
+föranleder 
+ingen 
+anmärkning.” 
+Avslutar 
+inspektionsprotokollet 
+med 
+”Sammantaget 
+finner 
+länsstyrelsen 
+anledning 
+att 
+rikta kritik 
+mot Överförmyndaren 
+i de 
+avseenden 
+som framgår 
+av det 
+ovanstående.” 
+
+
+Källa: inspektionsprotokoll 1996-2008 från länsstyrelsens inspektioner av överförmyndaren i 
+Vetlanda kommun. 
+
+RIKSREVISIONEN 88 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 7: Förvaltarenheter 
+
+Förvaltarenhet 
+Inordning i 
+kommunens 
+Inrättad 
+år 
+Antal förvaltare 
+och HM 
+Berörd länsstyrelse 
+Utövar 
+ÖF 
+organisation tillsyn? 
+Göteborg Tillhör Mitten 6,5 heltidstjänster, Västra Ja191 
+Socialresursav 1990240 
+HM totalt Götalands 
+förvaltningen talet länsstyrelse 
+Jönköping Tillhör Runt 4 förvaltare, Jönköpings Ja192 
+Socialtjänsten 2000 90 HM totalt länsstyrelse 
+Umeå Tillhör Samhälls2000-
+01 3 heltidsanställda VästerbotJa (se 
+byggnadskontoförvaltare, tens länsfotnot 
+ret193 54 HM totalt styrelse ovan) 
+Skellefteå Tillhör Social2005 
+2 förvaltare, VästerJa (se 
+kontoret (individ50 HM totalt bottens fotnot 
+och familjeomsorlänsstyrelse 
+ovan) 
+gen)194 
+Sollentuna Tillhör 2003 2 heltidstjänster Stockholms Ja (se 
+Socialtjänsten195 totalt, ca 35-40 länsstyrelse fotnot 
+HM totalt ovan) 
+
+191 Överförmyndaren sköter tillsynen, precis som för lekmannaförvaltare. 
+192 Överförmyndaren sköter tillsynen, precis som för lekmannaförvaltare. 
+193 Chefen för förvaltarenheten finns på samhällsbyggnadskontoret. ÖF betalar tekniska kontoret för 
+
+förvaltarenhetens budget. 
+
+194 Individ- och familjeomsorgen betalar för förvaltarenhetens lokaler och utrustning samt 
+förvaltarnas löner. 
+
+195 Enheten ligger inte under någon biståndsenhet utan vid sidan om administrativt. 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 89 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 90 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+Bilaga 8: Anmälningsärenden 
+
+Länsstyrelse Antal anmälningsärenden till länsstyrelserna under 2008 avseende 
+överförmyndarnas verksamhet 
+
+Inkomna Beslutade Med kritik 
+
+AB 3418 
+5 
+C 44 
+1 
+D 109 
+2 
+E 66 
+1 
+F 75 
+1 
+G 22 
+0 
+H 88 
+0 
+I 21 
+0 
+K 22 
+0 
+M 3020 
+3 
+N 55 
+0 
+O 1111 
+4 
+S 1010 
+3 
+T 22 
+0 
+U 43 
+1 
+W 65 
+0 
+X 1010 
+1 
+Y 11 
+1 
+Z 77 
+5 
+AC 44 
+0 
+BD 30 
+Summa 
+168133 
+
+
+
+28
+Källa: Svarssammanställning av webbenkät till länsstyrelserna, aktiverad 2009-09-29 och 
+avslutad 2009-10-16 
+
+Tillsynen av överförmyndarna – uppföljningsgranskning 91 
+RIKSREVISIONEN 
+
+
+RIKSREVISIONEN 92 
+Tillsynen av överförmyndarna – uppföljningsgranskning 
+
+
+
