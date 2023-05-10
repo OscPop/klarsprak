@@ -1,3 +1,4 @@
+--- Input ---
 Riksrevisionen söker verksamhetsutvecklare med fokus på teknik, innovation och data
 
 Vi befinner oss i ett spännande skede med målsättningen att bli en myndighet i framkant! Vi ska bland annat öka inslaget av datadrivet arbete i hela verksamheten.
@@ -11,6 +12,8 @@ Du kommer att arbeta i ett team med experter inom exempelvis maskininlärning, i
 Vi söker
 
 Vi söker dig som har akademisk ekonom- eller ingenjörsexamen med 2–3 års relevant arbetslivserfarenhet. Det är meriterande om du har arbetat med att införa tekniska system i organisationer. Utöver detta bör du vara van att analysera vilka behov användare har av tekniska hjälpmedel. Du är ansvarstagande, noggrann och driver arbetet framåt genom ett strukturerat arbetssätt. Du är en lagspelare med god förmåga att knyta nya kontakter och att samarbeta. Det är en fördel om du också har erfarenhet av att arbeta konsultativt. En viktig förutsättning är att du är pedagogisk och kan uttrycka dig väl på svenska i både tal och skrift. Vi fäster stor vikt vid dina personliga egenskaper.
+
+---
 
 
 
